@@ -1,1 +1,24 @@
 athlete_id,public_name,disc_id,base_place_id,country_iso2,level,red_bull_athlete,source_id,confidence,task_id,notes
+A00001,Victor,URB-BRK,,US,Red Bull BC One World Champion 2015,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00002,Issei,URB-BRK,,JP,Red Bull BC One World Champion 2016,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00003,Menno,URB-BRK,,NL,Red Bull BC One World Champion 2017,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00004,Lil Zoo,URB-BRK,,MA,Red Bull BC One World Champion 2018,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00005,Ami,URB-BRK,,JP,Red Bull BC One World Champion 2018,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00006,Menno2,URB-BRK,,NL,Red Bull BC One World Champion 2019,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00007,Kastet,URB-BRK,,RU,Red Bull BC One World Champion 2019,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00008,Shigekix,URB-BRK,,JP,Red Bull BC One World Champion 2020,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00009,Amir,URB-BRK,,KZ,Red Bull BC One World Champion 2021,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00010,Logistx,URB-BRK,,US,Red Bull BC One World Champion 2021,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00011,Victor2,URB-BRK,,US,Red Bull BC One World Champion 2022,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00012,India,URB-BRK,,NL,Red Bull BC One World Champion 2022,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00013,Hong 10,URB-BRK,,KR,Red Bull BC One World Champion 2023,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00014,Menno3,URB-BRK,,NL,Red Bull BC One World Champion 2024,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00015,India2,URB-BRK,,NL,Red Bull BC One World Champion 2024,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00016,Issin,URB-BRK,,JP,Red Bull BC One World Champion 2025,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00017,Riko,URB-BRK,,JP,Red Bull BC One World Champion 2025,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00018,Shinshan,URB-MIX,,NL,Red Bull Dance Your Style World Champion 2019,not_checked,S00005,M,P5.4,World final winner per the DYS Wikipedia-based history in events.csv (2021 cancelled; 2020 online edition)
+A00019,Kieran Lai,URB-MIX,,UK,Red Bull Dance Your Style World Champion 2020,not_checked,S00005,M,P5.4,World final winner per the DYS Wikipedia-based history in events.csv (2021 cancelled; 2020 online edition)
+A00020,SoraKi,URB-MIX,,KR,Red Bull Dance Your Style World Champion 2022,not_checked,S00005,M,P5.4,World final winner per the DYS Wikipedia-based history in events.csv (2021 cancelled; 2020 online edition)
+A00021,Waackxxxy,URB-MIX,,KR,Red Bull Dance Your Style World Champion 2023,not_checked,S00005,M,P5.4,World final winner per the DYS Wikipedia-based history in events.csv (2021 cancelled; 2020 online edition)
+A00022,MT Pop,URB-MIX,,VN,Red Bull Dance Your Style World Champion 2024,not_checked,S00005,M,P5.4,World final winner per the DYS Wikipedia-based history in events.csv (2021 cancelled; 2020 online edition)
+A00023,Jaira Joy,URB-MIX,,BR,Red Bull Dance Your Style World Champion 2025,not_checked,S00005,M,P5.4,World final winner per the DYS Wikipedia-based history in events.csv (2021 cancelled; 2020 online edition)

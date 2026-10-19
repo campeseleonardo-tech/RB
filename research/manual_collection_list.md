@@ -24,3 +24,8 @@ Time estimates are rough. Priority: **A** = blocks the first comparison, **B** =
 
 ## What "insider" means
 An insider is a person who works inside Red Bull (or close to it) and can say from experience whether our findings are right, e.g. "Red Bull has no Latin dance programme" or "this event is not ours". We use them only to **validate** what we found in public sources, never as the source of the data. The 10 questions are in `research/results/I4_validation_questions.md`. Not now: after the public data is collected and the main findings are written.
+
+### Aggiornato 2026-10-20 (passo di correzione dei dati)
+- Red Bull BC One directory atleti (JS-rendering): collegamento attivo (rendering parziale: solo 5-6 schede di prova), richiede rimozione checkout cookie; schede visibili: https://www.redbull.com/gb-en/athletes.
+- Metriche canale YouTube Red Bull BC One: pagina canale https://www.youtube.com/@redbullbcone/about (consent login checkout); numeri aggregati di terzi annotati in notasce delle righe fact F000351-F000353.
+- Sponsor/partner 2026 ufficiali DYS per ogni stop nazionale: pagine serie (https://www.redbull.com/int-en/event-series/red-bull-dance-your-style, print era 404) hanno l'elenco a blocchi di 17 fermate ufficiali ufficiali verificato 2026-10-20.
