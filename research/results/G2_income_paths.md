@@ -4,8 +4,8 @@
 
 | item | value | unit | status | source URL | access date | confidence | notes |
 |---|---|---|---|---|---|---|---|
-| KSK average annual income (all insured artists) | 21,336 | EUR/year | stated | https://www.9am.works/freelancer-academy/blog/kuenstlersozialkasse-2027-freelance-creatives | 2026-10-19 | M | As of 1 Jan 2026; 183,383 insured; includes all artist categories, not dance-specific |
-| KSK music section expected annual income 2022 | 14,191 | EUR/year | stated | https://miz.org/en/node/84851 | 2026-10-19 | M | Freelance music professionals only; proxy for performing artists |
+| KSK average annual income (all insured artists) | 21,336 | EUR/year | stated | https://www.9am.works/freelancer-academy/blog/kuenstlersozialkasse-2027-freelance-creatives | 2026-10-19 | M | As of 1 Jan 2026; 183,383 insured; **proxy for all artists, NOT dance-specific**; no dance-specific KSK breakdown found |
+| KSK music section expected annual income 2022 | 14,191 | EUR/year | stated | https://miz.org/en/node/84851 | 2026-10-19 | M | Freelance music professionals only; **proxy for performing artists**; no dance-specific income data found |
 | KSK minimum annual income threshold to qualify | 3,900 | EUR/year | stated | https://feather-insurance.com/blog/how-to-join-ksk | 2026-10-19 | H | Must earn this from artistic self-employment; waived first 3 years |
 | Dance Instructor average hourly rate Germany | 17.35 | EUR/hr | stated | https://www.salaryexpert.com/salary/job/dance-instructor/germany | 2026-10-19 | L | SalaryExpert estimate 2026; not a published survey |
 | Dance Teacher average hourly rate Austria | 16.80 | EUR/hr | stated | https://www.salaryexpert.com/salary/job/dance-teacher/austria | 2026-10-19 | L | SalaryExpert estimate 2026 |

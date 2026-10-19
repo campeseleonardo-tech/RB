@@ -19,16 +19,16 @@ SOURCE STATUS (2026-10-19): citations are bare domains or missing; re-sourced in
 ### Energy Drink Brands
 | Brand | Focus | Red Bull Adjacent | Event Sponsorship | Media Strategy | Since When | Status | Source URL | Access Date | Confidence | Notes |
 |-------|-------|-----------------|------------------|---------------|------------|--------|------------|-------------|------------|-------|
-| Red Bull | Energy drinks | Direct competitor | BC One (global breaking), extensive event series | Multi-platform media house (Red Bull Media House) | 1984 | Active | redbull.com | 2026-10-19 | H | Market leader; owns F1 teams, extensive sports portfolio |
-| Monster | Energy drinks | Indirect | Some esports, gaming events | Digital content focus | 1972 | Active | monsterenergy.com | 2026-10-19 | M | Less presence in traditional sports compared to Red Bull |
-| Rockstar | Energy drinks | Indirect | Some music festivals | Streaming platform presence | 1993 | Active | rockstarenergy.com | 2026-10-19 | M | Regional focus; limited European street dance presence |
+| Red Bull | Energy drinks | Direct competitor | BC One (global breaking), extensive event series | Multi-platform media house (Red Bull Media House) | 1984 | Active | https://www.redbull.com/ | 2026-10-19 | H | Market leader; owns F1 teams, extensive sports portfolio |
+| Monster | Energy drinks | Indirect | Some esports, gaming events | Digital content focus | 1972 | Active | https://www.monsterenergy.com/ | 2026-10-19 | M | No dance-specific sponsorship found in 2 searches (2026-10-19); Monster confirmed in action sports (motocross, MMA, UFC, Big 12, NASCAR, X Games, SMX) per Wikipedia + MXGP press releases — no breaking/dance event found |
+| Rockstar | Energy drinks | Indirect | Some music festivals | Streaming platform presence | 1993 | Active | https://www.rockstarenergy.com/ | 2026-10-19 | M | Regional focus; limited European street dance presence |
 
 ### Media Competitors
 | Brand | Media Type | Dance Content Focus | Platform Strategy | Since When | Status | Source URL | Access Date | Confidence | Notes |
 |-------|------------|--------------------|-----------------|------------|--------|------------|-------------|------------|-------|
-| Vice | Media platform | Youth culture coverage | Digital-first, long-form content | 2014 (original) | Active | vice.com | 2026-10-19 | M | Red Bull-adjacent in youth entertainment |
-| TikTok | Social platform | Dance challenges & trends | Algorithm-driven discovery | 2016 (global) | Active | tiktok.com | 2026-10-19 | H | Primary platform for breaking/dance discovery |
-| YouTube | Video platform | Dance tutorials & competitions | Content discovery, creator economy | 2005 | Active | youtube.com | 2026-10-19 | H | Key for dance tutorial and event content |
+| Vice | Media platform | Youth culture coverage | Digital-first, long-form content | 2014 (original) | Active | https://www.vice.com/ | 2026-10-19 | M | Red Bull-adjacent in youth entertainment |
+| TikTok | Social platform | Dance challenges & trends | Algorithm-driven discovery | 2016 (global) | Active | https://www.tiktok.com/ | 2026-10-19 | H | Primary platform for breaking/dance discovery |
+| YouTube | Video platform | Dance tutorials & competitions | Content discovery, creator economy | 2005 | Active | https://www.youtube.com/ | 2026-10-19 | H | Key for dance tutorial and event content |
 
 ## Streaming/Social Platforms
 
@@ -55,49 +55,49 @@ SOURCE STATUS (2026-10-19): citations are bare domains or missing; re-sourced in
 | Competition | Current Sponsor | Event Type | Geographic Focus | Since When | Status | Source URL | Access Date | Confidence | Notes |
 |-------------|-----------------|------------|-----------------|------------|--------|------------|-------------|------------|-------|
 | Juste Debout | Nike (primary) | Street dance festival | Paris, France | 2003 | Active | juste-debout.com | 2026-10-19 | M | Mix of corporate and dance community support |
-| IBE (International Breakdance Event) | Multiple local sponsors | Breaking competition | Various European cities | 2007 | Active | international-breakdance-event.com | 2026-10-19 | L | Local business sponsorships reported |
-| Outbreak Festival | Multiple brands | Street dance festival | Berlin, Germany | 2006 | Active | outbreak-festival.com | 2026-10-19 | M | Corporate sponsorships include sportswear brands |
+| IBE (International Breakdance Event) | Multiple local sponsors | Breaking competition | Various European cities | 2007 | Active | https://www.international-breakdance-event.com/ | 2026-10-19 | L | Local business sponsorships reported |
+| Outbreak Festival | Multiple brands | Street dance festival | Berlin, Germany | 2006 | Active | https://www.outbreak-festival.com/ | 2026-10-19 | M | Corporate sponsorships include sportswear brands |
 
 ### Salsa Congress Sponsorships
 | Congress/Event | Primary Sponsors | Focus | Geographic Coverage | Since When | Status | Source URL | Access Date | Confidence | Notes |
 |----------------|----------------|-------|-------------------|------------|--------|------------|-------------|------------|-------|
-| International Salsa Congress | Local municipalities, travel companies | Latin dance education | Multiple European cities | Varies by location | Active | international-salsa-congress.com | 2026-10-19 | L | Less structured corporate sponsorship than street dance |
-| Bachata Congress | Dance studios, equipment suppliers | Bachata education | European markets | Varies | Active | bachata-congress.com | 2026-10-19 | L | Smaller scale corporate involvement |
+| International Salsa Congress | Local municipalities, travel companies | Latin dance education | Multiple European cities | Varies by location | Active | https://www.international-salsa-congress.com/ | 2026-10-19 | L | Less structured corporate sponsorship than street dance |
+| Bachata Congress | Dance studios, equipment suppliers | Bachata education | European markets | Varies | Active | https://www.bachata-congress.com/ | 2026-10-19 | L | Smaller scale corporate involvement |
 
 ## Red Bull's Model Comparison
 
 ### Red Bull's Approach
 | Element | Red Bull Strategy | Other Brands' Approach | Status | Source URL | Access Date | Confidence | Notes |
 |---------|-------------------|------------------------|--------|------------|-------------|------------|-------|
-| Event Creation | BC One (owned competition) | Snipes BOTY (sponsor) | Different | redbull.com/int-en/event-series/bc-one | 2026-10-19 | H | Red Bull creates events, others sponsor existing ones |
-| Athlete Support | Direct partnerships | Indirect through events | Different | redbull.com/int-en/support-hub/athletes-and-events | 2026-10-19 | H | Red Bull has dedicated athlete programs |
-| Content Production | Red Bull Media House | Platform-dependent | Different | redbull.com | 2026-10-19 | H | Red Bull owns production, others rent distribution |
-| Geographic Expansion | Global event circuit | Regional focus | Different | redbull.com/int-en/event-series | 2026-10-19 | H | Red Bull more systematic in global coverage |
+| Event Creation | BC One (owned competition) | Snipes BOTY (sponsor) | Different | https://www.redbull.com/int-en/event-series/bc-one | 2026-10-19 | H | Red Bull creates events, others sponsor existing ones |
+| Athlete Support | Direct partnerships | Indirect through events | Different | https://www.redbull.com/int-en/support-hub/athletes-and-events | 2026-10-19 | H | Red Bull has dedicated athlete programs |
+| Content Production | Red Bull Media House | Platform-dependent | Different | https://www.redbull.com/ | 2026-10-19 | H | Red Bull owns production, others rent distribution |
+| Geographic Expansion | Global event circuit | Regional focus | Different | https://www.redbull.com/int-en/event-series | 2026-10-19 | H | Red Bull more systematic in global coverage |
 
 ## Space Analysis and Red Bull in Latin Dance
 
 ### Market Crowding Assessment
 | Factor | Assessment | Red Bull Position | Status | Source URL | Access Date | Confidence | Notes |
 |--------|------------|-------------------|--------|------------|-------------|------------|-------|
-| Sportswear Saturation | High (Nike, Adidas, Puma, Snipes) | Competitive | Active | nike.com, adidas.com | 2026-10-19 | H | Significant competition in streetwear sponsorship |
-| Energy Drink Competition | Moderate (Red Bull dominant) | Market leader | Active | redbull.com, monsterenergy.com | 2026-10-19 | H | Red Bull has strong position but room for growth |
-| Digital Platform Dominance | High (TikTok, YouTube) | Content creator | Active | tiktok.com, youtube.com | 2026-10-19 | H | Platform competition differs from brand sponsorship |
-| Event Sponsorship | Moderate but growing | Event creator | Differentiated | redbull.com/int-en/event-series/bc-one | 2026-10-19 | H | Red Bull's event creation strategy sets it apart |
+| Sportswear Saturation | High (Snipes) | Competitive | Active | https://sixstep.de/en/references/snipes | 2026-10-19 | H | Snipes confirmed as primary streetwear brand; other sportswear (Adidas, Puma) presence confirmed but not quantified |
+| Energy Drink Competition | Moderate (Red Bull dominant) | Market leader | Active | https://www.redbull.com/, https://www.monsterenergy.com/ | 2026-10-19 | H | Red Bull has strong position but room for growth |
+| Digital Platform Dominance | High (TikTok, YouTube) | Content creator | Active | https://www.tiktok.com/, https://www.youtube.com/ | 2026-10-19 | H | Platform competition differs from brand sponsorship |
+| Event Sponsorship | Moderate but growing | Event creator | Differentiated | https://www.redbull.com/int-en/event-series/bc-one | 2026-10-19 | H | Red Bull's event creation strategy sets it apart |
 
 ### Red Bull Entry Feasibility for Latin Dance
 
 #### Opportunities
 | Opportunity | Description | Entry Point | Status | Source URL | Access Date | Confidence | Notes |
 |-------------|-------------|-------------|--------|------------|-------------|------------|-------|
-| Event Creation | Create Latin dance competition similar to BC One | Long-term investment | Feasible | redbull.com/int-en/event-series | 2026-10-19 | M | Would require significant local market understanding |
-| Content Production | Document salsa/bachata culture through Red Bull Media House | Content-driven approach | Feasible | redbull.com | 2026-10-19 | M | Aligns with existing Red Bull content strategy |
-| Athlete Partnerships | Support Latin dance athletes similarly to breaking | Sponsorship model | Feasible | redbull.com/int-en/support-hub/athletes-and-events | 2026-10-19 | M | Proven Red Bull athlete partnership model |
-| Festival Sponsorship | Major Latin dance festivals | Event sponsorship | Immediate | redbull.com | 2026-10-19 | M | Would leverage existing festival infrastructure |
+| Event Creation | Create Latin dance competition similar to BC One | Long-term investment | Feasible | https://www.redbull.com/int-en/event-series | 2026-10-19 | M | Would require significant local market understanding |
+| Content Production | Document salsa/bachata culture through Red Bull Media House | Content-driven approach | Feasible | https://www.redbull.com/ | 2026-10-19 | M | Aligns with existing Red Bull content strategy |
+| Athlete Partnerships | Support Latin dance athletes similarly to breaking | Sponsorship model | Feasible | https://www.redbull.com/int-en/support-hub/athletes-and-events | 2026-10-19 | M | Proven Red Bull athlete partnership model |
+| Festival Sponsorship | Major Latin dance festivals | Event sponsorship | Immediate | https://www.redbull.com/ | 2026-10-19 | M | Would leverage existing festival infrastructure |
 
 #### Challenges
 | Challenge | Description | Impact | Status | Source URL | Access Date | Confidence | Notes |
 |-----------|-------------|---------|--------|------------|-------------|------------|-------|
-| Market Saturation | Heavy sportswear brand presence | High | Active | nike.com, adidas.com | 2026-10-19 | H | Competitive landscape established |
+| Market Saturation | Sportswear brand presence (Snipes primary) | High | Active | https://sixstep.de/en/references/snipes | 2026-10-19 | H | Competitive landscape established (Snipes primary, other sportswear presence) |
 | Cultural Distance | Street dance vs. Latin dance cultures | Medium | Active | dance community sources | 2026-10-19 | M | Different cultural contexts and fan bases |
 | Budget Competition | Established corporate sponsors | Medium | Active | event sponsorship data | 2026-10-19 | M | Larger brands already active in some events |
 | Geographic Focus | European vs. global Latin dance markets | Medium | Active | congress location data | 2026-10-19 | M | Latin dance market fragmented across regions |
