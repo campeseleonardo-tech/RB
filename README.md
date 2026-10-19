@@ -9,8 +9,25 @@ Single source of truth for this project. Language: English. Keep one copy of eve
 - research/research_brief.md: the list of research tasks to hand to the research model.
 - research/results/ (create when results arrive): one file per task, named `<task ID>_<short_name>.md`, for example `A1_redbull_event_inventory.md`.
 
+## Plans and handover (2026-10-19)
+- project/data_schema.md: the data contract (CSV tables, columns, allowed values). Both plans depend on it.
+- research/plan_data_collection.md: plan to fix, finish and complete the data collection (executed by a research model).
+- research/manual_collection_list.md: what Leonardo collects by hand.
+- project/plan_viewer.md: plan for the local data viewer (executed by a coding model).
+- project/prompts/: the two prompts to give to the models (prompt_data_collection.md, prompt_viewer.md).
+- Created by the executors: data/ (CSV tables), archive/quarantine/, research/logs/, research/progress.md, viewer/ (see below).
+
+## Data viewer (viewer/)
+- To look at the data: double-click `viewer/atlas.html` (one self-contained page, works offline).
+- To update it after data changes: double-click `viewer/rebuild_viewer.bat`. It checks the data first and rebuilds the page, or stops with the messages to fix.
+- viewer/validate_data.py: checks data/*.csv against project/data_schema.md (section 4). Run by the `.bat`.
+- viewer/build_viewer.py and viewer/src/ (page.html, core.js, views.js): build script and page source. viewer/lib/ holds the map outlines with their licence (LICENCES.md).
+- viewer/sample_data/: fake data for tests only; the page shows a SAMPLE DATA banner whenever it is not built from data/.
+- viewer/progress.md: what each viewer stage built, tested and left open. viewer/problems.md: data problems found by the validator, for the research model.
+- Status (2026-10-19): stages V0 to V5 done on sample data; V6 (real data) waits until data/ passes the validator. The `.bat` stops on purpose while it does not.
+
 ## Planned (create only when needed)
-- data/: workbook and any exported tables (CSV).
+- data/: the CSV tables of the data schema (the workbook is kept as legacy, read-only for now).
 - outputs/: shareable map, report, one-page summary for the application.
 - archive/: superseded material, only if something must be kept.
 

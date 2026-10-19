@@ -1,0 +1,16 @@
+fact_id,place_id,place_type,disc_id,signal_id,value,value_low,value_high,unit,period,evidence_type,confidence,source_id,task_id,notes
+F000001,SMPA,city,URB-BRK,COM,120,,,people,2025,found,H,S00001,P4.2,SAMPLE DATA
+F000002,SMPA,city,URB-BRK,SCH,,8,12,classes per week,2025,found,M,S00002,P4.2,SAMPLE DATA - range row
+F000003,SMPA,city,CAR-SAL,COM,,,,,2025,not_found,M,S00007,P4.3,"SAMPLE DATA - searched the federation list and the organiser page; no count published"
+F000004,SMPB,city,URB-BRK,COM,,40,90,people,2025,inferred,L,S00001,P4.2,"SAMPLE DATA - inferred from the event attendance in EV000001 and a guessed share of attendees who train"
+F000005,SMPB,city,URB-HIP,EVT,3,,,events,2024,stated_by_organiser,M,S00002,P4.4,SAMPLE DATA - organiser claims three events
+F000006,SMPC,city,ALL,POP,1700000,,,persons,2024,found,H,S00003,P3.1,SAMPLE DATA
+F000007,SMPC,city,ALL,POP,1720000,,,persons,2024,found,H,S00003,P3.1,"SAMPLE DATA - deliberate conflict with F000006 (same period, other value)"
+F000008,SMPD,city,CAR-BCH,COM,,,,,2024,not_found,M,S00005,P4.3,SAMPLE DATA - searched the wiki page and two organiser pages for bachata groups; nothing listed
+F000009,SMPD,city,CAR-BCH,EVT,2,,,events,2025,found,M,S00002,P4.3,SAMPLE DATA
+F000010,SMPE,city,CAR-SAL,COM,4500,,,people,2024,found,M,S00005,P4.3,SAMPLE DATA
+F000011,SMPF,city,URB-HIP,ORG,6,,,organisations,2025,found,H,S00007,P4.1,SAMPLE DATA
+F000012,GLOBAL,global,ALL,ONL,,,,,2026,not_found,L,S00006,P4.5,SAMPLE DATA - the platform was not opened; only a search snippet was seen
+F000013,SMPA,city,URB-BRK,ONL,,,,,2026,not_found,L,S00006,P4.5,SAMPLE DATA - platform known from a search snippet only
+F000014,XA,country,ALL,POP,9000000,,,persons,2025,found,H,S00003,P3.1,SAMPLE DATA
+F000015,SMPA,city,URB-BRK,EVT,,1,4,events per year,2025,found,H,S00001,P4.2,SAMPLE DATA - range row

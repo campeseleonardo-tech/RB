@@ -1,0 +1,3 @@
+athlete_id,public_name,disc_id,base_place_id,country_iso2,level,red_bull_athlete,source_id,confidence,task_id,notes
+ATH000001,Sample Athlete One,URB-BRK,SMPA,XA,national,not_checked,S00007,M,P6.1,SAMPLE DATA - fake public name
+ATH000002,Sample Athlete Two,CAR-SAL,SMPE,XB,international,found,S00002,H,P6.1,SAMPLE DATA - fake public name

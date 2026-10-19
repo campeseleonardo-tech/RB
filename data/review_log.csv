@@ -1,0 +1,14 @@
+log_id,date,item,issue,action,task_id,notes
+L00001,2026-10-19,P0.2 disciplines.csv,workbook lacked URB-WAA/URB-VOG; kizomba misplaced; tricking still proposed,"rewritten per P0.2/C1/C2: 29 rows incl. AFR-ZOUK, CAR-SAL-CL; tricking/aerial/pole/contemporary/ballet set out",P0.2,
+L00002,2026-10-19,P0.3 signals.csv,new signals missing,18 signals created per data_schema (ORG POP POPY STU TOU FUN REG INC MED added),P0.3,
+L00003,2026-10-19,P0.4 places.csv,workbook 13 cities + Appendix A lists,"149 place rows (15 deep, 36 scan, event-only cities, 50 country rows, GLOBAL); Frankfurt duplicate removed",P0.4,list open per Appendix A
+L00004,2026-10-19,P0.5 workbook RedBull sheet,52 sheet rows to convert,"converted to events.csv (E000001-E000052): levels remapped to schema, dates parsed, place ids resolved (country-only rows use country place rows)",P0.5,
+L00005,2026-10-19,P0.5 A2 world finals,BC One/DYS final history missing,added 18 world-final event rows (BC One 2015-2025 Wikipedia-sourced; DYS 2019-2025; 2021 cancelled; 2020 virtual),P0.5,
+L00006,2026-10-19,P0.5 B1,F-01..F-05 findings,"converted 10 events with fixes inline; Juste Debout scale = 6,000 seats (organiser), HHI = Phoenix benchmark; Salsa Spain World Congress NOT converted (unconfirmed); red_bull_involvement = not_checked everywhere (sponsor pages to be read in P5.1); 7 organisers added",P0.5,
+L00007,2026-10-19,P0.5 B2/D2,national membership mostly not public,"9 organisations + 14 facts (8 found counts, 7 not_found with searches, DTV member range left out as unverified)",P0.5,
+L00008,2026-10-19,P0.5 E6,Barcelona missing (F-22); pages not re-opened yet,11 price/space fact rows (studio counts SPA where meaningful),P0.5,
+L00009,2026-10-19,P0.5 D5,defects per results_review (F-11),converted clean cells; SBG/INN/GRZ metro rows skipped (NUTS3 defect); GDP rows skipped (no signal); AMS/PAR/NYC/CLO POP added as not_found,P0.5,"reference years inconsistent, flagged per row"
+L00010,2026-10-19,P0.5 D4,pageviews measured via Wikimedia API (allowed),6 ONL facts + 1 not_found (Trends manual) with period 2025-01/2025-10,P0.5,
+L00011,2026-10-19,P0.5 G4,APC/Basement/Next Generation verified,3 organisations + 2 global facts; salary/contract rows not convertible to facts (remain in G4 file),P0.5,
+L00012,2026-10-19,P0.5 C1/C2,sub-style definitions,style definitions and family placements embedded as notes in disciplines.csv (P0.2),P0.5,no separate facts needed
+L00013,2026-10-19,events.csv historical rows RB-048..RB-051,duplicates of the A2-converted world-final rows,"removed 4 rows, keeping the A2-sourced versions",P0.5,

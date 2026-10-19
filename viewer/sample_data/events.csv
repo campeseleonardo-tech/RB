@@ -1,0 +1,8 @@
+event_id,name,series,level,place_id,venue,date_start,date_end,disc_id,organiser_org_id,red_bull_involvement,scale_value,scale_type,scale_evidence,source_id,confidence,task_id,notes
+EV000001,Sample Battle 2025,Sample Battle Series,international,SMPA,Sample Hall A,2025-07-12,2025-07-12,URB-BRK,ORG000001,found,300,attendees,found,S00001,H,P5.1,SAMPLE DATA - sponsor named on the organiser page
+EV000002,Sample Battle 2024,Sample Battle Series,international,SMPA,Sample Hall A,2024-07-13,2024-07-13,URB-BRK,ORG000001,found,250,attendees,stated_by_organiser,S00002,M,P5.1,SAMPLE DATA
+EV000003,Sample Salsa Night,Sample Dance Festival,congress_festival,SMPE,Sample Venue E,2025-03-08,2025-03-10,CAR-SAL,ORG000002,not_found,4000,participants,stated_by_organiser,S00002,M,P5.2,"SAMPLE DATA - organiser and sponsor pages checked; no Red Bull named"
+EV000004,Sample Class Circuit Stop,Sample Class Circuit,class_series,SMPB,,2025-09-01,,CAR-BCH,ORG000003,not_checked,,none,not_found,S00005,L,P5.3,SAMPLE DATA - sponsor page not looked at yet
+EV000005,Sample Local Jam,Sample Local Jam,social_jam,SMPD,Sample Club D,2025-05-20,2025-05-20,URB-HIP,,stated_by_organiser,50,participants,stated_by_organiser,S00002,M,P5.4,SAMPLE DATA - organiser says Red Bull supports it
+EV000006,Sample World Final 2026,Sample Battle Series,world_final,SMPC,Sample Arena C,2026-11-28,2026-11-29,URB-BRK,ORG000001,confirmed_absent,,none,not_found,S00002,H,P5.1,"SAMPLE DATA - organiser FAQ (sample document) states no Red Bull involvement; document named here, not a person"
+EV000007,Sample Battle 2023,Sample Battle Series,local_battle,SMPB,Sample Hall B,2023-06-02,2023-06-02,URB-BRK,ORG000001,found,,none,not_found,S00001,M,P5.1,"SAMPLE DATA - attendance not published"

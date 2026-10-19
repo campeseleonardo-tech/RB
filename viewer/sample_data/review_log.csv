@@ -1,0 +1,3 @@
+log_id,date,item,issue,action,task_id,notes
+LOG000001,2026-10-03,F000007,"Conflicting population figure for Sample City Gamma, 2024","Both kept and flagged for re-check",P3.1,SAMPLE DATA
+LOG000002,2026-10-04,S00004,Source blocked by a consent wall,Marked blocked; not used for facts,P4.2,SAMPLE DATA

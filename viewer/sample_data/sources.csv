@@ -1,0 +1,8 @@
+source_id,url,title,publisher,source_type,access_date,access_status,notes
+S00001,https://example.com/sample/official-event,SAMPLE official event page,Sample Organiser,official_redbull,2026-10-01,opened,SAMPLE DATA
+S00002,https://example.com/sample/organiser-page,SAMPLE organiser page,Sample Organiser,organiser,2026-10-02,opened,SAMPLE DATA
+S00003,https://example.com/sample/statistics,SAMPLE statistics table,Sample Statistics Office,public_statistics,2026-10-03,rendered,SAMPLE DATA
+S00004,https://example.com/sample/press-article,SAMPLE press article,Sample Press,press,2026-10-03,blocked,"SAMPLE DATA - consent wall, article not read"
+S00005,https://example.com/sample/wiki-page,SAMPLE wiki page,Sample Wiki,wikipedia,2026-10-04,opened,SAMPLE DATA
+S00006,https://example.com/sample/platform,SAMPLE platform page,Sample Platform,platform,,not_opened,SAMPLE DATA - known from a search snippet only
+S00007,https://example.com/sample/federation-list,SAMPLE federation list,Sample Federation,federation,2026-10-05,opened,SAMPLE DATA

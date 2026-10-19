@@ -1,0 +1,2 @@
+rel_id,from_type,from_id,relation,to_type,to_id,evidence_type,confidence,source_id,task_id,notes
+REL000001,org,ORG000001,organises,series,Sample Battle Series,found,H,S00002,P2.1,SAMPLE DATA

@@ -66,6 +66,22 @@ Testing inside the data collection, not as a separate tool: the ladder of progre
 ## 7. Workbook v0 (atlas_scene_movimento_v0.xlsx)
 12 sheets: README, Disciplines, Cities, SignalDefs, Signals, Events, RedBull, Ladder, Athletes, Keywords, Grid (formulas), Decisions. RedBull sheet now holds 51 rows: the 2026 footprint sample (47 rows) corrected from A1 research (cities filled, mostly "inferred from venue") plus 4 historical world-final rows 2024-2025. Recalculated via Excel: Grid has values, 0 formula errors. Candidate cities: core Salzburg, Innsbruck, Vienna, Munich, Milan, Barcelona, Amsterdam, Berlin; reserve Graz, Madrid, Paris; anchors New York, Cali (proposal). Tricking rows are still in the file but out of the pilot.
 
+## 7b. Decisions of 2026-10-19 (second session)
+- Order of work: first fix and complete the data (plan_data_collection.md), in parallel build a view-only viewer (plan_viewer.md); goals and decisions are re-set after both.
+- Data model: CSV tables in data/ (schema in project/data_schema.md); the workbook becomes legacy and is not edited. No scores in this phase: raw values with evidence type, confidence, source and date.
+- Quarantine, not deletion: D7, C3, B5 move to archive/quarantine/ with the problems written at the top; useful content is salvaged elsewhere and they may be redone better (D7 by fragmented collection).
+- Cities: Europe as exhaustive as possible (deep = 15 cities, scan = all other capitals and metros above about 1M); outside Europe only a short benchmark list (about 14), added only if two criteria are met. List is not closed (Appendix A of the plan).
+- Disciplines: breaking and salsa/bachata main effort; other hip hop family styles light effort. E1 Salzburg stays for later.
+- Order of research: first scenes per discipline x city (where more, where less), then what Red Bull does and does not do there. "Why" comes later.
+- Red Bull finances: a bounded task to find what is public (likely no breakdown by department or dance); US weight is measured on countable public data, not assumed.
+- Viewer: view-only, local single HTML file opened by double click; tables, geographic map, concept map, data-quality overview. Insiders (Red Bull people) only validate later, never source data.
+- Executors: external models on opencode; prompts in project/prompts/.
+
+## 7c. Viewer status (2026-10-19)
+- Stages V0 to V5 done: validator, build, double-click rebuild file, tables, overview, grid, geographic map (Natural Earth outlines), concept map, sources, about. All checked on fake sample data; details in viewer/progress.md.
+- V6 (real data) waits: data/ currently fails the validator (112 errors, mostly missing organisation ids, empty event dates, unquoted commas). Data problems are listed in viewer/problems.md for the research model; the viewer never edits data/.
+- Open schema questions (not changed by the viewer work): ID formats for events, organisations, athletes, finance, relations and log; definitions of the signal codes. See viewer/progress.md.
+
 ## 8. To-do list
 1. Research list (done). Full research run 2026-10-19 (done): 49 result files in research/results/, index in research/results/INDEX.md. E1 Salzburg pilot stays ON HOLD until Leo says go.
 2. Leo reviews results (start with INDEX.md weak-spots list), then decides: keep/correct city list, and whether to run E1.
@@ -74,4 +90,6 @@ Testing inside the data collection, not as a separate tool: the ladder of progre
 5. Fix known weak spots if they matter for the application: B2 FIDS URL + Dutch dancesport federation; F1/F2 audience-economics data; B5 online-organisation counts.
 6. I4 file has the 10 insider validation questions, ready to use with Red Bull contacts.
 7. Choose the shareable map tool (I2 recommends uMap, backup Google My Maps); build the map from the workbook.
+9. NEW 2026-10-19: give project/prompts/prompt_data_collection.md to the research model and project/prompts/prompt_viewer.md to the coding model; do the manual items in research/manual_collection_list.md (priority A first); check research/progress.md and viewer/progress.md.
+10. NEW: when both plans are finished, load results into the viewer (stage V6), then re-set goals and decisions.
 8. Open: confirm city list and whether to keep non-European benchmark cities; Dance Your Style World Final Zurich 24 Oct 2026 (confirmed by A1/A6).

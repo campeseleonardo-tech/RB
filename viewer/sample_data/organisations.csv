@@ -1,0 +1,5 @@
+org_id,name,org_type,place_id,disc_id,scope,website_source_id,evidence_type,confidence,task_id,notes
+ORG000001,Sample Battle Organiser,event_organiser,SMPA,URB-BRK,international,S00002,found,H,P2.1,SAMPLE DATA
+ORG000002,Sample Salsa Association,federation,SMPE,CAR-SAL,national,S00007,found,H,P2.2,SAMPLE DATA
+ORG000003,Sample Dance School D,school,SMPB,CAR-BCH,local,S00005,stated_by_organiser,M,P2.3,SAMPLE DATA
+ORG000004,Sample Studio Space,studio_space,SMPF,URB-HIP,local,S00007,inferred,L,P2.4,"SAMPLE DATA - inferred from a federation list entry; the studio is not confirmed on its own site"

@@ -1,0 +1,7 @@
+signal_id,signal,definition,unit,notes
+COM,Community,SAMPLE DATA - placeholder definition: size of the organised community,count,SAMPLE DATA
+SCH,Schools and classes,SAMPLE DATA - placeholder definition: regular classes offered,classes per week,SAMPLE DATA
+EVT,Events,SAMPLE DATA - placeholder definition: events held,events per year,SAMPLE DATA
+ORG,Organisations present,SAMPLE DATA - placeholder definition: organisations present,count,SAMPLE DATA
+POP,Population,SAMPLE DATA - placeholder definition: resident population,persons,SAMPLE DATA
+ONL,Online interest,SAMPLE DATA - placeholder definition: online interest,text,SAMPLE DATA

@@ -1,0 +1,8 @@
+disc_id,family,discipline,sub_style,scope,notes
+ALL,All,Not discipline-specific,,,Used in facts that are not about one discipline; scope left empty on purpose
+URB-BRK,Hip hop family,Breaking,,pilot_main,SAMPLE DATA
+URB-HIP,Hip hop family,Hip hop,,pilot_light,SAMPLE DATA
+URB-WAA,Hip hop family,Waacking,,adjacent,SAMPLE DATA
+CAR-SAL,Caribbean,Salsa,Cuban,pilot_main,SAMPLE DATA
+CAR-BCH,Caribbean,Bachata,,pilot_main,SAMPLE DATA
+ACR-TRK,Acrobatic,Tricking,,out,SAMPLE DATA
