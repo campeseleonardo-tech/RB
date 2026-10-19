@@ -110,7 +110,7 @@ Red Bull's dance portfolio for 2024-2026 is dominated by two series: BC One (bre
 |-------|-------|-----------|------------|
 | BC1-2026-WF | city | Toronto, Canada | https://www.redbull.com/int-en/event-series/bc-one |
 | BC1-2026-WF | date | Nov 29, 2026 | https://www.redbull.com/int-en/event-series/bc-one |
-| BC1-2026-WF | venue | Hallenstadion | https://www.redbull.com/int-en/event-series/bc-one |
+| BC1-2026-WF | venue | not stated on series page (an earlier draft wrongly wrote "Hallenstadion" — that is the DYS World Final venue in Zurich, not Toronto) | https://www.redbull.com/int-en/event-series/bc-one |
 | BC1-2026-LON | added | London, UK · Apr 11, 2026 · Shoreditch Town Hall | https://www.redbull.com/gb-en/events/red-bull-bc-one-uk |
 | BC1-2026-LAUS | added | Lausanne, CH · Apr 18, 2026 · Palais de Beaulieu | https://beaulieu-lausanne.com/en/calendar/red-bull-bc-one-cypher-switzerland/ |
 | BC1-2026-BEL | added | Ghent, BE · Apr 26, 2026 · Wintercircus | https://and8.dance/fr/e/5406 |
