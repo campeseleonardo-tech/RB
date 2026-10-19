@@ -281,21 +281,21 @@ F000279,CH,country,ALL,ORG,17,,,member clubs (Swiss DanceSport federation),2024,
 F000280,ES,country,ALL,ORG,3000,,,licensed teachers claim (Federacion Espanola de Danza),2023,found,L,S00195,P4.9,"licensing-based, incomplete; source not verified in re-checks - manual list item for the P6.2 pass"
 F000281,AT,country,ALL,ORG,,,,,,not_found,L,,P4.9,no Austrian dance federation/registry figure found; searches: Statistik Austria AEQ-Kultur; OetSV membership; general search
 F000282,GLOBAL,global,ALL,POP,,,,,2025,not_found,L,,P4.9,"Eurostat urb tables via API returned 413 async for bulk downloads (2 endpoints, 6 tries); NACE 90.01 cannot separate dance in culture accounts - manual list item 10 stays"
-F000283,DE,country,URB-BRK,LAD,5,,,rungs present,2026,found,H,"S00071,S00072",P4.7,all 5 rungs confirmed (class/social/ranking battles/GBC/BC One Germany)
+F000283,DE,country,URB-BRK,LAD,5,,,rungs present,2026,found,H,S00071,P4.7,all 5 rungs confirmed (class/social/ranking battles/GBC/BC One Germany) | additional sources: S00072
 F000284,DE,country,CAR-SAL,LAD,4,,,rungs present,2026,found,M,S00075,P4.7,social and championship rungs; world finals via WDSF (dancesport rows)
 F000285,AT,country,URB-BRK,LAD,2,,,rungs present,2026,found,M,S00071,P4.7,rung 2 (social/community) and cross-border rungs via DTV; no Austrian breaking federation found
 F000286,AT,country,CAR-SAL,LAD,2,,,rungs present,2026,found,M,S00075,P4.7,studio socials; no national equivalent; WDSF competition via FEBD/WDSF
 F000287,IT,country,URB-BRK,LAD,5,,,rungs present,2026,found,M,S00074,P4.7,FIDS licence-based championship; BC One Italy rung per reporting
-F000288,IT,country,CAR-SAL,LAD,2,,,rungs present,2026,found,L,,P4.7,salsa/bachata social championship rungs not found publicly; fitesm? 
+F000288,IT,country,CAR-SAL,LAD,2,,,rungs present,2026,found,L,S00076,P4.7,salsa/bachata social championship rungs not found publicly; fitesm? 
 F000289,ES,country,URB-BRK,LAD,5,,,rungs present,2026,found,M,S00075,P4.7,FEBD national championship; BC One Spain rung (per P4.7 log)
 F000290,ES,country,CAR-SAL,LAD,4,,,rungs present,2026,found,M,S00075,P4.7,Spanish salsa/bachata WDSF championship; La Negra festival path
-F000291,FR,country,URB-BRK,LAD,5,,,rungs present,2026,found,M,"S00073,S00154",P4.7,"FFDanse Breaking Commission + Coupe de France + BC One France (camp Paris, informal)"
-F000292,FR,country,CAR-SAL,LAD,1,,,rungs present,2026,found,L,,P4.7,no social-salsa national equivalent found in FR
+F000291,FR,country,URB-BRK,LAD,5,,,rungs present,2026,found,M,S00073,P4.7,"FFDanse Breaking Commission + Coupe de France + BC One France (camp Paris, informal) | additional sources: S00154"
+F000292,FR,country,CAR-SAL,LAD,1,,,rungs present,2026,found,L,S00076,P4.7,no social-salsa national equivalent found in FR
 F000293,NL,country,URB-BRK,LAD,5,,,rungs present,2026,found,M,S00081,P4.7,NADB Dutch breaking championship + BC One NL
 F000294,NL,country,CAR-SAL,LAD,4,,,rungs present,2026,found,M,S00081,P4.7,NADB salsa/bachata championship (dancesport)
 F000295,UK,country,URB-BRK,LAD,5,,,rungs present,2026,found,H,S00154,P4.7,Breaking GB national championship + WDSF licensing
-F000296,UK,country,CAR-SAL,LAD,1,,,rungs present,2026,found,L,,P4.7,no social-salsa national equivalent found
+F000296,UK,country,CAR-SAL,LAD,1,,,rungs present,2026,found,L,S00076,P4.7,no social-salsa national equivalent found
 F000297,PL,country,URB-BRK,LAD,4,,,rungs present,2026,found,M,S00078,P4.7,PZST breaking championship (no dedicated breaking federation)
-F000298,PL,country,CAR-SAL,LAD,1,,,rungs present,2026,found,L,,P4.7,no social-salsa national equivalent found; cross-border
+F000298,PL,country,CAR-SAL,LAD,1,,,rungs present,2026,found,L,S00076,P4.7,no social-salsa national equivalent found; cross-border
 F000299,CH,country,URB-BRK,LAD,2,,,rungs present,2026,found,L,S00071,P4.7,no Swiss breaking federation; cross-border path (DTV)
-F000300,CH,country,CAR-SAL,LAD,1,,,rungs present,2026,found,L,,P4.7,no national equivalent; cross-border
+F000300,CH,country,CAR-SAL,LAD,1,,,rungs present,2026,found,L,S00076,P4.7,no national equivalent; cross-border
