@@ -12,3 +12,6 @@ L00010,2026-10-19,P0.5 D4,pageviews measured via Wikimedia API (allowed),6 ONL f
 L00011,2026-10-19,P0.5 G4,APC/Basement/Next Generation verified,3 organisations + 2 global facts; salary/contract rows not convertible to facts (remain in G4 file),P0.5,
 L00012,2026-10-19,P0.5 C1/C2,sub-style definitions,style definitions and family placements embedded as notes in disciplines.csv (P0.2),P0.5,no separate facts needed
 L00013,2026-10-19,events.csv historical rows RB-048..RB-051,duplicates of the A2-converted world-final rows,"removed 4 rows, keeping the A2-sourced versions",P0.5,
+L00014,2026-10-19,D7_dance_market_studies.md,moved to quarantine,"D7_dance_market_studies.md archived (content kept, problem block added); INDEX row removed",P1.7,method hints referenced by P4.1; Eurostat remark to be re-checked with a source
+L00015,2026-10-19,C3_participation_segments.md,moved to quarantine,"C3_participation_segments.md archived (content kept, problem block added); INDEX row removed",P1.3,"the idea of segments (competitive/social/fitness) lives in the level list of events.csv (congress_festival, social_jam, etc.)"
+L00016,2026-10-19,B5_online_organisation.md,moved to quarantine,"B5_online_organisation.md archived (content kept, problem block added); INDEX row removed",P1.5,"the platform list (Meetup, Facebook groups, WhatsApp, Instagram) stays in E8/H1 notes"

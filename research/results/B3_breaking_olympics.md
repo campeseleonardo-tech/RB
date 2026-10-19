@@ -1,3 +1,5 @@
+SOURCE STATUS (2026-10-19): citations are bare domains or missing; re-sourced in Phase 2/3 tasks before any row is converted.
+
 # B3 — Breaking in the Olympics (P2)
 
 ## (a) Paris 2024 Outcome

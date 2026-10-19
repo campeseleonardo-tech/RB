@@ -1,3 +1,5 @@
+SOURCE STATUS (2026-10-19): citations are bare domains or missing; re-sourced in Phase 2/3 tasks before any row is converted.
+
 # E8 — Detecting informal scenes (P3, METHOD)
 
 **Access date:** 2026-10-19  

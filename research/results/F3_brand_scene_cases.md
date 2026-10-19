@@ -1,3 +1,5 @@
+SOURCE STATUS (2026-10-19): citations are bare domains or missing; re-sourced in Phase 2/3 tasks before any row is converted.
+
 # F3 — Brand-led scene development cases (P3)
 
 ## (a) Red Bull BC One — growth story (2004‑2025)

@@ -1,3 +1,7 @@
+ARCHIVED 2026-10-19 - NOT DELETED. Problems found: SHIPPING BLOCK D7: the "EU-funded 2019 survey, 15,000 adults, 12 countries, 12.3%" and "WHO Europe 2021, 8-15%" rows have no URL/title/author and look generated; the Eurostat note is plausible but unsourced; the conclusion "no authoritative per-capita study" is likely right but unproven.. Why it matters: it decides whether the "dance market" line of argument can be used at all with the candidate.. How it could be redone better: fragmented collection by country: national sport/culture surveys naming dance, federation membership, licence statistics (France 300k+ licences claimed), Eurostat cult_pcs_* tables (tasks P4.1, P4.9).. Useful content moved to: method hints referenced by P4.1; Eurostat remark to be re-checked with a source.
+
+---
+
 # D7 — Dancers per capita / market size studies (P2)
 
 ## Executive Summary

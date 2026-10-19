@@ -1,3 +1,7 @@
+ARCHIVED 2026-10-19 - NOT DELETED. Problems found: SHIPPING BLOCK C3: no sources at all in the file; covers six disciplines including house and popping/locking against the pilot decision; the "243+ festivals in 2026" figure is unsourced; the Red-Bull-compatibility judgements are opinion, not data.. Why it matters: if used as evidence about segments it would inject unsupported claims into a job-application product.. How it could be redone better: count festivals per discipline from event calendars (P4.6/P4.7) and describe segments from those counts.. Useful content moved to: the idea of segments (competitive/social/fitness) lives in the level list of events.csv (congress_festival, social_jam, etc.).
+
+---
+
 # C3 — Participation segments (P2)
 
 ## Summary of Findings

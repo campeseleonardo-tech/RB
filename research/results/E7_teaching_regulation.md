@@ -1,3 +1,5 @@
+SOURCE STATUS (2026-10-19): citations are bare domains or missing; re-sourced in Phase 2/3 tasks before any row is converted.
+
 # E7 — Regulation of dance teaching AT/DE/IT/ES (P2) + comparison table + search log + summary
 
 ## 4-Country Comparison Table

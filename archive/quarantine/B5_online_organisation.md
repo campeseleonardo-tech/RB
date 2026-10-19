@@ -1,3 +1,7 @@
+ARCHIVED 2026-10-19 - NOT DELETED. Problems found: SHIPPING BLOCK B5: 122 table rows with almost no URLs; one URL typo (meetuo.com); group names look invented; member counts all "Not specified"; nothing in the file was actually measured.. Why it matters: it would look like researched data without evidence.. How it could be redone better: public counts of Meetup/Facebook/Instagram pages by hand (manual_collection_list item 7) plus public event-platform listings (P4.8).. Useful content moved to: the platform list (Meetup, Facebook groups, WhatsApp, Instagram) stays in E8/H1 notes.
+
+---
+
 # B5 — Where dance scenes organise online (P3)
 
 ## Online Organisation Mapping by Country
