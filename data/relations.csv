@@ -4,3 +4,9 @@ R000003,org,O00001,organises,series,Red Bull Dance Your Style,found,H,S00002,P0.
 R000004,org,O00013,member_of,org,O00009,found,M,S00075,P2/F-14,FIDS/FIDESM is a WDSF member body
 R000005,org,O00020,member_of,org,O00009,found,H,S00081,P2/F-14,NADB is a WDSF member body
 R000006,org,O00008,sponsors,series,Battle of the Year,found,M,S00078,P2/F-14,"Snipes sponsors BOTY (sixstep.de, since 2016)"
+R000006,org,O00012,organises,event,E000117,found,H,S00071,P4.7,GBC official page
+R000007,event,E000117,qualifies_for,series,Red Bull BC One,found,H,S00075,P4.7,per DTV olympia-2024 page
+R000008,org,O00015,organises,event,E000119,found,H,S00073,P4.7,Coupe de France breaking page
+R000009,org,O00013,organises,event,E000120,found,H,S00074,P4.7,CONI recognizes FIDS/FIDESM
+R000010,org,O00020,organises,event,E000121,found,H,S00081,P4.7,NADB organises Dutch breaking championship
+R000011,org,O00047,organises,event,E000122,found,H,S00154,P4.7,Breaking GB national championship
