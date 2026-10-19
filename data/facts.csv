@@ -269,3 +269,15 @@ F000267,ZRH,city,CAR-BCH,COM,1,,,organisations,2026,found,M,S00172,P4.2,"Bachata
 F000268,ZRH,city,CAR-BCH,SPA,25,,,EUR/hour,2026,found,M,S00172,P4.2,Bachata Bliss Zurich studio rental: €25/hour for bachata classes and practices. Verified Zurich bachata venue.
 F000269,ZRH,city,CAR-BCH,PRC,30,,,EUR/session,2026,found,M,S00172,P4.2,"Bachata Beginners Zurich: €30/session (Bachata Bliss by Jules, structured 15-session course, Zurich studio). Professional course pricing for Zurich."
 F000270,ZRH,city,CAR-BCH,CMP,1,,,competitions/year,2026,found,M,S00167,P4.2,Zurich hosts 1 bachata competition via DSCH (DanceSport Switzerland). Swiss National Bachata Championships Zurich annually.
+F000271,DE,country,ALL,ORG,218315,,,DTV memberships,2024,found,H,S00080,P4.9,"DTV membership stock per breaking factsheet (Bestandserhebung 2024); CONFLICT with the D2-derived 3,019 active WDSF athletes (different definitions)"
+F000272,DE,country,ALL,ORG,26000,,,competitive athletes claim,2024,found,L,S00186,P4.9,"P4.9 conflict: agent claimed 26,000 with a dead URL (dtv-tanzsport.de); also press kit says 21,000 Leistungssport - reconcile in P7"
+F000273,FR,country,ALL,ORG,100000,,,licence holders (range 80-100k),2023,found,L,S00034,P4.9,FFD licence claim (D7 300k was generated); ffdanse.fr not reachable in the re-verification pass - manual list item
+F000274,IT,country,ALL,COM,7.8,,,% of sport participants who dance (ISTAT def),2024,found,M,S00187,P4.9,ISTAT La pratica sportiva in Italia 2024 PDF (agent opened it; to re-verify)
+F000275,NL,country,ALL,COM,91,,,% of 6+ attending at least one cultural activity,2024,found,M,S00188,P4.9,CBS 2025 long-read; broad cultural participation
+F000276,NL,country,ALL,COM,68,,,% practising amateur arts incl. dance,2024,found,M,S00189,P4.9,CBS Cultuurmonitor 2024 (broad arts incl. dance)
+F000277,PL,country,ALL,ORG,7000,,,PTT members (since 1956),2023,found,H,S00191,P4.9,Polish Dance Association
+F000278,PL,country,ALL,COM,505,,,active competitive athletes (Polish DanceSport Federation),2023,found,M,S00192,P4.9,WDSF member page for Poland
+F000279,CH,country,ALL,ORG,17,,,member clubs (Swiss DanceSport federation),2024,found,M,S00193,P4.9,agent-reported; source URL dancesport.ch pending re-check
+F000280,ES,country,ALL,ORG,3000,,,licensed teachers claim (Federacion Espanola de Danza),2023,found,L,S00195,P4.9,"licensing-based, incomplete; source not verified in re-checks - manual list item for the P6.2 pass"
+F000281,AT,country,ALL,ORG,,,,,,not_found,L,,P4.9,no Austrian dance federation/registry figure found; searches: Statistik Austria AEQ-Kultur; OetSV membership; general search
+F000282,GLOBAL,global,ALL,POP,,,,,2025,not_found,L,,P4.9,"Eurostat urb tables via API returned 413 async for bulk downloads (2 endpoints, 6 tries); NACE 90.01 cannot separate dance in culture accounts - manual list item 10 stays"

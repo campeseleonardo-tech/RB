@@ -147,3 +147,4 @@ SYD,city,Sydney,AU,oceania,scan,city,,,criterion 3: BC One Australia qualifier +
 ZUR,city,Zurich,CH,europe,scan,city,,,criterion 3: event city from the Red Bull 2026 sample,event city only; duplicate of deep ZRH kept for FK repairs
 MU,country,Mauritius,MU,africa,country,,,,,country-level context
 NUR,city,Nuremberg,DE,europe,scan,city,,,criterion 3: event city (La Casa de Bachata Festival 2026 per P4.2 log),event city only
+HWG,city,Hwaseong,KR,asia,scan,city,,,criterion 3: BOTY world final 2025 host,event city only
