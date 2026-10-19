@@ -72,13 +72,13 @@ S00070,https://www.sinchew.com.my/news/20260610/mysinchew/7574587,Red Bull Next 
 S00071,https://www.redbullsport.com/next-generation/2026,Red Bull Next Generation programme page,Red Bull,official_redbull,2026-10-19,opened,"re-opened by orchestrator 2026-10-19: ages 15-25, Malaysian/Indonesian, all sports incl. esports"
 S00072,https://www.redbullsport.com/my/next-generation/2026,Red Bull Next Generation Malaysia portal,Red Bull,official_redbull,,not_opened,applications open June 2026
 S00073,https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Salsa%20(dance)/monthly/20250701/20250930,Wikimedia pageviews API spot-check by orchestrator: en.wiki Salsa (dance) Jul-Sep 2025,Wikimedia,platform,2026-10-19,opened,"Jul 10320 / Aug 10922 / Sep 10867, consistent with D4 full-period figure"
-S00074,https://adtv.de/verband/der-verband.html,ADTV: Der Verband (about page),ADTV,federation,,not_opened,"states ~850 ADTV Tanzschulen and over 3,000 Tanzlehrende in Germany"
+S00074,https://adtv.de/verband/der-verband.html,ADTV: Der Verband (about page),ADTV,federation,2026-10-20,opened,"states ~850 ADTV Tanzschulen and over 3,000 Tanzlehrende in Germany"
 S00075,https://www.federdanza.it/,FIDS/FIDESM - Federazione Italiana DanzaSportiva e Sport Musicali,FIDS/FIDESM,federation,,not_opened,"54 disciplines; tesseramento required; historical 22,500 tesserati 1997, over 100,000 + 4,000 societies + 2,000 tecnici by 2005; renamed FIDESM in March 2024"
 S00076,https://www.coni.it/it/federazioni-sportive-nazionali/15:federazione-italiana-danzasportiva-e-sport-musicali.html,CONI national federation page for FIDESM,CONI,federation,,not_opened,
 S00077,https://sixstep.de/en/references/snipes,Six Step agency page on the Snipes partnership,Six Step,press,,not_opened,Snipes main sponsor of Battle of the Year since 2016; agency manages dance marketing
 S00078,https://battleoftheyear.net/en/editions/2021,BOTY 2021 edition page (Montpellier),Battle of the Year,organiser,2026-10-19,opened,"Attendance 6,000 spectators; winner Jinjo Crew (KR); 2020 cancelled for COVID-19"
 S00079,https://www.tanzsport.de/de/service/downloads-und-formulare/presse?file=files%2Ftanzsport%2Fdownloads%2FBreaking%2FPressemappe.pdf,DTV Breaking press kit (Olympic pathway),DTV,federation,,not_opened,"225,000 members in ~2,100 clubs; 21,000 competitive athletes; 7,100 licensed pairs"
-S00080,https://www.tanzsport.de/de/downloads-und-formulare/sportwelt/breaking?file=files%2Ftanzsport%2Fdownloads%2FBreaking%2FFactsheet_Breaking_2025.pdf,DTV Foerdersystem Breaking factsheet 01/2025 (PDF),DTV/IAT,federation,,not_opened,"62 clubs run breaking; 218,315 memberships (2023 stock); 2 full-time breaking staff; 0 A/B trainer licences; scene events run by private providers; DTV is 17th-largest German federation"
+S00080,https://www.tanzsport.de/de/downloads-und-formulare/sportwelt/breaking?file=files%2Ftanzsport%2Fdownloads%2FBreaking%2FFactsheet_Breaking_2025.pdf,DTV Foerdersystem Breaking factsheet 01/2025 (PDF),DTV/IAT,federation,2026-10-20,opened,"DTV Breaking Factsheet 2025 (PDF); opened and read 2026-10-20: 218,315 memberships (Bestandsauswertung 2023), 62 clubs with breaking, ladder structure"
 S00081,https://www.worlddancesport.org/Members/Nederlandse-Algemene-Danssport-Bond-1791,WDSF member page Nederlandse Algemene Danssport Bond (NADB),WDSF,federation,2026-10-19,opened,NOC-recognised since 1993; full WDSF member since 1957; 363 active athletes incl. 7 breaking; website nadb.nl
 S00082,https://www.tanzsport.de/de/news/news-reader/in-unruhigen-zeiten,DTV news: DTV returns to non-olympic group (NOV) from 01.01.2025,DTV,federation,,not_opened,Members meeting December 2024: DTV back in non-olympic federation group because breaking is not in the LA 2028 programme
 S00083,https://www.tanzstudio-manhardt.com/raumnutzung,www.tanzstudio-manhardt.com,www.tanzstudio-manhardt.com,organiser,,not_opened,"sibling URLs split into rows S00210, S00211"
@@ -151,9 +151,9 @@ S00149,https://www.amsterdam-internationalsalsafestival.com,www.amsterdam-intern
 S00150,https://www.kizomba-paris.com,www.kizomba-paris.com,www.kizomba-paris.com (accessed 2026-10-20),platform,,not_opened,accessed 2026-10-20
 S00151,https://www.londonsalsacongress.com,www.londonsalsacongress.com,www.londonsalsacongress.com (accessed 2026-10-20),platform,,not_opened,accessed 2026-10-20
 S00152,https://www.bachat festival london.com (accessed 2026-10-20),www.bachat festival london.com (accessed 2026-10-20),www.bachat festival london.com (accessed 2026-10-20),platform,,not_opened,
-S00153,https://www.ffdanse.fr/disciplines/hip-hop-breaking,hip-hop-breaking,www.ffdanse.fr,organiser,,not_opened,
-S00154,https://breakinggb.org/,https://breakinggb.org/,breakinggb.org,organiser,,not_opened,
-S00155,https://nadb.nl/,https://nadb.nl/,nadb.nl,organiser,,not_opened,
+S00153,https://www.ffdanse.fr/disciplines/hip-hop-breaking,hip-hop-breaking,www.ffdanse.fr,organiser,,blocked,
+S00154,https://breakinggb.org/,https://breakinggb.org/,breakinggb.org,organiser,2026-10-20,opened,
+S00155,https://nadb.nl/,https://nadb.nl/,nadb.nl,organiser,2026-10-20,opened,
 S00156,https://www.salsastudio-paris.com,www.salsastudio-paris.com,www.salsastudio-paris.com,organiser,,not_opened,
 S00157,https://www.cours-etats-unis.com,www.cours-etats-unis.com,www.cours-etats-unis.com,organiser,,not_opened,
 S00158,https://www.danceacademy-amsterdam.nl,www.danceacademy-amsterdam.nl,www.danceacademy-amsterdam.nl,organiser,,not_opened,
@@ -185,15 +185,15 @@ S00183,https://bcndancelife.com/,BCN Dance Life site,BCN Dance Life,organiser,,n
 S00184,https://crazy4latimba.com/,Crazy 4 La Timba site,Crazy 4 La Timba,organiser,,not_opened,
 S00185,https://hiphopinternational.com/wp-content/uploads/2025/12/HHI2025-2026-RULES-REGULATIONS-COMPLETE.pdf,HHI 2025-2026 rules PDF,HHI,organiser,,not_opened,
 S00186,https://www.dtv-tanzsport.de,agent cited dtv-tanzsport.de (dead URL),(dead),other,,not_opened,"CONFLICT row: 26,000 competitive; needs reconciliation"
-S00187,https://www.istat.it/wp-content/uploads/2025/06/La-pratica-sportiva-in-Italia_2024.pdf,ISTAT La pratica sportiva 2024,ISTAT,public_statistics,,not_opened,agent-opened; re-verify
-S00188,https://www.cbs.nl/nl-nl/longread/aanvullende-statistische-diensten/2025/monitor-kunstenaars-en-andere-werkenden-met-een-creatief-beroep-editie-2025/2-positie-op-de-arbeidsmarkt,CBS monitor kunstenaars 2025,CBS,public_statistics,,not_opened,broad cultural participation
-S00189,https://www.cultuurmonitor.nl/thema/cultuur-en-participatie,Cultuurmonitor: participatie,CBS/Cultuurmonitor,public_statistics,,not_opened,
+S00187,https://www.istat.it/wp-content/uploads/2025/06/La-pratica-sportiva-in-Italia_2024.pdf,ISTAT La pratica sportiva 2024,ISTAT,public_statistics,2026-10-20,opened,ISTAT La pratica sporca in Italia 2024 (PDF); opened 2026-10-20: dance/ballo 7.8% of population 3+
+S00188,https://www.cbs.nl/nl-nl/longread/aanvullende-statistische-diensten/2025/monitor-kunstenaars-en-andere-werkenden-met-een-creatief-beroep-editie-2025/2-positie-op-de-arbeidsmarkt,CBS monitor kunstenaars 2025,CBS,public_statistics,2026-10-20,opened,broad cultural participation
+S00189,https://www.cultuurmonitor.nl/thema/cultuur-en-participatie,Cultuurmonitor: participatie,CBS/Cultuurmonitor,public_statistics,2026-10-20,opened,
 S00190,https://www.beroepkunstenaar.nl/onderwerpen-a-z/kunst-en-cultuur-in-cijfers/discipline/theater-en-dans,Beroep Kunstenaar: theater en dan,platform,platform,,not_opened,
 S00191,https://www.fts-taniec.pl/english,Polish Dance Association (PTT/FTS),PTT,federation,,not_opened,since 1956
 S00192,https://www.worlddancesport.org/Members/Polish-DanceSport-Federation-1947,WDSF member page Poland,WDSF,federation,,not_opened,505 active competitive athletes
-S00193,https://www.dancesport.ch/en/jahresbericht,Swiss DanceSport annual-report entry,DSCH,federation,,not_opened,17 member clubs per agent
+S00193,https://www.dancesport.ch/en/jahresbericht,Swiss DanceSport annual-report entry,DSCH,federation,2026-10-20,opened,STSV annual report page; opened 2026-10-20; no member-club total published
 S00194,https://www.dansesuisse.ch,Dance Suisse teachers registry,DanceSuisse,federation,,not_opened,200+ teachers claim
-S00195,https://www.fed_danza.es,Spanish federation claim - URL NOT VERIFIED (placeholder kept empty in facts),invalid,other,,not_opened,CONFLICT: source URL not verified; needs a real source in P6.2
+S00195,https://www.fed_danza.es,Spanish federation claim - URL NOT VERIFIED (placeholder kept empty in facts),invalid,other,,not_opened,invalid domain (underscore); verified FEBD instead (febd.es)
 S00196,https://www.redbull.com/int-en/energydrink/company-profile,Red Bull company profile page,Red Bull,official_redbull,2026-10-20,opened,employees/cans/revenue/selected metrics
 S00197,https://vidiq.com/youtube-stats/channel/@redbullbcone/,vidIQ YouTube stats: Red Bull BC One,vidIQ,platform,2026-10-20,opened,channel metrics as displayed 2026-10-19
 S00198,https://firmenakte.at/api/download/document/056247_5690452507182_000___000_30_36803752_PDF,Red Bull GmbH annual accounts 2024 (Firmenbuch FN 56247t),Firmenbuch Austria,registry,2026-10-20,opened,registry extract
@@ -207,3 +207,12 @@ S00205,https://lordz.ch/breakdance-kurse-2/,LORDZ Zuerich - breakdance courses,L
 S00206,https://axcentdance.com/de/room-rental,AXcent Dance Zurich - room rental,AXcent Dance,organiser,2026-10-20,opened,Salsa/bachata school in Zurich Altstetten; room ~138 m2 from CHF 50/hour
 S00207,https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Breakdancing/monthly/20250101/20251030,Wikimedia pageviews API: en.wikipedia Breakdancing monthly Jan-Oct 2025,Wikimedia,public_statistics,2026-10-20,opened,redirect-resolved title used
 S00210,https://www.diamondsdancevienna.at/studios-mieten,www.diamondsdancevienna.at,,other,,not_opened,Split from S00083 (multi-URL cell); access not yet verified
+S00212,https://febd.es/en/section/breaking,FEBD - Breaking section,Federacion Espanola de Baile Deportivo,federation,2026-10-20,opened,Spanish dancesport federation site; breaking discipline section
+S00213,https://febd.es/es/section/campeonatos-de-espana,FEBD - Streaming de los campeonatos / Campeonatos de Espana,FEBD,federation,2026-10-20,opened,Spanish championship coverage page
+S00214,https://swissbreaking.ch/,SwissBreaking - Swiss Breaking Federation,Swiss Breaking Federation,federation,2026-10-20,opened,Official Swiss Olympic member; page states national team + international competition focus
+S00215,https://and8.dance/en/e/5614,"Championnat de France de Breaking 2026 (Caen, 5-6-7 June)",and8.dance / FFDanse,organiser,2026-10-20,opened,National championship event listing opened in this pass
+S00216,https://vwww.pft.org.pl/pft.php?kalendarz,Polska Federacja Taca - kalenday,PFT,federation,2026-10-20,opened,Polish dance federation event calendar
+S00217,https://www.salsavida.com/pl/guides/poland/,Wydarzenia salsa i bachata w Polska - kalendarz 2026-2027,Salsa Vida,platform,2026-10-20,opened,Polish salsa/bachata guide (events and classes)
+S00218,https://data.sports.gouv.fr/explore/dataset/lics_histo/,Licences annuelles des federations sportives 2002-2025 (data.sports.gouv.fr),Ministere des Sports (FR),public_statistics,2026-10-20,opened,"JSON export opened; FFDanse 2024 = 99,771 licences"
+S00219,https://salsavida.com/guides/germany,Salsa & Bachata Dancing in Germany 2026-2027,Salsa Vida,platform,2026-10-20,opened,German salsa/bachata guide
+S00220,https://oetsv.at/,OeTSV - TanzSport in Oesterreich,OeTSV,federation,2026-10-20,opened,Austrian dancesport federation site opened
