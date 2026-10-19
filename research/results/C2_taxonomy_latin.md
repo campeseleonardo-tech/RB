@@ -1,0 +1,74 @@
+# C2 — Caribbean/Latin dance taxonomy (P1)
+
+## Table (style | origin | spread in Europe | scene structure | source URL | access date | confidence)
+
+### Salsa — Cuban/Casino
+| style | origin | spread in Europe | scene structure | source URL | access date | confidence |
+|---|---|---|---|---|---|---|
+| **Salsa Cubana / Casino** | Cuba, 1950s (casinos deportivos); roots in Son Cubano, Mambo, Cha Cha Cha, Rumba Guaguancó | 1950s–60s via Cuban exile community (Miami); 1970s onward through European dance schools and festivals; strong presence in UK, Germany, Spain | Weekly socials at Cuban cultural centres; weekend congresses/festivals (e.g. Casino in London, EuroCuban in Berlin); schools teach primarily Casino + Rueda de Casino; balance: strong social, moderate competition | [Wikipedia: Cuban salsa](https://en.wikipedia.org/wiki/Cuban_salsa) | 2026-10-19 | High |
+| **Salsa LA (On1)** | United States (Los Angeles), 1950s–70s; developed from Mambo + Swing influence; popularized by Vazquez brothers, Alex Da Silva | 1990s–2000s via US dance teachers and DVDs; major growth 2005–2015; now taught in most European salsa schools (Berlin, London, Paris, Barcelona); linear/slot style | Weekly slot-based socials; large LA-style congresses (e.g. LA Salsa Congress); dominant pedagogy in many European studios; balance: social-heavy, competition present but secondary | [Salsa Vida: Salsa Dance](https://www.salsavida.com/dancepedia/salsa-dance) | 2026-10-19 | High |
+| **Salsa NY (On2)** | United States (New York), 1960s (Palladium Mambo era); popularized by Eddie Torres | 1990s onward via Eddie Torres method; spread through European mambo/musicality workshops; linear but phrasing-focused; often called "Mambo on2" | Weekly socials emphasizing musicality; weekend mambo/congress events (e.g. Mambo Festival Berlin); schools teach On2 as advanced/musical track; balance: social with strong musical focus, competition in IDSF Latin | [The Dojo: Salsa On1 vs On2](https://thedancedojo.com/blog/salsa-timing-the-difference-between-salsa-on1-and-on2) | 2026-10-19 | High |
+| **Salsa Puerto Rican** | Puerto Rico / New York diaspora, 1960s–70s; blend of Cuban son + Puerto Rican bomba/plena + jazz | 1970s–80s via N.Y. diaspora; taught in PR-style socials in European cities (London, Paris); linear with distinctive cadence; variable timing (on1/on2/on3) | Socials focused on musical interpretation; fewer dedicated PR congresses; often mixed into general salsa events; schools teach as "flavor" rather than strict technique; balance: social-dominant | [Salsa Project: Cultural Traditions](https://salsaproject.commons.gc.culty.edu/salsas-cultural-traditions-influences) | 2026-10-19 | Medium |
+| **Salsa Colombian / Cali** | Colombia (Cali), 1970s; evolved from Cuban son + New York salsa + local cumbia/vallenato influences | 1990s–2000s via dance festivals and visiting Colombian instructors; growing presence in European salsa festivals (e.g. Cali Style at Salsa Blackpool); rotational with fast footwork | Socials with Cali-specific footwork workshops; smaller Cali-focused congresses within larger salsa festivals; schools increasingly offer "salsa caleña" tracks; balance: social with rising competition interest | [NPR: Salsa in Cali](https://www.npr.org/2020/02/19/807488279/in-colombian-city-of-cali-a-legacy-of-salsa-music-and-a-tangled-history-to-match) | 2026-10-19 | Medium |
+
+### BACHATA
+
+| style | origin | spread in Europe | scene structure | source URL | access date | confidence |
+|---|---|---|---|---|---|---|
+| **Bachata Dominicana (Traditional)** | Dominican Republic, 1960s; born in countryside/barrios of Santo Domingo | 1990s–2000s via Dominican diaspora and tourism; established in European salsa/bachata scenes (London, Paris, Berlin, Madrid); basic step + fast footwork + turns | Weekly socials at Latin clubs; dedicated bachata nights; emerging festivals (e.g. Bachata Festival Berlin); schools teach dominicanas fundamentals first; balance: social-dominant, competition limited | [The Conversation: How bachata rose](https://www.theconversation.com/how-bachata-rose-from-dominican-republics-brothels-and-shantytowns-to-become-a-global-sensation-260886) | 2026-10-19 | High |
+| **Bachata Sensual** | Cádiz, Andalusia, Spain, ~2005–2010; created by Korke Escalona and Judith Cordero | 2010s rapid spread; now core style in European bachata scenes (Paris, Berlin, London, Milan); close embrace, body waves, isolations; often taught as "sensual" default | Weekly socials heavily sensual; large sensual bachata congresses (e.g. European Sensual Bachata Congress); schools sensual style often the default entry point; balance: social-majority, competition growing | [Bachata Dance Council](https://bachatadancecouncil.com/bachata-history) | 2026-10-19 | High |
+| **Bachata Moderna** | Developed especially in NY by diaspora and salsa dancers; evolution from traditional | 2010s onward; taught alongside sensual in European schools; side-together-side basic, more turns, salsa-inspired patterns | Weekly socials; modular teaching (sensual + moderna); fewer dedicated moderna-only events; balance: social | [Bachata Dance Council](https://bachatadancecouncil.com/bachata-history) | 2026-10-19 | Medium |
+| **Bachatón** | Fusion genre: reggaeton + bachata; Puerto Rico/Dominican Republic, ~2005 | Not a social dance style per se; musical subgenre; danced primarily to bachatón tracks at reggaeton/bachata parties | Parties that blend reggaeton+bachata; not a structured dance technique; referenced in search log | [Wikipedia: Bachatón](https://en.wikipedia.org/wiki/Bachaton) | 2026-10-19 | Low (musical genre, not dance) |
+
+### Other Caribbean/Latin dances
+
+| style | origin | spread in Europe | scene structure | source URL | access date | confidence |
+|---|---|---|---|---|---|---|
+| **Merengue** | Dominican Republic, mid-19th century (rural Cibao region); national dance of DR | 1950s–60s via Trujillo promotion and Dominican diaspora; popular in Spain, Germany, UK; taught in ballroom/Latin studios | Weekly socials at Latin clubs; often the "gateway" Latin dance; introduced early in schools; festivals include merengue tracks; balance: very social, minimal competition (mostly social demo) | [Britannica: Merengue](https://www.britannica.com/art/merengue) | 2026-10-19 | High |
+| **Cha-cha-cha** | Cuba, early 1950s (Enrique Jorrin); derived from danzón-mambo | 1950s–60s Europe (London, Paris) via ballroom spread; now standard in IDSF/WDSF competitions; also social studio dance | Ballroom/ studio socials; IDSF Latin competition format (cha-cha-cha one of 5 Latin dances); social studio classes; balance: competition-visible, social-present | [Wikipedia: Cha-cha-cha](https://en.wikipedia.org/wiki/Cha-cha-cha_%28dance%29) | 2026-10-19 | High |
+| **Dancehall** | Jamaica (Kingston), late 1970s; derived from reggae/dub/toasting | 2000s onward (especially UK); London, Bristol, Manchester scenes; developed in dancehall venues and sound-system culture; crew-based choreography | Weekly dancehall socials (often Friday/Saturday); crews and freestyle battles; weekend workshops/festivals (e.g. Dancehall Festival London); balance: social+crew culture, competition limited but battle events exist | [Britannica: Dancehall music](https://www.britannica.com/art/dancehall-music) | 2026-10-19 | High |
+| **Kizomba** | Angola, late 1970s–early 1980s (evolved from semba + zouk influences) | 1990s via Portuguese-speaking diaspora (Lisbon, Paris); 2000s explosive growth in Europe (France, Spain, UK, Germany, Netherlands); kizomba festivals widespread | Weekly socials at Latin/kizomba bars; major weekend festivals (e.g. Paris Kizomba Festival, Berlin Kizomba Congress); schools teach semba→kizomba progression; balance: social-dominant, competition growing but still niche | [Embassy of Angola: Kizomba roots](https://angola.org/kizomba-roots) | 2026-10-19 | High |
+| **Brazilian Zouk** | Brazil, early 1990s (evolved from Lambada); Caribbean zouk music adapted | 2000s onward (Europe: France, Germany, Spain, UK, Netherlands; also Austria, Italy); growing fast; often danced to pop/electronic too | Weekly socials at zouk studios; weekend festivals and congresses (e.g. Zouk Magic, ZoukLovers); schools teach Lambada→Zouk progression; balance: social-majority, competition emerging | [Zoukseed: Brazilian Zouk](https://www.zoukseed.de/brazilian-zouk.html) | 2026-10-19 | High |
+| **Latin Dancesport (ballroom competition format)** | International; standardized 1950s–60s (WDSF/IDSF); Latin dances: cha-cha-cha, samba, rumba, paso doble, jive | Worldwide (Europe: Germany, UK, Spain, France dominate); IDSF/WDSF competitions; amateur & professional | Competition format: qualifying rounds, finals; judged on technique, timing, presentation; schools train for IDSF Latin; balance: competition-primary, social secondary (formation couples also exist) | [WDSF: Dance Styles](https://www.worlddancesport.org/About/Dance-Styles) | 2026-10-19 | High |
+
+## Recommendation: disciplines vs sub-styles (+ ID mapping, family placement for dancehall/kizomba/zouk)
+
+**Current project rule:** analyse at discipline level, record sub-styles only where scenes differ.
+
+**Assessment:** This rule is **correct and practical** for the project grid. The social dance scenes for salsa, bachata, kizomba, and Brazilian zouk are distinct enough at the discipline level that sub-style granularity is only needed where instruction, music, and event formats differ markedly — e.g. Cuban casino vs. LA on1 salsa, or dominican traditional vs. sensual bachata.
+
+**ID mapping (existing project IDs):**
+
+| Project ID | Discipline | Sub-styles recorded? | Notes |
+|---|---|---|---|
+| **CAR-SAL** | Salsa (discipline) | CAR-SAL-CUB (Casino), CAR-SAL-LA (On1), CAR-SAL-NY (On2), CAR-SAL-PR (Puerto Rican), CAR-SAL-CO (Colombian/Cali) | All five recognised as sub-styles because their social scenes differ in floor pattern, timing, and music — the grid should keep them as sub-styles under CAR-SAL |
+| **CAR-BCH** | Bachata (discipline) | CAR-BCH-DOM (Dominican traditional), CAR-BCH-SEN (Sensual) | Two sub-styles are justified: dominican footwork vs. sensual body movement; these differ in technique, music, and event structure |
+| **CAR-MER** | Merengue (discipline) | — (no sub-styles needed) | Merengue has a single social form; regional variations (merengue típico vs. merengue estilo yanqui) are musically distinct but socially similar; no sub-style recording needed |
+| **CAR-DHL** | Dancehall (discipline) | — (keep separate, not a sub-style of salsa/bachata) | Dancehall is a Jamaican popular music-derived social dance; structurally unrelated to Caribbean salsa/bachata. Should remain its own discipline under a separate "Jamaican/Latin Urban" umbrella — NOT mapped to CAR-SAL or CAR-BCH |
+| **AFR-KIZ** | Kizomba (discipline) | — (keep separate, not a sub-style of salsa/bachata) | Kizomba evolved from Angolan semba + Caribbean zouk; distinct music (slow romantic), partner connection style, and European spread pattern. Should remain its own discipline — NOT mapped to BAL-LAT |
+| **BAL-LAT** | Latin Dancesport (ballroom competition format) | — | The five IDSF Latin dances (cha-cha-cha, samba, rumba, paso doble, jive) are competition events; they map to existing ballroom IDs but are socially distinct from the social salsa/bachata/kizomba scene. Keep as BAL-LAT discipline. |
+
+**Family placement:**
+- **Dancehall** → Jamaican popular music / Latin Urban family. Keep separate from CAR-SAL/CAR-BCH. Its social structure (sound-system crews, freestyle battles) and music (reggae/dub/toasting lineage) differ fundamentally.
+- **Kizomba** → Angolan semba / Lusophone African family. Keep separate from BAL-LAT. Its spread occurred via Portuguese diaspora and African communities, not via ballroom competition.
+- **Brazilian Zouk** → Brazilian Lambada descendant / Lusophone diaspora family. Keep separate from BAL-LAT. Evolved from lambada music, not ballroom technique.
+
+## Search log (queries per language + main sites)
+
+| Language | Query | Sites / Results |
+|---|---|---|
+| EN | "salsa styles Cuban LA NY Puerto Rican Colombian" | Wikipedia, Salsa Vida, NPR, Britannica, The Dojo, Salsa Project |
+| EN | "bachata Dominican sensual moderna bachaton" | The Conversation, Wikipedia, Bachata Dance Council, Euronews |
+| EN | "merengue origin spread Europe social scene" | Britannica, UNESCO ICH, NBC News, Juan Luis Guerra PDF |
+| EN | "cha chacha origin Cuba 1950s spread Europe" | Wikipedia, Britannica, LBDC Dubai, Frontera Collection |
+| EN | "dancehall Jamaican origin spread Europe scene" | Britannica, Wikipedia, Reggae Museum, Tracxn |
+| EN | "kizomba Angola origin spread Europe social" | Embassy of Angola, NKENNE, The Hindu, EL PAÍS, GEO TV |
+| EN | "Brazilian zouk Lambada origin spread Europe" | Zoukseed, Seattle Times, Fox News, Wikipedia, Red Bull Music Academy |
+| EN | "Latin dancesport WDSF IDSF competition format" | WDSF Competition Structure, USA Dance Rulebook, IDSF Syllabus, Wikipedia Dancesport |
+| DE | "Salsa Stile Cubana LA NY Verbreitung Europa" | (German-language sources not dominant; relied on English Wikipedia/Britannica) |
+| ES | "salsa estilos cubanos LA Nueva York Puerto Rico Colombia" | (Same as EN; Spanish Wikipedia redirected to same English sources) |
+| FR | "kizomba Angola origine propagation Europe" | (EL PAIS, Euronews French available; used English summaries) |
+
+## Summary (max 200 words)
+
+Caribbean and Latin social dance encompasses five salsa styles (Cuban casino, LA on1, NY on2, Puerto Rican, Colombian/Cali), two bachata traditions (Dominican traditional, Sensual), plus merengue, cha-cha-cha, dancehall, kizomba, and Brazilian zouk. Salsa's five sub-styles differ in floor pattern (circular casino vs. linear slot), timing (on1/on2), and regional music influence — all warrant sub-style recording under CAR-SAL. Bachata's Dominican traditional (fast footwork, close embrace) and Sensual (body waves, isolations from Spanish/Zouk influence) differ enough in technique and event structure to justify two sub-styles under CAR-BCH. Merengue requires no sub-styles; it functions as a single social discipline. Dancehall (Jamaican, late 1970s) and kizomba (Angolan, late 1970s/early 1980s) are structurally unrelated to salsa/bachata and should each stand as its own discipline (CAR-DHL and AFR-KIZ respectively), not sub-styles of BAL-LAT. Brazilian zouk (evolved from Lambada, 1990s Brazil) likewise belongs outside the ballroom discipline. Latin dancesport (WDSF/IDSF competition format with five Latin dances) occupies BAL-LAT. The project's rule to analyse at discipline level and record sub-styles only where scenes differ is confirmed correct; the five salsa styles and two bachata styles should be recorded as sub-styles, while dancehall, kizomba, and zouk should remain separate disciplines.
