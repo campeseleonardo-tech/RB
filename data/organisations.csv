@@ -23,21 +23,32 @@ O00021,Breaking GB (UK),federation,UK,ALL,national,S00078,found,H,P2/F-14,P2/F-1
 O00022,German Breaking Championships (GBC),event_organiser,DE,URB-BRK,national,S00079,stated_by_organiser,H,P2/F-14,Breaking championships organised by DTV Breaking department; annual German Breaking Championships; 62 clubs offering breaking (Breaking factsheet 01/2025)
 O00023,Austrian Breaking Championships,event_organiser,AT,URB-BRK,national,S00080,stated_by_organiser,H,P2/F-14,Breaking championships organised by OetSV; 6 Breaking athletes; part of OetSV sports programme
 O00024,Italian Breaking Championships,event_organiser,IT,URB-BRK,national,S00082,stated_by_organiser,H,P2/F-14,Breaking championships organised by FIDS/FIDESM; FIDS Breaking Commission and qualification events; 54 disciplines listed
-O00026,Dance Base Salzburg,school,SBG,ALL,local,S00086,found,H,P4.2,"Offers Hip Hop, Jazz, Modern, Breakdance; comprehensive school with multiple locations. Source H4 file (accessed 2026-10-19 via file read)."
-O00027,Salsa Studio Salzburg,school,SBG,ALL,local,S00087,found,H,P4.2,Established 1991; beginner courses; studio rental €38/h (E6). Source URLs from H4 and E6.
-O00028,Salzburger Volkshochschule,school,SBG,ALL,local,S00088,found,M,P4.2,"30+ dance courses including Salsa, Hip-Hop, Zumba. Not discipline-specific. Source H4."
-O00029,Urban Latino Salzburg,crew_collective,SBG,ALL,local,S00089,found,M,P4.2,Community-driven parties and workshops for salsa/bachata/kizomba. Source H4.
-O00033,DTV (Deutscher Tanzsportverband) — breaking division,other,SBG,ALL,local,S00090,found,H,P4.2,German federation that organises German Breaking Championships; serves as cross-border reference for Austria (E4 verified). No dedicated Austrian federation (ADSF) confirmed in session. Source from E4 file read 2026-10-19.
-O00034,WDSF — breaking + Caribbean dancesport,other,SBG,ALL,local,S00091,found,H,P4.2,WDSF governs breaking and Latin dancesport (BAL-LAT); Austrian competitors appear in WDSF events. Source from E4 / B2. Note: BAL-LAT is separate disc_id per schema (C2 / data_schema.md).
-O00035,SEAD Salzburg,other,SBG,ALL,local,S00092,found,M,P4.2,Event venue for Flavourama workshops; not a dedicated breaking venue. Source H4.
-O00036,Dance Base Salzburg,school,GRZ,ALL,local,S00086,found,M,P4.2,https://base45.at/ + https://dancebase.sportunion.at/ (accessed 2026-10-19)
-O00037,Salsa Studio Salzburg,school,GRZ,ALL,local,S00114,found,M,P4.2,https://salsastudio.at/ (E6 + H4 2026-10-19)
-O00038,Urban Latino Salzburg,crew_collective,GRZ,ALL,local,S00115,found,M,P4.2,https://urbanlatino.at/ (H4 2026-10-19)
-O00039,Sallasmas.de,school,MUC,ALL,local,S00116,found,M,P4.2,https://sallasmas.de/en/site/index (accessed 2026-10-19)
-O00040,Dance with George,school,MUC,ALL,local,S00117,found,M,P4.2,https://www.dancewithgeorge.com (accessed 2026-10-19)
-O00041,B-Boy Crok,crew_collective,BER,ALL,local,S00106,found,M,P4.2,https://www.facebook.com/bboy.crok (accessed 2026-10-19)
-O00042,Flying Steps Academy,school,BER,ALL,local,S00118,found,M,P4.2,https://flyingsteps.com/academy/ (accessed 2026-10-19)
-O00043,Dolce Vita Dance Movement,school,BER,ALL,local,S00111,found,M,P4.2,https://dolce-vita-dance.com/en (accessed 2026-10-19)
-O00044,"Salsa, Bachata & Kizomba Berlin",crew_collective,BER,ALL,local,S00109,found,M,P4.2,https://www.facebook.com/groups/2380033170 (accessed 2026-10-19)
-O00045,Rhythm Madras,other,GRZ,ALL,local,S00119,found,M,P4.2,https://www.salsamadras.at/ (accessed 2026-10-19)
-O00046,Bachata Bliss by Jules,school,GRZ,ALL,local,S00098,found,M,P4.2,https://bachatabliss.at/en/about (accessed 2026-10-19)
+O00025,Dance Base Salzburg,school,SBG,ALL,local,S00086,found,H,P4.2,"Offers Hip Hop, Jazz, Modern, Breakdance; comprehensive school with multiple locations. Source H4 file (accessed 2026-10-19 via file read)."
+O00026,Salsa Studio Salzburg,school,SBG,ALL,local,S00087,found,H,P4.2,Established 1991; beginner courses; studio rental €38/h (E6). Source URLs from H4 and E6.
+O00027,Salzburger Volkshochschule,school,SBG,ALL,local,S00088,found,M,P4.2,"30+ dance courses including Salsa, Hip-Hop, Zumba. Not discipline-specific. Source H4."
+O00028,Urban Latino Salzburg,crew_collective,SBG,ALL,local,S00089,found,M,P4.2,Community-driven parties and workshops for salsa/bachata/kizomba. Source H4.
+O00029,DTV (Deutscher Tanzsportverband) — breaking division,other,SBG,ALL,local,S00090,found,H,P4.2,German federation that organises German Breaking Championships; serves as cross-border reference for Austria (E4 verified). No dedicated Austrian federation (ADSF) confirmed in session. Source from E4 file read 2026-10-19.
+O00030,WDSF — breaking + Caribbean dancesport,other,SBG,ALL,local,S00091,found,H,P4.2,WDSF governs breaking and Latin dancesport (BAL-LAT); Austrian competitors appear in WDSF events. Source from E4 / B2. Note: BAL-LAT is separate disc_id per schema (C2 / data_schema.md).
+O00031,SEAD Salzburg,other,SBG,ALL,local,S00092,found,M,P4.2,Event venue for Flavourama workshops; not a dedicated breaking venue. Source H4.
+O00032,Dance Base Salzburg,school,GRZ,ALL,local,S00086,found,M,P4.2,https://base45.at/ + https://dancebase.sportunion.at/ (accessed 2026-10-19)
+O00033,Salsa Studio Salzburg,school,GRZ,ALL,local,S00114,found,M,P4.2,https://salsastudio.at/ (E6 + H4 2026-10-19)
+O00034,Urban Latino Salzburg,crew_collective,GRZ,ALL,local,S00115,found,M,P4.2,https://urbanlatino.at/ (H4 2026-10-19)
+O00035,Sallasmas.de,school,MUC,ALL,local,S00116,found,M,P4.2,https://sallasmas.de/en/site/index (accessed 2026-10-19)
+O00036,Dance with George,school,MUC,ALL,local,S00117,found,M,P4.2,https://www.dancewithgeorge.com (accessed 2026-10-19)
+O00037,B-Boy Crok,crew_collective,BER,ALL,local,S00106,found,M,P4.2,https://www.facebook.com/bboy.crok (accessed 2026-10-19)
+O00038,Flying Steps Academy,school,BER,ALL,local,S00118,found,M,P4.2,https://flyingsteps.com/academy/ (accessed 2026-10-19)
+O00039,Dolce Vita Dance Movement,school,BER,ALL,local,S00111,found,M,P4.2,https://dolce-vita-dance.com/en (accessed 2026-10-19)
+O00040,"Salsa, Bachata & Kizomba Berlin",crew_collective,BER,ALL,local,S00109,found,M,P4.2,https://www.facebook.com/groups/2380033170 (accessed 2026-10-19)
+O00041,Rhythm Madras,other,GRZ,ALL,local,S00119,found,M,P4.2,https://www.salsamadras.at/ (accessed 2026-10-19)
+O00042,Bachata Bliss by Jules,school,GRZ,ALL,local,S00098,found,M,P4.2,https://bachatabliss.at/en/about (accessed 2026-10-19)
+O00046,FFDanse (Fédération Française de Danse),federation,PAR,,local,S00153,found,L,P4.2,https://www.ffdanse.fr/disciplines/hip-hop-breaking (accessed 2026-10-20)
+O00047,Breaking GB,federation,LON,,local,S00154,found,L,P4.2,https://breakinggb.org/ (accessed 2026-10-20)
+O00048,NADB (Nederlandse Algemene DansBond),federation,AMS,,local,S00155,found,L,P4.2,https://nadb.nl/ (accessed 2026-10-20)
+O00049,Salsa Studio Paris,school,PAR,,local,S00156,found,L,P4.2,https://www.salsastudio-paris.com (accessed 2026-10-20)
+O00050,Cours des États-Unis,school,PAR,,local,S00157,found,L,P4.2,https://www.cours-etats-unis.com (accessed 2026-10-20)
+O00051,Dance Academy Amsterdam,school,AMS,,local,S00158,found,L,P4.2,https://www.danceacademy-amsterdam.nl (accessed 2026-10-20)
+O00052,Salsa Studio Amsterdam,school,AMS,,local,S00159,found,L,P4.2,https://www.salsastudio-amsterdam.nl (accessed 2026-10-20)
+O00053,Salsa OnStage London,school,LON,,local,S00160,found,L,P4.2,https://www.salsaonstage.co.uk (accessed 2026-10-20)
+O00054,Love Samba London,school,LON,,local,S00161,found,L,P4.2,https://www.lovesamba.co.uk (accessed 2026-10-20)
+O00055,Havana Club London,school,LON,,local,S00162,found,L,P4.2,https://www.havanaclublondon.co.uk (accessed 2026-10-20)
+O00061,Salsa Zurich Community,other,ZRH,,local,S00176,found,L,P4.2,https://www.facebook.com/groups/salsazurich (accessed 2026-10-20)
