@@ -7,10 +7,7 @@ SOURCE STATUS (2026-10-19): citations are bare domains or missing; re-sourced in
 ### Confirmed Sponsors
 | Brand | Dance Discipline Focus | Sponsorship Type | Event Sponsorship | Athlete Support | Since When | Status | Source URL | Access Date | Confidence | Notes |
 |-------|------------------------|-----------------|-------------------|-----------------|------------|--------|------------|-------------|------------|-------|
-| Snipes | Street dance/breaking | Main sponsor | Battle of the Year (BOTY), SNIPES BEYOND DOUBT events | Cultural & Community partnerships | 2016 (BOTY) | Active | sixstep.de/en/references/snipes | 2026-10-19 | H | Three-year PSG back-of-shirt deal (2024-2027) |
-| Nike | Streetwear/apparel | Kit supplier | General dance events support | Athlete endorsements | 1970s (global) | Active | nike.com | 2026-10-19 | H | PSG front-of-shirt sponsor; breaking competition partner |
-| Adidas | Streetwear/apparel | Global brand presence | Various urban sports | Athlete partnerships | 1940s (global) | Active | adidas.com | 2026-10-19 | H | Working with breaking communities but not primary sponsor |
-| Puma | Sportswear | Regional presence | Some European events | Limited athlete support | 1920s (global) | Active | puma.com | 2026-10-19 | M | Smaller presence in dance compared to Nike/Adidas |
+| Snipes | Street dance/breaking | Main sponsor | Battle of the Year (BOTY), SNIPES BEYOND DOUBT events | Cultural & Community partnerships | 2016 (BOTY) | Active | https://sixstep.de/en/references/snipes | 2026-10-19 | H | Three-year PSG back-of-shirt deal (2024-2027) |
 
 ### Ongoing Investigation
 | Brand | Current Status | Dance Discipline Interest | Verification Needed | Source URL | Access Date | Confidence | Notes |

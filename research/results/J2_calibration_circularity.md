@@ -7,10 +7,10 @@ Address circularity risk: Red Bull events may have CAUSED scene strength rather 
 
 | Risk Factor | Evidence from Project Data | Circularity Concern | Severity | Mitigation Strategy |
 |-------------|---------------------------|---------------------|----------|-------------------|
-| **Event-Driven Scene Growth** | A1: BC One 2026 had 27 tour stops; A2: Cities entered (Toronto 2026, Zurich 2018) saw subsequent athlete concentration (and8.dance profiles: Amin Drillz Vienna→Berlin 2023) | Red Bull events may attract/lead to scene development | High | Use pre-entry historical baselines (A2 2015-2017 for Toronto/Zurich) |
+| **Event-Driven Scene Growth** | A2: BC One 2026 had 27 tour stops; A2: Cities entered (Zurich 2018, Tokyo 2010) saw subsequent athlete concentration (and8.dance profiles: Amin Drillz Vienna→Berlin 2023) | Red Bull events may attract/lead to scene development — **INFERRED** (Zurich 2018, Tokyo 2010 entries are historical/city-history-unverified; athlete mobility shown via and8.dance profiles shows correlation, not causation) | High | Use pre-entry historical baselines (A2 2015-2017 for Zurich/Tokyo) |
 | **Non-Red Bull vs Red Bull Event Density** | B1: Juste Debout Paris (>10,000), BOTY Dijon, IBE Heerlen (thousands) vs A1: BC One qualifiers rarely exceed 1,000 per city | Compare Red Bull impact vs established events | Medium | Normalize by city population; compare Berlin (BC One) vs Paris (Juste Debout) |
-| **Athlete Mobility Patterns** | and8.dance: Amin Drillz (Vienna→Berlin), Mady (Hamburg), Agne (Grosseto→IT), Ruth Prim (Barcelona) - all linked to Red Bull events in profiles | Red Bull events may drive athlete relocation and scene development | High | Analyze city pairs with similar demographics but different Red Bull presence |
-| **Entry/Exit Timing Analysis** | A2: Biel (2004→leave), São Paulo (2006→leave), Johannesburg (2007→BC One only), Toronto (2026→new) | Scene strength changes may correlate with Red Bull entry/exit | Medium | Compare cities that entered vs left Red Bull circuit |
+| **Athlete Mobility Patterns** | and8.dance: Amin Drillz (Vienna→Berlin), Mady (Hamburg), Agne (Grosseto→IT), Ruth Prim (Barcelona) - all linked to Red Bull events in profiles | Red Bull events may drive athlete relocation and scene development — **CORRELATION NOT CAUSATION**: These athlete mobility patterns shown via and8.dance profiles demonstrate correlation between Red Bull event presence and athlete movement, not causation; other factors (personal choice, career opportunities, social networks) may drive relocations | High | Analyze city pairs with similar demographics but different Red Bull presence |
+| **Entry/Exit Timing Analysis** | A2: Biel (2004→leave), São Paulo (2006→leave), Johannesburg (2007→BC One only) — **Toronto (2026→new) DELETED**: the 2026 BC One World Final in Toronto has not been held as of access date 2026-10-19 | Scene strength changes may correlate with Red Bull entry/exit | Medium | Compare cities that entered vs left Red Bull circuit |
 | **Event Attendance vs Scene Size** | A1: DYS Australia 2026: ~4,000 attendees (Sydney); A1: BC One Toronto world final: unspecified attendance | Higher Red Bull events may indicate or drive larger scenes | Medium | Correlate event attendance proxies with scene indicators (schools, spaces) |
 | **Content Footprint Correlation** | A6: Red Bull Media House content volume (unquantified) vs city-level scene indicators (unavailable) | Content may amplify scene beyond organic growth | Low | Use A6 content footprint as proxy for scene amplification |
 
@@ -20,13 +20,13 @@ Address circularity risk: Red Bull events may have CAUSED scene strength rather 
 **Objective:** Compare scene indicators before Red Bull entry vs after entry using A2 historical data.
 
 **Method:**
-- Identify cities with first Red Bull appearance in A2 (e.g., Zurich 2018, Tokyo 2010, Mumbai 2019)
+- Identify cities with first Red Bull appearance in A2 (e.g., Zurich 2018, Tokyo 2010, Mumbai 2019) — **INFERRED / city-history-unverified**: these entries are taken from A2 historical data but not independently verified against primary sources in this session
 - Extract 2015-2017 data (pre-entry) from available city statistics
 - Extract 2020-2025 data (post-entry) from same sources
 - Calculate change: (post - pre) / pre × 100
 
 **A1/A2 Data Sources:**
-- A2 rows 9-20 (BC One world finals history including Zurich 2018, Tokyo 2010, Mumbai 2019)
+- A2 rows 9-20 (BC One world finals history including Zurich 2018, Tokyo 2010, Mumbai 2019) — **INFERRED / city-history-unverified**: these references to historical BC One finals are from A2 but not independently verified against primary sources in this session
 - A1 data for Red Bull events starting 2018 onward
 - D5 city statistics (where available for these cities)
 
@@ -46,7 +46,7 @@ Interpretation: High positive score = potential circularity
 - Compare ratios: Red Bull density ÷ Non-Red Bull density
 
 **A1/A2/B1 Data Sources:**
-- A1: BC One/DYS event counts per city (e.g., BC One London 2026, Zurich 2018)
+- A1: BC One/DYS event counts per city (e.g., BC One London 2026, Zurich 2018) — **INFERRED / city-history-unverified**: Zurich 2018 entry is historical and not independently verified in this session
 - B1: Juste Debout Paris (>10,000), BOTY Dijon, IBE Heerlen (thousands)
 - D5: Population data for matching cities
 

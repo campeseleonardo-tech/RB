@@ -133,16 +133,16 @@ MA,country,Morocco,MA,africa,country,,,,,country-level context for P4.1/P4.7/P5.
 AU,country,Australia,AU,oceania,country,,,,,country-level context for P4.1/P4.7/P5.7
 RU,country,Russia,RU,europe,country,,,,,country-level context for P4.1/P4.7/P5.7
 GLOBAL,global,World,,,global,,,,"used by global facts (e.g. worldwide pageviews, RB global series)",
-GNT,city,Ghent,BE,europe,scan,city,,,,criterion 3: BC One cypher Belgium 2026 city per A1 (city still inferred from venue Wintercircus),event city only; RB-007
-AQU,city,LAquila,IT,europe,scan,city,,,,criterion 3: BC One cypher Italy 2026 city per A1,event city only; RB-010; Italian spelling LAquila without apostrophe for CSV
-SPG,city,Spielberg,AT,europe,scan,city,,,,criterion 3: Red Bull Ring tour stop of DYS Austria 2026 (RB-034),event city only
-HER,city,Heerlen,NL,europe,scan,city,,,,criterion 3: IBE host city (B1),event city only
-DIJ,city,Dijon,FR,europe,scan,city,,,,criterion 3: Battle of the Year Europe Next Generation host (B1/F-01),event city only
-BTC,city,Banska Bystrica,SK,europe,scan,city,,,,criterion 2: Outbreak Europe host (B1),event city only
-PHX,city,Phoenix,US,north_america,scan,city,,,,criterion 3: Hip Hop International world championship host (B1),benchmark anchor event; F-04
-RVJ,city,Rovinj,HR,europe,scan,city,,,,criterion 2: Croatian Summer Salsa Festival host (B1),event city only
-SSN,city,Santa Susanna,ES,europe,scan,city,,,,criterion 3: BCN Dance Life Bachata Congress host (B1),near Barcelona
-RIO,city,Rio de Janeiro,BR,latin_america,scan,city,,,,criterion 2+3: BC One world finals 2012 and 2024; DYS Brazil final 2026,benchmark added later than the workbook 13
-SYD,city,Sydney,AU,oceania,scan,criterion 3: BC One Australia qualifier + DYS Australia national final 2026 (A1),event city only
-ZUR,city,Zurich,,,scan,criterion 3: event city from the Red Bull 2026 sample,event city only; country not resolved
+GNT,city,Ghent,BE,europe,scan,city,,,,; criterion 3: BC One cypher Belgium 2026 city per A1 (city still inferred from venue Wintercircus); event city only; RB-007
+AQU,city,LAquila,IT,europe,scan,city,,,,; criterion 3: BC One cypher Italy 2026 city per A1; event city only; RB-010; Italian spelling LAquila without apostrophe for CSV
+SPG,city,Spielberg,AT,europe,scan,city,,,,; criterion 3: Red Bull Ring tour stop of DYS Austria 2026 (RB-034); event city only
+HER,city,Heerlen,NL,europe,scan,city,,,,; criterion 3: IBE host city (B1); event city only
+DIJ,city,Dijon,FR,europe,scan,city,,,,; criterion 3: Battle of the Year Europe Next Generation host (B1/F-01); event city only
+BTC,city,Banska Bystrica,SK,europe,scan,city,,,,; criterion 2: Outbreak Europe host (B1); event city only
+PHX,city,Phoenix,US,north_america,scan,city,,,,; criterion 3: Hip Hop International world championship host (B1); benchmark anchor event; F-04
+RVJ,city,Rovinj,HR,europe,scan,city,,,,; criterion 2: Croatian Summer Salsa Festival host (B1); event city only
+SSN,city,Santa Susanna,ES,europe,scan,city,,,,; criterion 3: BCN Dance Life Bachata Congress host (B1); near Barcelona
+RIO,city,Rio de Janeiro,BR,latin_america,scan,city,,,,; criterion 2+3: BC One world finals 2012 and 2024; DYS Brazil final 2026; benchmark added later than the workbook 13
+SYD,city,Sydney,AU,oceania,scan,city,,,criterion 3: BC One Australia qualifier + DYS Australia national final 2026 (A1),event city only
+ZUR,city,Zurich,CH,europe,scan,city,,,criterion 3: event city from the Red Bull 2026 sample,event city only; duplicate of deep ZRH kept for FK repairs
 MU,country,Mauritius,MU,africa,country,,,,,country-level context

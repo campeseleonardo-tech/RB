@@ -1,3 +1,6 @@
 rel_id,from_type,from_id,relation,to_type,to_id,evidence_type,confidence,source_id,task_id,notes
 R000002,org,O00001,organises,series,Red Bull BC One,found,H,S00001,P0.5,Own series since 2004
 R000003,org,O00001,organises,series,Red Bull Dance Your Style,found,H,S00002,P0.5,Own series since 2019 (A2)
+R000004,org,O00013,member_of,org,O00009,found,M,S00075,P2/F-14,FIDS/FIDESM is a WDSF member body
+R000005,org,O00020,member_of,org,O00009,found,H,S00081,P2/F-14,NADB is a WDSF member body
+R000006,org,O00008,sponsors,series,Battle of the Year,found,M,S00078,P2/F-14,"Snipes sponsors BOTY (sixstep.de, since 2016)"

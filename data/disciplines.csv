@@ -28,4 +28,4 @@ CAR-MER,Latin / Caribbean,Merengue,,adjacent,Dominican; UNESCO-recognised; no su
 CAR-DHL,Jamaican / Caribbean,Dancehall,,adjacent,Jamaican; outside both pilot families (C1/C2).
 AFR-KIZ,Afro / Lusophone,Kizomba,,adjacent,Moved out of the Caribbean family per C2 (Angola).
 AFR-ZOUK,Afro / Lusophone,Brazilian zouk,,adjacent,"Added per C2: Brazil, from lambada; distinct from Caribbean zouk music."
-ALL,,Not discipline-specific,,out,Synthetic id: use only in facts that are not discipline-specific (schema section 3).
+ALL,n/a (synthetic id),Not discipline-specific,,out,Synthetic id: use only in facts that are not discipline-specific (schema section 3).

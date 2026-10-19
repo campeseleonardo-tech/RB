@@ -5,7 +5,6 @@
 | Item | Value | Unit | Status | Source URL | Access date | Confidence | Notes |
 |------|-------|------|--------|------------|-------------|----------|-------|
 | Red Bull Breakin' Salsa 2012 | Event (Havana, Cuba) | Competition | Stated | https://www.redbull.com/ke-en/videos/red-bull-breakin-salsa-2012 | 2026-10-19 | L | Mixed-style competition between salsa dancers and breakers; judged by Crazy Legs (Rock Steady Crew) |
-| Red Bull Dance Your Style 2026 Mexico | 30 hours of Salsa/Bachata/Cumbia lessons | Event (Morelia) | Stated | Not found | 2026-10-19 | L | Search found "30 hours of dance lessons (Salsa, Bachata and/or Cumbia)" but URL not accessible |
 | Red Bull Dance Your Style 2026 Italy | Event series (multiple national finals) | Competition | Stated | Not found | 2026-10-19 | L | Found references to Red Bull Dance Your Style Italy but no specific Latin dance focus |
 | Red Bull Banda Choque 2026 | Regional Mexican music event (Chicago) | Event | Stated | Not found | 2026-10-19 | L | Found event mentions but no accessible source URL |
 | Red Bull BC One Latin America | Competition (video reference) | Event | Stated | https://www.redbull.com/us-en/videos/giroshi-vs-h2-en-el-red-bull-bc-one-latin-america | 2026-10-19 | L | Latin America BC One competition, mixed styles including hip hop/breaking |
@@ -33,6 +32,14 @@
 5. **Query**: "Red Bull kizomba event"
    - Found: References to kizomba being part of Red Bull Dance Your Style content, Red Bull Dance Your Style Mexico 2026 (mentions kizomba), kizomba events in Tampa
    - Status: Limited specific Red Bull kizomba events found
+
+6. **Query**: "Red Bull Dance Your Style Mexico 2026 site:redbull.com"
+   - Found: No accessible content found
+   - Status: not_found
+
+7. **Query**: "Red Bull Dance Your Style Mexico 2026"
+   - Found: No accessible content found
+   - Status: not_found
 
 ### German Searches
 1. **Query**: "Red Bull bachata München"
@@ -75,7 +82,7 @@
 
 Red Bull has **LIMITED PRESENCE** in Caribbean/Latin dance. The most significant finding is **Red Bull Breakin' Salsa 2012**, a mixed-style competition in Havana, Cuba that explicitly featured both salsa dancers and breakers, judged by Crazy Legs. This was a unique event combining these dance forms.
 
-Current Red Bull Dance Your Style 2026 events mention **30 hours of salsa/bachata/cumbia lessons** in Mexico, but detailed information about specific Latin dance events or athlete programs is not accessible.
+**Red Bull Dance Your Style 2026 events**: Multiple national finals (e.g., Italy) found, but the specific Mexico event with 30 hours of salsa/bachata/cumbia lessons is **not_found** (searched redbull.com.mx)
 
 **Dance Your Style series** includes Latin social dance styles (salsa, bachata, kizomba) as part of its mixed-style format, but these appear as **incidental elements** within an all-style competition rather than dedicated Latin dance programs.
 
