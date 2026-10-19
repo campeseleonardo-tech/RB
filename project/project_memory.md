@@ -63,8 +63,15 @@ Testing inside the data collection, not as a separate tool: the ladder of progre
 - Informal street scenes are poorly visible online; use local informants (his network) for validation.
 - Risk: scope too wide. Mitigation: two pilot disciplines, funnel from a coarse scan to a few deep dives, go/no-go gates.
 
-## 7. Workbook v0 (atlas_scene_movimento_v0.xlsx)
-12 sheets: README, Disciplines, Cities, SignalDefs, Signals, Events, RedBull, Ladder, Athletes, Keywords, Grid (formulas), Decisions. RedBull sheet now holds 51 rows: the 2026 footprint sample (47 rows) corrected from A1 research (cities filled, mostly "inferred from venue") plus 4 historical world-final rows 2024-2025. Recalculated via Excel: Grid has values, 0 formula errors. Candidate cities: core Salzburg, Innsbruck, Vienna, Munich, Milan, Barcelona, Amsterdam, Berlin; reserve Graz, Madrid, Paris; anchors New York, Cali (proposal). Tricking rows are still in the file but out of the pilot.
+## 7. Workbook v0 + data/ (dopo la sessione dati)
+- data/ holds 11 CSV tables per project/data_schema.md: places 163, disciplines 30, signals 18, sources 154, facts 352, events 129, organisations 25+, athletes 0 (JS-only directory), redbull_finance 12, relations 11, review_log 25.
+- The workbook atlas_scene_movimento_v0.xlsx is LEGACY (not edited since 2026-10-19).
+- Conflicts found so far: 5 (DTV members/scale, IBE audience, Amsterdam ISA scale, Juste Debout unsourced claims, Austrian break federation) - all kept as separate rows with definitions, not averaged.
+
+## 8. To-do list
+1. E1 Salzburg pilot: go/no-go (doc E8 protocol + manual item 12).
+2. Insider validation: I4 questions ready.
+3. Building the shareable map (viewer team stage V6) with data/*.csv.
 
 ## 7b. Decisions of 2026-10-19 (second session)
 - Order of work: first fix and complete the data (plan_data_collection.md), in parallel build a view-only viewer (plan_viewer.md); goals and decisions are re-set after both.

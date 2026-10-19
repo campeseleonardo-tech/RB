@@ -1,27 +1,23 @@
 # Progress (updated in place, max 40 lines)
 
-## Phase 0 - done 2026-10-19
-- data/ created; legacy converted: workbook RedBull (52 rows - 4 dup), A2 world finals, B1 (F-01..F-05 inline), B2/D2, E6, D5 (clean cells), G4, D4 pageviews.
-- disciplines 30, signals 18, places 147, sources 73, events 77, organisations 20, facts 65, relations 5, review_log 14.
-- 0 problems in the validator from P0.5 onward.
+## Phase 0 - done 2026-10-19: legacy converted (details in earlier versions; keep history in git)
+## Phase 1 - done 2026-10-19: quota/quarantine (D7, C3, B5 archived; 8 files flagged)
+## Phase 2 - done 2026-10-20: corrections + new sourced facts (adtv.de, tanzsport.de, NADB, BOTY 2021 attendance; Ley 1/2024 verified)
+## Phase 3 - done 2026-10-19 (pass 1; pass 2 of the remaining 33 not needed before contact)
+## Phase 4 - done 2026-10-20: 15 deep city scene scans (log files P4.2_C/D/E in research/logs/); P4.6 major events rebuilt (12,000 JD 2025; IBE 10,000/40; BOTY 25 Hwaseong); P4.7 ladders+relationships; P4.8 Wikimedia pageviews EN/DE/IT; P4.9 country participation
+- Missing: P4.10 studio prices for BCN/ROM/LON/WAW/ZRH and P4.11 informal-observation pass (agent failed twice; manual list item 12 + E8 protocol cover them).
+## Phase 5 - done 2026-10-20: P5.1 (sponsor pages for JD/BSC/BOTY), P5.3 (overlay facts), P5.5 (BC One channel metrics via aggregators), P5.7 (USA table), P5.8 (Red Bull finance FY24/FY25 + no breakdown found rows)
+- P5.2 remains at the level of the converted inventory (already deduplicated); p5.4 athletes directory needs the JS browser (manual item 2).
+## Phase 6 - done 2026-10-20: P6.1 funders per country with figures; P6.2 regulation verified/labelled
+- P6.3/P6.4/P6.5 partial: G2/G3 re-labelled; remaining audience-detail data -> manual list.
+## Phase 7 - done 2026-10-20: validator OK on 971 rows, closing numbers in research/logs/closing_numbers.md; README + memory updated.
 
-## Phase 1 - done 2026-10-19
-- Quarantined: D7, C3, B5 (problem blocks at top; content kept in archive/quarantine/).
-- Flagged with SOURCE STATUS banner: B3, B4, E4, E7, E8, F3, H4, J1.
-- INDEX.md: Quality column added, archived rows removed + Archive section.
+## Final numbers (see the same file in research/logs/closing_numbers.md)
+- 11 tables; facts 352: ~42% with a value, ~19% not_found, rest inferred/context.
+- 5 conflicts between sources, recorded not averaged.
+- 0 additional manual items needed beyond the existing list.
 
-## Phase 2 - done 2026-10-19 (F-23 deferred to P5.4/P5.5)
-- F-01..F-05 in P0.5; F-06/F-09/F-14/F-18/F-19 resp. F-17/F-20 handled or in flight via fix agents (logs/P2_fixes_A.md, P2_fixes_B.md).
-- F-07/F-08 resolved: live BC One page = 27 stops 2026 (Thailand has TWO stops; new event row added); DYS 2026 = 16 stops + WF ("17 Tour Stops"; series line claims "80 events around the globe" - noted, no period).
-- F-02 FINAL: Juste Debout scale unsourced on both pages -> not_found.
-- New sourced facts: ADTV (850 schools, 3,000 teachers), DTV (225k members, 62 breaking clubs, returned to non-olympic group from 2025), NADB (363 athletes, 7 breaking), BOTY 2021 attendance 6,000.
-
-## Phase 3 - done 2026-10-19 (pass 1)
-- 45 sources opened (+rendered already), 4 blocked (bachataloves 404, vallazza 404, ffdanse error, dades-ajuntament shell), 33 not opened yet (most are D1-D4/A3 provenance not needed before Phase 4).
-- Corrections: GRZ POP downgraded to L; orphan datapoint E000070 cleared.
-- Blocked-but-needed items -> manual_collection_list.md already covers Eurostat/Trends/studio-price gaps (items 1, 4, 10, 12).
-
-## Phase 4 - starting 2026-10-19 (waves planned: P4.1 Eurostat, P4.8 pageviews, city scene scans P4.2-P4.5, P4.6-P4.11)
-## Phase 5 - pending (Red Bull overlay; p5.7 USA + p5.8 finance bounded)
-## Phase 6 - pending
-## Phase 7 - pending
+## Remaining for the owner (max 3)
+1. E1 Salzburg pilot go/no-go.
+2. Insider validation session (I4 questions ready).
+3. Map building stage V6 (viewer team).
