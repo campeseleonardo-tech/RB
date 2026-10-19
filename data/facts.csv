@@ -349,3 +349,7 @@ F000347,US,country,URB-MIX,ORG,1,,,Red Bull mixed-style events in the USA 2024-2
 F000348,US,country,ALL,ORG,,,,Red Bull athletes per country breakdown,2026,not_found,L,,P5.7,no public per-country athlete count found (directory is JS-only; manual list item 2)
 F000349,GLOBAL,global,URB-BRK,ORG,43,,,Red Bull BC One event rows collected (all editions),,found,H,S00001,P5.3,from the full converted inventory
 F000350,GLOBAL,global,URB-MIX,ORG,30,,,Red Bull Dance Your Style event rows collected,,found,H,S00001,P5.3,
+F999901,AT,city,URB-BRK,MED,1210000,,,subscribers,2026-10-19,found,M,S00081,P5.5,Red Bull BC One channel @redbullbcone: ~1.21M subscribers (vidIQ/socialcounts/reachranking agree within range); joined Feb 2017; AT-based
+F999902,AT,city,URB-BRK,MED,3391,,,videos,2026-10-19,found,M,S00081,P5.5,"~3,390 videos on the BC One channel"
+F999903,AT,city,URB-BRK,MED,562604988,,,views (total),2026-10-19,found,M,S00081,P5.5,~560-565M total views reported by the analytics aggregators
+F999904,GLOBAL,global,ALL,MED,,,,brand sponsor data for the channel,2026-10-19,not_found,L,,P5.5,"SponsorRadar tracked 2 brands (Reebok, Philips) - third-party claim, low reliability; do not use without checking the channel page"

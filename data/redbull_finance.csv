@@ -1,1 +1,13 @@
 finance_id,entity,jurisdiction,financial_year,scope,metric,value,currency,unit,evidence_type,confidence,source_id,task_id,notes
+F000001,Red Bull GmbH (group),AT,2024,group,net revenue,11227000000,EUR,EUR,found,M,S00196,P5.8,company profile + Bloomberg; +6.4% vs 2023 (slowest since 2020)
+F000002,Red Bull GmbH (group),AT,2025,group,net revenue,12196000000,EUR,EUR,found,M,S00196,P5.8,company profile page (official): +8.6% vs 2024
+F000003,Red Bull GmbH (group),AT,2024,group,cans sold,12700000000,cans,cans,found,M,S00196,P5.8,"12.7 billion cans, +4.4% vs 2023"
+F000004,Red Bull GmbH (group),AT,2025,group,cans sold,13969000000,cans,cans,found,M,S00196,P5.8,"13.969 billion cans, +10.2% vs 2024"
+F000005,Red Bull GmbH (group),AT,2024,group,employees,19973,,people,found,M,S00196,P5.8,"end of 2024 (2023: 17,848)"
+F000006,Red Bull GmbH (group),AT,2025,group,employees,21924,,people,found,M,S00196,P5.8,end of 2025
+F000007,Red Bull GmbH (group),AT,2025,group,countries,178,,countries,found,M,S00196,P5.8,
+F000008,Red Bull GmbH (group),AT,2024,group,revenue breakdown by department or business unit,,EUR,EUR,not_found,L,,P5.8,no public breakdown found (company profile shows only selected metrics); NOT buys - expectation met
+F000009,Red Bull GmbH (group),AT,2025,dance_related,dance-related revenue share,,EUR,EUR,not_found,L,,P5.8,not made public
+F000010,Red Bull GmbH,AT,2024,legal_entity,total assets,4760563481.15,EUR,EUR,found,H,S00198,P5.8,"Firmenbuch FN 56247t, Jahresabschluss FY2024 (from the firmenakte PDF); employees avg 205 at GmbH level"
+F000011,Red Bull GmbH,AT,2024,legal_entity,equity,4272448952.01,EUR,EUR,found,H,S00198,P5.8,same filing
+F000012,Red Bull GmbH,AT,2024,legal_entity,revenue (GmbH annual accounts),6987735684.5,EUR,EUR,found,H,S00198,P5.8,"differs from group EUR 11.2B - different scope (legal entity vs selected-metrics group figure); both kept, no averaging"
