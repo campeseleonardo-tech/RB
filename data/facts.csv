@@ -347,5 +347,5 @@ F000345,ZRH,city,CAR-SAL,ORG,,,,,2026,not_found,L,,P5.3,no dedicated Red Bull sa
 F000346,US,country,URB-BRK,ORG,6,,,Red Bull breaking events in the USA 2024-2026 (collected),2026,found,M,S00001,P5.7,Red Bull BC One Toronto 2026-11-29; Red Bull BC One Denver 2026-04-03; Red Bull BC One Seattle 2026-05-31; Red Bull BC One Detroit 2026-06-05; Red Bull BC One San Diego 2026-08-22; Red Bull BC One World Final 2022 2022 | period refers to the 2024-2026 collected window
 F000347,US,country,URB-MIX,ORG,1,,,Red Bull mixed-style events in the USA 2024-2026 (collected),2026,found,M,S00001,P5.7,Red Bull Dance Your Style World Final 2025 | period refers to the 2024-2026 collected window
 F000348,US,country,ALL,ORG,,,,Red Bull athletes per country breakdown,2026,not_found,L,,P5.7,no public per-country athlete count found (directory is JS-only; manual list item 2)
-F000349,GLOBAL,country,URB-BRK,ORG,43,,,Red Bull BC One event rows collected (all editions),,found,H,S00001,P5.3,from the full converted inventory
-F000350,GLOBAL,country,URB-MIX,ORG,30,,,Red Bull Dance Your Style event rows collected,,found,H,S00001,P5.3,
+F000349,GLOBAL,global,URB-BRK,ORG,43,,,Red Bull BC One event rows collected (all editions),,found,H,S00001,P5.3,from the full converted inventory
+F000350,GLOBAL,global,URB-MIX,ORG,30,,,Red Bull Dance Your Style event rows collected,,found,H,S00001,P5.3,
