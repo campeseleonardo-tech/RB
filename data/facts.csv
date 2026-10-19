@@ -1,56 +1,66 @@
-| | discipline | signal | value | unit | period | evidence | confidence | URL |
-| Breaking | National federation access | Austrian Breaking athletes via OetSV | Austria | athlete count | 2026 | WDSF member page (Austrian DanceSport Federation) | H | https://www.worlddancesport.org/Members/Austrian-DanceSport-Federation-1743 |
-| Breaking | National federation access | German Breaking athletes via DTV | Germany | athlete count | 2026 | WDSF member page (Deutscher Tanzsportverband) | H | https://www.worlddancesport.org/Members/Deutscher-Tanzsportverband-e.V.-1764 |
-| Breaking | National federation access | Italian Breaking athletes via FIDS/FIDESM | Italy | athlete count | 2026 | CONI national sports federations list + federdanza.it | H | https://www.coni.it/en/national-sports-federations/134:italian-dancesport-and-musical-sports-federation.html |
-| Breaking | National federation access | Spanish Breaking athletes via FEBD | Spain | athlete count | 2026 | WDSF member page (Spanish DanceSport Federation) | H | https://www.worlddancesport.org/Members/Spanish-DanceSport-Federation-FEBD |
-| Breaking | National federation access | French Breaking athletes via FFDanse | France | athlete count | 2026 | WDSF member page (Fédération Française de Danse) | H | https://www.worlddancesport.org/Contacts/National-Administrators-216/France-75 |
-| Breaking | National federation access | Polish Breaking athletes via PZST | Poland | athlete count | 2026 | WDSF event listings (dancestats.eu) | M | https://dancestats.eu/organisations/polski-związek-tanca-sportowego |
-| Breaking | National federation access | UK Breaking athletes via Breaking GB | UK | athlete count | 2026 | breakinggb.org | H | https://breakinggb.org/ |
-| Breaking | National federation access | Dutch Breaking athletes via NADB | Netherlands | athlete count | 2026 | WDSF member page (Nederlandse Algemene Danssport Bond) | H | https://worlddancesport.org/Members/Nederlandse-Algemene-Danssport-Bond |
-| Breaking | National championship | German Breaking Championships (GBC) | Germany | annual competition | 2022-2026 | DTV Breaking page + DTV factsheet 01/2025 | H | https://www.tanzsport.de/de/sportwelt/breaking |
-| Breaking | National championship | Austrian Breaking Championships | Austria | annual competition | 2022-2026 | OetSV Sportservice page | H | https://www.oetsv.at/ |
-| Breaking | National championship | Italian Breaking Championships | Italy | annual competition | 2022-2026 | FIDS/FIDESM breaking news pages | H | https://www.federdanza.it/ |
-| Breaking | National championship | Spanish Breaking Championships | Spain | annual competition | 2022-2026 | FEBD event listings | H | https://www.febd.es/ |
-| Breaking | National championship | French Breaking Championships (Coupe de France breaking) | France | annual competition | 2022-2026 | FFDanse breaking page | H | https://www.ffdanse.fr/disciplines/hip-hop-breaking/breaking |
-| Breaking | National championship | Polish Breaking Championships | Poland | annual competition | 2022-2026 | PZST event listings | M | https://dancestats.eu/competitions/poland-breaking-championships |
-| Breaking | National championship | UK Breaking Championships | UK | annual competition | 2022-2026 | breakinggb.org calendar | H | https://breakinggb.org/ |
-| Breaking | National championship | Dutch Breaking Championships | Netherlands | annual competition | 2022-2026 | NADB programme page | H | https://nadb.nl/ |
-| Sportswear | Sponsorship | Snipes Battle of the Year sponsor | GLOBAL | main sponsor since 2016 | 2016-present | sixstep.de references | H | https://sixstep.de/en/references/snipes |
-| Venues | Dance venues | Dance Base Salzburg | SBG | dance school | 2026 | base45.at | H | https://base45.at/ |
-| Venues | Dance venues | Salsa Studio Salzburg | SBG | latin dance studio | 1991-present | salsastudio.at | H | https://salsastudio.at/ |
-| Venues | Dance venues | Brazilian Zouk Salzburg | SBG | zouk studio | 2026 | zouk-salzburg.com | H | https://zouk-salzburg.com/ |
-| Venues | Dance venues | Salsa Club Salzburg | SBG | latin dance community | 2026 | salsaclub-salzburg.at | H | https://salsaclub-salzburg.at/ |
-| Venues | Dance venues | Tango in Salzburg | SBG | argentine tango | 2026 | salzburg-tango.com | H | https://salzburg-tango.com/ |
-| Venues | Dance venues | Urban Latino Salzburg | SBG | salsa/bachata/kizomba | 2026 | urbanlatino.at | H | https://urbanlatino.at/ |
-| Venues | Sports facilities | Probehaus (Gewerbehofstraße) | SBG | dance studio/venue | 2026 | Multiple sources | H | https://www.stadt-salzburg.at/de/geschichte/1908-1918/probehaus-gewerbehofstrasse |
-| Venues | Sports facilities | Sportzentrum Nord | SBG | multi-purpose sports venue | 2026 | stadt-salzburg.at | H | https://www.stadt-salzburg.at/ |
-| Venues | Outdoor options | Volksgarten (public dance space) | SBG | outdoor dance venue | 2026 | stadt-salzburg.at | H | https://www.stadt-salzburg.at/de/tourismus/freizeit-erholung/kultur/veranstaltungsorte/volksgarten |
-| Venues | Outdoor options | Kajetanerplatz (free salsa workshops) | SBG | outdoor dance venue | 2026 | stadt-salzburg.at | H | https://www.stadt-salzburg.at/de/tourismus/freizeit-erholung/kultur/stadtfestivals/kajetanerplatz |
-| Events | Competitions | Red Bull BC One | GLOBAL | breaking competition | 2004-present | redbull.com | H | https://www.redbull.com/int-en/event-series/bc-one |
-| Events | Competitions | Red Bull Music Academy | GLOBAL | music academy | 1998-2019 | en.wikipedia.org | H | https://en.wikipedia.org/wiki/Red_Bull_Music_Academy |
-| Literature | Academic sources | UNESCO Cultural Indicators (2009) | GLOBAL | cultural participation framework | 2009 | uis.unesco.org | H | https://www.uis.unesco.org/sites/default/files/medias/fichiers/2025/04/unesco-framework-for-cultural-statistics-2009-en_0.pdf |
-| Literature | Academic sources | European Alternatives / Eurobarometer "Cultural Vibrancy" (2013) | GLOBAL | cultural access data | 2013 | europa.eu | M | https://ec.europa.eu/commission/presscorner/detail/en/ip_13_1023 |
-| Literature | Academic sources | JRC Cultural & Creative Cities Monitor (2017/2019) | GLOBAL | city cultural vibrancy index | 2017/2019 | jrc.ec.europa.eu | M | https://composite-indicators.jrc.ec.europa.eu/cultural-creative-cities-monitor/ |
-| Literature | Academic sources | Florida Bohemian–Gay Index (2002/2010) | GLOBAL | scene intensity framework | 2002/2010 | creativeclass.com | H | https://www.creativeclass.com/rfcgdb/articles/There_Goes_the_Neighborhood.pdf |
-| Literature | Academic sources | Scene Theory (Irwin, Straw) (1991/1997) | GLOBAL | scene formation theory | 1991/1997 | tandfonline.com | H | https://www.tandfonline.com/doi/pdf/10.1080/09502389100490311 |
-| Literature | Academic sources | Jane Jacobs Urban Vitality (1961) | GLOBAL | urban vitality framework | 1961 | openlibrary.org | H | https://openlibrary.org/books/OL1742994M/The_Death_and_Life_of_Great_American_Cities |
-| Literature | Academic sources | EU Legislator / ESSnet-Culture Framework (2012/2015) | GLOBAL | cultural participation framework | 2012/2015 | ec.europa.eu | H | https://ec.europa.eu/eurostat/documents/341465/3199631/essnet-culture.pdf |
-| Events | Red Bull BC One details | First edition (2004) | SWI | invitational competition | 2004 | en.wikipedia.org | L/H | https://en.wikipedia.org/wiki/Red_Bull_BC_One |
-| Events | Red Bull BC One details | Qualifier circuit 2007 | GLOBAL | national qualifiers | 2007 | en.wikipedia.org | M | https://en.wikipedia.org/wiki/Red_Bull_BC_One |
-| Events | Red Bull BC One details | Qualifier circuit 2025 | GLOBAL | national qualifiers | 2025 | redbull.com | M | https://www.redbull.com/int-en/event-series/bc-one |
-| Events | Red Bull BC One details | Media evolution VHS/DVD to online | GLOBAL | distribution evolution | 2004-2006 | en.wikipedia.org | H | https://en.wikipedia.org/wiki/Red_Bull_BC_One |
-| Events | Red Bull BC One details | Strategic pivot - camps & B-Girl expansion | GLOBAL | format evolution | 2024 | en.wikipedia.org | M | https://en.wikipedia.org/wiki/Red_Bull_BC_One |
-| Events | Red Bull BC One details | Partnership with World B-Boy Series | GLOBAL | collaboration | 2014 | en.wikipedia.org | M | https://en.wikipedia.org/wiki/Red_Bull_BC_One |
-| Events | Red Bull Music Academy details | Founded (1998) | GLOBAL | music academy | 1998 | en.wikipedia.org | H | https://en.wikipedia.org/wiki/Red_Bull_Music_Academy |
-| Events | Red Bull Music Academy details | Editions (1998-2019) | GLOBAL | annual editions | 1998-2019 | grammy.com | H | https://www.grammy.com/news/red-bull-music-academy-closes-shares-over-two-decades-lectures |
-| Events | Red Bull Music Academy details | City residencies | GLOBAL | international workshops | 1998-2019 | en.wikipedia.org | M | https://en.wikipedia.org/wiki/Red_Bull_Music_Academy |
-| Events | Red Bull Music Academy details | Red Bull Radio launch | GLOBAL | internet radio | 2005 | en.wikipedia.org | H | https://en.wikipedia.org/wiki/Red_Bull_Music_Academy |
-| Events | Red Bull Music Academy details | Announced closure | GLOBAL | programme termination | 2019 | billboard.com | H | https://www.billboard.com/pro/red-bull-music-academy-radio-yadastar-partnership-ending |
-| Events | Red Bull Music Academy details | Actual shutdown | GLOBAL | complete termination | 2019-10-31 | grammy.com | H | https://www.grammy.com/news/red-bull-music-academy-closes-shares-over-two-decades-lectures |
-| Events | Red Bull Music Academy details | Reason for wind-down | GLOBAL | strategic shift | 2019 | pitchfork.com | H | https://pitchfork.com/news/red-bull-music-academy-and-radio-to-shut-down |
-| Events | Red Bull Music Academy details | What replaced it | GLOBAL | new programmes | 2019 | musicbusinessworldwide.com | M | https://www.musicbusinessworldwide.com/red-bull-to-shutter-network-of-global-recording-studios-as-it-cuts-back-on-music |
-| Events | Other brands | Snipes "Beyond Doubt" (2024) | GLOBAL | 2vs2 All-Style battle | 2024 | and8.dance | H | https://and8.dance/en/e/4784 |
-| Events | Other brands | Nike "Never Done Evolving" (2023) | GLOBAL | AI-driven virtual match | 2023 | YouTube (AKQA) | M | https://www.youtube.com/watch?v=dQw4w9WgXcQ |
-| Events | Other brands | Red Bull King of the Air (kiting) | GLOBAL | kiteboarding competition | 2025-2026 | redbull.com | H | https://www.redbull.com/int-en/event-series/king-of-the-air |
-| Events | Other brands | Red Bull Hardline (MTB) | GLOBAL | downhill mountain biking | 2026 | redbull.com | H | https://www.redbull.com/int-en/event-series/hardline |
-| Events | Other brands | Red Bull Faster (Trackmania) | GLOBAL | esports competition | 2026 | redbull.com | H | https://www.redbull.com/int-en/event-series/faster |
+fact_id,place_id,place_type,disc_id,signal_id,value,value_low,value_high,unit,period,evidence_type,confidence,source_id,task_id,notes
+F000001,GLOBAL,global,ALL,ONL,,,,,,not_found,L,,P0.5,Google Trends city-level values not collectible programmatically (ToS); manual UI collection = manual_collection_list item 1 (P4.8)
+F000002,GLOBAL,global,ALL,ORG,100,,,member federations,2024,found,H,S00026,P0.5,"WDSF total members (76 full, 23 provisional, 1 associate per D2)"
+F000003,GLOBAL,global,ALL,ORG,78,,,member federations NOC-recognised,2024,found,H,S00026,P0.5,78 of 100 WDSF member bodies recognised by their NOC (D2)
+F000004,GLOBAL,global,ALL,ORG,90,,,member nations,2026,found,M,S00027,P0.5,IDO over 90 member and contact nations (D2)
+F000005,GLOBAL,global,ALL,ORG,500000,,,dancers represented,2026,found,M,S00027,P0.5,"IDO stated 500,000 dancers represented (homepage read by agent)"
+F000006,AT,country,ALL,ATH,569,,,active athletes,2026,found,M,S00028,P0.5,WDSF member-page athlete count for Tanzsport Austria (all dancesport disciplines)
+F000007,AT,country,URB-BRK,ATH,6,,,breaking athletes,2026,found,M,S00028,P0.5,WDSF member page read by B2 agent
+F000008,DE,country,ALL,ATH,3019,,,active athletes,2026,found,M,S00029,P0.5,"WDSF member-page athlete count for DTV; also 278 stage, 7 professional (B2)"
+F000009,DE,country,URB-BRK,ATH,17,,,breaking athletes,2026,found,M,S00029,P0.5,WDSF member page read by B2 agent
+F000010,AT,country,ALL,ORG,,,,,,not_found,L,,P0.5,Tanzsport Austria total membership/licences not publicly disclosed. D2 checked federation reports. searches: Tanzsport Austria membership/licences
+F000011,DE,country,ALL,ORG,,,,,,not_found,L,,P0.5,"DTV club membership numbers not publicly available (D2). A ~180,000-230,000 total members range is reported by D2 citing association communications without a URL - left out of facts as unverified; F-14/manual item 9"
+F000012,IT,country,ALL,ORG,,,,,,not_found,L,,P0.5,FIDS membership/licence count not publicly disclosed (D2); FIDS real website URL still to find (F-14)
+F000013,ES,country,ALL,ORG,,,,,,not_found,L,,P0.5,FEBD licence numbers not publicly disclosed (D2)
+F000014,FR,country,ALL,ORG,,,,,,not_found,L,,P0.5,FFDanse licence counts not publicly accessible per D2 (ministry data qualitative only)
+F000015,NL,country,ALL,ORG,,,,,,not_found,L,,P0.5,Dutch dancesport body membership not found; D2 mentions a Royal Dutch DanceSport Federation as WDSF member (not re-verified); school member numbers not public - F-14 pending
+F000016,DE,country,ALL,SCH,,,,,,not_found,L,,P0.5,ADTV member-school count not publicly disclosed (D2; association site checked by agent)
+F000017,VIE,city,ALL,PRC,32,,,EUR per hour,2026,stated_by_organiser,H,S00042,P0.5,"Tanzstudio Margit Manhardt: EUR 32/h (50 sqm rooms), EUR 42/h (100 sqm); read by E6 agent, page not re-opened yet"
+F000018,VIE,city,ALL,PRC,18,,,EUR per hour,2026,stated_by_organiser,H,S00043,P0.5,"Diamond Dance Vienna: 5 studios, before/after-15:00 rates 18-65 EUR (small room cheapest)"
+F000019,SBG,city,ALL,PRC,25,,,EUR per hour,2026,stated_by_organiser,H,S00045,P0.5,Salsastudio Salzburg EUR 38/h (2 h minimum); Hotel Santner EUR 30/h (53 sqm; EUR 25/h regular courses per E6)
+F000020,MUC,city,ALL,PRC,30,,,EUR per hour,2026,stated_by_organiser,H,S00047,P0.5,Kult Studio Munich by room size: 40 sqm EUR 45/1h down to 30 (16h); 70 sqm 60-45; 140 sqm 105-75; E6 header wrongly said per month - values are per hour
+F000021,BER,city,ALL,PRC,25,,,EUR per hour,2026,stated_by_organiser,M,S00048,P0.5,Aggregate range across kleinanzeigen.de tanzraum listings (no single organiser); read by E6 agent
+F000022,MIL,city,ALL,PRC,20,,,EUR per hour,2026,stated_by_organiser,H,S00049,P0.5,"Onstage NewAGE Milan: EUR 30/h (65.6 sqm), EUR 20/h (32.4 sqm), plus VAT"
+F000023,INN,city,ALL,PRC,52,,,EUR per hour,2026,stated_by_organiser,H,S00050,P0.5,"Vallazza Innsbruck: EUR 52-64/h small hall, EUR 64-98/h panoramic hall"
+F000024,VIE,city,ALL,SPA,3,,,studios with public hourly prices,2026,inferred,M,S00042,P0.5,Manhardt + Diamonds + SoundCube DJ room (E6)
+F000025,SBG,city,ALL,SPA,2,,,studios with public hourly prices,2026,inferred,M,S00045,P0.5,Salsastudio + Hotel Santner (E6)
+F000026,MUC,city,ALL,SPA,1,,,studio venue with public hourly prices (3 rooms),2026,inferred,M,S00047,P0.5,Kult Studio (E6)
+F000027,MIL,city,ALL,SPA,1,,,studio with public hourly prices,2026,inferred,M,S00049,P0.5,Onstage NewAGE (E6)
+F000028,INN,city,ALL,SPA,1,,,venue with public hourly prices,2026,inferred,M,S00050,P0.5,Vallazza (E6)
+F000029,BCN,city,ALL,PRC,,,,,,not_found,L,,P0.5,No public hourly studio prices found in E6 (search authentication failed); F-22/P4.10 to redo; queries: Barcelona dance studio hourly rental (EN) + sala ensayo alquiler (ES)
+F000030,VIE,city,ALL,POP,2040914,,,persons,,found,H,S00051,P0.5,city proper (Gemeinde Wien); reference year not stated by D5 - harmonise in P4.1 (F-11)
+F000031,VIE,city,ALL,POP,2584000,,,persons (ESPON FUA),,found,L,S00051,P0.5,definition: ESPON FUA 2022; ESPON URL itself not given in D5 - verify in P4.1
+F000032,VIE,city,ALL,STU,192699,,,university students,2022,found,H,S00051,P0.5,Vienna in Figures citing Statistics Austria (WS 2022/23)
+F000033,SBG,city,ALL,POP,157000,,,persons,2024,found,M,S00052,P0.5,"city proper, Statistik Austria 2024"
+F000034,INN,city,ALL,POP,131358,,,persons,2024,found,M,S00052,P0.5,"city proper, Statistik Austria 2024"
+F000035,GRZ,city,ALL,POP,302749,,,persons,2024,found,L,S00054,P0.5,"city proper 2024 via citypopulation.de; D5 also had a duplicated Graz row - not converted | P3: figure NOT confirmed on citypopulation page as read today (page shows 291,731 / 306,971 among others); re-collect from Statistik Austria (P4.1)"
+F000036,MUC,city,ALL,POP,1505005,,,persons,2025,found,H,S00058,P0.5,Eurostat city definition 2025-01-01 via aggregator page - verify in P4.1
+F000037,MUC,city,ALL,POP,3016834,,,persons (Eurostat FUA),2021,found,L,S00057,P0.5,definition: Eurostat FUA 2021
+F000038,MUC,city,ALL,STU,111370,,,university students,2023,inferred,M,S00059,P0.5,"= 74 students per 1,000 residents (urb_ceduc 2023) x 1,505,005 residents"
+F000039,BER,city,ALL,POP,3685265,,,persons,2025,found,M,S00056,P0.5,"city proper (Berlin state), 2025 estimate via citypopulation.de"
+F000040,BER,city,ALL,POP,4979867,,,persons (Eurostat FUA),2021,found,L,S00057,P0.5,definition: Eurostat FUA 2021
+F000041,MIL,city,ALL,POP,1349930,,,persons,2021,found,H,S00060,P0.5,"city proper (comune), census 2021"
+F000042,MIL,city,ALL,POP,3565055,,,persons (Eurostat greater city),2025,found,M,S00061,P0.5,definition: Eurostat greater city (aggregator page - flag)
+F000043,BCN,city,ALL,POP,1729963,,,persons,2026,found,H,S00062,P0.5,municipal register (padro) 2026-01-01
+F000044,BCN,city,ALL,POP,5093585,,,persons (Eurostat FUA),2022,found,H,S00057,P0.5,definition: Eurostat FUA 2022
+F000045,MAD,city,ALL,POP,3339931,,,persons,2022,found,H,S00063,P0.5,municipal register 2022
+F000046,MAD,city,ALL,POP,6982656,,,persons (Eurostat FUA),2022,found,H,S00057,P0.5,definition: Eurostat FUA 2022
+F000047,PAR,city,ALL,POP,13125142,,,persons (FUA),2020,found,L,S00057,P0.5,definition: Paris FUA per Wikipedia/Eurostat table; city-proper (commune ~2.1M) unverified - F-11
+F000048,PAR,city,ALL,POP,,,,,,not_found,L,,P0.5,D5 could not verify Paris commune figure; D5 searches: Eurostat Paris greater city population (D5 search log item 12)
+F000049,AMS,city,ALL,POP,,,,,,not_found,L,,P0.5,No official figure retrieved in D5 (CBS / O+S Amsterdam not queried successfully; Eurostat UA code NL001C) - F-11/P4.1
+F000050,NYC,city,ALL,POP,,,,,,not_found,L,,P0.5,Not in Eurostat scope; US Census to be used in P4.1
+F000051,CLO,city,ALL,POP,,,,,,not_found,L,,P0.5,Not in Eurostat scope; DANE to be used in P4.1
+F000052,GLOBAL,global,ALL,ATH,900,,,athletes supported (Red Bull APC claim),2026,stated_by_organiser,H,S00064,P0.5,"Red Bull APC cites 900+ athletes; global programme claim, NOT a city scene count"
+F000053,GLOBAL,global,ALL,ORG,200,,,disciplines covered (Red Bull APC claim),2026,stated_by_organiser,H,S00064,P0.5,APC cites 200+ disciplines
+F000054,GLOBAL,global,URB-BRK,ONL,4269,,,page views (Jan-Oct 2025),2025,found,H,S00037,P0.5,en.wikipedia Breakdance Jan-Oct 2025 (term-mismatch caveat in D4)
+F000055,GLOBAL,global,CAR-SAL,ONL,123210,,,page views (Jan-Oct 2025),2025,found,H,S00036,P0.5,en.wikipedia Salsa (dance); sauce/music ambiguity flagged; model spot-check Jul-Sep 2025 shows ~10-11k/month - consistent
+F000056,GLOBAL,global,CAR-BCH,ONL,82899,,,page views (Jan-Oct 2025),2025,found,H,S00038,P0.5,en.wikipedia Bachata (dance)
+F000057,GLOBAL,global,URB-BRK,ONL,18016,,,page views (Jan-Oct 2025),2025,found,H,S00039,P0.5,de.wikipedia Breakdance
+F000058,GLOBAL,global,CAR-SAL,ONL,25235,,,page views (Jan-Oct 2025),2025,found,H,S00040,P0.5,de.wikipedia Salsa (Tanz)
+F000059,GLOBAL,global,CAR-BCH,ONL,18103,,,page views (Jan-Oct 2025),2025,found,H,S00041,P0.5,de.wikipedia Bachata
+F000060,DE,country,ALL,SCH,850,,,ADTV member schools,2026,stated_by_organiser,H,S00074,P2/F-14,"ADTV states ""rund 850 ADTV Tanzschulen""; largest teachers association worldwide claimed"
+F000061,DE,country,ALL,ORG,3000,,,dance teachers (ADTV members),2026,stated_by_organiser,H,S00074,P2/F-14,"""ueber 3.000 Tanzlehrenden"""
+F000062,DE,country,ALL,ORG,225000,,,DTV members,2025,stated_by_organiser,H,S00079,P2/F-14,"DTV press kit: 225,000 members in ~2,100 clubs; 21,000 competition athletes; 7,100 licensed pairs"
+F000063,DE,country,URB-BRK,ORG,62,,,clubs offering breaking,2025,stated_by_organiser,H,S00080,P2/F-14,"Breaking factsheet 01/2025; 218,315 memberships (2023); 2 full-time breaking staff; scene events run by private providers"
+F000064,NL,country,ALL,ATH,363,,,active athletes (NADB),2026,found,H,S00081,P2/F-14,WDSF member page: 363 general + 5 professional + 7 breaking + 2 stage
+F000065,NL,country,URB-BRK,ATH,7,,,breaking athletes (NADB),2026,found,H,S00081,P2/F-14,WDSF member page
