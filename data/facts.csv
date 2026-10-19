@@ -39,11 +39,11 @@ F000037,MUC,city,ALL,POP,3016834,,,persons (Eurostat FUA),2021,found,L,S00057,P0
 F000038,MUC,city,ALL,STU,111370,,,university students,2023,inferred,M,S00059,P0.5,"= 74 students per 1,000 residents (urb_ceduc 2023) x 1,505,005 residents"
 F000039,BER,city,ALL,POP,3685265,,,persons,2025,found,M,S00056,P0.5,"city proper (Berlin state), 2025 estimate via citypopulation.de"
 F000040,BER,city,ALL,POP,4979867,,,persons (Eurostat FUA),2021,found,L,S00057,P0.5,definition: Eurostat FUA 2021
-F000041,MIL,city,ALL,POP,1349930,,,persons,2021,found,H,S00060,P0.5,"city proper (comune), census 2021"
+F000041,MIL,city,ALL,POP,1349930,,,persons,2021,found,M,S00060,P0.5,"city proper (comune), census 2021; confidence downgraded to M on 2026-10-20 by source-check rule (not re-opened in this pass)"
 F000042,MIL,city,ALL,POP,3565055,,,persons (Eurostat greater city),2025,found,M,S00061,P0.5,definition: Eurostat greater city (aggregator page - flag)
-F000043,BCN,city,ALL,POP,1729963,,,persons,2026,found,H,S00062,P0.5,municipal register (padro) 2026-01-01
+F000043,BCN,city,ALL,POP,1729963,,,persons,2026,found,M,S00062,P0.5,municipal register (padro) 2026-01-01; downgraded to M: source (ajuntament report) is blocked for plain fetch
 F000044,BCN,city,ALL,POP,5093585,,,persons (Eurostat FUA),2022,found,H,S00057,P0.5,definition: Eurostat FUA 2022
-F000045,MAD,city,ALL,POP,3339931,,,persons,2022,found,H,S00063,P0.5,municipal register 2022
+F000045,MAD,city,ALL,POP,3339931,,,persons,2022,found,M,S00063,P0.5,municipal register 2022
 F000046,MAD,city,ALL,POP,6982656,,,persons (Eurostat FUA),2022,found,H,S00057,P0.5,definition: Eurostat FUA 2022
 F000047,PAR,city,ALL,POP,13125142,,,persons (FUA),2020,found,L,S00057,P0.5,definition: Paris FUA per Wikipedia/Eurostat table; city-proper (commune ~2.1M) unverified - F-11
 F000048,PAR,city,ALL,POP,,,,,,not_found,L,,P0.5,D5 could not verify Paris commune figure; D5 searches: Eurostat Paris greater city population (D5 search log item 12)
@@ -53,11 +53,11 @@ F000051,CLO,city,ALL,POP,,,,,,not_found,L,,P0.5,Not in Eurostat scope; DANE to b
 F000052,GLOBAL,global,ALL,ATH,900,,,athletes supported (Red Bull APC claim),2026,stated_by_organiser,H,S00064,P0.5,"Red Bull APC cites 900+ athletes; global programme claim, NOT a city scene count"
 F000053,GLOBAL,global,ALL,ORG,200,,,disciplines covered (Red Bull APC claim),2026,stated_by_organiser,H,S00064,P0.5,APC cites 200+ disciplines
 F000054,GLOBAL,global,URB-BRK,ONL,127345,,,page views (Jan-Oct 2025),2025,found,H,S00207,P0.5,"Real article 'Breakdancing' (redirect 'Breakdance' resolved); Jan-Oct 2025 total 127,345 views (monthly 10.7k-18.4k). P0.5/D4 value 4269 came from the redirect title; corrected 2026-10-20."
-F000055,GLOBAL,global,CAR-SAL,ONL,123210,,,page views (Jan-Oct 2025),2025,found,H,S00036,P0.5,en.wikipedia Salsa (dance); sauce/music ambiguity flagged; model spot-check Jul-Sep 2025 shows ~10-11k/month - consistent
-F000056,GLOBAL,global,CAR-BCH,ONL,82899,,,page views (Jan-Oct 2025),2025,found,H,S00038,P0.5,en.wikipedia Bachata (dance)
-F000057,GLOBAL,global,URB-BRK,ONL,18016,,,page views (Jan-Oct 2025),2025,found,H,S00039,P0.5,de.wikipedia Breakdance
-F000058,GLOBAL,global,CAR-SAL,ONL,25235,,,page views (Jan-Oct 2025),2025,found,H,S00040,P0.5,de.wikipedia Salsa (Tanz)
-F000059,GLOBAL,global,CAR-BCH,ONL,18103,,,page views (Jan-Oct 2025),2025,found,H,S00041,P0.5,de.wikipedia Bachata
+F000055,GLOBAL,global,CAR-SAL,ONL,123210,,,page views (Jan-Oct 2025),2025,found,M,S00036,P0.5,en.wikipedia Salsa (dance); sauce/music ambiguity flagged; model spot-check Jul-Sep 2025 shows ~10-11k/month - consistent
+F000056,GLOBAL,global,CAR-BCH,ONL,82899,,,page views (Jan-Oct 2025),2025,found,M,S00038,P0.5,en.wikipedia Bachata (dance)
+F000057,GLOBAL,global,URB-BRK,ONL,18016,,,page views (Jan-Oct 2025),2025,found,M,S00039,P0.5,de.wikipedia Breakdance
+F000058,GLOBAL,global,CAR-SAL,ONL,25235,,,page views (Jan-Oct 2025),2025,found,M,S00040,P0.5,de.wikipedia Salsa (Tanz)
+F000059,GLOBAL,global,CAR-BCH,ONL,18103,,,page views (Jan-Oct 2025),2025,found,M,S00041,P0.5,de.wikipedia Bachata
 F000060,DE,country,ALL,SCH,850,,,ADTV member schools,2026,stated_by_organiser,H,S00074,P2/F-14,"ADTV states ""rund 850 ADTV Tanzschulen""; largest teachers association worldwide claimed"
 F000061,DE,country,ALL,ORG,3000,,,dance teachers (ADTV members),2026,stated_by_organiser,H,S00074,P2/F-14,"""ueber 3.000 Tanzlehrenden"""
 F000062,DE,country,ALL,ORG,225000,,,DTV members,2025,stated_by_organiser,H,S00079,P2/F-14,"DTV press kit: 225,000 members in ~2,100 clubs; 21,000 competition athletes; 7,100 licensed pairs"
@@ -71,7 +71,7 @@ F000069,SBG,city,CAR-SAL,SPA,1,1,1,venue,2026,found,H,S00045,P4.2,"Salsa studio 
 F000070,SBG,city,CAR-BCH,SPA,,,,venue,2026,not_found,L,,P4.2,"No dedicated bachata studio rent listed for Salzburg in E6. Salsa studio (Salsastudio.at) offers Latin dance generally; separate bachata-only venue not confirmed. Searches: ""Bachata Salzburg Studio mieten"", ""Salsastudio.at bachata""."
 F000071,SBG,city,CAR-SAL,PRC,38,25,38,EUR/hour,2026,stated_by_organiser,H,S00042,P4.2,"Salzburg studio rental: €38/hour (Salsastudio Salzburg, 80m²) and €30/hour (Hotel Santner Studio, 53m², €25/h for regular courses). Evidence from E6 file read 2026-10-19."
 F000072,INN,city,URB-BRK,LAD,,,,,2026,not_found,L,,P4.2,Partial ladder (same Austrian situation). Innsbruck is listed as Red Bull BC One 2026 stop; no separate local battle/social named in verified sources.
-F000073,INN,city,CAR-SAL,SPA,1,,,venue,2026,found,H,S00050,P4.2,"Vallazza Innsbruck: 120 m² / 150 m² halls, €52–98/hour. Not salsa-specific; general event/dance venue. Source from E6."
+F000073,INN,city,CAR-SAL,SPA,1,,,venue,2026,found,M,S00050,P4.2,"Vallazza Innsbruck: 120 m² / 150 m² halls, €52–98/hour. Not salsa-specific; general event/dance venue. Source from E6."
 F000074,INN,city,CAR-BCH,SPA,,,,venue,2026,not_found,L,,P4.2,No bachata-specific venue rental found for Innsbruck in this session. Vallazza is multi-purpose.
 F000075,VIE,city,URB-BRK,LAD,,,,,2026,not_found,L,,P4.2,Partial ladder (same Austrian situation). No Vienna-specific breaking federation verified in session.
 F000076,VIE,city,CAR-SAL,SPA,2,,,venue,2026,found,H,S00083,P4.2,"Three verified rental spaces: Tanzstudio Margit Manhardt (€32–42/h, 50/100m²); Diamond Dance Vienna (€18–65/h depending on room/time); SoundCube DJ Room (€10/h). Evidence from E6."
