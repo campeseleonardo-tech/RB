@@ -1,108 +1,80 @@
 # Red Bull open application: Dance Scene Atlas (project memory)
 
-Status as of 2026-10-19. Language of the whole project: English.
+Status as of 2026-10-20 (rewritten in full after the third session). Language of the whole project: English. Single source of truth for goals, research questions and decisions; the plans and prompts follow from this file.
 
 ## 1. Context
-- Leonardo Campese plans an open application to Red Bull (target: Product/Project Manager, secondarily technical; Austria first, then Spain or Italy).
-- The application is also a pretext to build a project of his own that shows product/project thinking. It must be specific to Red Bull but reusable in other fields.
-- Budget: up to EUR 1000-2000 only if the idea proves valid. No deadline. A month is fine; it can also be stopped after 2-3 days if not feasible.
-- He has friends in many parts of Red Bull and can ask anywhere. Public-source desk research comes first; an insider validates and completes later.
+- Leonardo Campese plans an open application to Red Bull (target: Product/Project Manager, secondarily technical; Austria first, then Spain or Italy). The project shows product/project thinking and must be specific to Red Bull but reusable.
+- Leonardo dances and teaches salsa and bachata in Salzburg. Latin is his field and his advantage.
+- Hypothesis behind the project: the Latin world (salsa, bachata) is a large market, larger than breaking. To be tested, not assumed.
+- Second use of the same data: if Red Bull is not interested, Leonardo's own project (a congress, an event or another dance project).
+- Budget: up to EUR 1,000-2,000 only if the idea proves valid. No deadline; within 1-2 weeks of collection we decide whether to continue.
+- Friends in many parts of Red Bull: they validate later, they never source data.
 
-## 2. What is taking shape
-One project, divided into sections by priority, kept flexible. Working name: Dance Scene Atlas.
+## 2. Goal
+For each of 15 comparable European cities, have enough comparable, sourced data on **participation, competitions, events, audience and brands**, for breaking and for Latin, to say later where an entry makes sense and where it does not.
 
-Core: a grid of discipline x city. For each cell, how strong the scene is, estimated from community, schools and classes, spaces, events, competitions, athletes present and online interest (keywords, usage data, trends). City is almost an axis of its own.
+- **Breaking is the reference**: Red Bull knows it and is already in it (BC One, Dance Your Style). Its values show what a scene that Red Bull invests in looks like.
+- **Latin is the case under investigation**: Red Bull is not in it. Its values are read against the breaking reference.
+- **Every research question is answered for both**, with the same method, in every city.
+- **The form of an entry** (a Red Bull event or competition, or sponsoring existing events) is a strategic question asked only after the participation data exists. It is not a research question of this phase.
 
-Main goal: estimate what territories and disciplines where Red Bull is absent or only partly present could be worth to it, compared with where it is already present. Red Bull presence is one input, not the centre.
+## 3. Research questions
+Each question: what we want to know, what we count (same way for breaking and Latin), and how breaking calibrates it.
 
-Sections (by relevance):
-- A. Atlas and strength map (core): discipline x city, signals, sources, confidence.
-- B. Red Bull gap view: compare strength with Red Bull's footprint.
-- C. Support gaps and development programme (interconnected): infrastructure, services, spaces, income, beyond sport (his own example: hard to find a place to teach in Salzburg). The programme is a Basement-like / "next generation" idea for athletes, with scouting based on where scenes are big but poorly connected.
-- D. Discipline scorecard: keywords, usage data and trends to weigh how followed disciplines, families and events are; brand fit criteria with adjustable weights.
-- E. Later: "from video to trying it" (help viewers find something to try near them, sponsored or not; Salzburg as a test city), other sports using the same model.
+| # | Question | What we count, per city (or country where noted) | Breaking as reference |
+|---|---|---|---|
+| RQ1 | **Participation: how many people dance it?** | Schools/studios with a weekly class in the style; weekly class slots; weekly or monthly socials (Latin) and jams/open sessions (breaking). Estimated dancers = schools x students per school, as a range, calibrated on Salzburg (Leonardo's ground truth) | Size of the breaking base in cities with a Red Bull stop vs without |
+| RQ2 | **Competitions: is there a circuit to plug into?** | Per country: federations and private circuits active in the style; competitions per year in the city; competitors in the national championship; where the winner goes next (ladder) | National breaking championships and the BC One / DYS qualifier route |
+| RQ3 | **Events: how big is the event market?** | Congresses, festivals, weekenders (Latin) and battles, festivals (breaking) in or near the city per year: size (participants vs spectators, never mixed), ticket price, international reach, organiser | Large breaking events with and without Red Bull |
+| RQ4 | **Audience: does anyone watch?** | Live spectators of competitions and shows; video views of the main competitions and shows (e.g. Latin world and European competitions vs BC One / DYS); size of the main channels | BC One / DYS audience as the benchmark Red Bull already accepts |
+| RQ5 | **Brands: who is already there?** | Red Bull events per city 2024-2026; sponsors named on the official pages of the RQ3 events; brands that own a format | Red Bull's own footprint (already on file) |
 
-Secondary reading: under/over-served cities, computed from the same data.
-Testing inside the data collection, not as a separate tool: the ladder of progression (class, social/jam, local battle, national competition, international competition). Missing rungs would show gaps and scouting points.
+### Leads to verify for RQ2 (not facts yet)
+The earlier research said the Latin scene is "ungoverned": that was wrong or at least incomplete. Leads to check: WDSF and IDO Caribbean / salsa / bachata competitions; national federations with a Caribbean sector (e.g. FIDS in Italy, FEBD in Spain, others per country); private circuits (e.g. World Latin Dance Cup, Euro Salsa Summit, national and world bachata championships); competition sections inside congresses.
 
-## 3. Decisions
-- Pilot disciplines: hip hop family (Red Bull reference) and Caribbean/Latin dance. No third discipline.
-- Taxonomy: family > discipline > sub-style (e.g. Caribbean: salsa Cuban, LA, New York, Puerto Rican). Analyse at discipline level; record sub-styles where scenes differ.
-- Dance first (his slight competitive advantage); the data model is sport-agnostic so other sports can be added.
-- Acrobatic/show-off disciplines (e.g. tricking; Hooked tournament in Amsterdam) are a good Red Bull fit but stay in the background.
-- Cities are chosen objectively, not where he knows people. Europe is the comparable core; non-European cities, if used, are benchmarks only. Open.
-- Sources: public only for now. Red Bull contact validates later.
-- Output: a shareable interactive map plus dataset and report. Tool to be chosen once data exists.
-- Estimates are always ranges with a confidence level; every number needs a source and a date.
+### Reading the answers (to be calibrated once data exists)
+- An entry looks sensible where there are together: a large dancing base (RQ1), an existing competitive or show format (RQ2, RQ3), an audience that watches (RQ4), and no dominant sponsor or Red Bull already there (RQ5).
+- For Leonardo's own event, RQ1 and RQ3 matter most.
+- "Market" always says which one: people who dance or people who watch.
 
-## 4. Dropped or parked
-- Athlete performance data as a personal baseline (VO2 max, reflexes): dropped.
-- Test-vs-simulation framework, personal data vault, organising events, web development: not of interest.
-- Red Bull Ring off race weekends: hard to reach from outside; secondary.
+## 4. Scope
+- **Cities (15):** Salzburg (SBG), Innsbruck (INN), Vienna (VIE), Graz (GRZ), Munich (MUC), Berlin (BER), Milan (MIL), Rome (ROM), Barcelona (BCN), Madrid (MAD), Paris (PAR), Amsterdam (AMS), London (LON), Warsaw (WAW), Zurich (ZRH). Population is kept only as a denominator.
+- **Disciplines:** breaking (URB-BRK) as reference; salsa (CAR-SAL) and bachata (CAR-BCH) as the case. Latin covers both competitions and social congresses.
+- **Out (parked, kept in the files, no more effort):** kizomba, zouk, dancehall and the other hip hop styles; scan and benchmark cities (83 places); Wikipedia pageviews and online-interest indexes; Red Bull finances; public funding, teaching regulation, income and support programmes (old sections C, D, E); students and tourist nights.
 
-## 5. Verified facts so far (access date 2026-10-19)
-- Red Bull Performance (Athlete Performance Center, Salzburg and Los Angeles) lists six service areas for athletes and teams and cites 900+ athletes and 200+ disciplines; no public programme found except a nutrition app mention. Source: https://www.redbullperformance.com/en/services/
-- Red Bull BC One 2026 lists 27 stops (Europe: Madrid, Berlin, Rotterdam, London, Lausanne, Innsbruck, Belgium, Ukraine, Romania, L'Aquila, Aubervilliers); World Final Toronto 29 Nov. Source: https://www.redbull.com/int-en/event-series/red-bull-bc-one
-- Red Bull Dance Your Style 2026: many national finals; World Final listed for Zurich (Hallenstadion) on 24 Oct 2026. Austria: Salzburg qualifier 4 Jul (Domquartier), national final Vienna 28 Aug (Gloriette), 16 dancers. Sources: https://www.redbull.com/int-en/event-series/red-bull-dance-your-style and https://www.vienna.at/red-bull-dance-your-style-2026-national-final-for-the-first-time-at-the-gloriette-in-vienna/10240406
-- Breaking is not in the LA 2028 Olympic programme (reason not given in the article read). Source: https://www.kshb.com/sports/breaking-will-not-be-returning-for-the-2028-olympics-heres-why
-- Red Bull Ring offers driving experiences, tours, winter offers, corporate events and hotels outside race weekends. Source: https://www.redbullring.com/en/news/steiermark-fruehling/
-- Red Bull Basement appears to be an innovation programme for students (university pages), not a sports programme. Example: https://college.h-farm.com/en/news/red-bull-basement-2026-stops-at-h-farm-college/
-- Hooked Tournament: annual tricking event in Amsterdam, 10th edition 19-21 Dec 2025, visitors from 50+ countries; the site does not mention Red Bull. Source: https://hookedtournament.com/
-- Not verified before; now verified (2026-10-19): "Red Bull Next Generation" is real — official page https://www.redbullsport.com/next-generation/2026 : development programme for athletes aged 15-25, Malaysian/Indonesian nationals, all sports incl. esports, application-based, launched first in Malaysia+Indonesia with SE-Asia expansion plans; no Europe.
-- BC One world-final cities 2004-2026 (Wikipedia, accessed 2026-10-19): 2004 Biel ... 2019 Mumbai, 2020 Salzburg (Shigekix/Kastet), 2021 Gdańsk, 2022 New York, 2023 Paris, 2024 Rio (7 Dec), 2025 Tokyo (9 Nov), 2026 Toronto (29 Nov). Salzburg hosted a world final — useful for the application story.
-- Dance Your Style: first edition 2019 Paris; 2020 online challenge; 2021 world final cancelled; 2022 Johannesburg (10 Dec); 2023 Frankfurt; 2024 Mumbai; 2025 Los Angeles. Sources in A2 file.
-- WDSF statement (16 Oct 2023, verified): LA28 alone decided not to include breaking, months before Paris 2024; WDSF pushing Brisbane 2032. Breaking is scheduled at the Dakar 2026 Youth Olympic Games (WDSF news, 15 Oct 2026).
-- Red Bull has no dedicated salsa/bachata/kizomba events or athletes found; closest touchpoints: one-off "Red Bull Breakin' Salsa" Havana 2012 and incidental Latin participation in Dance Your Style (A3 search log). WDSF however runs "Caribbean" dancesport world championships (Alicante, Oct 2026).
-- Non-Red-Bull scene anchors (organiser-stated): Juste Debout Paris 6,000 seats/day; Outbreak Europe 2,000 participants/94 countries; Croatian Summer Salsa Festival 5,000+/~90 countries; Berlin Salsa Congress ~6,000/60+ countries. Red Bull absent from all (B1).
+## 5. Method rules
+1. One countable source per indicator, the same for breaking and Latin in every city; a value is only compared with values measured the same way.
+2. Ranges and a confidence level for every estimate; every number with a source and a date; `not_found` is a valid answer when the search is documented.
+3. Salzburg is the calibration city: Leonardo's own count shows how much the online sources miss.
+4. Platforms that need a login or a real browser (goandance, and8.dance, Google Maps, Instagram, YouTube) are read with a rendered browser or by hand, never guessed.
+5. Public sources only; organisations and public professional figures only; no personal data of private individuals.
+6. Never write "Red Bull absent": use `not_found` with the pages checked (schema rule 8).
 
-## 6. Method notes and risks
-- Catchment is not measurable directly; triangulate top-down (national surveys, federation members), bottom-up (schools x students, event attendance) and digital (Google Trends, public counts).
-- Under/over-served needs comparison with similar cities; culture is the weakest factor. Show ranges and sensitivity.
-- Calibration on the known: measure what a strong scene looks like where Red Bull is present (hip hop/breaking), then look for similar scenes where it is absent. Risk of circularity: Red Bull events may have helped scenes grow.
-- Online scraping of platforms can break their terms; use manual or permitted collection. No personal data of private individuals; only organisations and public professional figures.
-- Informal street scenes are poorly visible online; use local informants (his network) for validation.
-- Risk: scope too wide. Mitigation: two pilot disciplines, funnel from a coarse scan to a few deep dives, go/no-go gates.
+## 6. What we already have, per research question (data/ on 2026-10-20)
+- RQ1: weak. Salsa/bachata counts come from single listing sites and are not comparable; breaking almost empty. 45 suspicious rows flagged (confidence L, notes start with `REVIEW`, review_log L00043-L00048), none deleted.
+- RQ2: breaking ladders per country partly on file; Latin competitions barely looked at (see leads above).
+- RQ3: about 14 large events with organiser-stated sizes (e.g. Juste Debout, IBE, BOTY, Outbreak; Croatian Summer Salsa Festival 5,000, Amsterdam International Salsa Festival 2,000-2,500). No ticket prices, no city-level counts.
+- RQ4: nothing usable (YouTube figures are aggregator estimates, L).
+- RQ5: solid for Red Bull (BC One 2026: 27 stops; DYS 2026: 17 stops; world finals history; 0 Latin events found). Sponsors of non-Red Bull events checked only for a few.
+- Why so little: no official statistic splits dance by style; registries do not classify schools by style; the useful sources are platforms the models could not read; the previous plan asked for everything everywhere instead of one countable number per question.
 
-## 7. Workbook v0 + data/ (after the 2026-10-20 correction pass)
-- data/ holds 11 CSV tables per project/data_schema.md after the correction pass (prompt_data_corrections.md): places 148, disciplines 30, signals 18, sources 205, facts 1314, events 98, organisations 59, athletes 23, redbull_finance 13 (FIN-prefixed), relations 11, review_log 42.
-- quality check: validator OK (0 errors, 1057 warnings) on 1960 rows. See research/progress.md and research/logs/closing_numbers.md.
-- What changed 2026-10-20: cross-city proxies removed; Zurich/Milan/Rome prices via real local pages; BC One 2026 exactly 27 event rows; DYS 2026 verified (17 stops) on redbull.com rendered; all source URLs HTTP-checked (144 opened, 23 blocked); 41 unused sources deleted; Eurostat API pass filled POP/POPY/STU/TOU for the EU places (130 rows); ONL pageviews recomputed for 8 languages x 3 disciplines; YouTube metrics renumbered F000351-354 (inferred L); finance renumbered FIN000001-012.
-- Conflicts found so far kept separate (never averaged): DTV membership basis (F000271/F000272), AISA scale 2,000 vs 2,500 (E000113 vs older row), Juste Debout unsourced older claims (E000066/E000107), FR licences (99,771 for 2024 via ministry dataset now authoritative), STSV member count (not found).
+## 7. Verified facts worth keeping (access date 2026-10-19/20)
+- Red Bull BC One 2026: 27 stops, World Final Toronto 29 Nov 2026. Dance Your Style 2026: 17 stops, World Final Zurich 24 Oct 2026; Austria: Salzburg qualifier 4 Jul, national final Vienna 28 Aug. Sources in data/events.csv.
+- BC One world final in Salzburg in 2020; DYS world finals 2019 Paris, 2022 Johannesburg, 2023 Frankfurt, 2024 Mumbai, 2025 Los Angeles.
+- Breaking is not in the LA 2028 programme (LA28's own decision, WDSF statement 16 Oct 2023); WDSF pushes Brisbane 2032; breaking at the Dakar 2026 Youth Olympic Games.
+- No dedicated Red Bull salsa/bachata event or athlete found (one-off "Red Bull Breakin' Salsa", Havana 2012).
+- Red Bull Next Generation: athletes 15-25, Malaysia and Indonesia first, all sports, no Europe. Red Bull Basement: student innovation programme. Athlete Performance Center: Salzburg and Los Angeles, 900+ athletes, invitation only.
 
-## 8. To-do list
-1. E1 Salzburg pilot: go/no-go (doc E8 protocol + manual item 12).
-2. Insider validation: I4 questions ready.
-3. Building the shareable map (viewer team stage V6) with data/*.csv.
+## 8. Decisions log (short)
+- 2026-10-19: project started as a broad Dance Scene Atlas (discipline x city strength map, sections A-E); data moved to data/*.csv (project/data_schema.md); local viewer built; data collection and correction passes run by external models (prompts in project/prompts/).
+- 2026-10-20 (morning): correction pass; validator OK; 1,314 facts of which 73% `not_found`.
+- 2026-10-20 (third session): analysis of the whole folder (project/analysis_and_plan.md); focus moved to Latin vs breaking; 15 cities only; suspicious rows flagged; viewer rebuilt on real data with two analysis views (to be replaced later).
+- 2026-10-20 (fourth session): research questions RQ1-RQ5 fixed (section 3), each answered for breaking (reference) and Latin (case); entry form postponed to after the data; kizomba/zouk out; everything outside the 15 cities and RQ1-RQ5 parked; the viewer will be rebuilt later as one much simpler page; project/prompts/prompt_market_comparison.md and research/manual_inputs.md section A are on hold until rewritten for RQ1-RQ5.
 
-## 7b. Decisions of 2026-10-19 (second session)
-- Order of work: first fix and complete the data (plan_data_collection.md), in parallel build a view-only viewer (plan_viewer.md); goals and decisions are re-set after both.
-- Data model: CSV tables in data/ (schema in project/data_schema.md); the workbook becomes legacy and is not edited. No scores in this phase: raw values with evidence type, confidence, source and date.
-- Quarantine, not deletion: D7, C3, B5 move to archive/quarantine/ with the problems written at the top; useful content is salvaged elsewhere and they may be redone better (D7 by fragmented collection).
-- Cities: Europe as exhaustive as possible (deep = 15 cities, scan = all other capitals and metros above about 1M); outside Europe only a short benchmark list (about 14), added only if two criteria are met. List is not closed (Appendix A of the plan).
-- Disciplines: breaking and salsa/bachata main effort; other hip hop family styles light effort. E1 Salzburg stays for later.
-- Order of research: first scenes per discipline x city (where more, where less), then what Red Bull does and does not do there. "Why" comes later.
-- Red Bull finances: a bounded task to find what is public (likely no breakdown by department or dance); US weight is measured on countable public data, not assumed.
-- Viewer: view-only, local single HTML file opened by double click; tables, geographic map, concept map, data-quality overview. Insiders (Red Bull people) only validate later, never source data.
-- Executors: external models on opencode; prompts in project/prompts/.
-
-## 7c. Viewer status (2026-10-19)
-- Stages V0 to V5 done: validator, build, double-click rebuild file, tables, overview, grid, geographic map (Natural Earth outlines), concept map, sources, about. All checked on fake sample data; details in viewer/progress.md.
-- V6 (real data) waits: data/ currently fails the validator (112 errors, mostly missing organisation ids, empty event dates, unquoted commas). Data problems are listed in viewer/problems.md for the research model; the viewer never edits data/.
-- Open schema questions (not changed by the viewer work): ID formats for events, organisations, athletes, finance, relations and log; definitions of the signal codes. See viewer/progress.md.
-
-## 7d. Decisions of 2026-10-20 (third session; details in project/analysis_and_plan.md)
-- Focus on Latin (salsa, bachata): Leonardo dances and teaches salsa and bachata in Salzburg. Hypothesis to test, not assume: the Latin world is larger than breaking. Breaking stays as the comparison and as the Red Bull "where not yet present" question.
-- "Market" always says which one: people who dance (classes, socials, congresses) or people who watch (audience, content). Red Bull cares mostly about the second; Leonardo's own event idea about the first.
-- Scope: the 15 deep cities only; scan and benchmark cities parked. Compare inside each city (Latin vs breaking), same method for both.
-- Second use of the data: if Red Bull is not interested, Leonardo's own congress, event or dance project.
-- No deadline. A 1-2 week test decides whether to continue (gates in analysis_and_plan.md section 4.4).
-- 45 suspicious fact rows flagged (confidence L, notes start with REVIEW; review_log L00043-L00048), not deleted.
-- Viewer built on real data (V6) with two new views: City comparison and Breaking vs Latin.
-
-## 8. To-do list (after the 2026-10-20 correction pass)
-0. (2026-10-20, replaces the order below) Market comparison round: collection model runs project/prompts/prompt_market_comparison.md (M1-M6); Leonardo fills research/manual_inputs.md (Trends, groups, Salzburg ground truth); then week-1 feasibility check and week-2 verdict per analysis_and_plan.md.
-1. E1 Salzburg pilot: now covered by the Salzburg ground truth (manual_inputs.md section C).
-2. Rendered-browser pass for the two manual items on Red Bull data (BC One athlete directory; YouTube channel metrics) - research/manual_collection_list.md items 1-2.
-3. Second scan of the scan and benchmark cities (agent first passes are search-records only).
-4. Non-EU benchmark context (POP/STU/TOU) and the 67 missing coordinates.
-5. Note: Dance Your Style World Final Zurich 24 Oct 2026 (verified on the official page, rendered check 2026-10-20).
+## 9. To-do list (in order)
+1. Rewrite the collection prompt around RQ1-RQ5 (one countable source per indicator, both disciplines, 15 cities), replacing prompt_market_comparison.md.
+2. Revise research/manual_inputs.md for RQ1-RQ5 (Salzburg ground truth stays; Google Trends dropped).
+3. Run the collection; Leonardo fills the Salzburg ground truth.
+4. Feasibility check after week 1, verdict after week 2.
+5. Later: rebuild the viewer as one simple page (15 cities x RQ1-RQ5, verified values only, raw tables apart).
+6. Later, after the data: the strategic question (own Red Bull event vs sponsoring existing events) and insider validation.

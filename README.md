@@ -5,7 +5,7 @@ Single source of truth for this project. Language: English. Keep one copy of eve
 ## Structure
 - README.md: this file. Update it whenever the structure changes.
 - atlas_scene_movimento_v0.xlsx: the data workbook (currently in the folder root; to be renamed `dance_scene_atlas.xlsx` and moved to `data/` when convenient). One workbook only, edited in place: no v1, v2, "copy" or "final" versions. History goes into the Decisions sheet.
-- project/project_memory.md: everything decided so far, what is taking shape, verified facts, to-do list. Update in place.
+- project/project_memory.md: goal, research questions (RQ1-RQ5), scope, method rules, verified facts, decisions, to-do list. The single source of truth for what the project is. Update in place.
 - research/research_brief.md: the list of research tasks to hand to the research model.
 - research/results/ (create when results arrive): one file per task, named `<task ID>_<short_name>.md`, for example `A1_redbull_event_inventory.md`.
 
@@ -15,7 +15,7 @@ Single source of truth for this project. Language: English. Keep one copy of eve
 - research/manual_collection_list.md: what Leonardo collects by hand.
 - project/plan_viewer.md: plan for the local data viewer (executed by a coding model).
 - project/analysis_and_plan.md: analysis of the data and of the problem definition; the redefined project (Latin vs breaking in 15 cities), hypotheses, indicators and the two-week plan (v1, 2026-10-20).
-- project/prompts/prompt_market_comparison.md: prompt for the collection model, market comparison round (tasks M1-M6).
+- project/prompts/prompt_market_comparison.md: on hold, to be rewritten around RQ1-RQ5.
 - research/manual_inputs.md: tables Leonardo fills by hand (Google Trends, community groups, Salzburg ground truth); Claude converts them into data/.
 - project/prompts/: the two prompts to give to the models (prompt_data_collection.md, prompt_viewer.md).
 - Created by the executors: data/ (CSV tables), archive/quarantine/, research/logs/, research/progress.md, viewer/ (see below).

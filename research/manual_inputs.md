@@ -1,3 +1,5 @@
+ON HOLD (2026-10-20): section C (Salzburg ground truth) stays valid; sections A and B will be revised for RQ1-RQ5 (project/project_memory.md, to-do 2).
+
 # Manual inputs (Leonardo fills, Claude converts into data/)
 
 Write directly in the tables below; rough is fine. Only organisations and public pages, no names of private people. When done, say so in the chat: Claude turns the tables into rows of data/facts.csv (task_id `MAN`), rebuilds the viewer and logs it. Steps and reasons: research/manual_collection_list.md items 9-11.

@@ -1,3 +1,5 @@
+ON HOLD (2026-10-20): do not run. Superseded by the research questions RQ1-RQ5 in project/project_memory.md (section 3); will be rewritten (to-do 1).
+
 You are the research assistant of the Dance Scene Atlas project (folder C:\projects\Progetti\RB). This round tests one question: in 15 European cities, how large is the salsa/bachata world compared with the breaking world, measured the same way for both? Read first: project/analysis_and_plan.md (sections 3-5), project/data_schema.md (the data contract), README.md. Do not read the 49 result files unless a task names one.
 
 THE 15 CITIES (place_id): SBG Salzburg, INN Innsbruck, VIE Vienna, GRZ Graz, MUC Munich, BER Berlin, MIL Milan, ROM Rome, BCN Barcelona, MAD Madrid, PAR Paris, AMS Amsterdam, LON London, WAW Warsaw, ZRH Zurich.
