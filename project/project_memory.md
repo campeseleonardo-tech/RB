@@ -4,7 +4,7 @@ Status as of 2026-10-21 (rewritten in full after round T). Language of the whole
 
 ## 1. Context
 - Leonardo Campese plans an open application to Red Bull (target: Product/Project Manager, secondarily technical; Austria first, then Spain or Italy). The project shows product/project thinking: a problem, evidence, a decision, a proposal.
-- Leonardo dances and teaches salsa and bachata in Salzburg. Latin is his field and his advantage; he has been at Latin/fitness conventions sponsored by Red Bull (e.g. "Uragano", Terrasini, Sicily).
+- Leonardo dances and teaches salsa and bachata in Salzburg. Latin is his field and his advantage: congresses are long nights of dancing, drinking and moving, a natural context for Red Bull.
 - Second use of the same data: if Red Bull is not interested, Leonardo's own project (a congress, an event or another dance project).
 - Budget: up to EUR 1,000-2,000 only if the idea proves valid. No deadline.
 - Friends in many parts of Red Bull: they validate, they never source data.
@@ -51,7 +51,9 @@ Full tables: research/data_summary.md (re-run research/build_data_summary.py aft
 | RQ1 Participation | Vienna: at least 1 school, 2 weekly slots; Milan nf | Vienna: at least 3 schools, 30 salsa + 5 bachata weekly slots; Milan: at least 8 salsa + 3 bachata | Minimums, confidence L; points to H1 (participation side) |
 | RQ5 Brands | Red Bull dance events 2024-2026 in 9 of 15 cities (none in SBG, GRZ, MUC, MIL, ROM, WAW) | No Red Bull Latin event found in research; sponsors of congresses barely checked | H2 untested |
 
-Leads for H2 (to verify, not facts): "Uragano" multi-convention (fitness, hip hop, Caribbean dance), Citta del Mare, Terrasini, 3-5 May 2013, organiser Master Production, reported by Leonardo as Red Bull sponsored (article: https://livesicilia.it/uragano-il-fitness-a-terrasini/); Red Bull experiential fitness activations, e.g. "Sweat the Deck" with F45 in Chicago (2025, athletechnews.com).
+Lead for H2 (to verify, not a fact): Red Bull runs experiential fitness activations, e.g. "Sweat the Deck" with F45 in Chicago (2025, athletechnews.com).
+
+Social data are expected to be the most telling evidence (H3): round U collects the reach of 30 Latin and 30 breaking professional dancers, about 20 event accounts per world, hashtag volumes and top videos.
 
 ## 7. Verified facts worth keeping (access date 2026-10-19/21)
 - Red Bull BC One 2026: 27 stops, World Final Toronto 29 Nov 2026. Dance Your Style 2026: 17 stops, World Final Zurich 24 Oct 2026; Austria: Salzburg qualifier 4 Jul, national final Vienna 28 Aug.
@@ -63,7 +65,7 @@ Leads for H2 (to verify, not facts): "Uragano" multi-convention (fitness, hip ho
 ## 8. Decisions log (short)
 - 2026-10-19: broad Dance Scene Atlas started; data in data/*.csv (project/data_schema.md); viewer built; collection by external models (prompts in project/prompts/).
 - 2026-10-20: correction pass; analysis of the folder (project/analysis_and_plan.md); focus Latin vs breaking, 15 cities; research questions RQ1-RQ5; round R; data put in order (research/data_summary.md).
-- 2026-10-21: round T reviewed (pilot values are minimums only). Project redefined as the two-markets thesis with hypotheses H1-H4 (sections 2-3); national championship counts parked; social reach (congress accounts, professional dancers' profiles) added as evidence for H3; H4 is an analysis of existing data; targeted round U written (project/prompts/prompt_round_u.md); manual items in research/manual_input.xlsx.
+- 2026-10-21: round T reviewed (pilot values are minimums only). Project redefined as the two-markets thesis with hypotheses H1-H4 (sections 2-3); national championship counts parked; social reach (congress accounts, 30 Latin and 30 breaking professional dancers' profiles, hashtags, top videos) made the main evidence for H3; H4 is an analysis of existing data; targeted round U written (project/prompts/prompt_round_u.md); manual items in research/manual_input.xlsx.
 
 ## 9. To-do list (in order)
 1. Round U (collection model): project/prompts/prompt_round_u.md.
