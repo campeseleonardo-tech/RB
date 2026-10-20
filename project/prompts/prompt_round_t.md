@@ -5,6 +5,7 @@ SCOPE (unchanged)
 - Disciplines: URB-BRK breaking (reference), CAR-SAL salsa and CAR-BCH bachata (case). Kizomba, zouk, dancehall and other hip hop styles: skip.
 
 HOW TO WORK WITHOUT GETTING STUCK (the last round blocked several times)
+0. Git: Leonardo, the owner of the repository, explicitly authorises you to commit on `main` and to `git push origin main` in this project. No other branch is needed.
 1. Tasks T1 to T7 are independent. Do them in order, one at a time. Commit after each task (Italian message naming the task), so the work survives an interruption.
 2. Keep a running log in research/logs/T_round.md: one line per item done or skipped (task, item, result, source id or reason). If you are interrupted, re-read the log and continue from the first item not in it.
 3. Hard limits: 8 searches per item, then write the `not_found` row (searches in notes) and move on. One blocked page never stops a task: mark it `blocked`, add a line to research/manual_collection_list.md, continue with the next item.
