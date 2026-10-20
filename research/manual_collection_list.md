@@ -1,31 +1,24 @@
-# Manual collection list (for Leonardo)
+# Manual collection list (2026-10-20, correction pass)
 
-Things a research model cannot reliably do (login walls, platform rules, charts that do not render, paid documents). Each item says where to look and what to write down. Do them in any order; the research model adds items here when a page is `blocked`. Record results in the sheet/table you prefer (a text note is fine); Claude converts them to `data/*.csv` rows. Always note the **date** and the **URL** of the page you read. Public pages only; no logins into other people's accounts.
+Items that this pass could not finish with the plain HTTP fetch tools. Each line: what, the exact URL(s), what failed.
 
-Time estimates are rough. Priority: **A** = blocks the first comparison, **B** = strengthens it, **C** = later.
-
-| # | Priority | What | Where | What to write down | Time | Task |
-|---|---|---|---|---|---|---|
-| 1 | A | **Google Trends**, interest by city for the keyword list in workbook sheet `Keywords` (or D4 file) | trends.google.com, public UI, region filter by country/city, period "past 5 years", same period for all | Relative index (0-100) per keyword and place, period, a screenshot is enough | 2-3 h | P4.8 |
-| 2 | A | **Red Bull dance athletes** if the model cannot render the directory | redbull.com athlete directory (filter dance/breaking), each country site | Public name, discipline, country/base city, URL | 1 h | P5.4 |
-| 3 | A | **Red Bull YouTube dance channels/series**: subscribers and views as displayed | YouTube pages: Red Bull BBoy / BC One, Red Bull Dance, Dance Your Style playlists | Channel/playlist name, URL, subscribers, total videos, views of the 10 latest videos, date | 1 h | P5.5 |
-| 4 | A | **Number of dance schools per city** by hand-count of results | Google Maps search "breakdance class", "hip hop dance school", "salsa school", "bachata class" in each *deep* city | Count of distinct schools in the first 3 result pages, date, search words | 2 h | P4.2, P4.4 |
-| 5 | A | **Red Bull company accounts**: what each register costs | Austrian Firmenbuch (Red Bull GmbH, Red Bull Media House GmbH), Bundesanzeiger / Unternehmensregister (Germany), Companies House (UK, free), other national registers | Entity name, register number, whether a balance sheet extract exists, price | 1 h | P5.8 |
-| 6 | B | **Ticket prices** for the big events (BC One finals, Dance Your Style, Juste Debout, congresses) | organiser sites, Eventim, Eventbrite, goandance | Event, edition, ticket types and prices, date | 1-2 h | P6.4 |
-| 7 | B | **Facebook/Meetup/Instagram public counts**: followers/members for the main local organisations | public pages only | Org name, platform, URL, count, date | 2 h | P4.2, P4.4 |
-| 8 | B | **Event attendance figures** claimed on organiser pages that require scrolling or are in images/PDF | organisers' press kits, social posts | Event, edition, figure, where it is stated | 1 h | P4.6 |
-| 9 | B | **Federation membership numbers** requested from public annual reports | national dance sport / breaking federation reports | Federation, year, members/licences, URL | 1-2 h | P4.9 |
-| 10 | B | **Eurostat/ national statistics tables** if the model cannot download them | ec.europa.eu/eurostat (urb_cpop1, urb_ceduc, urb_ctour); national statistics offices | Place, measure, year, value, definition | 1-2 h | P4.1 |
-| 11 | B | **Sponsor pages of events** that are images/PDF | organiser sites | Sponsor names per edition | 1 h | P5.1 |
-| 12 | B | **Studio rental prices** for cities missing in E6 (Barcelona, Warsaw, London, Rome...) | studio sites, Peerspace-like platforms | Studio, price per hour, size, date | 1 h | P4.10 |
-| 13 | C | **Viewing-to-participation studies** | Google Scholar: "sport spectatorship participation" "dance television" | Title, year, finding, URL | 1 h | H2 |
-| 14 | C | **Local-expert check** of teaching regulation in the deep cities | a trade office page or a teacher you know | Rule, source, date | per city | P6.2 |
-| 15 | C | **Insiders** (see below): people inside Red Bull who can confirm or correct our findings | your contacts | Answers to the questions in I4_validation_questions.md | later | after Phase 5 |
-
-## What "insider" means
-An insider is a person who works inside Red Bull (or close to it) and can say from experience whether our findings are right, e.g. "Red Bull has no Latin dance programme" or "this event is not ours". We use them only to **validate** what we found in public sources, never as the source of the data. The 10 questions are in `research/results/I4_validation_questions.md`. Not now: after the public data is collected and the main findings are written.
-
-### Aggiornato 2026-10-20 (passo di correzione dei dati)
-- Red Bull BC One directory atleti (JS-rendering): collegamento attivo (rendering parziale: solo 5-6 schede di prova), richiede rimozione checkout cookie; schede visibili: https://www.redbull.com/gb-en/athletes.
-- Metriche canale YouTube Red Bull BC One: pagina canale https://www.youtube.com/@redbullbcone/about (consent login checkout); numeri aggregati di terzi annotati in notasce delle righe fact F000351-F000353.
-- Sponsor/partner 2026 ufficiali DYS per ogni stop nazionale: pagine serie (https://www.redbull.com/int-en/event-series/red-bull-dance-your-style, print era 404) hanno l'elenco a blocchi di 17 fermate ufficiali ufficiali verificato 2026-10-20.
+1. Red Bull BC One athlete directory (roster of Red Bull breaking athletes, needed for P5.4 and the ATH signal).
+   URL: https://www.redbull.com/gb-en/athletes
+   Failure: the page renders through JS; a plain fetch gets only the first hand of sample cards; the discipline filter needs an interactive multi-step click-through, and the directory view in the rendered browser shows only a handful of entries before it stops paginating at no session.
+2. Red Bull BC One YouTube channel metrics (subscribers, video count, total views) for the MED facts F000351-F000353.
+   URL: https://www.youtube.com/@redbullbcone/about
+   Failure: consent login-page (Google cookie wall) in both the plain fetch and the rendered browser; the numbers now on file are third-party aggregator figures kept as `inferred`, confidence L.
+3. BCN Dance Life sponsor page (E000115/E000075 red_bull_involvement).
+   URL: https://bcndancelife.com/
+   Failure: blocked / not reachable by plain fetch; keep `not_checked` until a rendered visit.
+4. Flavourama organiser page (E000081 red_bull_involvement and the exact 2026 date).
+   URL: http://flavourama.at (https site shows an expired certificate)
+   Failure: certificate expired; domain flavourama-battle.com (the domain used in the earlier pass) does not resolve at all.
+5. Google Trends per city and discipline (ONL, relative index).
+   Method: manual search in the Trends UI; not automatable in this environment.
+6. Population, students and tourist nights for the non-EU benchmark cities (LAX, MIA, NYC, YTO, SEL, TYO, MEX, SAO, CLO, HAV, SDQ, SJU, JNB, BOM).
+   Method: national statistics offices (US Census, StatCan, KOSIS, e-Stat, INEGI, IBGE, CUBAINFO, ONE, Jcommunity, SSA, StatsSA, Census India); not done in this pass - the Eurostat setup covers only the EU/EEA places.
+7. Coordinates (lat/lon) still missing for most scan cities whose English Wikipedia article name differs from the name used in places.csv (67 of 85 needed city rows resolved nothing by exact title match).
+   Method: search the local-language article title per city, then re-query the same coordinates API.
+8. STSV (Swiss dancesport) member-club total (the F000279 row is a `not_found` after checks).
+   URL: https://www.dancesport.ch/en/jahresbericht (no member-club count published there); try the German-language report and the STSV club directory if it exists.

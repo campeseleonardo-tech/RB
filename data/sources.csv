@@ -62,7 +62,7 @@ S00083,https://www.tanzstudio-manhardt.com/raumnutzung,www.tanzstudio-manhardt.c
 S00084,https://flavourama-battle.com/,flavourama-battle.com,flavourama-battle.com,organiser,,not_opened,connection error (ERR) during check (2026-10-20)
 S00085,https://www.stadt-salzburg.at/,www.stadt-salzburg.at,www.stadt-salzburg.at,organiser,2026-10-20,opened,
 S00086,https://base45.at/,base45.at,base45.at,organiser,2026-10-20,opened,
-S00087,https://salsastudio.at/ (E6,salsastudio.at,salsastudio.at,organiser,,not_opened,HTTP 404 during check (2026-10-20)
+S00087,https://salsastudio.at/,salsastudio.at,salsastudio.at,organiser,,not_opened,HTTP 404 during check (2026-10-20)
 S00088,https://volkshochschule.at/,volkshochschule.at,volkshochschule.at,organiser,2026-10-20,opened,H4 2026-10-19
 S00089,https://urbanlatino.at/,urbanlatino.at,urbanlatino.at,organiser,2026-10-20,opened,H4 2026-10-19
 S00090,https://www.tanzsport.de/,www.tanzsport.de,www.tanzsport.de,organiser,2026-10-20,opened,E4 file references
@@ -124,7 +124,6 @@ S00148,https://www.redbull.com/gb-en/events/red-bull-bc-one-uk,red-bull-bc-one-u
 S00149,https://www.amsterdam-internationalsalsafestival.com,www.amsterdam-internationalsalsafestival.com (accessed 2026-,www.amsterdam-internationalsalsafestival.com (accessed 2026-10-20),platform,,not_opened,accessed 2026-10-20; connection error (ERR) during check (2026-10-20)
 S00150,https://www.kizomba-paris.com,www.kizomba-paris.com,www.kizomba-paris.com (accessed 2026-10-20),platform,,not_opened,accessed 2026-10-20; connection error (ERR) during check (2026-10-20)
 S00151,https://www.londonsalsacongress.com,www.londonsalsacongress.com,www.londonsalsacongress.com (accessed 2026-10-20),platform,,not_opened,accessed 2026-10-20; connection error (ERR) during check (2026-10-20)
-S00152,https://www.bachat festival london.com (accessed 2026-10-20),www.bachat festival london.com (accessed 2026-10-20),www.bachat festival london.com (accessed 2026-10-20),platform,,not_opened,connection error (ERR) during check (2026-10-20)
 S00153,https://www.ffdanse.fr/disciplines/hip-hop-breaking,hip-hop-breaking,www.ffdanse.fr,organiser,2026-10-20,opened,
 S00154,https://breakinggb.org/,https://breakinggb.org/,breakinggb.org,organiser,2026-10-20,opened,
 S00155,https://nadb.nl/,https://nadb.nl/,nadb.nl,organiser,2026-10-20,opened,

@@ -63,10 +63,11 @@ Testing inside the data collection, not as a separate tool: the ladder of progre
 - Informal street scenes are poorly visible online; use local informants (his network) for validation.
 - Risk: scope too wide. Mitigation: two pilot disciplines, funnel from a coarse scan to a few deep dives, go/no-go gates.
 
-## 7. Workbook v0 + data/ (dopo la sessione dati)
-- data/ holds 11 CSV tables per project/data_schema.md: places 163, disciplines 30, signals 18, sources 154, facts 352, events 129, organisations 25+, athletes 0 (JS-only directory), redbull_finance 12, relations 11, review_log 25.
-- The workbook atlas_scene_movimento_v0.xlsx is LEGACY (not edited since 2026-10-19).
-- Conflicts found so far: 5 (DTV members/scale, IBE audience, Amsterdam ISA scale, Juste Debout unsourced claims, Austrian break federation) - all kept as separate rows with definitions, not averaged.
+## 7. Workbook v0 + data/ (after the 2026-10-20 correction pass)
+- data/ holds 11 CSV tables per project/data_schema.md after the correction pass (prompt_data_corrections.md): places 148, disciplines 30, signals 18, sources 205, facts 1314, events 98, organisations 59, athletes 23, redbull_finance 13 (FIN-prefixed), relations 11, review_log 42.
+- quality check: validator OK (0 errors, 1057 warnings) on 1960 rows. See research/progress.md and research/logs/closing_numbers.md.
+- What changed 2026-10-20: cross-city proxies removed; Zurich/Milan/Rome prices via real local pages; BC One 2026 exactly 27 event rows; DYS 2026 verified (17 stops) on redbull.com rendered; all source URLs HTTP-checked (144 opened, 23 blocked); 41 unused sources deleted; Eurostat API pass filled POP/POPY/STU/TOU for the EU places (130 rows); ONL pageviews recomputed for 8 languages x 3 disciplines; YouTube metrics renumbered F000351-354 (inferred L); finance renumbered FIN000001-012.
+- Conflicts found so far kept separate (never averaged): DTV membership basis (F000271/F000272), AISA scale 2,000 vs 2,500 (E000113 vs older row), Juste Debout unsourced older claims (E000066/E000107), FR licences (99,771 for 2024 via ministry dataset now authoritative), STSV member count (not found).
 
 ## 8. To-do list
 1. E1 Salzburg pilot: go/no-go (doc E8 protocol + manual item 12).
@@ -89,14 +90,9 @@ Testing inside the data collection, not as a separate tool: the ladder of progre
 - V6 (real data) waits: data/ currently fails the validator (112 errors, mostly missing organisation ids, empty event dates, unquoted commas). Data problems are listed in viewer/problems.md for the research model; the viewer never edits data/.
 - Open schema questions (not changed by the viewer work): ID formats for events, organisations, athletes, finance, relations and log; definitions of the signal codes. See viewer/progress.md.
 
-## 8. To-do list
-1. Research list (done). Full research run 2026-10-19 (done): 49 result files in research/results/, index in research/results/INDEX.md. E1 Salzburg pilot stays ON HOLD until Leo says go.
-2. Leo reviews results (start with INDEX.md weak-spots list), then decides: keep/correct city list, and whether to run E1.
-3. Fill the workbook Signals/Grid from the results (D5 city stats first — reference years are inconsistent between countries).
-4. Manual collections the research model could not do: Google Trends via public UI (5 cities), YouTube channel metrics for A6, athlete profiles for A5, ticket prices for F2 (goandance etc.).
-5. Fix known weak spots if they matter for the application: B2 FIDS URL + Dutch dancesport federation; F1/F2 audience-economics data; B5 online-organisation counts.
-6. I4 file has the 10 insider validation questions, ready to use with Red Bull contacts.
-7. Choose the shareable map tool (I2 recommends uMap, backup Google My Maps); build the map from the workbook.
-9. NEW 2026-10-19: give project/prompts/prompt_data_collection.md to the research model and project/prompts/prompt_viewer.md to the coding model; do the manual items in research/manual_collection_list.md (priority A first); check research/progress.md and viewer/progress.md.
-10. NEW: when both plans are finished, load results into the viewer (stage V6), then re-set goals and decisions.
-8. Open: confirm city list and whether to keep non-European benchmark cities; Dance Your Style World Final Zurich 24 Oct 2026 (confirmed by A1/A6).
+## 8. To-do list (after the 2026-10-20 correction pass)
+1. E1 Salzburg pilot: go/no-go.
+2. Rendered-browser pass for the two manual items on Red Bull data (BC One athlete directory; YouTube channel metrics) - research/manual_collection_list.md items 1-2.
+3. Second scan of the scan and benchmark cities (agent first passes are search-records only).
+4. Non-EU benchmark context (POP/STU/TOU) and the 67 missing coordinates.
+5. Note: Dance Your Style World Final Zurich 24 Oct 2026 (verified on the official page, rendered check 2026-10-20).
