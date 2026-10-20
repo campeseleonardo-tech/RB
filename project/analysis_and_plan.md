@@ -1,6 +1,6 @@
 # Project analysis and plan
 
-Status: v1, 2026-10-20. NOTE (fourth session, same day): sections 2 and 3 (diagnosis) still hold; the goal, research questions and scope are now in project/project_memory.md sections 2-4, which replace sections 4 and 5 below (Wikipedia, Google Trends and the M1-M6 indicators are dropped). v0 (same day) analysed the whole folder and proposed a breaking-only framing; Leonardo answered and v1 replaces it. Section 2 keeps the diagnosis of the data, which still holds.
+Status: v1, 2026-10-20. NOTE (fourth session, same day): sections 2 and 3 (diagnosis) still hold; the goal, research questions and scope are now in project/project_memory.md sections 2-4, which replace sections 4 and 5 below (Wikipedia, Google Trends and the M1-M6 indicators are dropped; the collection prompt is project/prompts/prompt_rq_collection.md). v0 (same day) analysed the whole folder and proposed a breaking-only framing; Leonardo answered and v1 replaces it. Section 2 keeps the diagnosis of the data, which still holds.
 
 ## 1. What Leonardo decided (2026-10-20)
 - **Focus on Latin (salsa, bachata).** Leonardo dances and teaches salsa and bachata in Salzburg. His hypothesis: the Latin world is a large market, larger than breaking. The research must test this, not assume it.

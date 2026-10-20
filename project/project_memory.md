@@ -69,10 +69,10 @@ The earlier research said the Latin scene is "ungoverned": that was wrong or at 
 - 2026-10-19: project started as a broad Dance Scene Atlas (discipline x city strength map, sections A-E); data moved to data/*.csv (project/data_schema.md); local viewer built; data collection and correction passes run by external models (prompts in project/prompts/).
 - 2026-10-20 (morning): correction pass; validator OK; 1,314 facts of which 73% `not_found`.
 - 2026-10-20 (third session): analysis of the whole folder (project/analysis_and_plan.md); focus moved to Latin vs breaking; 15 cities only; suspicious rows flagged; viewer rebuilt on real data with two analysis views (to be replaced later).
-- 2026-10-20 (fourth session): research questions RQ1-RQ5 fixed (section 3), each answered for breaking (reference) and Latin (case); entry form postponed to after the data; kizomba/zouk out; everything outside the 15 cities and RQ1-RQ5 parked; the viewer will be rebuilt later as one much simpler page; project/prompts/prompt_market_comparison.md and research/manual_inputs.md section A are on hold until rewritten for RQ1-RQ5.
+- 2026-10-20 (fourth session): research questions RQ1-RQ5 fixed (section 3), each answered for breaking (reference) and Latin (case); entry form postponed to after the data; kizomba/zouk out; everything outside the 15 cities and RQ1-RQ5 parked; the viewer will be rebuilt later as one much simpler page; research/manual_inputs.md sections A-B are on hold until rewritten for RQ1-RQ5; the collection prompt is project/prompts/prompt_rq_collection.md.
 
 ## 9. To-do list (in order)
-1. Rewrite the collection prompt around RQ1-RQ5 (one countable source per indicator, both disciplines, 15 cities), replacing prompt_market_comparison.md.
+1. Done 2026-10-20: collection prompt project/prompts/prompt_rq_collection.md (tasks R1-R5); prompt_market_comparison.md removed.
 2. Revise research/manual_inputs.md for RQ1-RQ5 (Salzburg ground truth stays; Google Trends dropped).
 3. Run the collection; Leonardo fills the Salzburg ground truth.
 4. Feasibility check after week 1, verdict after week 2.

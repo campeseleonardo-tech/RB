@@ -15,7 +15,7 @@ Single source of truth for this project. Language: English. Keep one copy of eve
 - research/manual_collection_list.md: what Leonardo collects by hand.
 - project/plan_viewer.md: plan for the local data viewer (executed by a coding model).
 - project/analysis_and_plan.md: analysis of the data and of the problem definition; the redefined project (Latin vs breaking in 15 cities), hypotheses, indicators and the two-week plan (v1, 2026-10-20).
-- project/prompts/prompt_market_comparison.md: on hold, to be rewritten around RQ1-RQ5.
+- project/prompts/prompt_rq_collection.md: prompt for the collection model, round on the research questions RQ1-RQ5 (tasks R1-R5, 15 cities, breaking and Latin).
 - research/manual_inputs.md: tables Leonardo fills by hand (Google Trends, community groups, Salzburg ground truth); Claude converts them into data/.
 - project/prompts/: the two prompts to give to the models (prompt_data_collection.md, prompt_viewer.md).
 - Created by the executors: data/ (CSV tables), archive/quarantine/, research/logs/, research/progress.md, viewer/ (see below).
