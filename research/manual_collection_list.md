@@ -30,6 +30,7 @@ Items that this pass could not finish with the plain HTTP fetch tools. Each line
 19. T3.1 Switzerland Salsa Festival Biel/Bienne 2026 (E000143): the organizer URL salsa.ch returned a transport error; Switzerland Tourism returned HTTP 406 and Tourisme Bienne Seeland HTTP 410. The event appears in search results for 17-18 Oct 2026, but no official page, size or ticket price could be read.
 20. T3.1 BIG International Milan 2026 (E000139): official page lists USD 275 full pass, but the ECB EUR/USD API for 2026-10-20 returned HTTP 503 (S00329); the required EUR conversion is pending.
 21. T4.1 Ultimate Latin Dance Championship 2026 (E000138): its stored source S00309 is an unrelated Euroson article; no official organizer/sponsor page was identified, so `red_bull_involvement` remains `not_checked`.
+22. T4.2 Latin Red Bull footprint: the localized Red Bull event pages have no usable free-text Salsa/Bachata search (AT `/search?q=salsa` returned Page Not Found; the DE/UK pages did not render event lists). The 30 city/style ORG rows are `not_found`, not zero; a manual search of Red Bull's localized archives is still needed.
 
 ## Added 2026-10-20 (market comparison round, project/analysis_and_plan.md)
 Leonardo fills the tables in research/manual_inputs.md; Claude converts them into data/.

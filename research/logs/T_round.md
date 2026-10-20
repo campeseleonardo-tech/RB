@@ -62,3 +62,33 @@
 - T4.1 — E000134/E000135 Campionati Italiani Assoluti: official FIDS page S00254 names Freddy; added event sponsor relations R000063/R000064; Red Bull remains not_found.
 - T4.1 — E000129 DAT: official results index S00284 has no sponsor section; Red Bull remains not_found.
 - T4.1 — E000072 Amsterdam International Salsa Festival and E000075 BCN Dance Life: official organizer/ticket pages S00181/S00330 show no Red Bull listing; values remain not_found.
+- T4.2 — SBG CAR-SAL not_found, source S00333; localized page has no searchable salsa result; no zero asserted.
+- T4.2 — SBG CAR-BCH not_found, source S00333; localized page has no searchable bachata result; no zero asserted.
+- T4.2 — INN CAR-SAL not_found, source S00333; localized page has no searchable salsa result; no zero asserted.
+- T4.2 — INN CAR-BCH not_found, source S00333; localized page has no searchable bachata result; no zero asserted.
+- T4.2 — VIE CAR-SAL not_found, source S00333; localized page has no searchable salsa result; no zero asserted.
+- T4.2 — VIE CAR-BCH not_found, source S00333; localized page has no searchable bachata result; no zero asserted.
+- T4.2 — GRZ CAR-SAL not_found, source S00333; localized page has no searchable salsa result; no zero asserted.
+- T4.2 — GRZ CAR-BCH not_found, source S00333; localized page has no searchable bachata result; no zero asserted.
+- T4.2 — MUC CAR-SAL not_found, source S00334; event list did not render; no zero asserted.
+- T4.2 — MUC CAR-BCH not_found, source S00334; event list did not render; no zero asserted.
+- T4.2 — BER CAR-SAL not_found, source S00334; event list did not render; no zero asserted.
+- T4.2 — BER CAR-BCH not_found, source S00334; event list did not render; no zero asserted.
+- T4.2 — MIL CAR-SAL not_found, source S00335; page has no Salsa search; no zero asserted.
+- T4.2 — MIL CAR-BCH not_found, source S00335; page has no Bachata search; no zero asserted.
+- T4.2 — ROM CAR-SAL not_found, source S00335; page has no Salsa search; no zero asserted.
+- T4.2 — ROM CAR-BCH not_found, source S00335; page has no Bachata search; no zero asserted.
+- T4.2 — BCN CAR-SAL not_found, source S00336; page has no Salsa search; no zero asserted.
+- T4.2 — BCN CAR-BCH not_found, source S00336; page has no Bachata search; no zero asserted.
+- T4.2 — MAD CAR-SAL not_found, source S00336; page has no Salsa search; no zero asserted.
+- T4.2 — MAD CAR-BCH not_found, source S00336; page has no Bachata search; no zero asserted.
+- T4.2 — PAR CAR-SAL not_found, source S00337; page has no Salsa search; no zero asserted.
+- T4.2 — PAR CAR-BCH not_found, source S00337; page has no Bachata search; no zero asserted.
+- T4.2 — AMS CAR-SAL not_found, source S00338; page has no Salsa search; no zero asserted.
+- T4.2 — AMS CAR-BCH not_found, source S00338; page has no Bachata search; no zero asserted.
+- T4.2 — LON CAR-SAL not_found, source S00339; event list did not render; no zero asserted.
+- T4.2 — LON CAR-BCH not_found, source S00339; event list did not render; no zero asserted.
+- T4.2 — WAW CAR-SAL not_found, source S00340; page has no Salsa search; no zero asserted.
+- T4.2 — WAW CAR-BCH not_found, source S00340; page has no Bachata search; no zero asserted.
+- T4.2 — ZRH CAR-SAL not_found, source S00341; page has no Salsa search; no zero asserted.
+- T4.2 — ZRH CAR-BCH not_found, source S00341; page has no Bachata search; no zero asserted.
