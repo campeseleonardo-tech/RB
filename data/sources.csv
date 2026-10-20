@@ -99,7 +99,7 @@ S00120,https://salsavida.com/guides/italy,italy,salsavida.com,platform,2026-10-2
 S00121,https://salsa.it/,salsa.it (Italian salsa portal),salsa.it,platform,2026-10-20,opened,accessed 2026-10-20
 S00123,https://and8.dance/it/stats/reports/5654,5654,and8.dance,platform,2026-10-20,opened,accessed 2026-10-20
 S00126,https://www.facebook.com/groups/paris.salsa,paris.salsa,www.facebook.com,platform,,not_opened,accessed 2026-10-20; HTTP 400 during check (2026-10-20)
-S00127,https://www.salsavida.com/guides/france/paris,paris,www.salsavida.com,platform,2026-10-20,opened,accessed 2026-10-20
+S00127,https://www.salsavida.com/guides/france/paris,paris,www.salsavida.com,platform,2026-10-20,opened,"Opened 2026-10-20 (R1.3): 54 upcoming events in the next 30 days; weekly socials with names listed (Smile World Montparnasse, Balajo, Comptoir General, Agua Party, La Felicita, Cafe Oz, Quais de Seine, BNF, Rosa Bonheur, OSullivans)."
 S00128,https://gone-dancing.com/fr/paris,paris,gone-dancing.com,platform,,not_opened,accessed 2026-10-20; HTTP 404 during check (2026-10-20)
 S00129,https://www.tanzstudio-aix.fr/paris-salles-danse,paris-salles-danse,www.tanzstudio-aix.fr,platform,,not_opened,accessed 2026-10-20; connection error (ERR) during check (2026-10-20)
 S00130,https://www.bachatapalooza-paris.com/events,events,www.bachatapalooza-paris.com,platform,,not_opened,accessed 2026-10-20; connection error (ERR) during check (2026-10-20)
@@ -112,7 +112,7 @@ S00136,https://www.salsastudio-amsterdam.nl/kennis/prijzen,prijzen,www.salsastud
 S00137,https://www.danceacademy-amsterdam.nl/bachata,bachata,www.danceacademy-amsterdam.nl,platform,,not_opened,accessed 2026-10-20; connection error (ERR) during check (2026-10-20)
 S00138,https://and8.dance/en/e/4009,4009,and8.dance,platform,2026-10-20,opened,accessed 2026-10-20
 S00139,https://www.salsaweeklondon.com/calendar,calendar,www.salsaweeklondon.com,platform,,not_opened,accessed 2026-10-20; connection error (ERR) during check (2026-10-20)
-S00140,https://www.salsavida.com/guides/uk/london,london,www.salsavida.com,platform,2026-10-20,opened,accessed 2026-10-20
+S00140,https://www.salsavida.com/guides/uk/london,london,www.salsavida.com,platform,2026-10-20,opened,"Opened 2026-10-20 (R1.3): 187 upcoming events in the next 30 days; weekly socials with names listed (The Camden, Cafe Sol, Pexava Northfields, Sway Bar, Drayton Court, Salsynergy, Funky Mambo, Salsateca x4, Fulham, Hammersmith, Earls Court, Latin Krazy, Southbank Club, Wimbledon, George IV Chiswick, Lewisham, Dalston, Enfield)."
 S00141,https://gone-dancing.com/uk/london,london,gone-dancing.com,platform,,not_opened,accessed 2026-10-20; HTTP 404 during check (2026-10-20)
 S00142,https://www.salsaonstage.co.uk/pricing,pricing,www.salsaonstage.co.uk,platform,,not_opened,accessed 2026-10-20; connection error (ERR) during check (2026-10-20)
 S00143,https://www.bachatalondon.com/events,events,www.bachatalondon.com,platform,2026-10-20,opened,accessed 2026-10-20
