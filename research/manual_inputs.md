@@ -39,3 +39,27 @@ One row per school or studio that teaches at least one of the three styles, even
 | People who dance it at least once a month in Salzburg (range) | | | |
 | Of these, how many go to festivals or congresses abroad each year (range) | | | |
 | Biggest problem of the scene (one line) | | | |
+
+## YouTube views (research/leonardo_todo.md item 4; only if the model's task T5 fails)
+
+| Competition | Video (latest final / most viewed) | Title | Upload date | Views | Read on (date) | Link |
+|---|---|---|---|---|---|---|
+| Red Bull BC One World Final | latest final | | | | | |
+| Red Bull BC One World Final | most viewed | | | | | |
+| Red Bull Dance Your Style World Final | latest final | | | | | |
+| Red Bull Dance Your Style World Final | most viewed | | | | | |
+| World Latin Dance Cup | latest final | | | | | |
+| World Latin Dance Cup | most viewed | | | | | |
+| World Salsa Summit / The Summit | latest final | | | | | |
+| World Salsa Summit / The Summit | most viewed | | | | | |
+| Euroson Latino | latest final | | | | | |
+| Euroson Latino | most viewed | | | | | |
+| WDSF World Caribbean Championships | latest final | | | | | |
+| WDSF World Caribbean Championships | most viewed | | | | | |
+
+## Sponsor checks (research/leonardo_todo.md item 5)
+
+| Event | Red Bull sponsor or partner? (yes / no / unclear) | Other sponsors named | How you know (page link, poster, own knowledge) | Date |
+|---|---|---|---|---|
+| Flavourama (Salzburg) | | | | |
+| BCN Dance Life | | | | |
