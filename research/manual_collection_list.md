@@ -21,7 +21,7 @@ Items that this pass could not finish with the plain HTTP fetch tools. Each line
    URL: https://www.dancesport.ch/en/jahresbericht (no member-club count published there); try the German-language report and the STSV club directory if it exists.
 
 ## Added 2026-10-20 (R-round, prompt_rq_collection.md) - open items of this round
-12. YouTube video-view facts for R4.2 (most viewed / latest final video per channel): skipped on instruction in this round. Channels verified: @RedBullBCOne (1.21m), @RedBullDance (991k), @wdsfdancesport (292k). Still to check: World Latin Dance Cup, World Salsa Summit, Euroson Latino, and the largest bachata championship channel.
+12. R4.2 video views were skipped on instruction during the R round. T5.1 later checked the listed competitions; unresolved official finals remain item 23.
 13. and8.dance archive: no location filter and no paginated archive (past lists truncated: AT 7 events, main list ~70); q=<city> search is full-text. A per-city 12-month breaking count needs the and8 team or manual browsing. Affects all 15 URB-BRK rows of R2.3 and R3.1.
 14. goandance.com: the location filter cannot be driven reliably (Google Places autocomplete); the country listings lazy-load and only the first ~17 cards render in the browser; past events are delisted. Madrid city events were never captured (affects R3.1 MAD rows); all R3.1 values cover only the window dates still listed.
 16. Campeonato de Espana de Breaking 2026 (E000132): results and competitor count collected from the FEBD PDF (S00314), but the PDF omits the exact date and venue; host page compostelastreet.gal remains blocked (HTTP 403).
@@ -31,9 +31,13 @@ Items that this pass could not finish with the plain HTTP fetch tools. Each line
 20. T3.1 BIG International Milan 2026 (E000139): official page lists USD 275 full pass, but the ECB EUR/USD API for 2026-10-20 returned HTTP 503 (S00329); the required EUR conversion is pending.
 21. T4.1 Ultimate Latin Dance Championship 2026 (E000138): its stored source S00309 is an unrelated Euroson article; no official organizer/sponsor page was identified, so `red_bull_involvement` remains `not_checked`.
 22. T4.2 Latin Red Bull footprint: the localized Red Bull event pages have no usable free-text Salsa/Bachata search (AT `/search?q=salsa` returned Page Not Found; the DE/UK pages did not render event lists). The 30 city/style ORG rows are `not_found`, not zero; a manual search of Red Bull's localized archives is still needed.
+23. T5.1 official YouTube finals still missing: Dance Your Style World Final 2025; World Latin Dance Cup 2025/2026; World Salsa Summit 2025/2026; Euroson Latino 2025/2026; WDSF Caribbean final-specific video (only a 2026 Day 1 stream found); FEBD Campeonato de Espana de Bailes Caribenos 2026 bachata final. Opened official channel pages/search results are in S00311, S00344-S00351; these are recorded as not_found, not inferred view counts.
 
 ## Added 2026-10-20 (market comparison round, project/analysis_and_plan.md)
 Leonardo fills the tables in research/manual_inputs.md; Claude converts them into data/.
 9. Google Trends per city: salsa, bachata and breaking compared as dance topics, past 12 months, city breakdown in each of the 9 countries (indicator I5). About 45 minutes.
 10. Largest public community group per city and style on Meetup and Facebook: name and public member count only (indicator I4). About 1 hour.
 11. Salzburg ground truth: schools, weekly classes, socials, events per year and estimates, from Leonardo's own knowledge as a local teacher (calibration C1). 2-3 hours.
+24. T6 fixed-search school counts in Vienna/Milan: only confirmed minima are on file (F001652-F001656); the first 20 results for all three fixed queries per city/style were not reviewed. Search-result pagination and full named-school reconciliation are deferred; the counts must not be presented as exhaustive.
+25. T6.3 socials/jams: six rows are limited not_found (F001664-F001669); dedicated searches for named recurring events active in 2026 were deferred. Revisit before using the pilot to decide whether to scale.
+26. T6.4 time spent: the interrupted pass did not track minutes separately by city/style; do not infer durations from the log. The task log records this limitation.

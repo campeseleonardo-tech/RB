@@ -86,6 +86,8 @@ Dropped indicators: "competitions held in the city (12 months)" and "events list
 
 - 2026-10-20 (fifth session): R round reviewed; data put in order; research/data_summary.md as the ordered view of the data; expansion priorities in section 6b.
 
+- 2026-10-21: T6 Vienna/Milan pilot recorded as verified minimums only. Fixed-search first-20 result checks, dedicated socials/jams searches and per-cell time tracking remain incomplete; do not scale to 15 cities based on these values.
+
 ## 9. To-do list (in order)
 1. Done 2026-10-20: R round (prompt_rq_collection.md) run; data put in order (56 goandance rows reclassified, WDSF channel fixed); research/data_summary.md generated.
 2. Done 2026-10-20: priorities of section 6b confirmed; round T prompt written (project/prompts/prompt_round_t.md); manual work for Leonardo gathered in one spreadsheet, research/manual_input.xlsx (replaces manual_inputs.md and leonardo_todo.md).

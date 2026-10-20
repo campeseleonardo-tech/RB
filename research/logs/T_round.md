@@ -92,3 +92,26 @@
 - T4.2 — WAW CAR-BCH not_found, source S00340; page has no Bachata search; no zero asserted.
 - T4.2 — ZRH CAR-SAL not_found, source S00341; page has no Salsa search; no zero asserted.
 - T4.2 — ZRH CAR-BCH not_found, source S00341; page has no Bachata search; no zero asserted.
+- T5.1 — Red Bull BC One latest final: 980,053 views, title “Rewatch Red Bull BC One World Final Tokyo 2025”, upload 2025-11-09, source S00342.
+- T5.1 — Red Bull BC One most-viewed full replay candidate: 4,780,353 views, title “WATCH: Red Bull BC One World Final 2019”, upload 2019-11-09, source S00343; highest full-replay result within the 8-search limit, not a ranking of individual battle clips.
+- T5.1 — Red Bull Dance Your Style latest/most-viewed finals not_found: official channel shows 2026 livestream scheduled but no 2025 VOD; third-party results not used (F001636-F001637, S00311/S00351).
+- T5.1 — World Latin Dance Cup latest/most-viewed final not_found: official channel page shows old 2019 uploads; playlist has no video clearly labelled final (F001638-F001639, S00344-S00345).
+- T5.1 — World Salsa Summit latest/most-viewed final not_found: official channel has 2021/2022 competition videos; 2025 competitor clip not official (F001640-F001641, S00346).
+- T5.1 — Euroson Latino latest/most-viewed final not_found: official channel page shows a 2025 trailer but no final video (F001642-F001643, S00348).
+- T5.1 — WDSF Caribbean latest/most-viewed final not_found: official 2026 Alicante video is a Day 1 stream, not a final-specific video; candidate 7,751 views (F001644-F001645, S00349).
+- T5.1 — Largest bachata championship on file E000131: no official FEBD bachata-final video found (F001646-F001647, S00350).
+- T5.1 — Added channel subscribers: WLDC 7.45k, WSS 104k, Euroson 17.8k, The Summit Championship 6.74k (F001648-F001651); existing RB/WDSF channel rows remain F001580-F001582.
+- T6.1 VIE CAR-SAL: 3 verified schools as a minimum: Salsa Vienna, Vienna Salsa Studio, Tumbao (F001652). Fixed search result review incomplete.
+- T6.1 VIE CAR-BCH: 3 verified schools as a minimum, same providers (F001653). Fixed search result review incomplete.
+- T6.1 VIE URB-BRK: 1 verified school as a minimum, Arriola (F001654). Fixed search result review incomplete; undated/stale candidates excluded.
+- T6.1 MIL CAR-SAL: 1 verified school as a minimum, Baila con Migo Milano (F001655). Fixed search result review incomplete.
+- T6.1 MIL CAR-BCH: 1 verified school as a minimum, Baila con Migo Milano (F001656). Fixed search result review incomplete.
+- T6.1 MIL URB-BRK: no current readable weekly timetable verified; not_found F001657, not a zero.
+- T6.2 VIE CAR-SAL: 30 weekly slots across the three confirmed schools (9 + 11 + 10), F001658; minimum only.
+- T6.2 VIE CAR-BCH: 5 weekly slots across the three confirmed schools (2 + 2 + 1 upcoming from 5 Nov), F001659; minimum only.
+- T6.2 VIE URB-BRK: 2 Arriola Breaking slots per week in the current 2026 semester, F001660.
+- T6.2 MIL CAR-SAL: 8 Baila con Migo slots per week, F001661.
+- T6.2 MIL CAR-BCH: 3 Baila con Migo slots per week, F001662.
+- T6.2 MIL URB-BRK: no school verified, so no slot total; not_found F001663, not a zero.
+- T6.3 VIE/MIL x three disciplines: six limited not_found rows F001664-F001669. Dedicated social/jam searches deferred; these do not establish absence.
+- T6.4 Per-city/style time was not tracked during the interrupted pass; exact minutes cannot be recovered without inventing them. Main limits: first-20 search review incomplete, schedules embedded in images/booking widgets, and stale/undated pages. Do not scale the pilot from these minimums.
