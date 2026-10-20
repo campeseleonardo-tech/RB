@@ -953,6 +953,8 @@
       '<p>This page shows the data of the Dance Scene Atlas. It is view only: nothing can be edited here. Corrections are made in the CSV files, then the page is rebuilt.</p>' +
       "<h2>How to read it</h2><ul>" +
       "<li><b>Overview</b>: data quality, gaps and conflicts.</li>" +
+      "<li><b>City comparison</b>: the 15 deep cities side by side for breaking, salsa and bachata, one signal at a time, with a check of whether the values can be compared.</li>" +
+      "<li><b>Breaking vs Latin</b>: what the data says about the size of each world (online interest, large events, national figures, Red Bull footprint) and what is still missing.</li>" +
       "<li><b>Tables</b>: every CSV file. Search, filter, sort, show or hide columns; click a row for its source and related rows.</li>" +
       "<li><b>Grid</b>: places × disciplines, counts only.</li>" +
       "<li><b>Geographic map</b>: places with coordinates; circle size is a count.</li>" +
@@ -961,7 +963,7 @@
       "<h2>Legend and definitions</h2>" +
       '<p class="muted">Taken from the data contract (project/data_schema.md, section 2).</p>' + rows +
       "<h3>Rules</h3><p>" + text("rule_absent") + "</p>" +
-      '<p><b>No scores are shown: raw evidence only.</b> No rankings, no composite indexes.</p>' +
+      '<p><b>No scores are shown: raw evidence only.</b> No rankings, no composite indexes. The two analysis views add only plain sums and ratios, labelled as computed.</p>' +
       "<h2>This build</h2><ul>" +
       "<li>Built: " + esc(BUILD.date) + " from " + esc(BUILD.source) + "</li>" +
       "<li>Fingerprint: " + esc(BUILD.fingerprint) + "</li>" +

@@ -90,8 +90,18 @@ Testing inside the data collection, not as a separate tool: the ladder of progre
 - V6 (real data) waits: data/ currently fails the validator (112 errors, mostly missing organisation ids, empty event dates, unquoted commas). Data problems are listed in viewer/problems.md for the research model; the viewer never edits data/.
 - Open schema questions (not changed by the viewer work): ID formats for events, organisations, athletes, finance, relations and log; definitions of the signal codes. See viewer/progress.md.
 
+## 7d. Decisions of 2026-10-20 (third session; details in project/analysis_and_plan.md)
+- Focus on Latin (salsa, bachata): Leonardo dances and teaches salsa and bachata in Salzburg. Hypothesis to test, not assume: the Latin world is larger than breaking. Breaking stays as the comparison and as the Red Bull "where not yet present" question.
+- "Market" always says which one: people who dance (classes, socials, congresses) or people who watch (audience, content). Red Bull cares mostly about the second; Leonardo's own event idea about the first.
+- Scope: the 15 deep cities only; scan and benchmark cities parked. Compare inside each city (Latin vs breaking), same method for both.
+- Second use of the data: if Red Bull is not interested, Leonardo's own congress, event or dance project.
+- No deadline. A 1-2 week test decides whether to continue (gates in analysis_and_plan.md section 4.4).
+- 45 suspicious fact rows flagged (confidence L, notes start with REVIEW; review_log L00043-L00048), not deleted.
+- Viewer built on real data (V6) with two new views: City comparison and Breaking vs Latin.
+
 ## 8. To-do list (after the 2026-10-20 correction pass)
-1. E1 Salzburg pilot: go/no-go.
+0. (2026-10-20, replaces the order below) Market comparison round: collection model runs project/prompts/prompt_market_comparison.md (M1-M6); Leonardo fills research/manual_inputs.md (Trends, groups, Salzburg ground truth); then week-1 feasibility check and week-2 verdict per analysis_and_plan.md.
+1. E1 Salzburg pilot: now covered by the Salzburg ground truth (manual_inputs.md section C).
 2. Rendered-browser pass for the two manual items on Red Bull data (BC One athlete directory; YouTube channel metrics) - research/manual_collection_list.md items 1-2.
 3. Second scan of the scan and benchmark cities (agent first passes are search-records only).
 4. Non-EU benchmark context (POP/STU/TOU) and the 67 missing coordinates.

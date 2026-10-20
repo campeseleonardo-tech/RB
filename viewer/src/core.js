@@ -481,7 +481,8 @@
   /* ---------- navigation ---------- */
   var VIEWS = {};
   var NAV = [
-    ["overview", "Overview"], ["tables", "Tables"], ["grid", "Grid"], ["map", "Geographic map"],
+    ["overview", "Overview"], ["compare", "City comparison"], ["market", "Breaking vs Latin"],
+    ["tables", "Tables"], ["grid", "Grid"], ["map", "Geographic map"],
     ["concept", "Concept map"], ["sources", "Sources"], ["about", "About"]
   ];
 

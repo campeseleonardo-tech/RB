@@ -4,7 +4,7 @@
 Run:  python viewer/build_viewer.py [folder]
 Reads data/ when it holds at least one data row, otherwise viewer/sample_data/ (the page then
 shows a SAMPLE DATA banner). Stops with the validator messages if the data has errors.
-Inlined: viewer/src/page.html, viewer/src/core.js, viewer/src/views.js, viewer/lib/countries_110m.json.
+Inlined: viewer/src/page.html, viewer/src/core.js, viewer/src/analysis.js, viewer/src/views.js, viewer/lib/countries_110m.json.
 The legend text in the About page is read from project/data_schema.md, so it matches the schema.
 Standard library only; the result needs no internet.
 """
@@ -23,7 +23,8 @@ sys.path.insert(0, HERE)
 from validate_data import check_folder, pick_folder, TABLES  # noqa: E402
 
 SRC_PAGE = os.path.join(HERE, "src", "page.html")
-SRC_JS = [os.path.join(HERE, "src", "core.js"), os.path.join(HERE, "src", "views.js")]
+SRC_JS = [os.path.join(HERE, "src", "core.js"), os.path.join(HERE, "src", "analysis.js"),
+          os.path.join(HERE, "src", "views.js")]
 GEO_FILE = os.path.join(HERE, "lib", "countries_110m.json")
 SCHEMA_FILE = os.path.join(ROOT, "project", "data_schema.md")
 OUT_PAGE = os.path.join(HERE, "atlas.html")

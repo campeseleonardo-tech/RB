@@ -14,7 +14,9 @@ Single source of truth for this project. Language: English. Keep one copy of eve
 - research/plan_data_collection.md: plan to fix, finish and complete the data collection (executed by a research model).
 - research/manual_collection_list.md: what Leonardo collects by hand.
 - project/plan_viewer.md: plan for the local data viewer (executed by a coding model).
-- project/analysis_and_plan.md: analysis of the data and of the problem definition, proposed objectives and action plan (draft, 2026-10-20; open questions in section 7).
+- project/analysis_and_plan.md: analysis of the data and of the problem definition; the redefined project (Latin vs breaking in 15 cities), hypotheses, indicators and the two-week plan (v1, 2026-10-20).
+- project/prompts/prompt_market_comparison.md: prompt for the collection model, market comparison round (tasks M1-M6).
+- research/manual_inputs.md: tables Leonardo fills by hand (Google Trends, community groups, Salzburg ground truth); Claude converts them into data/.
 - project/prompts/: the two prompts to give to the models (prompt_data_collection.md, prompt_viewer.md).
 - Created by the executors: data/ (CSV tables), archive/quarantine/, research/logs/, research/progress.md, viewer/ (see below).
 
@@ -22,10 +24,10 @@ Single source of truth for this project. Language: English. Keep one copy of eve
 - To look at the data: double-click `viewer/atlas.html` (one self-contained page, works offline).
 - To update it after data changes: double-click `viewer/rebuild_viewer.bat`. It checks the data first and rebuilds the page, or stops with the messages to fix.
 - viewer/validate_data.py: checks data/*.csv against project/data_schema.md (section 4). Run by the `.bat`.
-- viewer/build_viewer.py and viewer/src/ (page.html, core.js, views.js): build script and page source. viewer/lib/ holds the map outlines with their licence (LICENCES.md).
+- viewer/build_viewer.py and viewer/src/ (page.html, core.js, analysis.js, views.js): build script and page source. viewer/lib/ holds the map outlines with their licence (LICENCES.md).
 - viewer/sample_data/: fake data for tests only; the page shows a SAMPLE DATA banner whenever it is not built from data/.
 - viewer/progress.md: what each viewer stage built, tested and left open. viewer/problems.md: data problems found by the validator, for the research model.
-- Status (2026-10-19): stages V0 to V5 done on sample data; V6 (real data) waits until data/ passes the validator. The `.bat` stops on purpose while it does not.
+- Status (2026-10-20): V6 done: atlas.html is built from data/ (validator OK). New views: City comparison (15 cities x breaking/salsa/bachata, one signal and one unit at a time, with a comparability check) and Breaking vs Latin (online interest, large events, national figures, Red Bull footprint, what is missing).
 
 ## Planned (create only when needed)
 - data/: the CSV tables of the data schema (the workbook is kept as legacy, read-only for now).

@@ -22,3 +22,9 @@ Items that this pass could not finish with the plain HTTP fetch tools. Each line
    Method: search the local-language article title per city, then re-query the same coordinates API.
 8. STSV (Swiss dancesport) member-club total (the F000279 row is a `not_found` after checks).
    URL: https://www.dancesport.ch/en/jahresbericht (no member-club count published there); try the German-language report and the STSV club directory if it exists.
+
+## Added 2026-10-20 (market comparison round, project/analysis_and_plan.md)
+Leonardo fills the tables in research/manual_inputs.md; Claude converts them into data/.
+9. Google Trends per city: salsa, bachata and breaking compared as dance topics, past 12 months, city breakdown in each of the 9 countries (indicator I5). About 45 minutes.
+10. Largest public community group per city and style on Meetup and Facebook: name and public member count only (indicator I4). About 1 hour.
+11. Salzburg ground truth: schools, weekly classes, socials, events per year and estimates, from Leonardo's own knowledge as a local teacher (calibration C1). 2-3 hours.
