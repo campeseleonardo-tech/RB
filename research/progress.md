@@ -1,47 +1,33 @@
-# Progress (rewritten honestly 2026-10-20 after the data-correction pass)
+# Progress - R-round (prompt_rq_collection.md), 2026-10-20
 
-State after prompt_data_corrections.md (independent review pass): Blocks 1-2 executed end to end; Block 3 done for the automatable parts plus agent-run first passes; Block 4 checks run and closing numbers rewritten.
+## Rows written (facts unless said)
+- R5.1: 15/45 (URB-BRK; every 2026 stop checked on redbull.com rendered). CAR rows missing: they need the R2/R3 event pages checked first (rule of the task).
+- R2.1: 11 orgs + 37 relations + 28 sources; every 9x3 country cell has an organiser or a documented search.
+- R2.2: 27/27. Competitor counts from results for 6 cells (DE brk 107, FR brk 125, FR sal/bch 65 entries, ES sal/bch 123); 21 not_found (results split in per-segment pages or PDF).
+- R2.3: 45/45, all limited: breaking side not measurable (and8 has no location filter or archive, notes document it); Latin side = 0 at listing level, 2 not_found (MAD capture).
+- R2.4: 11 relations + research/logs/R2.4_ladders.md (27 lines).
+- R3.1: 45/45 - and8 side not measurable (same platform limit); goandance side: values are events still listed in the window (platform delists the past - the notes name the beyond-window listings); 2 not_found (MAD).
+- R3.2: 45 cells: 8 named events (6 breaking, 2 Latin) + 37 not_found; 1 countries fact found (BER 60+), 0 prices found.
+- R1.3: 4/45 (PAR, LON x salsa/bachata, from opened Salsa Vida guides).
+- R1.1, R1.2, R1.4: 0/45 each - not started (see open questions).
+- R1.5: 45/45 decided: 45 converted to not_found (agent-invented city averages, wrong cities/disciplines, 2 contradicted PZST claims); log L00054-L00056.
+- R4.1: 6 facts (Basel DYS 1,000+ spectators, Juste Debout 6,000 seats/day; 4 not_found). R4.2: 3 channels done (BC One 1.21m, Red Bull Dance 991k, WDSF 292k), video views skipped on instruction.
+- R5.2: partial: 7 events red_bull_involvement set (not_found), 2 sponsor relations (Freddy, Make Up For Event); the rest stays not_checked (manual list item 18).
 
-## Blocks of the correction pass - what status
-1. Block 1 (wrong facts): **done with 3 exceptions**
-   - F000054 pageviews fixed (real article "Breakdancing", 127,345 views Jan-Oct 2025); all 8 languages recomputed where article exists.
-   - Zurich/Milan/Rome prices re-sourced to real local pages (Tanzhaus Zuerich, LORDZ, Salsa People, PalBailador, AXcent, Basesana, Emozione Danza).
-   - Ladder facts re-stated per country with named rung examples (febd.es, swissbreaking.ch, and8.dance FR, ministry dataset for FR licences, tanzsport.de factsheet).
-   - YouTube metrics renumbered F000351-354 (inferred L, GLOBAL). Finance renumbered FIN000001-012, cans 2024 figure relabelled `inferred`.
-   - Country participation: ISTAT/CBS/DTV/FR-ministry verified; DE-26000/CH-17clubs/ES-3000teachers rows now `not_found` with searches.
-   - sources.csv cleaned (51 malformed URLs, 41 unused deleted), every URL HTTP-checked.
-   - Exceptions: STSV member count not verifiable; ffdanse.fr JS-walled (FR figures came from the ministry dataset instead).
-2. Block 2 (events): **done with 2 items open**
-   - Duplicates and wrong-place rows fixed (23 rows merged or deleted; BC One 2026 = 27 rows; DYS 2026 verified 17 official stops on redbull.com rendered).
-   - Series names fixed; 21 organiser ids filled (6 new orgs); scale values set where the organiser page states them.
-   - Open: E000081 Flavourama and E000115 BCN Dance Life red_bull_involvement (sponsor pages unreachable; manual list).
-3. Block 3 (missing coverage): **partly done**
-   - POP/POPY/STU/TOU collected for the EU places via the Eurostat dissemination API (130 rows); non-EU benchmark cities missing.
-   - ONL pageviews: 3 disciplines x 8 languages with real article titles.
-   - Lat/lon filled for 18 cities; duplicate Zurich row merged.
-   - Scan cities and benchmark cities: agent-run first passes merged (806 rows), but 92 of 98 "value" claims by the agents failed a cross-check of the quoted pages and were downgraded to `not_found` with the searches recorded; 6 survived verification.
-   - Not done: deep second scans for the scan cities, benchmark-city deep checks, 67 coordinates, Red Bull directory athletes, Google Trends.
-4. Block 4 (close): **done** with the checks below.
+## Where one side could not be measured, and why
+- and8.dance (all 15 cities, R2.3 + R3.1 breaking): no location filter, no pagination; q-search is full-text.
+- goandance.com: past events delisted; city filter interaction failed; lazy-load stops at ~17 cards (Madrid never captured).
 
-## Block 4 check results (run at close)
-- No fact cites a source-host country different from the place (checked: only international WDSF/and8/Eurostat hosts remain, as allowed).
-- Notes naming other cities: scanned after the proxy pass; the remaining mentions are inside `not_found` rows describing WHAT WAS Searched, not values.
-- No source URL with spaces; no event with `not_checked` after the two manual-list exceptions.
-- Every deep city x signal cell for breaking, salsa and bachata: 353/360 present (7 documented gaps, listed in closing_numbers.md).
-- BC One 2026 = exactly 27 rows.
-- Validator: `python viewer/validate_data.py` -> 0 errors, 1057 warnings.
+## What failed / corrections
+- E000032 corrected Salzburg -> Basel (official DYS calendar); E000033/E000034 flagged (not on the official calendar).
+- goandance country code is GB, not UK (UK filter silently returned the global list).
+- Two ID-format batches (F+7 digits) were written and fixed in place; validator OK.
 
-## Final numbers
-- facts: 1314 rows - 328 found, 14 stated_by_organiser, 13 inferred, 959 not_found.
-- events: 98 rows; places: 148; orgs: 59; athletes: 23; sources: 205; relations: 11; review_log: 42.
-- 5 source conflicts recorded on file (kept as separate rows, never averaged) - see the conflict notes on F000271/F000272, F000041, F000113 vs E000113 style rows, the AISA 2,000 vs 2,500 pair.
+## Open questions for Leonardo (max 5)
+1. R1.1/R1.2 (school searches, 3 fixed queries x 45 cells) and R1.4: shall I run them in a dedicated session city by city? They are the biggest gap.
+2. R5.1 CAR rows + R5.2 rest: after a pass on the sponsor pages of the R2/R3 events - approve the not_checked -> manual list trade-off?
+3. The DYS Vienna/Spielberg 28 Jun rows (E000033/E000034): keep hunting or mark wrong?
+4. A scripted count of the FIDS/TopTurnier per-segment results (IT, DE) would fill 4 R2.2 count cells - worth a small script?
+5. The viewer's unit labels must match the new unit strings ("Red Bull dance events 2024-2026" etc.) - rebuild needed.
 
-## Remaining (max 15 lines, all listed also in manual_collection_list.md)
-1. Two `not_checked` sponsor pages (manual list items 3, 4).
-2. Rendered-browser pass: BC One athlete directory (item 1), YouTube channel metrics (item 2).
-3. Google Trends onl per city (item 5).
-4. Non-EU benchmark city context (POP/STU/TOU etc., item 6).
-5. 67 coordinates by local-language search (item 7).
-6. STSV member-club count (item 8).
-7. Second scans/second pass for the scan and benchmark cities.
-8. Note: the subagent first passes are kept as search-records only; their non-verified value claims are all downgraded to not_found.
+Validator: 0 errors, 1317 warnings. Final counts: facts 1,582 (1,173 not_found), events 113, orgs 72, relations 61, sources 267, review_log 56.
