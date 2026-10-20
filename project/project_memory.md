@@ -88,7 +88,7 @@ Dropped indicators: "competitions held in the city (12 months)" and "events list
 
 ## 9. To-do list (in order)
 1. Done 2026-10-20: R round (prompt_rq_collection.md) run; data put in order (56 goandance rows reclassified, WDSF channel fixed); research/data_summary.md generated.
-2. Done 2026-10-20: priorities of section 6b confirmed; round T prompt written (project/prompts/prompt_round_t.md); research/manual_inputs.md reduced to the Salzburg ground truth.
+2. Done 2026-10-20: priorities of section 6b confirmed; round T prompt written (project/prompts/prompt_round_t.md); manual work for Leonardo gathered in one spreadsheet, research/manual_input.xlsx (replaces manual_inputs.md and leonardo_todo.md).
 3. Run round T (collection model); Leonardo fills the Salzburg ground truth; then Claude reviews round T (every number against its source).
 4. After the round: verdict on the hypothesis per RQ.
 5. Later: rebuild the viewer as one simple page (15 cities x RQ1-RQ5, verified values only, raw tables apart).
