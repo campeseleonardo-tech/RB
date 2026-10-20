@@ -88,8 +88,8 @@ Dropped indicators: "competitions held in the city (12 months)" and "events list
 
 ## 9. To-do list (in order)
 1. Done 2026-10-20: R round (prompt_rq_collection.md) run; data put in order (56 goandance rows reclassified, WDSF channel fixed); research/data_summary.md generated.
-2. Leonardo confirms the expansion priorities (section 6b).
-3. Write the next prompt along section 6b (RQ2 counts, RQ3 per country, RQ4 views, RQ1 pilot in Vienna and Milan); revise research/manual_inputs.md (Salzburg ground truth for the RQ1 pilot; Google Trends dropped).
+2. Done 2026-10-20: priorities of section 6b confirmed; round T prompt written (project/prompts/prompt_round_t.md); research/manual_inputs.md reduced to the Salzburg ground truth.
+3. Run round T (collection model); Leonardo fills the Salzburg ground truth; then Claude reviews round T (every number against its source).
 4. After the round: verdict on the hypothesis per RQ.
 5. Later: rebuild the viewer as one simple page (15 cities x RQ1-RQ5, verified values only, raw tables apart).
 6. Later, after the data: the strategic question (own Red Bull event vs sponsoring existing events) and insider validation.
