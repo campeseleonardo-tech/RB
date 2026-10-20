@@ -6,20 +6,20 @@ GRZ,city,Graz,AT,europe,deep,city,47.07,15.44,promoted from reserve to deep in s
 MUC,city,Munich,DE,europe,deep,city,48.14,11.58,"large, German-speaking",Workbook city 4.
 BER,city,Berlin,DE,europe,deep,city,52.52,13.4,very large; BC One cypher 2026,Workbook city 5.
 MIL,city,Milan,IT,europe,deep,city,45.46,9.19,large Italian scene,Workbook city 6.
-ROM,city,Rome,IT,europe,deep,city,,,"capital, metro above 1M (Appendix A criterion 1)",
+ROM,city,Rome,IT,europe,deep,city,41.89333333,12.48277778,"capital, metro above 1M (Appendix A criterion 1)",; coords from Wikipedia coordinates (en.wiki article: https://en.wikipedia.org/wiki/Rome)
 BCN,city,Barcelona,ES,europe,deep,city,41.39,2.17,large; strong Latin scene expected,Workbook city 7.
 MAD,city,Madrid,ES,europe,deep,city,40.42,-3.7,"capital, very large; BC One cypher 2026; promoted from reserve (memory 7b)",
 PAR,city,Paris,FR,europe,deep,city,48.86,2.35,"capital, very large; BC One world final 2023 and cypher 2026 (Aubervilliers); promoted from reserve (memory 7b)",
 AMS,city,Amsterdam,NL,europe,deep,city,52.37,4.9,"medium; DYS world final relevant, clinic scene",Workbook city 8. Rotterdam (BC One cypher 2026) nearby.
-LON,city,London,UK,europe,deep,city,,,"capital, metro above 1M (Appendix A criterion 1); BC One cypher + DYS national final 2026 (criterion 3)",
-WAW,city,Warsaw,PL,europe,deep,city,,,"capital, metro above 1M (Appendix A criterion 1)",
-ZRH,city,Zurich,CH,europe,deep,city,,,DYS world final 2026 (criterion 3); BC One world final 2018 (criterion 2),
-LIS,city,Lisbon,PT,europe,scan,city,,,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan
-OPO,city,Porto,PT,europe,scan,city,,,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan
-VLC,city,Valencia,ES,europe,scan,city,,,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan
+LON,city,London,UK,europe,deep,city,51.50722222,-0.1275,"capital, metro above 1M (Appendix A criterion 1); BC One cypher + DYS national final 2026 (criterion 3)",; coords from Wikipedia coordinates (en.wiki article: https://en.wikipedia.org/wiki/London)
+WAW,city,Warsaw,PL,europe,deep,city,52.23,21.01111111,"capital, metro above 1M (Appendix A criterion 1)",; coords from Wikipedia coordinates (en.wiki article: https://en.wikipedia.org/wiki/Warsaw)
+ZRH,city,Zurich,CH,europe,deep,city,47.37444444,8.54111111,DYS world final 2026 (criterion 3); BC One world final 2018 (criterion 2),; coords from Wikipedia coordinates (en.wiki article: https://en.wikipedia.org/wiki/Zurich)
+LIS,city,Lisbon,PT,europe,scan,city,38.72527778,-9.15,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan; coords from Wikipedia coordinates (en.wiki article: https://en.wikipedia.org/wiki/Lisbon)
+OPO,city,Porto,PT,europe,scan,city,41.15,-8.6108,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan; coords from Wikipedia coordinates (en.wiki article: https://en.wikipedia.org/wiki/Porto)
+VLC,city,Valencia,ES,europe,scan,city,39.47,-0.37638889,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan; coords from Wikipedia coordinates (en.wiki article: https://en.wikipedia.org/wiki/Valencia)
 SVQ,city,Sevilla,ES,europe,scan,city,,,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan
-LYN,city,Lyon,FR,europe,scan,city,,,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan
-MRS,city,Marseille,FR,europe,scan,city,,,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan
+LYN,city,Lyon,FR,europe,scan,city,45.7675,4.835,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan; coords from Wikipedia coordinates (en.wiki article: https://en.wikipedia.org/wiki/Lyon)
+MRS,city,Marseille,FR,europe,scan,city,43.2964,5.37,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan; coords from Wikipedia coordinates (en.wiki article: https://en.wikipedia.org/wiki/Marseille)
 MTP,city,Montpellier,FR,europe,scan,city,,,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan
 BRU,city,Brussels,BE,europe,scan,city,,,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan
 RTM,city,Rotterdam,NL,europe,scan,city,,,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan
@@ -46,15 +46,15 @@ CPH,city,Copenhagen,DK,europe,scan,city,,,criterion 1: European metro area above
 STO,city,Stockholm,SE,europe,scan,city,,,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan
 OSL,city,Oslo,NO,europe,scan,city,,,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan
 HEL,city,Helsinki,FI,europe,scan,city,,,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan
-DUB,city,Dublin,IE,europe,scan,city,,,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan
-MCM,city,Manchester,UK,europe,scan,city,,,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan
-BHM,city,Birmingham,UK,europe,scan,city,,,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan
-LAA,city,Lausanne,CH,europe,scan,city,,,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan
-ALM,city,Almaty,KZ,asia,scan,city,,,criterion 3: event city (Red Bull or major scene); not part of the Appendix A scan workload,event city only; collect EVT/CMP only if an event row is added later
-DNV,city,Denver,US,north_america,scan,city,,,criterion 3: event city (Red Bull or major scene); not part of the Appendix A scan workload,event city only; collect EVT/CMP only if an event row is added later
-SEA,city,Seattle,US,north_america,scan,city,,,criterion 3: event city (Red Bull or major scene); not part of the Appendix A scan workload,event city only; collect EVT/CMP only if an event row is added later
-DET,city,Detroit,US,north_america,scan,city,,,criterion 3: event city (Red Bull or major scene); not part of the Appendix A scan workload,event city only; collect EVT/CMP only if an event row is added later
-SDG,city,San Diego,US,north_america,scan,city,,,criterion 3: event city (Red Bull or major scene); not part of the Appendix A scan workload,event city only; collect EVT/CMP only if an event row is added later
+DUB,city,Dublin,IE,europe,scan,city,53.35,-6.26027778,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan; coords from Wikipedia coordinates (en.wiki article: https://en.wikipedia.org/wiki/Dublin)
+MCM,city,Manchester,UK,europe,scan,city,53.47944444,-2.24527778,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan; coords from Wikipedia coordinates (en.wiki article: https://en.wikipedia.org/wiki/Manchester)
+BHM,city,Birmingham,UK,europe,scan,city,52.48,-1.9025,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan; coords from Wikipedia coordinates (en.wiki article: https://en.wikipedia.org/wiki/Birmingham)
+LAA,city,Lausanne,CH,europe,scan,city,46.52,6.63333333,criterion 1: European metro area above about 1M per Appendix A scan list,event-only or scan-light; Appendix A marks Kyiv and Gdansk as scan; coords from Wikipedia coordinates (en.wiki article: https://en.wikipedia.org/wiki/Lausanne)
+ALM,city,Almaty,KZ,asia,scan,city,43.23333333,76.95,criterion 3: event city (Red Bull or major scene); not part of the Appendix A scan workload,event city only; collect EVT/CMP only if an event row is added later; coords from Wikipedia coordinates (en.wiki article: https://en.wikipedia.org/wiki/Almaty)
+DNV,city,Denver,US,north_america,scan,city,39.74,-104.99,criterion 3: event city (Red Bull or major scene); not part of the Appendix A scan workload,event city only; collect EVT/CMP only if an event row is added later; coords from Wikipedia coordinates (en.wiki article: https://en.wikipedia.org/wiki/Denver)
+SEA,city,Seattle,US,north_america,scan,city,47.60388889,-122.33,criterion 3: event city (Red Bull or major scene); not part of the Appendix A scan workload,event city only; collect EVT/CMP only if an event row is added later; coords from Wikipedia coordinates (en.wiki article: https://en.wikipedia.org/wiki/Seattle)
+DET,city,Detroit,US,north_america,scan,city,42.33166667,-83.04583333,criterion 3: event city (Red Bull or major scene); not part of the Appendix A scan workload,event city only; collect EVT/CMP only if an event row is added later; coords from Wikipedia coordinates (en.wiki article: https://en.wikipedia.org/wiki/Detroit)
+SDG,city,San Diego,US,north_america,scan,city,32.715,-117.1625,criterion 3: event city (Red Bull or major scene); not part of the Appendix A scan workload,event city only; collect EVT/CMP only if an event row is added later; coords from Wikipedia coordinates (en.wiki article: https://en.wikipedia.org/wiki/San_Diego)
 TAM,city,Tampa,US,north_america,scan,city,,,criterion 3: event city (Red Bull or major scene); not part of the Appendix A scan workload,event city only; collect EVT/CMP only if an event row is added later
 TPE,city,Taipei,TW,asia,scan,city,,,criterion 3: event city (Red Bull or major scene); not part of the Appendix A scan workload,event city only; collect EVT/CMP only if an event row is added later
 MDE,city,Medellin,CO,latin_america,scan,city,,,criterion 3: event city (Red Bull or major scene); not part of the Appendix A scan workload,event city only; collect EVT/CMP only if an event row is added later
@@ -144,7 +144,6 @@ RVJ,city,Rovinj,HR,europe,scan,city,,,,; criterion 2: Croatian Summer Salsa Fest
 SSN,city,Santa Susanna,ES,europe,scan,city,,,,; criterion 3: BCN Dance Life Bachata Congress host (B1); near Barcelona
 RIO,city,Rio de Janeiro,BR,latin_america,scan,city,,,,; criterion 2+3: BC One world finals 2012 and 2024; DYS Brazil final 2026; benchmark added later than the workbook 13
 SYD,city,Sydney,AU,oceania,scan,city,,,criterion 3: BC One Australia qualifier + DYS Australia national final 2026 (A1),event city only
-ZUR,city,Zurich,CH,europe,scan,city,,,criterion 3: event city from the Red Bull 2026 sample,event city only; duplicate of deep ZRH kept for FK repairs
 MU,country,Mauritius,MU,africa,country,,,,,country-level context
 NUR,city,Nuremberg,DE,europe,scan,city,,,criterion 3: event city (La Casa de Bachata Festival 2026 per P4.2 log),event city only
 HWG,city,Hwaseong,KR,asia,scan,city,,,criterion 3: BOTY world final 2025 host,event city only

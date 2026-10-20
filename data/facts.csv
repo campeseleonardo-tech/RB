@@ -1160,3 +1160,156 @@ F001158,SBG,city,URB-HOU,CMP,,,,,2026,not_found,L,,P4-corr,No Salzburg-specific 
 F001159,SBG,city,URB-KRU,CMP,,,,,2026,not_found,L,,P4-corr,No Salzburg-specific 2026 competition verified for URB-KRU beyond Flavourama multi-style battles. | 2026-10-20 verification pass: quoted page cross-check FAILED (quote not found at URL / page dead). Value dropped; row is a not_found record. | searches: Flavourama Salzburg 2026 competition urb-kru
 F001160,SBG,city,URB-LOC,CMP,,,,,2026,not_found,L,,P4-corr,No Salzburg-specific 2026 competition verified for URB-LOC beyond Flavourama multi-style battles. | 2026-10-20 verification pass: quoted page cross-check FAILED (quote not found at URL / page dead). Value dropped; row is a not_found record. | searches: Flavourama Salzburg 2026 competition urb-loc
 F001161,SBG,city,URB-POP,CMP,,,,,2026,not_found,L,,P4-corr,No Salzburg-specific 2026 competition verified for URB-POP beyond Flavourama multi-style battles. | 2026-10-20 verification pass: quoted page cross-check FAILED (quote not found at URL / page dead). Value dropped; row is a not_found record. | searches: Flavourama Salzburg 2026 competition urb-pop
+F001162,ROM,city,ALL,POP,2770226,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code IT001C
+F001163,LON,city,ALL,POP,8866541,,,persons,2018,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code UK001C
+F001164,OPO,city,ALL,POP,971023,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code PT002C
+F001165,VLC,city,ALL,POP,1408030,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code ES003C
+F001166,SVQ,city,ALL,POP,878677,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code ES004C
+F001167,LYN,city,ALL,POP,1288061,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code FR002C
+F001168,MRS,city,ALL,POP,971607,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code FR004C
+F001169,MTP,city,ALL,POP,375724,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code FR011C
+F001170,RTM,city,ALL,POP,1244332,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code NL037C
+F001171,HAM,city,ALL,POP,1852478,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code DE002C
+F001172,FRA,city,ALL,POP,764104,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code DE005C
+F001173,STR,city,ALL,POP,630305,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code DE007C
+F001174,BUD,city,ALL,POP,1723836,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code HU001C
+F001175,BTM,city,ALL,POP,475503,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code SK001C
+F001176,LJU,city,ALL,POP,294464,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code SI001C
+F001177,ZAG,city,ALL,POP,808134,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code HR001C
+F001178,SOF,city,ALL,POP,1308412,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code BG001C
+F001179,STO,city,ALL,POP,1582164,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code SE001C
+F001180,OSL,city,ALL,POP,623966,,,persons,2013,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code NO001C
+F001181,HEL,city,ALL,POP,656920,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code FI001C
+F001182,DUB,city,ALL,POP,1325700,,,persons,2016,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code IE001C
+F001183,MCM,city,ALL,POP,546564,,,persons,2018,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code UK008C
+F001184,BHM,city,ALL,POP,1139249,,,persons,2018,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code UK002C
+F001185,LAA,city,ALL,POP,257096,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code CH005C
+F001186,OUL,city,ALL,POP,207327,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code FI004C
+F001187,BSL,city,ALL,POP,346640,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code CH004C
+F001188,HER,city,ALL,POP,197310,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code NL022C
+F001189,DIJ,city,ALL,POP,202022,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code FR020C
+F001190,ZRH,city,ALL,POP,700889,,,persons,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 (DE1001V) via dissemination API; city row code CH002C
+F001191,BER,city,ALL,POPY,25.9,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row DE001C
+F001192,MIL,city,ALL,POPY,20.6,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row IT002C
+F001193,ROM,city,ALL,POPY,19.3,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row IT001C
+F001194,BCN,city,ALL,POPY,22.9,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row ES002C
+F001195,MAD,city,ALL,POPY,22.6,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row ES001C
+F001196,PAR,city,ALL,POPY,28.1,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row FR001C
+F001197,AMS,city,ALL,POPY,33.1,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row NL001C
+F001198,OPO,city,ALL,POPY,21.7,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row PT002C
+F001199,VLC,city,ALL,POPY,21.6,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row ES003C
+F001200,SVQ,city,ALL,POPY,21.7,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row ES004C
+F001201,LYN,city,ALL,POPY,31.9,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row FR002C
+F001202,MRS,city,ALL,POPY,25.6,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row FR004C
+F001203,MTP,city,ALL,POPY,36.1,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row FR011C
+F001204,RTM,city,ALL,POPY,27.6,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row NL037C
+F001205,HAM,city,ALL,POPY,26.6,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row DE002C
+F001206,FRA,city,ALL,POPY,27.8,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row DE005C
+F001207,STR,city,ALL,POPY,28.7,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row DE007C
+F001208,BUD,city,ALL,POPY,23.9,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row HU001C
+F001209,BTM,city,ALL,POPY,20.5,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row SK001C
+F001210,LJU,city,ALL,POPY,24.8,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row SI001C
+F001211,SOF,city,ALL,POPY,25.5,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row BG001C
+F001212,STO,city,ALL,POPY,27.6,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row SE001C
+F001213,HEL,city,ALL,POPY,29.5,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row FI001C
+F001214,LAA,city,ALL,POPY,29.8,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row CH005C
+F001215,OUL,city,ALL,POPY,30.1,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row FI004C
+F001216,BSL,city,ALL,POPY,22.7,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row CH004C
+F001217,HER,city,ALL,POPY,21.1,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row NL022C
+F001218,DIJ,city,ALL,POPY,33.5,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row FR020C
+F001219,ZRH,city,ALL,POPY,27.0,,,% of population aged 15-34,2021,found,M,S00225,P4.1-corr,Eurostat urb_cpop1 age bands 15-34 summed; city row CH002C
+F001220,SBG,city,ALL,STU,20765,,,students,2014,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001221,INN,city,ALL,STU,36395,,,students,2014,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001222,GRZ,city,ALL,STU,55563,,,students,2014,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001223,BER,city,ALL,STU,203869,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001224,MIL,city,ALL,STU,214026,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001225,ROM,city,ALL,STU,213635,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001226,BCN,city,ALL,STU,299382,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001227,MAD,city,ALL,STU,358719,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001228,PAR,city,ALL,STU,767899,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001229,AMS,city,ALL,STU,69385,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001230,LON,city,ALL,STU,307115,,,students,2008,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001231,OPO,city,ALL,STU,73908,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001232,VLC,city,ALL,STU,133286,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001233,SVQ,city,ALL,STU,99378,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001234,LYN,city,ALL,STU,181658,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001235,MRS,city,ALL,STU,59714,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001236,MTP,city,ALL,STU,85160,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001237,RTM,city,ALL,STU,59527,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001238,HAM,city,ALL,STU,119110,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001239,FRA,city,ALL,STU,72951,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001240,STR,city,ALL,STU,51902,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001241,BUD,city,ALL,STU,156220,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001242,BTM,city,ALL,STU,52397,,,students,2020,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001243,LJU,city,ALL,STU,45411,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001244,ZAG,city,ALL,STU,78826,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001245,SOF,city,ALL,STU,97436,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001246,STO,city,ALL,STU,83600,,,students,2011,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001247,OSL,city,ALL,STU,65161,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001248,HEL,city,ALL,STU,59363,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001249,DUB,city,ALL,STU,58917,,,students,2011,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001250,MCM,city,ALL,STU,74165,,,students,2018,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001251,BHM,city,ALL,STU,81810,,,students,2018,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001252,LAA,city,ALL,STU,39234,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001253,OUL,city,ALL,STU,22637,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001254,BSL,city,ALL,STU,21129,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001255,HER,city,ALL,STU,4755,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001256,DIJ,city,ALL,STU,37528,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001257,ZRH,city,ALL,STU,75792,,,students,2021,found,M,S00226,P4.1-corr,"Eurostat urb_ceduc, TE1026V students in higher education via dissemination API; latest year for that city (some city series stop at 2014)"
+F001258,SBG,city,ALL,TOU,2589018,,,nights per year,2014,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001259,INN,city,ALL,TOU,1458222,,,nights per year,2014,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001260,VIE,city,ALL,TOU,13440328,,,nights per year,2014,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001261,GRZ,city,ALL,TOU,994040,,,nights per year,2014,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001262,BER,city,ALL,TOU,12278460,,,nights per year,2020,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001263,MIL,city,ALL,TOU,6801302,,,nights per year,2021,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001264,ROM,city,ALL,TOU,8957938,,,nights per year,2021,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001265,MAD,city,ALL,TOU,22751955,,,nights per year,2019,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001266,PAR,city,ALL,TOU,30027189,,,nights per year,2021,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001267,AMS,city,ALL,TOU,12538000,,,nights per year,2014,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001268,OPO,city,ALL,TOU,1861226,,,nights per year,2020,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001269,LYN,city,ALL,TOU,3557830,,,nights per year,2021,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001270,MRS,city,ALL,TOU,2715889,,,nights per year,2021,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001271,MTP,city,ALL,TOU,1462600,,,nights per year,2021,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001272,RTM,city,ALL,TOU,1458000,,,nights per year,2014,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001273,HAM,city,ALL,TOU,6796976,,,nights per year,2020,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001274,FRA,city,ALL,TOU,4085447,,,nights per year,2020,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001275,STR,city,ALL,TOU,1648103,,,nights per year,2020,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001276,BUD,city,ALL,TOU,2418305,,,nights per year,2020,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001277,BTM,city,ALL,TOU,916148,,,nights per year,2020,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001278,LJU,city,ALL,TOU,540195,,,nights per year,2020,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001279,ZAG,city,ALL,TOU,780077,,,nights per year,2020,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001280,SOF,city,ALL,TOU,744965,,,nights per year,2020,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001281,STO,city,ALL,TOU,11442249,,,nights per year,2018,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001282,OSL,city,ALL,TOU,3507801,,,nights per year,2011,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001283,HEL,city,ALL,TOU,1616635,,,nights per year,2020,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001284,MCM,city,ALL,TOU,3402250,,,nights per year,2014,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001285,BHM,city,ALL,TOU,1717900,,,nights per year,2004,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001286,LAA,city,ALL,TOU,668701,,,nights per year,2021,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001287,OUL,city,ALL,TOU,478789,,,nights per year,2020,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001288,BSL,city,ALL,TOU,852188,,,nights per year,2021,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001289,HER,city,ALL,TOU,144326,,,nights per year,2004,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001290,DIJ,city,ALL,TOU,675653,,,nights per year,2021,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001291,ZRH,city,ALL,TOU,2237412,,,nights per year,2021,found,M,S00227,P4.1-corr,"Eurostat urb_ctour, CR2001V total nights in tourist accommodation via dissemination API; latest year for that city (some city series stop at 2014)"
+F001292,GLOBAL,global,URB-BRK,ONL,127345,,,"page views (Jan-Oct 2025, en.wiki article ""Breakdancing"")",2025,found,M,S00228,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 10659-18386"
+F001293,GLOBAL,global,URB-BRK,ONL,17806,,,"page views (Jan-Oct 2025, de.wiki article ""Breakdance"")",2025,found,M,S00229,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 1411-2429"
+F001294,GLOBAL,global,URB-BRK,ONL,8213,,,"page views (Jan-Oct 2025, it.wiki article ""Break dance"")",2025,found,M,S00230,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 552-1132"
+F001295,GLOBAL,global,URB-BRK,ONL,18385,,,"page views (Jan-Oct 2025, es.wiki article ""Breakdance"")",2025,found,M,S00231,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 1329-2604"
+F001296,GLOBAL,global,URB-BRK,ONL,14224,,,"page views (Jan-Oct 2025, fr.wiki article ""Breakdance"")",2025,found,M,S00232,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 904-1904"
+F001297,GLOBAL,global,URB-BRK,ONL,5162,,,"page views (Jan-Oct 2025, pl.wiki article ""Breakdance"")",2025,found,M,S00233,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 357-980"
+F001298,GLOBAL,global,URB-BRK,ONL,3536,,,"page views (Jan-Oct 2025, nl.wiki article ""Breakdance"")",2025,found,M,S00234,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 165-614"
+F001299,GLOBAL,global,URB-BRK,ONL,14367,,,"page views (Jan-Oct 2025, pt.wiki article ""Breakdance"")",2025,found,M,S00235,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 702-2275"
+F001300,GLOBAL,global,CAR-SAL,ONL,126021,,,"page views (Jan-Oct 2025, en.wiki article ""Salsa (dance)"")",2025,found,M,S00236,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 10320-17101"
+F001301,GLOBAL,global,CAR-SAL,ONL,24741,,,"page views (Jan-Oct 2025, de.wiki article ""Salsa (Tanz)"")",2025,found,M,S00237,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 1982-3137"
+F001302,GLOBAL,global,CAR-SAL,ONL,9838,,,"page views (Jan-Oct 2025, it.wiki article ""Salsa (danza)"")",2025,found,M,S00238,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 662-1520"
+F001303,GLOBAL,global,CAR-SAL,ONL,26119,,,"page views (Jan-Oct 2025, es.wiki article ""Salsa (baile)"")",2025,found,M,S00239,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 1753-3714"
+F001304,GLOBAL,global,CAR-SAL,ONL,40031,,,"page views (Jan-Oct 2025, fr.wiki article ""Salsa"")",2025,found,M,S00240,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 3249-4811"
+F001305,GLOBAL,global,CAR-SAL,ONL,7795,,,"page views (Jan-Oct 2025, pl.wiki article ""Salsa (taniec)"")",2025,found,M,S00241,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 474-1339"
+F001306,GLOBAL,global,CAR-SAL,ONL,5996,,,"page views (Jan-Oct 2025, nl.wiki article ""Salsa (dans)"")",2025,found,M,S00242,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 359-799"
+F001307,GLOBAL,global,CAR-SAL,ONL,,,,"page views (Jan-Oct 2025, pt.wiki article for salsa dance)",2025,not_found,L,S00243,P4.8-corr,Portuguese Wikipedia has no dedicated salsa-dance article (opensearch shows music and plant pages); no clean figure
+F001308,GLOBAL,global,CAR-BCH,ONL,87996,,,"page views (Jan-Oct 2025, en.wiki article ""Bachata (dance)"")",2025,found,M,S00244,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 6873-18084"
+F001309,GLOBAL,global,CAR-BCH,ONL,9795,,,"page views (Jan-Oct 2025, it.wiki article ""Bachata"")",2025,found,M,S00245,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 751-1523"
+F001310,GLOBAL,global,CAR-BCH,ONL,59277,,,"page views (Jan-Oct 2025, es.wiki article ""Bachata"")",2025,found,M,S00246,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 4061-11755"
+F001311,GLOBAL,global,CAR-BCH,ONL,21269,,,"page views (Jan-Oct 2025, fr.wiki article ""Bachata"")",2025,found,M,S00247,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 1862-2704"
+F001312,GLOBAL,global,CAR-BCH,ONL,10018,,,"page views (Jan-Oct 2025, pl.wiki article ""Bachata"")",2025,found,M,S00248,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 477-1967"
+F001313,GLOBAL,global,CAR-BCH,ONL,2614,,,"page views (Jan-Oct 2025, nl.wiki article ""Bachata"")",2025,found,M,S00249,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 188-354"
+F001314,GLOBAL,global,CAR-BCH,ONL,10256,,,"page views (Jan-Oct 2025, pt.wiki article ""Bachata"")",2025,found,M,S00250,P4.8-corr,"Wikimedia pageviews API, redirect-resolved real article title; monthly min-max 697-2111"
