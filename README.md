@@ -14,6 +14,7 @@ Single source of truth for this project. Language: English. Keep one copy of eve
 - research/plan_data_collection.md: plan to fix, finish and complete the data collection (executed by a research model).
 - research/manual_collection_list.md: what Leonardo collects by hand.
 - project/plan_viewer.md: plan for the local data viewer (executed by a coding model).
+- project/analysis_and_plan.md: analysis of the data and of the problem definition, proposed objectives and action plan (draft, 2026-10-20; open questions in section 7).
 - project/prompts/: the two prompts to give to the models (prompt_data_collection.md, prompt_viewer.md).
 - Created by the executors: data/ (CSV tables), archive/quarantine/, research/logs/, research/progress.md, viewer/ (see below).
 
