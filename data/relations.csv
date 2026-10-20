@@ -60,3 +60,9 @@ R000058,series,Championnat de France Salsa Bachata (FFDanse SBK),qualifies_for,s
 R000059,series,Campeonato de Espana de Bailes Caribenos,qualifies_for,series,WDSF World Championships Caribbean Dances,found,H,S00263,R2.4,FEBD updates the national Caribenos ranking (fed by national competitions) that decides participation in the WDSF World Championship (Alicante 9-12 Oct 2026).
 R000060,org,O00079,sponsors,series,Campionati Italiani Assoluti,found,H,S00254,R5.2,Freddy = Sponsor Tecnico on the FIDS page.
 R000061,org,O00080,sponsors,series,Championnat de France Salsa Bachata (FFDanse SBK),found,H,S00257,R5.2,Partner logo on the SBK circuit page.
+R000062,org,O00080,sponsors,event,E000133,found,H,S00257,T4.1,Make Up For Event is listed in the official FFDanse SBK ?Partenaires & Sponsors? section for the circuit including this 2026 championship.
+R000063,org,O00079,sponsors,event,E000134,found,H,S00254,T4.1,Freddy is named Sponsor Tecnico on the official FIDS Campionati Italiani Assoluti page.
+R000064,org,O00079,sponsors,event,E000135,found,H,S00254,T4.1,Freddy is named Sponsor Tecnico on the official FIDS Campionati Italiani Assoluti page.
+R000062,org,O00080,sponsors,event,E000133,found,H,S00257,T4.1,Make Up For Event is listed in the official FFDanse SBK ?Partenaires & Sponsors? section for the circuit including this 2026 championship.
+R000063,org,O00079,sponsors,event,E000134,found,H,S00254,T4.1,Freddy is named Sponsor Tecnico on the official FIDS Campionati Italiani Assoluti page.
+R000064,org,O00079,sponsors,event,E000135,found,H,S00254,T4.1,Freddy is named Sponsor Tecnico on the official FIDS Campionati Italiani Assoluti page.

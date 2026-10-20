@@ -8,9 +8,6 @@ Items that this pass could not finish with the plain HTTP fetch tools. Each line
 2. Red Bull BC One YouTube channel metrics (subscribers, video count, total views) for the MED facts F000351-F000353.
    URL: https://www.youtube.com/@redbullbcone/about
    Failure: consent login-page (Google cookie wall) in both the plain fetch and the rendered browser; the numbers now on file are third-party aggregator figures kept as `inferred`, confidence L.
-3. BCN Dance Life sponsor page (E000115/E000075 red_bull_involvement).
-   URL: https://bcndancelife.com/
-   Failure: blocked / not reachable by plain fetch; keep `not_checked` until a rendered visit.
 4. Flavourama organiser page (E000081 red_bull_involvement and the exact 2026 date).
    URL: http://flavourama.at (https site shows an expired certificate)
    Failure: certificate expired; domain flavourama-battle.com (the domain used in the earlier pass) does not resolve at all.
@@ -27,10 +24,12 @@ Items that this pass could not finish with the plain HTTP fetch tools. Each line
 12. YouTube video-view facts for R4.2 (most viewed / latest final video per channel): skipped on instruction in this round. Channels verified: @RedBullBCOne (1.21m), @RedBullDance (991k), @wdsfdancesport (292k). Still to check: World Latin Dance Cup, World Salsa Summit, Euroson Latino, and the largest bachata championship channel.
 13. and8.dance archive: no location filter and no paginated archive (past lists truncated: AT 7 events, main list ~70); q=<city> search is full-text. A per-city 12-month breaking count needs the and8 team or manual browsing. Affects all 15 URB-BRK rows of R2.3 and R3.1.
 14. goandance.com: the location filter cannot be driven reliably (Google Places autocomplete); the country listings lazy-load and only the first ~17 cards render in the browser; past events are delisted. Madrid city events were never captured (affects R3.1 MAD rows); all R3.1 values cover only the window dates still listed.
-15. events.csv E000033 (DYS Vienna 28 Jun 2026) and E000034 (DYS Spielberg 28 Jun 2026): not on the official redbull.com 2026 calendar (28 Jun = Lagos) - manual check needed.
-16. Campeonato de Espana de Breaking 2026 (E000132): compostelastreet.gal blocked (HTTP 403); date and results needed.
-17. FIDS Breaking results PDF (federdanza.it/images/gare/2019_2020/GARE_NAZIONALI_WDSF/Breaking Results.pdf) and the per-segment TopTurnier exports for the Danze Caraibiche (54+ segments): need a manual or scripted count for R2.2 IT facts.
-18. R5.2 sponsor pages not checked for: E000131, E000132, E000133 and the R3.2 events (only FIDS/FebD/Ffdanse pages read); E000081 Flavourama sponsor page still unreachable (item 4 above).
+16. Campeonato de Espana de Breaking 2026 (E000132): results and competitor count collected from the FEBD PDF (S00314), but the PDF omits the exact date and venue; host page compostelastreet.gal remains blocked (HTTP 403).
+17. Italian and German segmented results: the FIDS Breaking PDF returned “Service unavailable” and then HTTP 403 on the single corrected request (source S00317); do not retry. The 54+ Italian Caribbean and 21 DAT German TopTurnier result segments were not saved to research/scripts/input, so count_competitors.py reports zero saved segments and no totals. Manual collection is still needed for F001339-F001343.
+18. R5.2 remaining sponsor pages: E000081 Flavourama (item 4), E000138 Ultimate Latin Dance Championship 2026 (the current source S00309 is an unrelated Euroson results article; no official event page was verified), and E000143 Salsa Festival Biel/Bienne (item 19). Other T2/T3 event pages were checked in T4.1.
+19. T3.1 Switzerland Salsa Festival Biel/Bienne 2026 (E000143): the organizer URL salsa.ch returned a transport error; Switzerland Tourism returned HTTP 406 and Tourisme Bienne Seeland HTTP 410. The event appears in search results for 17-18 Oct 2026, but no official page, size or ticket price could be read.
+20. T3.1 BIG International Milan 2026 (E000139): official page lists USD 275 full pass, but the ECB EUR/USD API for 2026-10-20 returned HTTP 503 (S00329); the required EUR conversion is pending.
+21. T4.1 Ultimate Latin Dance Championship 2026 (E000138): its stored source S00309 is an unrelated Euroson article; no official organizer/sponsor page was identified, so `red_bull_involvement` remains `not_checked`.
 
 ## Added 2026-10-20 (market comparison round, project/analysis_and_plan.md)
 Leonardo fills the tables in research/manual_inputs.md; Claude converts them into data/.
