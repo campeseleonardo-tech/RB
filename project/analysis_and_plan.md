@@ -1,3 +1,5 @@
+SUPERSEDED (2026-10-21): the project is now the two-markets thesis in project/project_memory.md sections 2-3. This file is kept only for the diagnosis of 2026-10-20.
+
 # Project analysis and plan
 
 Status: v1, 2026-10-20. NOTE (fourth session, same day): sections 2 and 3 (diagnosis) still hold; the goal, research questions and scope are now in project/project_memory.md sections 2-4, which replace sections 4 and 5 below (Wikipedia, Google Trends and the M1-M6 indicators are dropped; the collection prompt is project/prompts/prompt_rq_collection.md). v0 (same day) analysed the whole folder and proposed a breaking-only framing; Leonardo answered and v1 replaces it. Section 2 keeps the diagnosis of the data, which still holds.
