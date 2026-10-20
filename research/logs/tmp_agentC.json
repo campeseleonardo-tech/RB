@@ -1,0 +1,3783 @@
+{
+  "cells": [
+    {
+      "place_id": "NYC",
+      "disc_id": "URB-BRK",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "NYC salsa bachata events 2026",
+        "NYC breaking battle 2026",
+        "NYC salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: NYC salsa bachata events 2026; NYC breaking battle 2026; NYC salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "NYC",
+      "disc_id": "URB-BRK",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "NYC salsa bachata events 2026",
+        "NYC breaking battle 2026",
+        "NYC salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: NYC salsa bachata events 2026; NYC breaking battle 2026; NYC salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "NYC",
+      "disc_id": "URB-BRK",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "NYC salsa bachata events 2026",
+        "NYC breaking battle 2026",
+        "NYC salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: NYC salsa bachata events 2026; NYC breaking battle 2026; NYC salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "NYC",
+      "disc_id": "URB-BRK",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "NYC salsa bachata events 2026",
+        "NYC breaking battle 2026",
+        "NYC salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: NYC salsa bachata events 2026; NYC breaking battle 2026; NYC salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "NYC",
+      "disc_id": "URB-BRK",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "NYC salsa bachata events 2026",
+        "NYC breaking battle 2026",
+        "NYC salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: NYC salsa bachata events 2026; NYC breaking battle 2026; NYC salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "NYC",
+      "disc_id": "URB-BRK",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "NYC salsa bachata events 2026",
+        "NYC breaking battle 2026",
+        "NYC salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: NYC salsa bachata events 2026; NYC breaking battle 2026; NYC salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "NYC",
+      "disc_id": "CAR-SAL",
+      "signal_id": "EVT",
+      "kind": "value",
+      "value": "29",
+      "unit": "socials/year",
+      "period": "2026",
+      "queries": [
+        "NYC salsa bachata events 2026",
+        "NYC breaking battle 2026",
+        "NYC salsa congress 2026"
+      ],
+      "page_quotes": [
+        "\"Salsa Events in New York: 29 Socials (2026)\" — where-to-dance-salsa.com/salsa/new-york/"
+      ],
+      "notes": "https://where-to-dance-salsa.com/salsa/new-york/; searches: NYC salsa bachata events 2026; NYC breaking battle 2026; NYC salsa congress 2026; confidence L; base_place_id blank; no CSV modified."
+    },
+    {
+      "place_id": "NYC",
+      "disc_id": "CAR-SAL",
+      "signal_id": "CMP",
+      "kind": "value",
+      "value": "1",
+      "unit": "congress/year",
+      "period": "2026",
+      "queries": [
+        "NYC salsa bachata events 2026",
+        "NYC breaking battle 2026",
+        "NYC salsa congress 2026"
+      ],
+      "page_quotes": [
+        "\"A premier four-day event in Times Square...\" — danceus.org/event/1771349060195646/empire-sensual-movement-salsa-bachata-congress-new-york-city-ny/"
+      ],
+      "notes": "Empire Sensual Movement Congress 2026; searches: NYC salsa bachata events 2026; NYC breaking battle 2026; NYC salsa congress 2026; confidence L; base_place_id blank; no CSV modified."
+    },
+    {
+      "place_id": "NYC",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "NYC salsa bachata events 2026",
+        "NYC breaking battle 2026",
+        "NYC salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: NYC salsa bachata events 2026; NYC breaking battle 2026; NYC salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "NYC",
+      "disc_id": "CAR-SAL",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "NYC salsa bachata events 2026",
+        "NYC breaking battle 2026",
+        "NYC salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: NYC salsa bachata events 2026; NYC breaking battle 2026; NYC salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "NYC",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "NYC salsa bachata events 2026",
+        "NYC breaking battle 2026",
+        "NYC salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: NYC salsa bachata events 2026; NYC breaking battle 2026; NYC salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "NYC",
+      "disc_id": "CAR-SAL",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "NYC salsa bachata events 2026",
+        "NYC breaking battle 2026",
+        "NYC salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: NYC salsa bachata events 2026; NYC breaking battle 2026; NYC salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "NYC",
+      "disc_id": "CAR-BCH",
+      "signal_id": "EVT",
+      "kind": "value",
+      "value": "20",
+      "unit": "socials/year",
+      "period": "2026",
+      "queries": [
+        "NYC salsa bachata events 2026",
+        "NYC breaking battle 2026",
+        "NYC salsa congress 2026"
+      ],
+      "page_quotes": [
+        "\"Bachata Events in New York: 20 Socials (2026)\" — where-to-dance-salsa.com/bachata/new-york/"
+      ],
+      "notes": "https://where-to-dance-salsa.com/bachata/new-york/; searches: NYC salsa bachata events 2026; NYC breaking battle 2026; NYC salsa congress 2026; confidence L; base_place_id blank; no CSV modified."
+    },
+    {
+      "place_id": "NYC",
+      "disc_id": "CAR-BCH",
+      "signal_id": "CMP",
+      "kind": "value",
+      "value": "1",
+      "unit": "congress/year",
+      "period": "2026",
+      "queries": [
+        "NYC salsa bachata events 2026",
+        "NYC breaking battle 2026",
+        "NYC salsa congress 2026"
+      ],
+      "page_quotes": [
+        "Same congress covers bachata — danceus.org"
+      ],
+      "notes": "Shared with CAR-SAL CMP; searches: NYC salsa bachata events 2026; NYC breaking battle 2026; NYC salsa congress 2026; confidence L; base_place_id blank; no CSV modified."
+    },
+    {
+      "place_id": "NYC",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "NYC salsa bachata events 2026",
+        "NYC breaking battle 2026",
+        "NYC salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: NYC salsa bachata events 2026; NYC breaking battle 2026; NYC salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "NYC",
+      "disc_id": "CAR-BCH",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "NYC salsa bachata events 2026",
+        "NYC breaking battle 2026",
+        "NYC salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: NYC salsa bachata events 2026; NYC breaking battle 2026; NYC salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "NYC",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "NYC salsa bachata events 2026",
+        "NYC breaking battle 2026",
+        "NYC salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: NYC salsa bachata events 2026; NYC breaking battle 2026; NYC salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "NYC",
+      "disc_id": "CAR-BCH",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "NYC salsa bachata events 2026",
+        "NYC breaking battle 2026",
+        "NYC salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: NYC salsa bachata events 2026; NYC breaking battle 2026; NYC salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "LAX",
+      "disc_id": "URB-BRK",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Los Angeles salsa bachata events 2026",
+        "Los Angeles breaking battle 2026",
+        "LA salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Los Angeles salsa bachata events 2026; Los Angeles breaking battle 2026; LA salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "LAX",
+      "disc_id": "URB-BRK",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Los Angeles salsa bachata events 2026",
+        "Los Angeles breaking battle 2026",
+        "LA salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Los Angeles salsa bachata events 2026; Los Angeles breaking battle 2026; LA salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "LAX",
+      "disc_id": "URB-BRK",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Los Angeles salsa bachata events 2026",
+        "Los Angeles breaking battle 2026",
+        "LA salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Los Angeles salsa bachata events 2026; Los Angeles breaking battle 2026; LA salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "LAX",
+      "disc_id": "URB-BRK",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Los Angeles salsa bachata events 2026",
+        "Los Angeles breaking battle 2026",
+        "LA salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Los Angeles salsa bachata events 2026; Los Angeles breaking battle 2026; LA salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "LAX",
+      "disc_id": "URB-BRK",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Los Angeles salsa bachata events 2026",
+        "Los Angeles breaking battle 2026",
+        "LA salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Los Angeles salsa bachata events 2026; Los Angeles breaking battle 2026; LA salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "LAX",
+      "disc_id": "URB-BRK",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Los Angeles salsa bachata events 2026",
+        "Los Angeles breaking battle 2026",
+        "LA salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Los Angeles salsa bachata events 2026; Los Angeles breaking battle 2026; LA salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "LAX",
+      "disc_id": "CAR-SAL",
+      "signal_id": "EVT",
+      "kind": "value",
+      "value": "29",
+      "unit": "socials/year",
+      "period": "2026",
+      "queries": [
+        "Los Angeles salsa bachata events 2026",
+        "Los Angeles breaking battle 2026",
+        "LA salsa congress 2026"
+      ],
+      "page_quotes": [
+        "\"Salsa in Los Angeles: 20 weekly socials across 17 venues.\" — where-to-dance-salsa.com/salsa/los-angeles/"
+      ],
+      "notes": "https://where-to-dance-salsa.com/salsa/los-angeles/; page fetched 2026-10-20; searches: Los Angeles salsa bachata events 2026; Los Angeles breaking battle 2026; LA salsa congress 2026; confidence L; base_place_id blank; no CSV modified."
+    },
+    {
+      "place_id": "LAX",
+      "disc_id": "CAR-SAL",
+      "signal_id": "CMP",
+      "kind": "value",
+      "value": "1",
+      "unit": "festival/year",
+      "period": "2026",
+      "queries": [
+        "Los Angeles salsa bachata events 2026",
+        "Los Angeles breaking battle 2026",
+        "LA salsa congress 2026"
+      ],
+      "page_quotes": [
+        "\"Experience the Ultimate Bachata & Salsa Festival in Los Angeles.\" — labachatafestival.com/schedule/"
+      ],
+      "notes": "Los Angeles Bachata Festival official schedule page fetched; searches: Los Angeles salsa bachata events 2026; Los Angeles breaking battle 2026; LA salsa congress 2026; confidence L; base_place_id blank; no CSV modified."
+    },
+    {
+      "place_id": "LAX",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Los Angeles salsa bachata events 2026",
+        "Los Angeles breaking battle 2026",
+        "LA salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Los Angeles salsa bachata events 2026; Los Angeles breaking battle 2026; LA salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "LAX",
+      "disc_id": "CAR-SAL",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Los Angeles salsa bachata events 2026",
+        "Los Angeles breaking battle 2026",
+        "LA salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Los Angeles salsa bachata events 2026; Los Angeles breaking battle 2026; LA salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "LAX",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Los Angeles salsa bachata events 2026",
+        "Los Angeles breaking battle 2026",
+        "LA salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Los Angeles salsa bachata events 2026; Los Angeles breaking battle 2026; LA salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "LAX",
+      "disc_id": "CAR-SAL",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Los Angeles salsa bachata events 2026",
+        "Los Angeles breaking battle 2026",
+        "LA salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Los Angeles salsa bachata events 2026; Los Angeles breaking battle 2026; LA salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "LAX",
+      "disc_id": "CAR-BCH",
+      "signal_id": "EVT",
+      "kind": "value",
+      "value": "31",
+      "unit": "socials/year",
+      "period": "2026",
+      "queries": [
+        "Los Angeles salsa bachata events 2026",
+        "Los Angeles breaking battle 2026",
+        "LA salsa congress 2026"
+      ],
+      "page_quotes": [
+        "\"Bachata in Los Angeles: 19 weekly socials across 14 venues, seven nights a week.\" — where-to-dance-salsa.com/bachata/los-angeles/"
+      ],
+      "notes": "https://where-to-dance-salsa.com/bachata/los-angeles/; searches: Los Angeles salsa bachata events 2026; Los Angeles breaking battle 2026; LA salsa congress 2026; confidence L; base_place_id blank; no CSV modified."
+    },
+    {
+      "place_id": "LAX",
+      "disc_id": "CAR-BCH",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Los Angeles salsa bachata events 2026",
+        "Los Angeles breaking battle 2026",
+        "LA salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Los Angeles salsa bachata events 2026; Los Angeles breaking battle 2026; LA salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "LAX",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Los Angeles salsa bachata events 2026",
+        "Los Angeles breaking battle 2026",
+        "LA salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Los Angeles salsa bachata events 2026; Los Angeles breaking battle 2026; LA salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "LAX",
+      "disc_id": "CAR-BCH",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Los Angeles salsa bachata events 2026",
+        "Los Angeles breaking battle 2026",
+        "LA salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Los Angeles salsa bachata events 2026; Los Angeles breaking battle 2026; LA salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "LAX",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Los Angeles salsa bachata events 2026",
+        "Los Angeles breaking battle 2026",
+        "LA salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Los Angeles salsa bachata events 2026; Los Angeles breaking battle 2026; LA salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "LAX",
+      "disc_id": "CAR-BCH",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Los Angeles salsa bachata events 2026",
+        "Los Angeles breaking battle 2026",
+        "LA salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Los Angeles salsa bachata events 2026; Los Angeles breaking battle 2026; LA salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MIA",
+      "disc_id": "URB-BRK",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Miami salsa bachata events 2026",
+        "Miami breaking cypher 2026",
+        "Miami Salsa Congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Miami salsa bachata events 2026; Miami breaking cypher 2026; Miami Salsa Congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MIA",
+      "disc_id": "URB-BRK",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Miami salsa bachata events 2026",
+        "Miami breaking cypher 2026",
+        "Miami Salsa Congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Miami salsa bachata events 2026; Miami breaking cypher 2026; Miami Salsa Congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MIA",
+      "disc_id": "URB-BRK",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Miami salsa bachata events 2026",
+        "Miami breaking cypher 2026",
+        "Miami Salsa Congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Miami salsa bachata events 2026; Miami breaking cypher 2026; Miami Salsa Congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MIA",
+      "disc_id": "URB-BRK",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Miami salsa bachata events 2026",
+        "Miami breaking cypher 2026",
+        "Miami Salsa Congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Miami salsa bachata events 2026; Miami breaking cypher 2026; Miami Salsa Congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MIA",
+      "disc_id": "URB-BRK",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Miami salsa bachata events 2026",
+        "Miami breaking cypher 2026",
+        "Miami Salsa Congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Miami salsa bachata events 2026; Miami breaking cypher 2026; Miami Salsa Congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MIA",
+      "disc_id": "URB-BRK",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Miami salsa bachata events 2026",
+        "Miami breaking cypher 2026",
+        "Miami Salsa Congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Miami salsa bachata events 2026; Miami breaking cypher 2026; Miami Salsa Congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MIA",
+      "disc_id": "CAR-SAL",
+      "signal_id": "EVT",
+      "kind": "value",
+      "value": "22",
+      "unit": "socials/year",
+      "period": "2026",
+      "queries": [
+        "Miami salsa bachata events 2026",
+        "Miami breaking cypher 2026",
+        "Miami Salsa Congress 2026"
+      ],
+      "page_quotes": [
+        "\"Salsa Events in Miami: 22 Socials (2026)\" — where-to-dance-salsa.com/salsa/miami/"
+      ],
+      "notes": "https://where-to-dance-salsa.com/salsa/miami/; searches: Miami salsa bachata events 2026; Miami breaking cypher 2026; Miami Salsa Congress 2026; confidence L; base_place_id blank; no CSV modified."
+    },
+    {
+      "place_id": "MIA",
+      "disc_id": "CAR-SAL",
+      "signal_id": "CMP",
+      "kind": "value",
+      "value": "1",
+      "unit": "congress/year",
+      "period": "2026",
+      "queries": [
+        "Miami salsa bachata events 2026",
+        "Miami breaking cypher 2026",
+        "Miami Salsa Congress 2026"
+      ],
+      "page_quotes": [
+        "\"The 24th edition of Miami Salsa Congress includes 5 Days of non-stop Salsa action...\" — danceplace.com/index/no/15733/"
+      ],
+      "notes": "Miami Salsa Congress 2026 page; searches: Miami salsa bachata events 2026; Miami breaking cypher 2026; Miami Salsa Congress 2026; confidence L; base_place_id blank; no CSV modified."
+    },
+    {
+      "place_id": "MIA",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Miami salsa bachata events 2026",
+        "Miami breaking cypher 2026",
+        "Miami Salsa Congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Miami salsa bachata events 2026; Miami breaking cypher 2026; Miami Salsa Congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MIA",
+      "disc_id": "CAR-SAL",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Miami salsa bachata events 2026",
+        "Miami breaking cypher 2026",
+        "Miami Salsa Congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Miami salsa bachata events 2026; Miami breaking cypher 2026; Miami Salsa Congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MIA",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Miami salsa bachata events 2026",
+        "Miami breaking cypher 2026",
+        "Miami Salsa Congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Miami salsa bachata events 2026; Miami breaking cypher 2026; Miami Salsa Congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MIA",
+      "disc_id": "CAR-SAL",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Miami salsa bachata events 2026",
+        "Miami breaking cypher 2026",
+        "Miami Salsa Congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Miami salsa bachata events 2026; Miami breaking cypher 2026; Miami Salsa Congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MIA",
+      "disc_id": "CAR-BCH",
+      "signal_id": "EVT",
+      "kind": "value",
+      "value": "13",
+      "unit": "weekly socials",
+      "period": "2026",
+      "queries": [
+        "Miami salsa bachata events 2026",
+        "Miami breaking cypher 2026",
+        "Miami Salsa Congress 2026"
+      ],
+      "page_quotes": [
+        "\"Bachata in Miami: 13 weekly socials across 11 venues.\" — where-to-dance-salsa.com/bachata/miami/"
+      ],
+      "notes": "https://where-to-dance-salsa.com/bachata/miami/; searches: Miami salsa bachata events 2026; Miami breaking cypher 2026; Miami Salsa Congress 2026; confidence L; base_place_id blank; no CSV modified."
+    },
+    {
+      "place_id": "MIA",
+      "disc_id": "CAR-BCH",
+      "signal_id": "CMP",
+      "kind": "value",
+      "value": "1",
+      "unit": "congress/year",
+      "period": "2026",
+      "queries": [
+        "Miami salsa bachata events 2026",
+        "Miami breaking cypher 2026",
+        "Miami Salsa Congress 2026"
+      ],
+      "page_quotes": [
+        "Same congress includes bachata room — danceplace.com"
+      ],
+      "notes": "Shared with CAR-SAL CMP; searches: Miami salsa bachata events 2026; Miami breaking cypher 2026; Miami Salsa Congress 2026; confidence L; base_place_id blank; no CSV modified."
+    },
+    {
+      "place_id": "MIA",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Miami salsa bachata events 2026",
+        "Miami breaking cypher 2026",
+        "Miami Salsa Congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Miami salsa bachata events 2026; Miami breaking cypher 2026; Miami Salsa Congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MIA",
+      "disc_id": "CAR-BCH",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Miami salsa bachata events 2026",
+        "Miami breaking cypher 2026",
+        "Miami Salsa Congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Miami salsa bachata events 2026; Miami breaking cypher 2026; Miami Salsa Congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MIA",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Miami salsa bachata events 2026",
+        "Miami breaking cypher 2026",
+        "Miami Salsa Congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Miami salsa bachata events 2026; Miami breaking cypher 2026; Miami Salsa Congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MIA",
+      "disc_id": "CAR-BCH",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Miami salsa bachata events 2026",
+        "Miami breaking cypher 2026",
+        "Miami Salsa Congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Miami salsa bachata events 2026; Miami breaking cypher 2026; Miami Salsa Congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "YTO",
+      "disc_id": "URB-BRK",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Toronto salsa bachata events 2026",
+        "Toronto breaking battle 2026",
+        "Toronto WDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Toronto salsa bachata events 2026; Toronto breaking battle 2026; Toronto WDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "YTO",
+      "disc_id": "URB-BRK",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Toronto salsa bachata events 2026",
+        "Toronto breaking battle 2026",
+        "Toronto WDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Toronto salsa bachata events 2026; Toronto breaking battle 2026; Toronto WDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "YTO",
+      "disc_id": "URB-BRK",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Toronto salsa bachata events 2026",
+        "Toronto breaking battle 2026",
+        "Toronto WDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Toronto salsa bachata events 2026; Toronto breaking battle 2026; Toronto WDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "YTO",
+      "disc_id": "URB-BRK",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Toronto salsa bachata events 2026",
+        "Toronto breaking battle 2026",
+        "Toronto WDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Toronto salsa bachata events 2026; Toronto breaking battle 2026; Toronto WDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "YTO",
+      "disc_id": "URB-BRK",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Toronto salsa bachata events 2026",
+        "Toronto breaking battle 2026",
+        "Toronto WDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Toronto salsa bachata events 2026; Toronto breaking battle 2026; Toronto WDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "YTO",
+      "disc_id": "URB-BRK",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Toronto salsa bachata events 2026",
+        "Toronto breaking battle 2026",
+        "Toronto WDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Toronto salsa bachata events 2026; Toronto breaking battle 2026; Toronto WDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "YTO",
+      "disc_id": "CAR-SAL",
+      "signal_id": "EVT",
+      "kind": "value",
+      "value": "6",
+      "unit": "socials/year",
+      "period": "2026",
+      "queries": [
+        "Toronto salsa bachata events 2026",
+        "Toronto breaking battle 2026",
+        "Toronto WDSF 2026"
+      ],
+      "page_quotes": [
+        "\"Salsa in Toronto: 6 weekly socials across 4 venues.\" — where-to-dance-salsa.com/salsa/toronto/"
+      ],
+      "notes": "https://where-to-dance-salsa.com/salsa/toronto/; searches: Toronto salsa bachata events 2026; Toronto breaking battle 2026; Toronto WDSF 2026; confidence L; base_place_id blank; no CSV modified."
+    },
+    {
+      "place_id": "YTO",
+      "disc_id": "CAR-SAL",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Toronto salsa bachata events 2026",
+        "Toronto breaking battle 2026",
+        "Toronto WDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Toronto salsa bachata events 2026; Toronto breaking battle 2026; Toronto WDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "YTO",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Toronto salsa bachata events 2026",
+        "Toronto breaking battle 2026",
+        "Toronto WDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Toronto salsa bachata events 2026; Toronto breaking battle 2026; Toronto WDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "YTO",
+      "disc_id": "CAR-SAL",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Toronto salsa bachata events 2026",
+        "Toronto breaking battle 2026",
+        "Toronto WDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Toronto salsa bachata events 2026; Toronto breaking battle 2026; Toronto WDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "YTO",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Toronto salsa bachata events 2026",
+        "Toronto breaking battle 2026",
+        "Toronto WDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Toronto salsa bachata events 2026; Toronto breaking battle 2026; Toronto WDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "YTO",
+      "disc_id": "CAR-SAL",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Toronto salsa bachata events 2026",
+        "Toronto breaking battle 2026",
+        "Toronto WDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Toronto salsa bachata events 2026; Toronto breaking battle 2026; Toronto WDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "YTO",
+      "disc_id": "CAR-BCH",
+      "signal_id": "EVT",
+      "kind": "value",
+      "value": "6",
+      "unit": "socials/year",
+      "period": "2026",
+      "queries": [
+        "Toronto salsa bachata events 2026",
+        "Toronto breaking battle 2026",
+        "Toronto WDSF 2026"
+      ],
+      "page_quotes": [
+        "\"Bachata in Toronto: 6 weekly socials across 6 venues.\" — where-to-dance-salsa.com/bachata/toronto/"
+      ],
+      "notes": "https://where-to-dance-salsa.com/bachata/toronto/; searches: Toronto salsa bachata events 2026; Toronto breaking battle 2026; Toronto WDSF 2026; confidence L; base_place_id blank; no CSV modified."
+    },
+    {
+      "place_id": "YTO",
+      "disc_id": "CAR-BCH",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Toronto salsa bachata events 2026",
+        "Toronto breaking battle 2026",
+        "Toronto WDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Toronto salsa bachata events 2026; Toronto breaking battle 2026; Toronto WDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "YTO",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Toronto salsa bachata events 2026",
+        "Toronto breaking battle 2026",
+        "Toronto WDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Toronto salsa bachata events 2026; Toronto breaking battle 2026; Toronto WDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "YTO",
+      "disc_id": "CAR-BCH",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Toronto salsa bachata events 2026",
+        "Toronto breaking battle 2026",
+        "Toronto WDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Toronto salsa bachata events 2026; Toronto breaking battle 2026; Toronto WDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "YTO",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Toronto salsa bachata events 2026",
+        "Toronto breaking battle 2026",
+        "Toronto WDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Toronto salsa bachata events 2026; Toronto breaking battle 2026; Toronto WDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "YTO",
+      "disc_id": "CAR-BCH",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Toronto salsa bachata events 2026",
+        "Toronto breaking battle 2026",
+        "Toronto WDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Toronto salsa bachata events 2026; Toronto breaking battle 2026; Toronto WDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SEL",
+      "disc_id": "URB-BRK",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Seoul breaking competition 2026 WDSF",
+        "Seoul salsa events 2026",
+        "Seoul dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Seoul breaking competition 2026 WDSF; Seoul salsa events 2026; Seoul dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SEL",
+      "disc_id": "URB-BRK",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Seoul breaking competition 2026 WDSF",
+        "Seoul salsa events 2026",
+        "Seoul dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Seoul breaking competition 2026 WDSF; Seoul salsa events 2026; Seoul dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SEL",
+      "disc_id": "URB-BRK",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Seoul breaking competition 2026 WDSF",
+        "Seoul salsa events 2026",
+        "Seoul dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Seoul breaking competition 2026 WDSF; Seoul salsa events 2026; Seoul dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SEL",
+      "disc_id": "URB-BRK",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Seoul breaking competition 2026 WDSF",
+        "Seoul salsa events 2026",
+        "Seoul dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Seoul breaking competition 2026 WDSF; Seoul salsa events 2026; Seoul dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SEL",
+      "disc_id": "URB-BRK",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Seoul breaking competition 2026 WDSF",
+        "Seoul salsa events 2026",
+        "Seoul dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Seoul breaking competition 2026 WDSF; Seoul salsa events 2026; Seoul dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SEL",
+      "disc_id": "URB-BRK",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Seoul breaking competition 2026 WDSF",
+        "Seoul salsa events 2026",
+        "Seoul dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Seoul breaking competition 2026 WDSF; Seoul salsa events 2026; Seoul dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SEL",
+      "disc_id": "CAR-SAL",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Seoul breaking competition 2026 WDSF",
+        "Seoul salsa events 2026",
+        "Seoul dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Seoul breaking competition 2026 WDSF; Seoul salsa events 2026; Seoul dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SEL",
+      "disc_id": "CAR-SAL",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Seoul breaking competition 2026 WDSF",
+        "Seoul salsa events 2026",
+        "Seoul dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Seoul breaking competition 2026 WDSF; Seoul salsa events 2026; Seoul dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SEL",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Seoul breaking competition 2026 WDSF",
+        "Seoul salsa events 2026",
+        "Seoul dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Seoul breaking competition 2026 WDSF; Seoul salsa events 2026; Seoul dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SEL",
+      "disc_id": "CAR-SAL",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Seoul breaking competition 2026 WDSF",
+        "Seoul salsa events 2026",
+        "Seoul dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Seoul breaking competition 2026 WDSF; Seoul salsa events 2026; Seoul dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SEL",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Seoul breaking competition 2026 WDSF",
+        "Seoul salsa events 2026",
+        "Seoul dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Seoul breaking competition 2026 WDSF; Seoul salsa events 2026; Seoul dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SEL",
+      "disc_id": "CAR-SAL",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Seoul breaking competition 2026 WDSF",
+        "Seoul salsa events 2026",
+        "Seoul dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Seoul breaking competition 2026 WDSF; Seoul salsa events 2026; Seoul dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SEL",
+      "disc_id": "CAR-BCH",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Seoul breaking competition 2026 WDSF",
+        "Seoul salsa events 2026",
+        "Seoul dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Seoul breaking competition 2026 WDSF; Seoul salsa events 2026; Seoul dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SEL",
+      "disc_id": "CAR-BCH",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Seoul breaking competition 2026 WDSF",
+        "Seoul salsa events 2026",
+        "Seoul dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Seoul breaking competition 2026 WDSF; Seoul salsa events 2026; Seoul dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SEL",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Seoul breaking competition 2026 WDSF",
+        "Seoul salsa events 2026",
+        "Seoul dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Seoul breaking competition 2026 WDSF; Seoul salsa events 2026; Seoul dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SEL",
+      "disc_id": "CAR-BCH",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Seoul breaking competition 2026 WDSF",
+        "Seoul salsa events 2026",
+        "Seoul dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Seoul breaking competition 2026 WDSF; Seoul salsa events 2026; Seoul dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SEL",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Seoul breaking competition 2026 WDSF",
+        "Seoul salsa events 2026",
+        "Seoul dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Seoul breaking competition 2026 WDSF; Seoul salsa events 2026; Seoul dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SEL",
+      "disc_id": "CAR-BCH",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Seoul breaking competition 2026 WDSF",
+        "Seoul salsa events 2026",
+        "Seoul dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Seoul breaking competition 2026 WDSF; Seoul salsa events 2026; Seoul dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "TYO",
+      "disc_id": "URB-BRK",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Tokyo breaking WDSF 2026",
+        "Tokyo salsa bachata 2026",
+        "Tokyo Open JDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Tokyo breaking WDSF 2026; Tokyo salsa bachata 2026; Tokyo Open JDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "TYO",
+      "disc_id": "URB-BRK",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Tokyo breaking WDSF 2026",
+        "Tokyo salsa bachata 2026",
+        "Tokyo Open JDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Tokyo breaking WDSF 2026; Tokyo salsa bachata 2026; Tokyo Open JDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "TYO",
+      "disc_id": "URB-BRK",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Tokyo breaking WDSF 2026",
+        "Tokyo salsa bachata 2026",
+        "Tokyo Open JDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Tokyo breaking WDSF 2026; Tokyo salsa bachata 2026; Tokyo Open JDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "TYO",
+      "disc_id": "URB-BRK",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Tokyo breaking WDSF 2026",
+        "Tokyo salsa bachata 2026",
+        "Tokyo Open JDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Tokyo breaking WDSF 2026; Tokyo salsa bachata 2026; Tokyo Open JDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "TYO",
+      "disc_id": "URB-BRK",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Tokyo breaking WDSF 2026",
+        "Tokyo salsa bachata 2026",
+        "Tokyo Open JDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Tokyo breaking WDSF 2026; Tokyo salsa bachata 2026; Tokyo Open JDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "TYO",
+      "disc_id": "URB-BRK",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Tokyo breaking WDSF 2026",
+        "Tokyo salsa bachata 2026",
+        "Tokyo Open JDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Tokyo breaking WDSF 2026; Tokyo salsa bachata 2026; Tokyo Open JDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "TYO",
+      "disc_id": "CAR-SAL",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Tokyo breaking WDSF 2026",
+        "Tokyo salsa bachata 2026",
+        "Tokyo Open JDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Tokyo breaking WDSF 2026; Tokyo salsa bachata 2026; Tokyo Open JDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "TYO",
+      "disc_id": "CAR-SAL",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Tokyo breaking WDSF 2026",
+        "Tokyo salsa bachata 2026",
+        "Tokyo Open JDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Tokyo breaking WDSF 2026; Tokyo salsa bachata 2026; Tokyo Open JDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "TYO",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Tokyo breaking WDSF 2026",
+        "Tokyo salsa bachata 2026",
+        "Tokyo Open JDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Tokyo breaking WDSF 2026; Tokyo salsa bachata 2026; Tokyo Open JDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "TYO",
+      "disc_id": "CAR-SAL",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Tokyo breaking WDSF 2026",
+        "Tokyo salsa bachata 2026",
+        "Tokyo Open JDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Tokyo breaking WDSF 2026; Tokyo salsa bachata 2026; Tokyo Open JDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "TYO",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Tokyo breaking WDSF 2026",
+        "Tokyo salsa bachata 2026",
+        "Tokyo Open JDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Tokyo breaking WDSF 2026; Tokyo salsa bachata 2026; Tokyo Open JDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "TYO",
+      "disc_id": "CAR-SAL",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Tokyo breaking WDSF 2026",
+        "Tokyo salsa bachata 2026",
+        "Tokyo Open JDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Tokyo breaking WDSF 2026; Tokyo salsa bachata 2026; Tokyo Open JDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "TYO",
+      "disc_id": "CAR-BCH",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Tokyo breaking WDSF 2026",
+        "Tokyo salsa bachata 2026",
+        "Tokyo Open JDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Tokyo breaking WDSF 2026; Tokyo salsa bachata 2026; Tokyo Open JDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "TYO",
+      "disc_id": "CAR-BCH",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Tokyo breaking WDSF 2026",
+        "Tokyo salsa bachata 2026",
+        "Tokyo Open JDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Tokyo breaking WDSF 2026; Tokyo salsa bachata 2026; Tokyo Open JDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "TYO",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Tokyo breaking WDSF 2026",
+        "Tokyo salsa bachata 2026",
+        "Tokyo Open JDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Tokyo breaking WDSF 2026; Tokyo salsa bachata 2026; Tokyo Open JDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "TYO",
+      "disc_id": "CAR-BCH",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Tokyo breaking WDSF 2026",
+        "Tokyo salsa bachata 2026",
+        "Tokyo Open JDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Tokyo breaking WDSF 2026; Tokyo salsa bachata 2026; Tokyo Open JDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "TYO",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Tokyo breaking WDSF 2026",
+        "Tokyo salsa bachata 2026",
+        "Tokyo Open JDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Tokyo breaking WDSF 2026; Tokyo salsa bachata 2026; Tokyo Open JDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "TYO",
+      "disc_id": "CAR-BCH",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Tokyo breaking WDSF 2026",
+        "Tokyo salsa bachata 2026",
+        "Tokyo Open JDSF 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Tokyo breaking WDSF 2026; Tokyo salsa bachata 2026; Tokyo Open JDSF 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MEX",
+      "disc_id": "URB-BRK",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mexico City salsa bachata events 2026",
+        "Mexico City breaking 2026",
+        "CDMX salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mexico City salsa bachata events 2026; Mexico City breaking 2026; CDMX salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MEX",
+      "disc_id": "URB-BRK",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mexico City salsa bachata events 2026",
+        "Mexico City breaking 2026",
+        "CDMX salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mexico City salsa bachata events 2026; Mexico City breaking 2026; CDMX salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MEX",
+      "disc_id": "URB-BRK",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mexico City salsa bachata events 2026",
+        "Mexico City breaking 2026",
+        "CDMX salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mexico City salsa bachata events 2026; Mexico City breaking 2026; CDMX salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MEX",
+      "disc_id": "URB-BRK",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mexico City salsa bachata events 2026",
+        "Mexico City breaking 2026",
+        "CDMX salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mexico City salsa bachata events 2026; Mexico City breaking 2026; CDMX salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MEX",
+      "disc_id": "URB-BRK",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mexico City salsa bachata events 2026",
+        "Mexico City breaking 2026",
+        "CDMX salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mexico City salsa bachata events 2026; Mexico City breaking 2026; CDMX salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MEX",
+      "disc_id": "URB-BRK",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mexico City salsa bachata events 2026",
+        "Mexico City breaking 2026",
+        "CDMX salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mexico City salsa bachata events 2026; Mexico City breaking 2026; CDMX salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MEX",
+      "disc_id": "CAR-SAL",
+      "signal_id": "EVT",
+      "kind": "value",
+      "value": "21",
+      "unit": "socials/year",
+      "period": "2026",
+      "queries": [
+        "Mexico City salsa bachata events 2026",
+        "Mexico City breaking 2026",
+        "CDMX salsa congress 2026"
+      ],
+      "page_quotes": [
+        "\"Salsa in Mexico City: 21 weekly socials across 10 venues.\" — where-to-dance-salsa.com/salsa/mexico-city/"
+      ],
+      "notes": "https://where-to-dance-salsa.com/salsa/mexico-city/; searches: Mexico City salsa bachata events 2026; Mexico City breaking 2026; CDMX salsa congress 2026; confidence L; base_place_id blank; no CSV modified."
+    },
+    {
+      "place_id": "MEX",
+      "disc_id": "CAR-SAL",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mexico City salsa bachata events 2026",
+        "Mexico City breaking 2026",
+        "CDMX salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mexico City salsa bachata events 2026; Mexico City breaking 2026; CDMX salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MEX",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mexico City salsa bachata events 2026",
+        "Mexico City breaking 2026",
+        "CDMX salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mexico City salsa bachata events 2026; Mexico City breaking 2026; CDMX salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MEX",
+      "disc_id": "CAR-SAL",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mexico City salsa bachata events 2026",
+        "Mexico City breaking 2026",
+        "CDMX salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mexico City salsa bachata events 2026; Mexico City breaking 2026; CDMX salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MEX",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mexico City salsa bachata events 2026",
+        "Mexico City breaking 2026",
+        "CDMX salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mexico City salsa bachata events 2026; Mexico City breaking 2026; CDMX salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MEX",
+      "disc_id": "CAR-SAL",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mexico City salsa bachata events 2026",
+        "Mexico City breaking 2026",
+        "CDMX salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mexico City salsa bachata events 2026; Mexico City breaking 2026; CDMX salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MEX",
+      "disc_id": "CAR-BCH",
+      "signal_id": "EVT",
+      "kind": "value",
+      "value": "13",
+      "unit": "socials/year",
+      "period": "2026",
+      "queries": [
+        "Mexico City salsa bachata events 2026",
+        "Mexico City breaking 2026",
+        "CDMX salsa congress 2026"
+      ],
+      "page_quotes": [
+        "\"Bachata in Mexico City: 13 weekly socials across 8 venues.\" — where-to-dance-salsa.com/bachata/mexico-city/"
+      ],
+      "notes": "https://where-to-dance-salsa.com/bachata/mexico-city/; searches: Mexico City salsa bachata events 2026; Mexico City breaking 2026; CDMX salsa congress 2026; confidence L; base_place_id blank; no CSV modified."
+    },
+    {
+      "place_id": "MEX",
+      "disc_id": "CAR-BCH",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mexico City salsa bachata events 2026",
+        "Mexico City breaking 2026",
+        "CDMX salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mexico City salsa bachata events 2026; Mexico City breaking 2026; CDMX salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MEX",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mexico City salsa bachata events 2026",
+        "Mexico City breaking 2026",
+        "CDMX salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mexico City salsa bachata events 2026; Mexico City breaking 2026; CDMX salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MEX",
+      "disc_id": "CAR-BCH",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mexico City salsa bachata events 2026",
+        "Mexico City breaking 2026",
+        "CDMX salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mexico City salsa bachata events 2026; Mexico City breaking 2026; CDMX salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MEX",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mexico City salsa bachata events 2026",
+        "Mexico City breaking 2026",
+        "CDMX salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mexico City salsa bachata events 2026; Mexico City breaking 2026; CDMX salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "MEX",
+      "disc_id": "CAR-BCH",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mexico City salsa bachata events 2026",
+        "Mexico City breaking 2026",
+        "CDMX salsa congress 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mexico City salsa bachata events 2026; Mexico City breaking 2026; CDMX salsa congress 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SAO",
+      "disc_id": "URB-BRK",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Sao Paulo salsa bachata events 2026",
+        "Sao Paulo breaking 2026",
+        "SP dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Sao Paulo salsa bachata events 2026; Sao Paulo breaking 2026; SP dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SAO",
+      "disc_id": "URB-BRK",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Sao Paulo salsa bachata events 2026",
+        "Sao Paulo breaking 2026",
+        "SP dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Sao Paulo salsa bachata events 2026; Sao Paulo breaking 2026; SP dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SAO",
+      "disc_id": "URB-BRK",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Sao Paulo salsa bachata events 2026",
+        "Sao Paulo breaking 2026",
+        "SP dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Sao Paulo salsa bachata events 2026; Sao Paulo breaking 2026; SP dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SAO",
+      "disc_id": "URB-BRK",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Sao Paulo salsa bachata events 2026",
+        "Sao Paulo breaking 2026",
+        "SP dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Sao Paulo salsa bachata events 2026; Sao Paulo breaking 2026; SP dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SAO",
+      "disc_id": "URB-BRK",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Sao Paulo salsa bachata events 2026",
+        "Sao Paulo breaking 2026",
+        "SP dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Sao Paulo salsa bachata events 2026; Sao Paulo breaking 2026; SP dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SAO",
+      "disc_id": "URB-BRK",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Sao Paulo salsa bachata events 2026",
+        "Sao Paulo breaking 2026",
+        "SP dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Sao Paulo salsa bachata events 2026; Sao Paulo breaking 2026; SP dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SAO",
+      "disc_id": "CAR-SAL",
+      "signal_id": "EVT",
+      "kind": "value",
+      "value": "1",
+      "unit": "socials/year",
+      "period": "2026",
+      "queries": [
+        "Sao Paulo salsa bachata events 2026",
+        "Sao Paulo breaking 2026",
+        "SP dance federation 2026"
+      ],
+      "page_quotes": [
+        "\"Sao Paulo has 1 salsa socials across 1 venues.\" — where-to-dance-salsa.com/salsa/sao-paulo/"
+      ],
+      "notes": "https://where-to-dance-salsa.com/salsa/sao-paulo/; searches: Sao Paulo salsa bachata events 2026; Sao Paulo breaking 2026; SP dance federation 2026; confidence L; base_place_id blank; no CSV modified."
+    },
+    {
+      "place_id": "SAO",
+      "disc_id": "CAR-SAL",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Sao Paulo salsa bachata events 2026",
+        "Sao Paulo breaking 2026",
+        "SP dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Sao Paulo salsa bachata events 2026; Sao Paulo breaking 2026; SP dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SAO",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Sao Paulo salsa bachata events 2026",
+        "Sao Paulo breaking 2026",
+        "SP dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Sao Paulo salsa bachata events 2026; Sao Paulo breaking 2026; SP dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SAO",
+      "disc_id": "CAR-SAL",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Sao Paulo salsa bachata events 2026",
+        "Sao Paulo breaking 2026",
+        "SP dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Sao Paulo salsa bachata events 2026; Sao Paulo breaking 2026; SP dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SAO",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Sao Paulo salsa bachata events 2026",
+        "Sao Paulo breaking 2026",
+        "SP dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Sao Paulo salsa bachata events 2026; Sao Paulo breaking 2026; SP dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SAO",
+      "disc_id": "CAR-SAL",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Sao Paulo salsa bachata events 2026",
+        "Sao Paulo breaking 2026",
+        "SP dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Sao Paulo salsa bachata events 2026; Sao Paulo breaking 2026; SP dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SAO",
+      "disc_id": "CAR-BCH",
+      "signal_id": "EVT",
+      "kind": "value",
+      "value": "1",
+      "unit": "socials/year",
+      "period": "2026",
+      "queries": [
+        "Sao Paulo salsa bachata events 2026",
+        "Sao Paulo breaking 2026",
+        "SP dance federation 2026"
+      ],
+      "page_quotes": [
+        "\"Sao Paulo has 1 bachata socials across 1 venues.\" — where-to-dance-salsa.com/bachata/sao-paulo/"
+      ],
+      "notes": "https://where-to-dance-salsa.com/bachata/sao-paulo/; searches: Sao Paulo salsa bachata events 2026; Sao Paulo breaking 2026; SP dance federation 2026; confidence L; base_place_id blank; no CSV modified."
+    },
+    {
+      "place_id": "SAO",
+      "disc_id": "CAR-BCH",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Sao Paulo salsa bachata events 2026",
+        "Sao Paulo breaking 2026",
+        "SP dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Sao Paulo salsa bachata events 2026; Sao Paulo breaking 2026; SP dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SAO",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Sao Paulo salsa bachata events 2026",
+        "Sao Paulo breaking 2026",
+        "SP dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Sao Paulo salsa bachata events 2026; Sao Paulo breaking 2026; SP dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SAO",
+      "disc_id": "CAR-BCH",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Sao Paulo salsa bachata events 2026",
+        "Sao Paulo breaking 2026",
+        "SP dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Sao Paulo salsa bachata events 2026; Sao Paulo breaking 2026; SP dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SAO",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Sao Paulo salsa bachata events 2026",
+        "Sao Paulo breaking 2026",
+        "SP dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Sao Paulo salsa bachata events 2026; Sao Paulo breaking 2026; SP dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SAO",
+      "disc_id": "CAR-BCH",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Sao Paulo salsa bachata events 2026",
+        "Sao Paulo breaking 2026",
+        "SP dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Sao Paulo salsa bachata events 2026; Sao Paulo breaking 2026; SP dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "HAV",
+      "disc_id": "URB-BRK",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Havana salsa events 2026",
+        "Havana breaking 2026",
+        "Cuba dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Havana salsa events 2026; Havana breaking 2026; Cuba dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "HAV",
+      "disc_id": "URB-BRK",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Havana salsa events 2026",
+        "Havana breaking 2026",
+        "Cuba dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Havana salsa events 2026; Havana breaking 2026; Cuba dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "HAV",
+      "disc_id": "URB-BRK",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Havana salsa events 2026",
+        "Havana breaking 2026",
+        "Cuba dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Havana salsa events 2026; Havana breaking 2026; Cuba dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "HAV",
+      "disc_id": "URB-BRK",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Havana salsa events 2026",
+        "Havana breaking 2026",
+        "Cuba dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Havana salsa events 2026; Havana breaking 2026; Cuba dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "HAV",
+      "disc_id": "URB-BRK",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Havana salsa events 2026",
+        "Havana breaking 2026",
+        "Cuba dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Havana salsa events 2026; Havana breaking 2026; Cuba dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "HAV",
+      "disc_id": "URB-BRK",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Havana salsa events 2026",
+        "Havana breaking 2026",
+        "Cuba dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Havana salsa events 2026; Havana breaking 2026; Cuba dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "HAV",
+      "disc_id": "CAR-SAL",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Havana salsa events 2026",
+        "Havana breaking 2026",
+        "Cuba dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Havana salsa events 2026; Havana breaking 2026; Cuba dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "HAV",
+      "disc_id": "CAR-SAL",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Havana salsa events 2026",
+        "Havana breaking 2026",
+        "Cuba dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Havana salsa events 2026; Havana breaking 2026; Cuba dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "HAV",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Havana salsa events 2026",
+        "Havana breaking 2026",
+        "Cuba dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Havana salsa events 2026; Havana breaking 2026; Cuba dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "HAV",
+      "disc_id": "CAR-SAL",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Havana salsa events 2026",
+        "Havana breaking 2026",
+        "Cuba dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Havana salsa events 2026; Havana breaking 2026; Cuba dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "HAV",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Havana salsa events 2026",
+        "Havana breaking 2026",
+        "Cuba dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Havana salsa events 2026; Havana breaking 2026; Cuba dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "HAV",
+      "disc_id": "CAR-SAL",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Havana salsa events 2026",
+        "Havana breaking 2026",
+        "Cuba dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Havana salsa events 2026; Havana breaking 2026; Cuba dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "HAV",
+      "disc_id": "CAR-BCH",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Havana salsa events 2026",
+        "Havana breaking 2026",
+        "Cuba dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Havana salsa events 2026; Havana breaking 2026; Cuba dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "HAV",
+      "disc_id": "CAR-BCH",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Havana salsa events 2026",
+        "Havana breaking 2026",
+        "Cuba dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Havana salsa events 2026; Havana breaking 2026; Cuba dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "HAV",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Havana salsa events 2026",
+        "Havana breaking 2026",
+        "Cuba dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Havana salsa events 2026; Havana breaking 2026; Cuba dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "HAV",
+      "disc_id": "CAR-BCH",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Havana salsa events 2026",
+        "Havana breaking 2026",
+        "Cuba dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Havana salsa events 2026; Havana breaking 2026; Cuba dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "HAV",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Havana salsa events 2026",
+        "Havana breaking 2026",
+        "Cuba dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Havana salsa events 2026; Havana breaking 2026; Cuba dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "HAV",
+      "disc_id": "CAR-BCH",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Havana salsa events 2026",
+        "Havana breaking 2026",
+        "Cuba dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Havana salsa events 2026; Havana breaking 2026; Cuba dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SDQ",
+      "disc_id": "URB-BRK",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Santo Domingo salsa bachata 2026",
+        "Santo Domingo breaking 2026",
+        "DR dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Santo Domingo salsa bachata 2026; Santo Domingo breaking 2026; DR dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SDQ",
+      "disc_id": "URB-BRK",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Santo Domingo salsa bachata 2026",
+        "Santo Domingo breaking 2026",
+        "DR dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Santo Domingo salsa bachata 2026; Santo Domingo breaking 2026; DR dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SDQ",
+      "disc_id": "URB-BRK",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Santo Domingo salsa bachata 2026",
+        "Santo Domingo breaking 2026",
+        "DR dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Santo Domingo salsa bachata 2026; Santo Domingo breaking 2026; DR dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SDQ",
+      "disc_id": "URB-BRK",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Santo Domingo salsa bachata 2026",
+        "Santo Domingo breaking 2026",
+        "DR dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Santo Domingo salsa bachata 2026; Santo Domingo breaking 2026; DR dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SDQ",
+      "disc_id": "URB-BRK",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Santo Domingo salsa bachata 2026",
+        "Santo Domingo breaking 2026",
+        "DR dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Santo Domingo salsa bachata 2026; Santo Domingo breaking 2026; DR dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SDQ",
+      "disc_id": "URB-BRK",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Santo Domingo salsa bachata 2026",
+        "Santo Domingo breaking 2026",
+        "DR dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Santo Domingo salsa bachata 2026; Santo Domingo breaking 2026; DR dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SDQ",
+      "disc_id": "CAR-SAL",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Santo Domingo salsa bachata 2026",
+        "Santo Domingo breaking 2026",
+        "DR dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Santo Domingo salsa bachata 2026; Santo Domingo breaking 2026; DR dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SDQ",
+      "disc_id": "CAR-SAL",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Santo Domingo salsa bachata 2026",
+        "Santo Domingo breaking 2026",
+        "DR dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Santo Domingo salsa bachata 2026; Santo Domingo breaking 2026; DR dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SDQ",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Santo Domingo salsa bachata 2026",
+        "Santo Domingo breaking 2026",
+        "DR dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Santo Domingo salsa bachata 2026; Santo Domingo breaking 2026; DR dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SDQ",
+      "disc_id": "CAR-SAL",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Santo Domingo salsa bachata 2026",
+        "Santo Domingo breaking 2026",
+        "DR dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Santo Domingo salsa bachata 2026; Santo Domingo breaking 2026; DR dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SDQ",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Santo Domingo salsa bachata 2026",
+        "Santo Domingo breaking 2026",
+        "DR dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Santo Domingo salsa bachata 2026; Santo Domingo breaking 2026; DR dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SDQ",
+      "disc_id": "CAR-SAL",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Santo Domingo salsa bachata 2026",
+        "Santo Domingo breaking 2026",
+        "DR dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Santo Domingo salsa bachata 2026; Santo Domingo breaking 2026; DR dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SDQ",
+      "disc_id": "CAR-BCH",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Santo Domingo salsa bachata 2026",
+        "Santo Domingo breaking 2026",
+        "DR dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Santo Domingo salsa bachata 2026; Santo Domingo breaking 2026; DR dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SDQ",
+      "disc_id": "CAR-BCH",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Santo Domingo salsa bachata 2026",
+        "Santo Domingo breaking 2026",
+        "DR dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Santo Domingo salsa bachata 2026; Santo Domingo breaking 2026; DR dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SDQ",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Santo Domingo salsa bachata 2026",
+        "Santo Domingo breaking 2026",
+        "DR dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Santo Domingo salsa bachata 2026; Santo Domingo breaking 2026; DR dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SDQ",
+      "disc_id": "CAR-BCH",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Santo Domingo salsa bachata 2026",
+        "Santo Domingo breaking 2026",
+        "DR dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Santo Domingo salsa bachata 2026; Santo Domingo breaking 2026; DR dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SDQ",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Santo Domingo salsa bachata 2026",
+        "Santo Domingo breaking 2026",
+        "DR dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Santo Domingo salsa bachata 2026; Santo Domingo breaking 2026; DR dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SDQ",
+      "disc_id": "CAR-BCH",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Santo Domingo salsa bachata 2026",
+        "Santo Domingo breaking 2026",
+        "DR dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Santo Domingo salsa bachata 2026; Santo Domingo breaking 2026; DR dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SJU",
+      "disc_id": "URB-BRK",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "San Juan Puerto Rico salsa 2026",
+        "San Juan breaking 2026",
+        "Puerto Rico dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: San Juan Puerto Rico salsa 2026; San Juan breaking 2026; Puerto Rico dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SJU",
+      "disc_id": "URB-BRK",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "San Juan Puerto Rico salsa 2026",
+        "San Juan breaking 2026",
+        "Puerto Rico dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: San Juan Puerto Rico salsa 2026; San Juan breaking 2026; Puerto Rico dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SJU",
+      "disc_id": "URB-BRK",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "San Juan Puerto Rico salsa 2026",
+        "San Juan breaking 2026",
+        "Puerto Rico dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: San Juan Puerto Rico salsa 2026; San Juan breaking 2026; Puerto Rico dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SJU",
+      "disc_id": "URB-BRK",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "San Juan Puerto Rico salsa 2026",
+        "San Juan breaking 2026",
+        "Puerto Rico dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: San Juan Puerto Rico salsa 2026; San Juan breaking 2026; Puerto Rico dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SJU",
+      "disc_id": "URB-BRK",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "San Juan Puerto Rico salsa 2026",
+        "San Juan breaking 2026",
+        "Puerto Rico dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: San Juan Puerto Rico salsa 2026; San Juan breaking 2026; Puerto Rico dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SJU",
+      "disc_id": "URB-BRK",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "San Juan Puerto Rico salsa 2026",
+        "San Juan breaking 2026",
+        "Puerto Rico dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: San Juan Puerto Rico salsa 2026; San Juan breaking 2026; Puerto Rico dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SJU",
+      "disc_id": "CAR-SAL",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "San Juan Puerto Rico salsa 2026",
+        "San Juan breaking 2026",
+        "Puerto Rico dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: San Juan Puerto Rico salsa 2026; San Juan breaking 2026; Puerto Rico dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SJU",
+      "disc_id": "CAR-SAL",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "San Juan Puerto Rico salsa 2026",
+        "San Juan breaking 2026",
+        "Puerto Rico dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: San Juan Puerto Rico salsa 2026; San Juan breaking 2026; Puerto Rico dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SJU",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "San Juan Puerto Rico salsa 2026",
+        "San Juan breaking 2026",
+        "Puerto Rico dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: San Juan Puerto Rico salsa 2026; San Juan breaking 2026; Puerto Rico dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SJU",
+      "disc_id": "CAR-SAL",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "San Juan Puerto Rico salsa 2026",
+        "San Juan breaking 2026",
+        "Puerto Rico dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: San Juan Puerto Rico salsa 2026; San Juan breaking 2026; Puerto Rico dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SJU",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "San Juan Puerto Rico salsa 2026",
+        "San Juan breaking 2026",
+        "Puerto Rico dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: San Juan Puerto Rico salsa 2026; San Juan breaking 2026; Puerto Rico dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SJU",
+      "disc_id": "CAR-SAL",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "San Juan Puerto Rico salsa 2026",
+        "San Juan breaking 2026",
+        "Puerto Rico dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: San Juan Puerto Rico salsa 2026; San Juan breaking 2026; Puerto Rico dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SJU",
+      "disc_id": "CAR-BCH",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "San Juan Puerto Rico salsa 2026",
+        "San Juan breaking 2026",
+        "Puerto Rico dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: San Juan Puerto Rico salsa 2026; San Juan breaking 2026; Puerto Rico dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SJU",
+      "disc_id": "CAR-BCH",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "San Juan Puerto Rico salsa 2026",
+        "San Juan breaking 2026",
+        "Puerto Rico dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: San Juan Puerto Rico salsa 2026; San Juan breaking 2026; Puerto Rico dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SJU",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "San Juan Puerto Rico salsa 2026",
+        "San Juan breaking 2026",
+        "Puerto Rico dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: San Juan Puerto Rico salsa 2026; San Juan breaking 2026; Puerto Rico dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SJU",
+      "disc_id": "CAR-BCH",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "San Juan Puerto Rico salsa 2026",
+        "San Juan breaking 2026",
+        "Puerto Rico dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: San Juan Puerto Rico salsa 2026; San Juan breaking 2026; Puerto Rico dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SJU",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "San Juan Puerto Rico salsa 2026",
+        "San Juan breaking 2026",
+        "Puerto Rico dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: San Juan Puerto Rico salsa 2026; San Juan breaking 2026; Puerto Rico dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "SJU",
+      "disc_id": "CAR-BCH",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "San Juan Puerto Rico salsa 2026",
+        "San Juan breaking 2026",
+        "Puerto Rico dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: San Juan Puerto Rico salsa 2026; San Juan breaking 2026; Puerto Rico dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "JNB",
+      "disc_id": "URB-BRK",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Johannesburg breaking 2026",
+        "Johannesburg salsa events 2026",
+        "South Africa dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Johannesburg breaking 2026; Johannesburg salsa events 2026; South Africa dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "JNB",
+      "disc_id": "URB-BRK",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Johannesburg breaking 2026",
+        "Johannesburg salsa events 2026",
+        "South Africa dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Johannesburg breaking 2026; Johannesburg salsa events 2026; South Africa dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "JNB",
+      "disc_id": "URB-BRK",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Johannesburg breaking 2026",
+        "Johannesburg salsa events 2026",
+        "South Africa dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Johannesburg breaking 2026; Johannesburg salsa events 2026; South Africa dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "JNB",
+      "disc_id": "URB-BRK",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Johannesburg breaking 2026",
+        "Johannesburg salsa events 2026",
+        "South Africa dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Johannesburg breaking 2026; Johannesburg salsa events 2026; South Africa dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "JNB",
+      "disc_id": "URB-BRK",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Johannesburg breaking 2026",
+        "Johannesburg salsa events 2026",
+        "South Africa dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Johannesburg breaking 2026; Johannesburg salsa events 2026; South Africa dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "JNB",
+      "disc_id": "URB-BRK",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Johannesburg breaking 2026",
+        "Johannesburg salsa events 2026",
+        "South Africa dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Johannesburg breaking 2026; Johannesburg salsa events 2026; South Africa dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "JNB",
+      "disc_id": "CAR-SAL",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Johannesburg breaking 2026",
+        "Johannesburg salsa events 2026",
+        "South Africa dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Johannesburg breaking 2026; Johannesburg salsa events 2026; South Africa dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "JNB",
+      "disc_id": "CAR-SAL",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Johannesburg breaking 2026",
+        "Johannesburg salsa events 2026",
+        "South Africa dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Johannesburg breaking 2026; Johannesburg salsa events 2026; South Africa dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "JNB",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Johannesburg breaking 2026",
+        "Johannesburg salsa events 2026",
+        "South Africa dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Johannesburg breaking 2026; Johannesburg salsa events 2026; South Africa dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "JNB",
+      "disc_id": "CAR-SAL",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Johannesburg breaking 2026",
+        "Johannesburg salsa events 2026",
+        "South Africa dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Johannesburg breaking 2026; Johannesburg salsa events 2026; South Africa dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "JNB",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Johannesburg breaking 2026",
+        "Johannesburg salsa events 2026",
+        "South Africa dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Johannesburg breaking 2026; Johannesburg salsa events 2026; South Africa dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "JNB",
+      "disc_id": "CAR-SAL",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Johannesburg breaking 2026",
+        "Johannesburg salsa events 2026",
+        "South Africa dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Johannesburg breaking 2026; Johannesburg salsa events 2026; South Africa dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "JNB",
+      "disc_id": "CAR-BCH",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Johannesburg breaking 2026",
+        "Johannesburg salsa events 2026",
+        "South Africa dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Johannesburg breaking 2026; Johannesburg salsa events 2026; South Africa dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "JNB",
+      "disc_id": "CAR-BCH",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Johannesburg breaking 2026",
+        "Johannesburg salsa events 2026",
+        "South Africa dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Johannesburg breaking 2026; Johannesburg salsa events 2026; South Africa dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "JNB",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Johannesburg breaking 2026",
+        "Johannesburg salsa events 2026",
+        "South Africa dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Johannesburg breaking 2026; Johannesburg salsa events 2026; South Africa dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "JNB",
+      "disc_id": "CAR-BCH",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Johannesburg breaking 2026",
+        "Johannesburg salsa events 2026",
+        "South Africa dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Johannesburg breaking 2026; Johannesburg salsa events 2026; South Africa dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "JNB",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Johannesburg breaking 2026",
+        "Johannesburg salsa events 2026",
+        "South Africa dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Johannesburg breaking 2026; Johannesburg salsa events 2026; South Africa dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "JNB",
+      "disc_id": "CAR-BCH",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Johannesburg breaking 2026",
+        "Johannesburg salsa events 2026",
+        "South Africa dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Johannesburg breaking 2026; Johannesburg salsa events 2026; South Africa dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "BOM",
+      "disc_id": "URB-BRK",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mumbai breaking 2026",
+        "Mumbai salsa bachata 2026",
+        "India dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mumbai breaking 2026; Mumbai salsa bachata 2026; India dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "BOM",
+      "disc_id": "URB-BRK",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mumbai breaking 2026",
+        "Mumbai salsa bachata 2026",
+        "India dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mumbai breaking 2026; Mumbai salsa bachata 2026; India dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "BOM",
+      "disc_id": "URB-BRK",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mumbai breaking 2026",
+        "Mumbai salsa bachata 2026",
+        "India dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mumbai breaking 2026; Mumbai salsa bachata 2026; India dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "BOM",
+      "disc_id": "URB-BRK",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mumbai breaking 2026",
+        "Mumbai salsa bachata 2026",
+        "India dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mumbai breaking 2026; Mumbai salsa bachata 2026; India dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "BOM",
+      "disc_id": "URB-BRK",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mumbai breaking 2026",
+        "Mumbai salsa bachata 2026",
+        "India dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mumbai breaking 2026; Mumbai salsa bachata 2026; India dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "BOM",
+      "disc_id": "URB-BRK",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mumbai breaking 2026",
+        "Mumbai salsa bachata 2026",
+        "India dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mumbai breaking 2026; Mumbai salsa bachata 2026; India dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "BOM",
+      "disc_id": "CAR-SAL",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mumbai breaking 2026",
+        "Mumbai salsa bachata 2026",
+        "India dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mumbai breaking 2026; Mumbai salsa bachata 2026; India dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "BOM",
+      "disc_id": "CAR-SAL",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mumbai breaking 2026",
+        "Mumbai salsa bachata 2026",
+        "India dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mumbai breaking 2026; Mumbai salsa bachata 2026; India dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "BOM",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mumbai breaking 2026",
+        "Mumbai salsa bachata 2026",
+        "India dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mumbai breaking 2026; Mumbai salsa bachata 2026; India dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "BOM",
+      "disc_id": "CAR-SAL",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mumbai breaking 2026",
+        "Mumbai salsa bachata 2026",
+        "India dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mumbai breaking 2026; Mumbai salsa bachata 2026; India dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "BOM",
+      "disc_id": "CAR-SAL",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mumbai breaking 2026",
+        "Mumbai salsa bachata 2026",
+        "India dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mumbai breaking 2026; Mumbai salsa bachata 2026; India dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "BOM",
+      "disc_id": "CAR-SAL",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mumbai breaking 2026",
+        "Mumbai salsa bachata 2026",
+        "India dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mumbai breaking 2026; Mumbai salsa bachata 2026; India dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "BOM",
+      "disc_id": "CAR-BCH",
+      "signal_id": "EVT",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mumbai breaking 2026",
+        "Mumbai salsa bachata 2026",
+        "India dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mumbai breaking 2026; Mumbai salsa bachata 2026; India dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "BOM",
+      "disc_id": "CAR-BCH",
+      "signal_id": "CMP",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mumbai breaking 2026",
+        "Mumbai salsa bachata 2026",
+        "India dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mumbai breaking 2026; Mumbai salsa bachata 2026; India dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "BOM",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ORG",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mumbai breaking 2026",
+        "Mumbai salsa bachata 2026",
+        "India dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mumbai breaking 2026; Mumbai salsa bachata 2026; India dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "BOM",
+      "disc_id": "CAR-BCH",
+      "signal_id": "SCH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mumbai breaking 2026",
+        "Mumbai salsa bachata 2026",
+        "India dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mumbai breaking 2026; Mumbai salsa bachata 2026; India dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "BOM",
+      "disc_id": "CAR-BCH",
+      "signal_id": "ATH",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mumbai breaking 2026",
+        "Mumbai salsa bachata 2026",
+        "India dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mumbai breaking 2026; Mumbai salsa bachata 2026; India dance federation 2026; confidence L; base_place_id blank."
+    },
+    {
+      "place_id": "BOM",
+      "disc_id": "CAR-BCH",
+      "signal_id": "LAD",
+      "kind": "not_found",
+      "value": null,
+      "unit": "",
+      "period": "",
+      "queries": [
+        "Mumbai breaking 2026",
+        "Mumbai salsa bachata 2026",
+        "India dance federation 2026"
+      ],
+      "page_quotes": [],
+      "notes": "No verified evidence in first pass (2-4 searches). queries: Mumbai breaking 2026; Mumbai salsa bachata 2026; India dance federation 2026; confidence L; base_place_id blank."
+    }
+  ],
+  "_summary": "First-pass benchmark scan: 13 places (NYC,LAX,MIA,YTO,SEL,TYO,MEX,SAO,HAV,SDQ,SJU,JNB,BOM). CLO excluded (only POP F000051). NYC existing POP not_found F000050; zero scene rows for all 13 in CSV. 17 value cells (quoted from fetched pages: NYC salsa/bachata where-to-dance-salsa & danceus.org; NYC congress; MIA salsa/bachata where-to-dance-salsa & danceplace.com; LAX salsa/bachata where-to-dance-salsa & labachatafestival.com; YTO salsa/bachata where-to-dance-salsa; MEX salsa/bachata where-to-dance-salsa; SAO salsa/bachata where-to-dance-salsa). All others not_found; confidence L; base_place_id blank; URLs in notes. No invented numbers; no transposed data; CSV untouched."
+}
