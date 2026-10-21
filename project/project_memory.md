@@ -77,6 +77,13 @@ Web deck "Two Dance Markets", rebuilt 2026-10-21 as 10 slides in English (cover;
 - No public sponsor packs with prices; market volume in dancers not computable (sizes rarely published); only a scenario for talks.
 - Scripts: scripts/census_merge.py, scripts/census_stats.py.
 
+## 7f. Round Z results (2026-10-21, analysis section 12)
+- Large events, Europe, last 12 months: Latin 10 events with >= 1,000 dancers taking part (2-3 with >= 3,000; about 23,000-26,500 dancers in total), breaking 1 (Outbreak Europe, about 2,000 breakers); breaking has 3 events with >= 3,000 spectators (IBE, Battle Pro, Outbreak), Latin none. Supports the two-markets thesis at the top. Figures are organiser claims (L-M), lower bounds.
+- Breaking total: no second calendar can be harvested; still about 210 a year on and8.dance, probably above about 330 in reality; not comparable with Latin's 450-750 by the same method.
+- Social: Instagram blocks cloud sessions; snippets only; no engagement data. Round X result stands.
+- Hyrox 2025: 89 races, 779,073 finishers worldwide, about 8,750 per race (deck updated).
+- Curated table: research/sizes/large_events.csv.
+
 ## 8. Next steps (2026-10-21, after round X)
 0. Round Y executed (data + log); next: Claude analyses the census (merged_events.csv, overlaps, snapshots, Hyrox) and updates the deck.
 1. Leonardo, 1-2 hours (optional now that round Y crosses sources): **coverage check of the two platforms in Austria** (and Salzburg): list every Latin congress/festival and every breaking battle he knows in Austria for the next 12 months, then mark which are on goandance and on and8.dance. The share listed tells how representative the two platforms are (answer to the main critique). Also the Salzburg rows (SBG-S, SBG-X) in research/manual_input.ods.
@@ -95,3 +102,4 @@ Web deck "Two Dance Markets", rebuilt 2026-10-21 as 10 slides in English (cover;
 - 2026-10-21: round X executed (frames, random samples of 30 + 30 events, symmetric line-up artists, counter-evidence on the 40 flagship events; data only, tests of outputs/analysis.md section 9 not yet run). Known limits: breaking frame = and8 registry only; line-up artists resolved mostly for the better known ones; no partner sections read for the 60 sampled events; X5 (five more Latin cities) not done.
 - 2026-10-21 (night): round Z prepared: business case model with an input map (only data the model uses is collected); new signal BEV and units in data_schema section 5; size samples drawn from the census; prompt for a cloud agent working on its own branch. Free sources only.
 - 2026-10-21 (night, later): round Z revised: focus on a comparable count (large events by size class, breaking counted with several sources) and social hype; market and Wikipedia research dropped. The earlier cloud test showed that a session with limited network can search but not open pages: round Z needs a cloud environment with full network access.
+- 2026-10-21 (night): round Z executed on branch round-z and merged by Claude: CSV with one extra column fixed (event_sizes.csv); breaking_officialpages.csv moved out of research/census/ (flagship list, would bias capture-recapture); census unchanged. Deck: market slide shows large events by size class; Hyrox size corrected.

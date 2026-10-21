@@ -260,3 +260,26 @@ Reading: **Latin and breaking are stable; Hyrox is growing fast** (season target
 **Business case, light (only what is public).** No European Latin or breaking event publishes a sponsor pack with prices (7 searches, EN/FR/ES/DE); SalsaVida sells event promotion at about EUR 89 a month (L). Market volume (dancers per year) cannot be computed: typical congress sizes are not published. A scenario for later talks, **not a finding**: 450-750 events x 300-1,000 dancers each = about 135,000-750,000 congress participations a year in Europe (both ranges are assumptions to test with organisers).
 
 **Limits.** Breaking has one calendar; past Latin events come from one source; cities are missing for many rows (country only); Hyrox past races partly from archived pages; sizes almost never published.
+
+## 12. Round Z: large events, breaking count, social attention (review of 2026-10-21)
+Data: research/sizes/ (candidates.csv, event_sizes.csv, large_events.csv, hyrox_finishers.csv, breaking_officialpages.csv), research/social/event_social.csv, log research/logs/Z_round.md. Method: cloud agent with full web access; sizes from search results and organiser or press statements (no site reads in most cases), so almost all figures are claims (confidence L-M). large_events.csv is Claude's curated table (one line per event and people type, with what is in and out of the comparison and why).
+
+**Large events, Europe, last 12 months (latest stated edition 2024-2026; Red Bull events, events outside Europe or the window, and mixed street-dance events left out):**
+
+| | Latin | Breaking |
+|---|---|---|
+| Events with >= 300 people taking part (dancers) | 12 | 2 |
+| Events with >= 1,000 taking part | 10 | 1 (Outbreak Europe) |
+| Events with >= 3,000 taking part | 2-3 (Croatian Summer Salsa Festival, Berlin Salsacongress, Amsterdam at the high end) | 0 |
+| Dancers at the events with >= 1,000 | about 23,000-26,500 | about 2,000 |
+| Events with >= 3,000 spectators or visitors | none stated | 3 (Notorious IBE 10,000; Battle Pro 4,500 planned; Outbreak 3,200, year unconfirmed) |
+
+Reading: Latin's large events are many and made of paying participants; breaking's are few and made of spectators. This is the two-markets thesis seen at the top of the market. Limits: 20 of 30 Latin candidates and 15 of 26 breaking candidates have no stated size, so the counts are lower bounds; Latin figures are self-declared ("over 2,500 dancers") and round numbers. Juste Debout (6,000-12,000 spectators) is left out because it has no breaking category; with it, breaking would have 4 spectator events of 3,000+.
+
+**Breaking total count (Z2):** no second breaking calendar exists that can be harvested (bboyrankingz.com is a hijacked page, bboyevent.com stopped in 2020, federation calendars blocked or absent). The census stays at about 210 breaking events a year on and8.dance. Of 11 breaking events found on official pages, 7 are on and8.dance (64%); because these are mostly flagships, and8's coverage of small events is probably lower, so the true total is probably above about 330 a year. It cannot be placed against Latin's 450-750 with the same method. The 11-event list is kept out of research/census/ (moved to research/sizes/) so that it does not enter the capture-recapture estimates.
+
+**Social attention (Z3):** Instagram blocked the cloud session; follower counts come from search-result snippets of unknown date, no likes or comments, no YouTube or TikTok. Medians: large events, Latin 9,568 followers (n = 10) vs breaking 49,000 (n = 6); random typical events, Latin 3,040 (n = 17 with a profile found) vs breaking 2,800 (n = 8). Too thin and too old to change the round X result (typical Latin events more followed, p = 0.02); it confirms that breaking's attention advantage sits at the top. Engagement (likes, comments) remains unmeasured.
+
+**Hyrox (Z5):** 2025, worldwide: 89 races, 779,073 finishers, about 8,750 per race; London ExCeL over 34,000. The deck's "about 2,700 per race" (2023) is replaced. European totals are not published.
+
+**Drinks brands (Z4):** none recorded (sites were not opened). Still a question for the organiser talks.
