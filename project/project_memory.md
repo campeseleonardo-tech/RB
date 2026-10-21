@@ -89,6 +89,11 @@ Web deck "Two Dance Markets", rebuilt 2026-10-21 as 10 slides in English (cover;
 - research/artists/lineups.csv (684 artist rows, 416 distinct couples/solos), name_map.csv (184 merged spellings), artist_reach.csv (40 most booked; Instagram followers found for 11, 29 not linked with certainty).
 - Limits: official/ticket page read for 54 events (4 did not render); line-ups are mostly go&dance cards, so counts are biased to events on that platform. Log: research/logs/AA1_log.md. Nothing committed; data/ unchanged, validate_data.py still 0 errors.
 
+## 7h. Round AA2 results (2026-10-22)
+- 24 cities, research/cities/city_indicators.csv (159 rows). Kept: C1/C2 citypopulation.de (23 cities), C3 Eurostat avia_paoa (23), C5 Eurostat tour_occ_nin3 NUTS3 (23), C7 Overpass/OSM (24), C8 Eurostat country price level (24), C10 offices on file (19).
+- Dropped after the 5 candidate sources: C4 hotel price (no free current 18-city table), C6 Latin schools (go&dance city pages exist for 12/24 only), C9 Red Bull dance events (events.csv covers 16 cities).
+- Limits: C1/C2 definitions differ for London (Greater London), Brussels/Athens (municipality), Paris (commune); C5 and C8 are region/country values, written in notes. Log: research/logs/AA2_log.md.
+
 ## 8. Next steps (2026-10-21, after round X)
 0. Round Y executed (data + log); next: Claude analyses the census (merged_events.csv, overlaps, snapshots, Hyrox) and updates the deck.
 1. Leonardo, 1-2 hours (optional now that round Y crosses sources): **coverage check of the two platforms in Austria** (and Salzburg): list every Latin congress/festival and every breaking battle he knows in Austria for the next 12 months, then mark which are on goandance and on and8.dance. The share listed tells how representative the two platforms are (answer to the main critique). Also the Salzburg rows (SBG-S, SBG-X) in research/manual_input.ods.
