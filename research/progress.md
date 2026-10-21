@@ -1,25 +1,23 @@
-# Progress - Round T, 2026-10-21
+# Progress - Round U, 2026-10-21
 
-## Completed or accounted for
-- T1: 4 items completed and logged.
-- T2.1: 20 missing country/world championship cells have a result or documented not_found; the 3 existing Breaking counts were reconfirmed. Several results remain blocked or unavailable in segmented files.
-- T2.2: counting script tested; no input segments were saved, so no totals were produced for the affected Italian/German rows.
-- T3.1: all 18 country/world cells have an event row or not_found. This is minimum coverage, not the requested top 3-5 ranking. Five Latin event rows were added or corrected.
-- T4.1: sponsor checks logged for T2/T3 events. Three events remain not_checked because pages are blocked or the stored source does not match the event.
-- T4.2: 30 Latin ORG rows recorded as limited not_found, not zero; localized Red Bull pages and search controls were incomplete.
-- T5.1: 18 facts recorded. Two BC One replay counts were read; other final-video cells are not_found with reasons. Four Latin channel subscriber counts were added.
-- T6.1-T6.3: 18 rows recorded for Vienna/Milan. School counts are verified minima only: VIE salsa 3, bachata 3, breaking 1; MIL salsa 1, bachata 1, breaking not_found. Weekly slots: VIE 30/5/2; MIL 8/3/breaking not_found. Six recurring-social/jam cells are limited not_found.
-- T6.4: minutes were not tracked separately by city/style during the interrupted pass; no durations were estimated.
+Validator: 0 errors. Summary rebuilt (research/data_summary.md). Log: research/logs/U_round.md.
 
-## Limits and remaining work
-- T6 fixed-search first-20 results were not fully reviewed. T6.3 social/jam searches were deferred. Do not use the pilot to decide to scale to 15 cities.
-- T3: top-event rankings remain incomplete; Swiss event pages and the EUR conversion for BIG Milan remain blocked.
-- T4: Flavourama, Ultimate Latin Dance Championship and Biel/Bienne event sponsor pages remain unresolved; see manual list.
-- T5: official final videos remain not_found for Dance Your Style 2025, Latin world circuits, WDSF Caribbean finals and the FEBD bachata championship.
-- T7 validation: 0 errors and 1,407 warnings; warnings were not fully triaged. Summary regenerated after this progress update.
-- Commit and push were not performed: project-wide instructions forbid pushing or changing main.
-
-## Next session
-1. Finish T6 fixed-search result review and recurring-social checks before deciding whether to expand beyond the pilot.
-2. Resolve the blocked T3/T4 items listed in research/manual_collection_list.md.
-3. Review the remaining not_found video cells only if official final videos can be identified.
+| Task | Rows | Result |
+|---|---|---|
+| U1 Red Bull precedents | 8 events, 9 not_found | None at Latin congresses in the 9 countries (14 searches, 7 languages); 8 non-Latin participation activations found (Open'er dance zone, DYS Weekender London, Rock for People fitness zone, Hyrox x3, Sweat the Deck, F45, Wings for Life) |
+| U2.1 Congress market | 18 goandance + 9 and8 | Listed next 12 months (salsa/bachata): ES 61/59, DE 16/38, IT 12/16, FR 4/12, PL 3/7, AT 1/3, NL 2/4, UK 1/2, CH 0/1; breaking and8: DE 19, CH 9, FR 9, NL 4, IT 4, UK 3, AT 1, PL 0, ES 0. ES and DE-bachata counts are page counters (list stopped at 17 cards) |
+| U2.2 Sponsor packs | 10 not_found, 5 sponsors, 4 stated figures | No public pack for any of 10 congresses; Croatian Summer Salsa Festival: over 5,000 dancers, 90 countries, ages 20-60, sponsors incl. Freixenet |
+| U3.1 Event accounts | 20 Latin + 18 breaking (IG, some FB/TikTok) | Latin largest: Euroson 58K, Croatian/Sea Sun Salsa 45K, BIG 34K, BCN 34K, BSWC 25K; breaking: Red Bull Dance 3M, BC One 957K, WDSF 328K, HHI 238K |
+| U3.2 Dancers | 30 Latin + 30 breaking athletes, 126 facts | Latin top: Ataca y La Alemana 900K, Daniel y Desiree 734K, Kike y Nahir 436K; breaking top: Neguin 795K, Terra 340K, Lil Zoo 244K; median about 80K (Latin) and 105K (breaking) |
+| U3.3 Hashtags | 4 values, 12 not_found | IG reels: #bachata 38M, #breakdance 13M, #salsadance 3.1M, #bachatadance 875K |
+| U4 Videos | 10 + 10 | Latin 291m (Ataca/Daniel y Desiree clip, may be audio-led), 99m (BGT salsa); breaking 100m (R16 battle), 91m (Criollo battle) |
+Blocked or incomplete
+- Instagram hashtags #salsa, #breaking, #bboy, #bgirl and all TikTok hashtag views: login wall (manual list 27-28). TikTok Creative Center gives only top trends, no per-country values.
+- YouTube channel pages: consent wall (not bypassed); no subscriber counts for new accounts (item 29). Facebook for breaking events and dancers not read (item 30).
+- RoxRite and Mounir: profile pages unavailable on the day; snippet numbers only (confidence L). Instagram numbers are mostly abbreviated K/M (confidence M); WLDC and SB Spain profiles unavailable (item 31).
+- Dancer countries only where a profile or source states them; red_bull_athlete is not_checked for all 60.
+Items left for Leonardo: manual_collection_list.md items 27-33 (Instagram/Facebook/YouTube/TikTok).
+Open questions
+1. Are goandance counts (all event types, partial coverage) good enough as the "Latin market size" signal, or should H1 use event sizes instead?
+2. Keep Instagram-only for dancers, or add TikTok/YouTube by hand for the top 10 per world?
+3. Is a Red Bull "participation activation" (dance zone at Open'er, Hyrox, fitness zones) strong enough as precedent for H2, given no Latin precedent?

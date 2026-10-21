@@ -76,3 +76,26 @@ O00082,Paris International Salsa Congress (PISC),event_organiser,PAR,CAR-SAL,nat
 O00083,Mambo City,event_organiser,LON,CAR-SAL,national,S00321,found,H,T3.1,Organizer of the 5Star Salsa Congress.
 O00084,El Sol Festival,event_organiser,PL,CAR-SAL,national,S00323,found,H,T3.1,Organizer of El Sol Fall Festival 2026.
 O00085,Conny Leban-Ibrakovic,event_organiser,GRZ,CAR-SAL,local,S00097,found,H,T3.1,Named organizer of Grazy Salsa & Bachata Festival 2026 on the event listing.
+O00086,Bachata Sensual World Congress,event_organiser,ES,CAR-BCH,national,S00383,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00087,Bachata Day,event_organiser,IT,CAR-BCH,national,S00384,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00088,Vienna Bachata Congress,event_organiser,AT,CAR-BCH,national,S00386,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00089,The Summit Latin Dance Championship,event_organiser,GLOBAL,CAR-SAL,international,S00388,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00090,Sensual Bachata Festival Romania,event_organiser,RO,CAR-BCH,national,S00391,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00091,Battle Pro (Chelles),event_organiser,FR,URB-BRK,national,S00400,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00092,Summer Dance Forever,event_organiser,CZ,URB-BRK,national,S00401,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00093,R16,event_organiser,KR,URB-BRK,national,S00402,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00094,UK B-Boy Championships,event_organiser,UK,URB-BRK,national,S00405,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00095,Undisputed Masters,event_organiser,GLOBAL,URB-BRK,international,S00406,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00096,BBoy World,event_organiser,GLOBAL,URB-BRK,international,S00407,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00097,Breakin' Convention,event_organiser,UK,URB-BRK,national,S00408,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00098,Funkin' Stylez,event_organiser,DE,URB-BRK,national,S00409,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00099,Floor Wars International,event_organiser,UK,URB-BRK,national,S00410,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00100,BreaktheFloor Cannes,event_organiser,FR,URB-BRK,national,S00411,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00101,Unified Dance Festival,event_organiser,GLOBAL,CAR-BCH,international,S00480,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00102,Brux Bachata Congress,event_organiser,BE,CAR-BCH,national,S00481,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00103,Bavarian Bachata Congress,event_organiser,DE,CAR-BCH,national,S00482,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00104,Freixenet,brand_sponsor,GLOBAL,CAR-SAL,international,S00182,found,M,U2.2,U2.2: Spanish sparkling wine brand; logo in Partners & Sponsors section (drinks brand).
+O00105,Maistra,brand_sponsor,HR,CAR-SAL,local,S00182,found,M,U2.2,U2.2: Hotel and tourism company in Rovinj; logo in Partners & Sponsors section (co-organiser in older reports).
+O00106,City of Rovinj (Grad Rovinj),public_funder,HR,CAR-SAL,local,S00182,found,M,U2.2,U2.2: Town of Rovinj; logo in Partners & Sponsors section.
+O00107,Rovinj Tourist Board (TZ Grada Rovinj),public_funder,HR,CAR-SAL,local,S00182,found,M,U2.2,U2.2: Logo in Partners & Sponsors section.
+O00108,Istria County Tourist Board (TZ Istarske Zupanije),public_funder,HR,CAR-SAL,local,S00182,found,M,U2.2,U2.2: Logo in Partners & Sponsors section.
