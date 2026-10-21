@@ -76,11 +76,13 @@ Reading after round U: H1 supported (participation and reach comparable or large
 - 2026-10-19: broad Dance Scene Atlas started; data in data/*.csv (project/data_schema.md); viewer built; collection by external models (prompts in project/prompts/).
 - 2026-10-20: correction pass; analysis of the folder (project/analysis_and_plan.md); focus Latin vs breaking, 15 cities; research questions RQ1-RQ5; round R; data put in order (research/data_summary.md).
 - 2026-10-21: round T reviewed (pilot values are minimums only). Project redefined as the two-markets thesis with hypotheses H1-H4 (sections 2-3); national championship counts parked; social reach (congress accounts, 30 Latin and 30 breaking professional dancers' profiles, hashtags, top videos) made the main evidence for H3; H4 is an analysis of existing data; targeted round U written (project/prompts/prompt_round_u.md); manual items in research/manual_input.xlsx.
+- 2026-10-21 (evening): round V reviewed; analysis and one page ready apart from V1/V3.
 - 2026-10-21 (later): round U reviewed; H1 and H3 supported, H2 plausible (participation activations exist, no Latin precedent); next step is the analysis (H4) and the write-up.
 
 ## 9. To-do list (in order)
 1. Done 2026-10-21: round U run and reviewed (8 duplicate athletes merged; summary sections 7-8 added).
 2. Leonardo, in research/manual_input.xlsx: Salzburg schools and estimates (SBG-S, SBG-X); Instagram follower counts where the model is blocked (IG rows); 2-3 conversations with Red Bull contacts (RB-Q rows).
-3. Round V (another model): project/prompts/prompt_round_v.md: three small research tasks (V1 sponsors of 15 congresses, V2 Red Bull national offices, V3 Red Bull audience statements), then the full analysis of H1-H4 and congress economics in outputs/analysis.md, and outputs/one_page.md.
+3. Done 2026-10-21: round V run (analysis in outputs/analysis.md and outputs/one_page.md; V1 and V3 not run: no web access in that session). Review by Claude: all 123 cited ids checked; V2 Red Bull offices added from search snippets (O00109-O00117, L); H4 ranking updated: Paris, Barcelona, Madrid (5 of 6), Milan (4); Paris the most robust.
+3b. Open: V1 (sponsors of 15 congresses) and V3 (Red Bull audience statements) in a session with web access or by hand; confirm the office rows on official pages.
 4. Claude reviews round V; then Claude + Leonardo: slides and the application text.
 5. Later: clean duplicated documents and data (one file per purpose); decide whether the viewer is still needed.

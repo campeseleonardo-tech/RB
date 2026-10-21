@@ -1,6 +1,6 @@
 # Dance Scene Atlas: can Red Bull enter the Latin dance market, how, and where?
 
-Status: round V, 2026-10-21. Evidence base: data/*.csv only (ids in brackets: F = fact, E = event, A = athlete, O = organisation). **computed** = calculated here, formula next to it.
+Status: round V, 2026-10-21; reviewed by Claude the same day (all 123 cited ids checked against data/; V2 offices added). Evidence base: data/*.csv only (ids in brackets: F = fact, E = event, A = athlete, O = organisation). **computed** = calculated here, formula next to it.
 **Important:** the three research tasks of this round (V1 congress sponsors, V2 Red Bull offices, V3 Red Bull audience statements) could not be run: the working session had no access to the open web (see section 7 and research/logs/V_round.md). Every part of the analysis that depends on them is marked **pending**. Nothing was estimated to fill the gap.
 
 ## 1. The question and the answer in 5 lines
@@ -9,7 +9,7 @@ Status: round V, 2026-10-21. Evidence base: data/*.csv only (ids in brackets: F 
 2. Two markets (H1, **partly supported**): breaking is bigger in audience and event brands; Latin is at least as large in dancers' social reach and its congresses are paid participation events (1,500 to 5,000+ dancers each), but participation itself rests on minimums of confidence L.
 3. Attention (H3, **supported**): in Latin the median top dancer has 8.5 times the Instagram followers of the median event account; in breaking 1.25 times. Latin attention follows people; breaking attention follows event brands.
 4. Entry (H2, **plausible, not proven**): Red Bull runs participation activations (dance zones, fitness zones, sampling), and no Red Bull presence at a Latin congress was found in 9 countries (all confidence L). Who else sponsors congresses is **pending** (V1). Best fit: product presence at the largest congresses, not a new competition.
-5. Where (H4): Barcelona, Madrid, Paris, Berlin, Milan on the criteria on file; the top changes if country-level columns are removed (section 5). The Red Bull office criterion is **pending** (V2).
+5. Where (H4): Paris, Barcelona, Madrid (5 of 6 criteria), then Milan; Paris is the most robust (top also without country-level data). Red Bull office locations were added in the review (confidence L).
 
 ## 2. H1 - Two markets
 
@@ -61,38 +61,38 @@ Dancers are **not** proposed as sponsored influencers. They dance; the reach of 
 
 ## 5. H4 - Where it would take root
 
-Criteria (each 1 point): (1) Red Bull dance event 2024-2026 in the city; (2) Red Bull national office in the city (**pending**, V2: counted 0); (3) Latin congress or festival on file in the city or its metro; (4) country has at least 10 Latin listings on goandance in the next 12 months (salsa + bachata, 10 = median of the 9 countries, **computed**); (5) a national Latin championship with competitors on file; (6) at least one top-30 Latin dancer based in the country (athletes.csv). Columns 4-6 are **(country)**.
+Criteria (each 1 point): (1) Red Bull dance event 2024-2026 in the city; (2) Red Bull national office in the city or its metro (V2, added by Claude in the review from web search snippets: organisations O00109-O00117, confidence L); (3) Latin congress or festival on file in the city or its metro; (4) country has at least 10 Latin listings on goandance in the next 12 months (salsa + bachata, 10 = median of the 9 countries, **computed**); (5) a national Latin championship with competitors on file; (6) at least one top-30 Latin dancer based in the country (athletes.csv). Columns 4-6 are **(country)**.
 
 | City | RB dance events 2024-26 | RB office | Latin congress/festival on file (stated size) | Latin listings in country, salsa+bachata (country) | National Latin championship competitors (country) | Top-30 Latin dancers based in country (country) | Population (city proper) | Met |
 |---|---|---|---|---|---|---|---|---|
-| Barcelona | E000125 | pending | E000075 (Santa Susanna, near BCN; size nf; pass 160) | 120 (F001932, F001941; L) | 123 (F001334) | 1 (A00037) | 1,729,963 (F000043) | **5 of 6** |
-| Madrid | E000001 | pending | none | 120 | 123 | 1 | 3,339,931 (F000045) | **4 of 6** |
-| Paris | E000011 | pending | E000140 (more than 1,500) | 16 (F001933, F001942) | 65 (F001332) | 0 | no city-proper value; 13,125,142 is a FUA (F000047, L) | **4 of 6** |
-| Berlin | E000002 | pending | E000071 (size nf) | 54 (F001930, F001939; L) | nf | 0 | 3,685,265 (F000039) | **3 of 6** |
-| Milan | none | pending | E000139 (Sesto San Giovanni, adjacent; size nf) | 28 (F001931, F001940) | nf | 1 (A00051) | 1,349,930 (F000041) | **3 of 6** |
-| Rome | none | pending | none | 28 | nf | 1 | 2,770,226 (F001162) | 2 of 6 |
-| Amsterdam | E000124 | pending | E000072, E000113 (2,000-2,500) | 6 (F001934, F001943) | nf | 0 | 873,338 (F001583) | 2 of 6 |
-| London | E000004, E000028 | pending | E000141 (size nf) | 3 (F001935, F001944) | nf | 0 | 8,866,541 (F001163) | 2 of 6 |
-| Warsaw | none | pending | E000142 (size nf; pass 190) | 10 (F001936, F001945) | nf | 0 | 1,863,056 (F001584) | 2 of 6 |
-| Vienna | E000031 | pending | none | 4 (F001929, F001938) | nf | 0 | 2,040,914 (F000030) | 1 of 6 |
-| Innsbruck | E000006 | pending | none | 4 | nf | 0 | 131,358 (F000034) | 1 of 6 |
-| Graz | none | pending | E000086 (size nf; pass 120) | 4 | nf | 0 | 302,749 (F000035, L) | 1 of 6 |
-| Munich | none | pending | none on file (Bavarian Bachata Congress O00103 is an account, no event row) | 54 | nf | 0 | 1,505,005 (F000036) | 1 of 6 |
-| Zurich | E000027 | pending | none | 1 (F001937, F001946) | nf | 0 | 700,889 (F001190) | 1 of 6 |
-| Salzburg | none (F001315) | pending | none | 4 | nf | 0 | 157,000 (F000033) | 0 of 6 |
+| Paris | E000011 | O00113 (L) | E000140 (more than 1,500) | 16 (F001933, F001942) | 65 (F001332) | 0 | no city-proper value; 13,125,142 is a FUA (F000047, L) | **5 of 6** |
+| Barcelona | E000125 | no (Madrid) | E000075 (Santa Susanna, near BCN; size nf; pass 160) | 120 (F001932, F001941; L) | 123 (F001334) | 1 (A00037) | 1,729,963 (F000043) | **5 of 6** |
+| Madrid | E000001 | O00112 | none | 120 | 123 | 1 | 3,339,931 (F000045) | **5 of 6** |
+| Milan | none | O00111 | E000139 (Sesto San Giovanni, adjacent; size nf) | 28 (F001931, F001940) | nf | 1 (A00051) | 1,349,930 (F000041) | **4 of 6** |
+| Amsterdam | E000124 | O00114 | E000072, E000113 (2,000-2,500) | 6 (F001934, F001943) | nf | 0 | 873,338 (F001583) | **3 of 6** |
+| London | E000004, E000028 | O00115 | E000141 (size nf) | 3 (F001935, F001944) | nf | 0 | 8,866,541 (F001163) | **3 of 6** |
+| Berlin | E000002 | no (Munich) | E000071 (size nf) | 54 (F001930, F001939; L) | nf | 0 | 3,685,265 (F000039) | **3 of 6** |
+| Warsaw | none | O00116 | E000142 (size nf; pass 190) | 10 (F001936, F001945) | nf | 0 | 1,863,056 (F001584) | **3 of 6** |
+| Munich | none | O00110 | none on file (Bavarian Bachata Congress O00103 is an account, no event row) | 54 | nf | 0 | 1,505,005 (F000036) | **2 of 6** |
+| Rome | none | no (Milan) | none | 28 | nf | 1 | 2,770,226 (F001162) | **2 of 6** |
+| Salzburg | none (F001315) | O00109 (Fuschl am See, metro) | none | 4 | nf | 0 | 157,000 (F000033) | **1 of 6** |
+| Vienna | E000031 | no (Fuschl) | none | 4 (F001929, F001938) | nf | 0 | 2,040,914 (F000030) | **1 of 6** |
+| Innsbruck | E000006 | no (Fuschl) | none | 4 | nf | 0 | 131,358 (F000034) | **1 of 6** |
+| Graz | none | no (Fuschl) | E000086 (size nf; pass 120) | 4 | nf | 0 | 302,749 (F000035, L) | **1 of 6** |
+| Zurich | E000027 | no (Baar, Zug: O00117) | none | 1 (F001937, F001946) | nf | 0 | 700,889 (F001190) | **1 of 6** |
 
 Notes: counts are listings, not unique events (an event may be in both salsa and bachata); "nf" = not found or not measurable. Santa Susanna and Sesto San Giovanni are separate municipalities (places SSN, SSG), counted as metro with that caveat. 24 of the 30 Latin dancers have no country on file, so criterion 6 is weak. E000032 (a "Salzburg" Dance Your Style row) was corrected to Basel in the data (F001315).
 
-**Top 3-5**
-1. **Barcelona (5 of 6).** Logistics: Dance Your Style national final on 5 Sep 2026 (E000125) to attach to. Latin: the strongest country on every country column; a bachata congress nearby with a 160 EUR pass (F001598).
-2. **Madrid (4).** Logistics: BC One Cypher Spain (E000001). Latin: same Spanish market, 123 championship competitors (F001334).
-3. **Paris (4).** Logistics: BC One cypher in Aubervilliers (E000011). Latin: a congress with more than 1,500 dancers in the city (F001966) and a national circuit with 65 competitors (F001332).
-4. **Berlin (3).** Logistics: BC One Berlin (E000002). Latin: a congress on file, Germany second in listings (54, L).
-5. **Milan (3).** No Red Bull dance event; Latin strength is country-level (28 listings) plus an adjacent congress (E000139). Weakest case: its points come from criteria 3-6.
+**Top 3-5** (updated in the review with the office criterion)
+1. **Paris (5 of 6).** Logistics: Red Bull France office (O00113, L) and BC One cypher in Aubervilliers (E000011). Latin: a congress with more than 1,500 dancers in the city (F001966), a national circuit with 65 competitors (F001332). The only city at the top in both the full and the city-only view.
+2. **Barcelona (5).** Logistics: Dance Your Style national final on 5 Sep 2026 (E000125) to attach to; the office is in Madrid. Latin: Spain is the strongest country on every country column; a bachata congress nearby with a 160 EUR pass (F001598).
+3. **Madrid (5).** Logistics: Red Bull Spain office (O00112) and BC One Cypher Spain (E000001). Latin: same Spanish market, 123 championship competitors (F001334); no congress in the city on file.
+4. **Milan (4).** Logistics: Red Bull Italy office (O00111), but no Red Bull dance event 2024-2026. Latin: Italy third in listings (28) and an adjacent congress (E000139).
+5. **Amsterdam and London (3).** Office, a Red Bull dance event and a congress in the city, but thin Latin listings in their countries; strong at city level (see sensitivity).
 
-**Sensitivity: remove the country columns (4-6).** Only criteria 1-3 remain: Barcelona, Berlin, Paris, Amsterdam and London score 2; Madrid, Milan, Warsaw and the rest score 1 or 0. The list changes: Madrid and Milan leave, Amsterdam and London enter. Barcelona, Paris and Berlin stay in both. Barcelona's city score rests on Santa Susanna being counted as its metro. With V2 filled, cities with an office could gain a point (not estimated).
+**Sensitivity: remove the country columns (4-6).** Only criteria 1-3 remain: Paris, Amsterdam and London score 3; Barcelona, Madrid, Milan, Berlin and Warsaw 2; the rest 1 or 0. Paris stays at the top in both views; Barcelona and Madrid owe their rank to Spain's country-level strength; Amsterdam and London rise when only city facts count. Barcelona's congress point rests on Santa Susanna being counted as its metro. The office criterion rests on search snippets (confidence L) and should be confirmed on official pages.
 
-**Salzburg.** Red Bull's home region and Leonardo's scene, but on file it scores 0 of 6: no Red Bull dance event 2024-2026 (F001315), no Latin congress, Austria thin (4 Latin listings). Leonardo's own data (research/manual_input.xlsx, Salzburg rows) is **pending**: the file has not been filled, so nothing is stated about Salzburg schools or socials. The office criterion for Austria is also pending (V2).
+**Salzburg.** Red Bull's home region (group headquarters in Fuschl am See, O00109, counted as Salzburg metro) and Leonardo's scene, but on file it scores 1 of 6: no Red Bull dance event 2024-2026 (F001315), no Latin congress, Austria thin (4 Latin listings). Leonardo's own data (research/manual_input.xlsx, Salzburg rows) is **pending**: the file has not been filled, so nothing is stated about Salzburg schools or socials. An activation in Salzburg would be a home-region pilot rather than a market choice.
 
 ## 6. For Leonardo's own project: congress economics
 
@@ -117,11 +117,11 @@ Full passes (EUR): 120 Graz (F001594), 160 BCN Dance Life (F001598), 190 El Sol 
 
 ## 7. What we could not measure and why
 
-- Round V research tasks: no open web access in the working session; V1, V2, V3 not run, no rows written (log V_round.md, manual list items 34-36).
+- Round V research tasks: no open web access in the working session; V1 (congress sponsors) and V3 (Red Bull audience statements) not run (manual list items 34, 36); V2 done afterwards in the review (O00109-O00117).
 - City-level participation: platforms and schools cannot be counted from desk research; only Vienna and Milan minimums (confidence L).
 - Social platforms: no logins; TikTok, Facebook and YouTube mostly not read; Instagram counts rounded.
 - Missing sponsor packs: none public for 10 congresses (round U).
-- Red Bull offices (criterion 2) and Salzburg manual data (pending).
+- Red Bull offices: added in the review from search snippets (L), to confirm on official pages. Salzburg manual data: pending.
 - Paris city-proper population not verified (F000048).
 
 ## 8. Evidence index
@@ -129,5 +129,5 @@ Full passes (EUR): 120 Graz (F001594), 160 BCN Dance Life (F001598), 190 El Sol 
 - Section 2: F001331, F001330, F001336, F001344, F001334, F001332, F001654, F001660, F001652, F001653, F001658, F001659, F001661, F001662, E000109, E000107, F001572, E000074, E000072, E000113, F001966, F001594, F001598, F001602, F001580, F001581, F001649, F001650, F001648, F001651, F001729, F001670, F001737, F001675, F001688, F001694, F001847, F001873, F001851, F001759, F001761, F001763, F001909-F001911, F001919-F001921, F001885-F001888.
 - Section 3: F001729, F001670, F001895, F001896, athletes A00024-A00026 (U3.2 list).
 - Section 4: E000144-E000147, E000149-E000151, F001970-F001978, F001956-F001965, F001967, E000142, E000075.
-- Section 5: E000125, E000001, E000011, E000002, E000027, E000004, E000028, E000006, E000031, E000124, E000071, E000139, E000140, E000141, E000142, E000086, E000072, E000113, E000075, F001929-F001946, F001334, F001332, A00037, A00051, F000030, F000033-F000036, F000039, F000041, F000043, F000045, F000047, F000048, F001162, F001163, F001190, F001583, F001584, F001315, O00103.
+- Section 5: E000125, E000001, E000011, E000002, E000027, E000004, E000028, E000006, E000031, E000124, E000071, E000139, E000140, E000141, E000142, E000086, E000072, E000113, E000075, F001929-F001946, F001334, F001332, A00037, A00051, F000030, F000033-F000036, F000039, F000041, F000043, F000045, F000047, F000048, F001162, F001163, F001190, F001583, F001584, F001315, O00103, O00109-O00117.
 - Section 6: F001965, F001966, F001967, E000113, F001594, F001598, F001602, F001929-F001946.
