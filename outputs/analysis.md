@@ -27,6 +27,19 @@ Counts below are of different kinds; the kind is in each cell.
 | Top videos outside Red Bull competitions (views) | 100m, 91m, 51m (F001919-F001921), battles | 291m (F001909, possibly audio-led), 99m (F001910), 42m (F001911), performances | Different content |
 | Hashtags (Instagram reels) | #breakdance 13m (F001888) | #bachata 38m (F001885, includes music), #salsadance 3.1m (F001886), #bachatadance 875k (F001887) | Latin larger, ambiguous tags |
 
+**Event markets compared on equal terms (round W, added in the review).** Two sets of 20 independent European events, Red Bull events and accounts excluded (lists and selection in research/logs/W_round.md; "largest" cannot be measured exactly because most sizes are unpublished).
+
+| Indicator (unit) | Breaking set | Latin set | Reading |
+|---|---|---|---|
+| Instagram followers per event account (followers) | 15 accounts: total 1,233,784, median 30,000 (WDSF all-dancesport account excluded) | 17 accounts: total 296,203, median 15,000 | Breaking events about 2x more followed per event, 4x in total; the largest are global touring brands (Summer Dance Forever 283k, World Breaking Classic 210k, BOTY 162k, Freestyle Session 158k) |
+| Size stated by the organiser | Spectators: IBE 10,000 visitors, Juste Debout 6,000 seats; competitors: Outbreak 2,000, national finals 107-125 | Dancers: Croatian 5,000, Amsterdam 2,000, Paris 1,500+, Luxembourg Unified 1,500+, SoulDance 1,000+ | Breaking publishes spectators, Latin publishes paying dancers |
+| Price per person (EUR) | Spectator ticket: Juste Debout 35, Check The Style 40 (2 of 20) | Full pass: 115 to 245 (9 of 20; e.g. BCN Dance Life 160, BSWC 180, El Sol 210, BIG Milan 245) | A Latin attendee pays about 4x a breaking spectator |
+| Calendar, Europe, next 12 months (listings) | and8.dance: 64 | goandance: 158 salsa + 220 bachata (overlapping lists) | Latin events are more numerous; different platforms, read as order of magnitude only |
+| Editions | IBE 25th, Juste Debout 20th | Croatian 23rd, El Sol 21st, Festival de Cuba 21st | Both markets are mature |
+| Drinks sponsors (partners pages read) | IBE 0, Breakin' Convention 0 | Croatian: Freixenet | Partners pages mostly not published; Red Bull named nowhere |
+
+**Computed**, per flagship event: Latin 2,000 dancers x EUR 150 (middle of the passes on file) = about EUR 300,000; breaking 10,000 visitors x EUR 35 = about EUR 350,000. Same order of money, different source: participants vs spectators (plus sponsors and media for breaking, not measured).
+
 **Verdict: partly supported.** Audience and event brands: breaking clearly larger (channels, event accounts). Dancers' reach: equal. Participation: Latin larger in the only two cities measured and in congress sizes, but those are minimums and organiser statements, and competition sizes are equal. **Weakest evidence:** participation (two cities, confidence L, minimums) and the 291m video (may be an audio-led upload).
 
 ## 3. H3 - Where Latin attention lives

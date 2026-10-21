@@ -3,7 +3,8 @@
 **The problem.** Red Bull is strong in breaking, a spectator market. Salsa and bachata are the opposite: many people dance, pay and travel, and almost nobody watches the competitions. Red Bull has no visible presence there. Can it enter, how, and where?
 
 **Two markets.**
-- Breaking events are brands: Red Bull Dance has 3,000,000 Instagram followers (1); the biggest Latin event account has 58,000 (2).
+- Two event markets of a different shape (20 independent events per world, Red Bull excluded): breaking events are fewer, more visible and cheap to watch (Instagram median 30,000 followers per event; IBE 10,000 visitors; spectator tickets EUR 35-40); Latin events are more numerous, less visible and paid by the dancers themselves (median 15,000 followers; 1,000-5,000 dancers per congress; full pass EUR 115-245) (1).
+- Per flagship event the money is of the same order (**computed**): 2,000 dancers x about EUR 150 = about EUR 300,000 in passes for a Latin congress; 10,000 visitors x EUR 35 = about EUR 350,000 in tickets for a breaking event (2).
 - Latin attention sits with dancers: the 30 most followed Latin dancers have 4,842,000 followers together, breaking's 30 have 4,087,700 (3).
 - Latin congresses are paid dance parties: 2,000 dancers in Amsterdam, 5,000+ in Croatia (4); full passes EUR 120-190 (5).
 - Competitions are small in both worlds: 65-123 Latin and 46-125 breaking competitors per national final (6).
@@ -17,4 +18,4 @@
 
 **Method.** Public sources only, 15 cities, 9 countries, data in data/*.csv; every number is traced in outputs/analysis.md. Instagram counts are rounded; several figures are organiser statements.
 
-*Footnotes (ids):* (1) F001729; (2) F001675; (3) **computed** sums of 30 facts each, e.g. F001759, F001847; (4) F001965, F001967 (lower bound); (5) F001594, F001598, F001602; (6) F001334, F001332, F001331, F001344; (7) E000144, E000145, E000150; (8) E000125, E000001, E000011, O00112, O00113, F001966, F001334, F001332.
+*Footnotes (ids):* (1) round W sets, research/logs/W_round.md: W3 Instagram facts (e.g. F001670 is not used: Red Bull accounts excluded), E000110, F001594, F001598, F002002-F002092 price rows; (2) E000072, E000110, Juste Debout ticket row, formula as written; (3) **computed** sums of 30 facts each, e.g. F001759, F001847; (4) F001965, F001967 (lower bound); (5) F001594, F001598, F001602; (6) F001334, F001332, F001331, F001344; (7) E000144, E000145, E000150; (8) E000125, E000001, E000011, O00112, O00113, F001966, F001334, F001332.

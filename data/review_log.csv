@@ -81,3 +81,5 @@ L00079,2026-10-21,organisations.csv O00115,confidence L from a search snippet,"W
 L00080,2026-10-21,organisations.csv O00116,confidence L from a search snippet,"W5 re-check: confidence M, source opened",W,W5 office check
 L00081,2026-10-21,organisations.csv O00117,confidence L from a search snippet,"W5 re-check: confidence L, source blocked",W,W5 office check
 L00082,2026-10-21,events.csv W1 existing rows,Round W comparison sets,notes extended on existing events; scale filled only where empty; no values overwritten,W,W1
+L00083,2026-10-21,facts.csv editions held (W2),ordinal text or edition year stored as value,ordinals converted to numbers (F001981 F001987 F002008 F002018 F002023 F002037 F002042 F002048 F002058 F002068 F002083 F002089); years converted to not_found (F002053 F002063 F002073 F002078 F002138 F002143),A4,
+L00084,2026-10-21,facts.csv F002150,WDSF all-dancesport account counted as breaking event account,disc_id set to ALL,A4,

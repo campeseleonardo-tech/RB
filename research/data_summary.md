@@ -196,4 +196,4 @@ Red Bull participation activations found (U1; no precedent at a Latin congress w
 
 ## 9. Rows on file not used above
 
-246 usable rows in scope use other units (mostly older single-site listing counts, prices in mixed units, Wikipedia views, students and tourism). They stay in data/ but are not comparable across cities and are not part of the research questions.
+241 usable rows in scope use other units (mostly older single-site listing counts, prices in mixed units, Wikipedia views, students and tourism). They stay in data/ but are not comparable across cities and are not part of the research questions.
