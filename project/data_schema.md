@@ -114,3 +114,6 @@ New rows reuse these strings so that values measured the same way can be compare
 | ORG | Red Bull dance events 2024-2026; Red Bull at Latin participation events (precedents); drinks brands named as sponsors (event) | events; brands |
 | POP | persons | inhabitants, city proper unless notes say otherwise |
 | LAD | rungs present | 1-5 (class, social/jam, local battle, national, international) |
+| MED | Instagram average likes, last 6 posts (profile page) | likes per post (only when visible without login) |
+| EVT | event days (stated); competition or battle section (yes/no); workshops offered (yes/no) | days; 1 = yes, 0 = no |
+| PRC | EUR competitor entry fee | EUR per competitor (battle or competition registration) |

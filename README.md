@@ -15,7 +15,8 @@ Language of files and data: English. Chat with Leonardo: Italian. Commit message
 | research/data_summary.md | The evidence ordered by research question, with coverage per indicator (generated; do not edit) |
 | research/manual_input.ods | The only file Leonardo fills by hand (Salzburg ground truth; later the answers of the validation talks) |
 | research/logs/ | Logs of the collection rounds T, U, V, W |
-| scripts/ | validate_data.py (checks data/), build_data_summary.py (writes research/data_summary.md), analysis_v.py (numbers of the analysis), count_competitors.py (+ input/ for saved results pages) |
+| project/prompts/ | The prompt of the next round for the collection agent (executed prompts move to archive/prompts/) |
+| scripts/ | validate_data.py (checks data/), build_data_summary.py (writes research/data_summary.md), analysis_v.py and robustness.py (numbers and tests of the analysis), draw_sample.py (random samples from research/frames/), count_competitors.py (+ input/ for saved results pages) |
 | archive/ | Everything superseded, kept as history: see archive/README.md |
 | CLAUDE.md | Working rules for Claude (push to main, pull commands for Leonardo) |
 

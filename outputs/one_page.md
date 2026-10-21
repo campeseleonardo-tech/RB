@@ -3,12 +3,14 @@
 **The problem.** Red Bull is strong in breaking, a spectator market. Salsa and bachata are the opposite: many people dance, pay and travel, and almost nobody watches the competitions. Red Bull has no visible presence there. Can it enter, how, and where?
 
 **Two event markets of a different shape** (20 independent European events per world; Red Bull events and accounts excluded).
-- Breaking events are fewer, more visible and cheap to watch: median 30,000 Instagram followers per event, IBE 10,000 visitors, spectator tickets EUR 35-40 (1).
+- Breaking events are fewer and cheap to watch, and tend to be more followed: median 30,000 Instagram followers per event (a tendency on 15 events, not statistically robust), IBE 10,000 visitors, spectator tickets EUR 35-40 (1).
 - Latin events are more numerous, less visible and paid by the dancers themselves: median 15,000 followers, 1,000-5,000 dancers per congress (Amsterdam 2,000, Croatia 5,000+), full passes EUR 115-245 (2).
 - Per flagship event the money is of the same order (**computed**): 2,000 dancers x about EUR 150 = about EUR 300,000 in passes; 10,000 visitors x EUR 35 = about EUR 350,000 in tickets (3).
-- Latin attention sits with dancers, not with events: the 30 most followed Latin dancers have 4.8 million Instagram followers together, breaking's 30 have 4.1 million (4).
+- Dancers' reach is equal in both worlds: the 30 most followed Latin dancers have 4.8 million Instagram followers together, breaking's 30 have 4.1 million (4).
 - Competitions are small in both worlds: 65-123 Latin and 46-125 breaking competitors per national final (5).
 - Weakest part: participation in classes is measured only as minimums in two cities (Vienna, Milan).
+
+**How sure are we.** Sound: Red Bull's breaking media dwarf Latin channels; competitions are small in both worlds; Latin congresses sell participation at EUR 115-245. Still thin: the follower comparison of events (15 vs 17 events), the stated sizes, the sponsor picture. A random-sample round and talks with organisers are under way.
 
 **How Red Bull could enter.** Product presence at the largest congresses (night bar, energy for night-long dancing, sampling), as Red Bull already does at fitness and dance zones and with F45 studios (6). Not a new competition, and not sponsored dancers: their reach shows where attention is, it is not a channel to buy. Sponsors at congresses: partner pages are rarely published; the only drinks brand found is Freixenet (Croatia); Red Bull appears at none (7).
 

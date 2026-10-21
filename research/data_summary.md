@@ -139,6 +139,7 @@ Qualification links (relations.csv `qualifies_for`):
 - Poland, all dance: 7,000 PTT members (since 1956) (2023, F000277)
 - Poland, all dance: 505 active competitive athletes (Polish DanceSport Federation) (2023, F000278)
 - Netherlands, Breaking: 0 drinks brands named as sponsors (event) (2026, F002085)
+- Netherlands, Breaking: 0 drinks brands named as sponsors (event) (2026, F002119)
 
 ## 7. Social reach (round U)
 
@@ -148,8 +149,8 @@ Instagram followers as shown on public profile pages (abbreviated counts such as
 
 | World | Dancers | Total followers | Median | Largest |
 |---|---|---|---|---|
-| Latin | 28 | 4,767,000 | 84,000 | Ataca y La Alemana 900,000, Daniel y Desiree 734,000, Kike y Nahir 436,000 |
-| Breaking | 27 | 3,687,700 | 101,000 | Neguin 795,000, Terra 340,000, Lil Zoo 244,000 |
+| Latin | 30 | 4,842,000 | 81,000 | Ataca y La Alemana 900,000, Daniel y Desiree 734,000, Kike y Nahir 436,000 |
+| Breaking | 30 | 4,087,700 | 105,000 | Neguin 795,000, Terra 340,000, Lil Zoo 244,000 |
 
 **Event and competition accounts:**
 
@@ -195,4 +196,4 @@ Red Bull participation activations found (U1; no precedent at a Latin congress w
 
 ## 9. Rows on file not used above
 
-68 usable rows in scope use other units (older rounds: Vienna/Salzburg studio rental prices, city-level counts of earlier passes, sponsor and edition rows of round W). They stay in data/ because outputs/analysis.md cites them or they are national reference figures; they are not comparable across cities.
+69 usable rows in scope use other units (older rounds: Vienna/Salzburg studio rental prices, city-level counts of earlier passes, sponsor and edition rows of round W). They stay in data/ because outputs/analysis.md cites them or they are national reference figures; they are not comparable across cities.

@@ -6,8 +6,8 @@ Status: round V, 2026-10-21; reviewed by Claude the same day (all 123 cited ids 
 ## 1. The question and the answer in 5 lines
 
 1. Question: can Red Bull enter the Latin (salsa, bachata) dance market, with what format, and where?
-2. Two markets (H1, **partly supported**): breaking is bigger in audience and event brands; Latin is at least as large in dancers' social reach and its congresses are paid participation events (1,500 to 5,000+ dancers each), but participation itself rests on minimums of confidence L.
-3. Attention (H3, **supported**): in Latin the median top dancer has 8.5 times the Instagram followers of the median event account; in breaking 1.25 times. Latin attention follows people; breaking attention follows event brands.
+2. Two markets (H1, **partly supported, small samples**): breaking is clearly bigger in competition and Red Bull channel audiences; independent breaking events tend to have more followers than Latin events, but the difference is not statistically robust (section 9). Latin congresses publish paying dancers (1,000 to 5,000+ per event) at EUR 115-245 per pass; dancers' reach is equal in both worlds. Participation in classes rests on minimums of confidence L.
+3. Attention (H3, **a tendency, not proven**): the median top dancer has 5.4 times the followers of the median event account in Latin and 3.5 times in breaking; the intervals overlap and the comparison is biased by how dancers and events were selected (section 9).
 4. Entry (H2, **plausible, not proven**): Red Bull runs participation activations (dance zones, fitness zones, sampling), and no Red Bull presence at a Latin congress was found in 9 countries (all confidence L). Who else sponsors congresses is **pending** (V1). Best fit: product presence at the largest congresses, not a new competition.
 5. Where (H4): Paris, Barcelona, Madrid (5 of 6 criteria), then Milan; Paris is the most robust (top also without country-level data). Red Bull office locations were added in the review (confidence L).
 
@@ -31,7 +31,7 @@ Counts below are of different kinds; the kind is in each cell.
 
 | Indicator (unit) | Breaking set | Latin set | Reading |
 |---|---|---|---|
-| Instagram followers per event account (followers) | 15 accounts: total 1,233,784, median 30,000 (WDSF all-dancesport account excluded) | 17 accounts: total 296,203, median 15,000 | Breaking events about 2x more followed per event, 4x in total; the largest are global touring brands (Summer Dance Forever 283k, World Breaking Classic 210k, BOTY 162k, Freestyle Session 158k) |
+| Instagram followers per event account (followers) | 15 accounts: total 1,233,784, median 30,000 (WDSF all-dancesport account excluded) | 17 accounts: total 296,203, median 15,000 | Breaking events tend to be more followed (median 2x), but the difference is not robust: 90% intervals 14k-152k vs 9k-25k, two-sided p = 0.17 (section 9). The breaking top are global touring brands (Summer Dance Forever 283k, World Breaking Classic 210k, BOTY 162k, Freestyle Session 158k) |
 | Size stated by the organiser | Spectators: IBE 10,000 visitors, Juste Debout 6,000 seats; competitors: Outbreak 2,000, national finals 107-125 | Dancers: Croatian 5,000, Amsterdam 2,000, Paris 1,500+, Luxembourg Unified 1,500+, SoulDance 1,000+ | Breaking publishes spectators, Latin publishes paying dancers |
 | Price per person (EUR) | Spectator ticket: Juste Debout 35, Check The Style 40 (2 of 20) | Full pass: 115 to 245 (9 of 20; e.g. BCN Dance Life 160, BSWC 180, El Sol 210, BIG Milan 245) | A Latin attendee pays about 4x a breaking spectator |
 | Calendar, Europe, next 12 months (listings) | and8.dance: 64 | goandance: 158 salsa + 220 bachata (overlapping lists) | Latin events are more numerous; different platforms, read as order of magnitude only |
@@ -40,17 +40,18 @@ Counts below are of different kinds; the kind is in each cell.
 
 **Computed**, per flagship event: Latin 2,000 dancers x EUR 150 (middle of the passes on file) = about EUR 300,000; breaking 10,000 visitors x EUR 35 = about EUR 350,000. Same order of money, different source: participants vs spectators (plus sponsors and media for breaking, not measured).
 
-**Verdict: partly supported.** Audience and event brands: breaking clearly larger (channels, event accounts). Dancers' reach: equal. Participation: Latin larger in the only two cities measured and in congress sizes, but those are minimums and organiser statements, and competition sizes are equal. **Weakest evidence:** participation (two cities, confidence L, minimums) and the 291m video (may be an audio-led upload).
+**Verdict: partly supported.** Audience: breaking clearly larger for competition channels; for independent event accounts only a tendency (section 9). Dancers' reach: equal. Participation: Latin larger in the only two cities measured and in congress sizes, but those are minimums and organiser statements, and competition sizes are equal. **Weakest evidence:** participation (two cities, confidence L, minimums) and the 291m video (may be an audio-led upload).
 
 ## 3. H3 - Where Latin attention lives
 
-| World | Dancers (n, median followers) | Event accounts (n, median followers) | Ratio median dancer / median event account (**computed**) |
-|---|---|---|---|
-| Latin | 30, 81,000 | 20, 9,487 | 81,000 / 9,487 = **8.5** |
-| Breaking, all accounts | 30, 105,000 | 17, 84,000 | 105,000 / 84,000 = **1.25** |
-| Breaking, without the two Red Bull accounts | 30, 105,000 | 15, 61,000 | 105,000 / 61,000 = **1.7** |
+Revised in the robustness review (section 9): the first version compared the top 30 dancers with a mixed list of event accounts and gave 8.5 (Latin) vs 1.25 (breaking). With the two equal event sets of round W:
 
-Unit: Instagram followers (accounts, not unique people). **Reading:** in Latin the audience follows people and congresses as social gatherings; in breaking it follows event brands, and the two largest are Red Bull's own (F001729, F001670). For a brand this says where attention is, not who to pay (see section 4).
+| World | Top 30 dancers, median followers (90% CI) | Event accounts, W set, median (90% CI) | Ratio dancer / event (**computed**, 90% CI) |
+|---|---|---|---|
+| Latin | 81,000 (56,000-114,500) | 15,000 (9,085-25,000), n = 17 | **5.4** (3.1-10.9) |
+| Breaking | 105,000 (76,000-118,000) | 30,000 (14,000-152,000), n = 15 | **3.5** (0.7-7.5) |
+
+Unit: Instagram followers (accounts, not unique people). **Reading:** in both worlds the most followed dancers have more followers than the events; the gap looks larger in Latin, but the intervals overlap, so this is a tendency. A further bias: the top 30 dancers are the maximum of a very large population of accounts, while events are a few dozen; a fair test compares dancers and events drawn in the same way (round X). For a brand this says where attention may be, not who to pay (see section 4).
 **Limits:** Instagram only; counts are rounded by the platform (K/M, confidence M); the Latin list is bachata-heavy (18 of 30 are bachata, 12 salsa, per disc_id in athletes.csv, task U3.2) and most dancers have no country on file; the top Latin video is a music video; the event-account list is partial (accounts that were blocked are not_found, F001895, F001896).
 
 ## 4. H2 - How Red Bull could enter Latin
@@ -144,3 +145,40 @@ Full passes (EUR): 120 Graz (F001594), 160 BCN Dance Life (F001598), 190 El Sol 
 - Section 4: E000144-E000147, E000149-E000151, F001970-F001978, F001956-F001965, F001967, E000142, E000075.
 - Section 5: E000125, E000001, E000011, E000002, E000027, E000004, E000028, E000006, E000031, E000124, E000071, E000139, E000140, E000141, E000142, E000086, E000072, E000113, E000075, F001929-F001946, F001334, F001332, A00037, A00051, F000030, F000033-F000036, F000039, F000041, F000043, F000045, F000047, F000048, F001162, F001163, F001190, F001583, F001584, F001315, O00103, O00109-O00117.
 - Section 6: F001965, F001966, F001967, E000113, F001594, F001598, F001602, F001929-F001946.
+
+## 9. Robustness, limits and possible bias (review of 2026-10-21)
+
+Numbers from `python scripts/robustness.py` (seeded bootstrap, 10,000 resamples; permutation test, 10,000 shuffles; data/ only).
+
+| Comparison | Latin | Breaking | Test | Reading |
+|---|---|---|---|---|
+| Event accounts (W sets), median Instagram followers | 15,000 (90% CI 9,085-25,000), n = 17 | 30,000 (14,000-152,000), n = 15 | P(breaking event > Latin event) = 0.71; p = 0.17 | Tendency, not robust |
+| Top 30 dancers, median Instagram followers | 81,000 (56,000-114,500) | 105,000 (76,000-118,000) | P = 0.54; p = 0.35 | No difference |
+| Dancer / event ratio | 5.4 (3.1-10.9) | 3.5 (0.7-7.5) | intervals overlap | Tendency, not robust |
+| Price per person | full pass, n = 8 of 20: median 152, range 115-245 | spectator ticket, n = 2 of 20: 35, 40 | too few breaking prices | Direction clear, sample thin |
+| Stated size | dancers, n = 5 of 20: 1,000-5,000 | dancers n = 3 (107, 125, 2,000), spectators n = 2 (6,000, 10,000) | too few | Reporting conventions differ |
+
+**Confidence per conclusion**
+
+| Conclusion | Confidence | Why |
+|---|---|---|
+| Red Bull's breaking media (BC One, Red Bull Dance) dwarf every Latin channel | High | 10-170x, many sources |
+| Competitions are small in both worlds | Medium | 6 national finals counted |
+| Latin congresses sell participation at EUR 115-245 per person | Medium | 8 prices, organiser pages |
+| Independent breaking events are more followed than Latin events | Low | p = 0.17, n = 15 vs 17 |
+| Latin attention sits with dancers more than in breaking | Low | overlapping intervals, selection bias |
+| Same order of money per flagship event | Low | two examples, computed |
+| Red Bull is absent from Latin congresses | Medium-low | not found in 9 countries; partner pages rarely published |
+| Paris, Barcelona, Madrid as entry points | Medium | depends on country-level columns and office rows |
+
+**Possible confirmation bias (named, not hidden)**
+1. Selection: the 20 + 20 events are the most visible ones we could find, not a random sample; the breaking top are global touring brands, the Latin ones mostly local congresses.
+2. Asymmetric comparison: top-30 dancers (maximum of thousands of accounts) against a few dozen events.
+3. Reporting conventions: Latin organisers state dancers, breaking organisers state spectators; part of "participation vs spectacle" may come from how each scene communicates.
+4. No search for counter-evidence yet: paid participation in breaking (battle entry fees, workshop passes; Outbreak states 2,000 participants) and spectators in Latin (shows, finals with an audience).
+
+**Tests written before new data (round X), with what would weaken each hypothesis**
+- H1 weakens if, in a random sample of events, breaking events show paid participant numbers or prices close to Latin ones, or Latin events show spectator audiences close to breaking ones.
+- H1 (audience) is confirmed only if the follower difference between random samples of 30 + 30 events is significant (two-sided p < 0.05).
+- H3 weakens if, with dancers drawn from the line-ups of randomly sampled events, the dancer / event ratio is the same in both worlds.
+- H2 weakens if drinks or energy brands already sponsor most large congresses, or if organisers say a drinks partner is not wanted.
