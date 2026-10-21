@@ -6,7 +6,7 @@ Status: round V, 2026-10-21; reviewed by Claude the same day (all 123 cited ids 
 ## 1. The question and the answer in 5 lines
 
 1. Question: can Red Bull enter the Latin (salsa, bachata) dance market, with what format, and where?
-2. Two markets (H1, **supported in a revised form**, round X random samples, section 10): breaking is a few global spectacle brands (and Red Bull's media) on top of a long tail of small, one-day, cheap battles (median 1,641 Instagram followers, tickets about EUR 9, entry fees about EUR 10); Latin is a broad middle of multi-day congresses paid by the dancers (median 4,461 followers, 3 days, full pass median EUR 115). The typical Latin event is more followed than the typical breaking event (p = 0.02); only at the very top is breaking bigger.
+2. Two markets (H1, **supported in a revised form**, rounds X and Y): breaking is a few global spectacle brands (and Red Bull's media) on top of about 210 small, one-day, cheap battles a year; Latin is a broad, stable market of about 450-750 congresses and festivals a year in Europe, three days long and paid by the dancers (full pass about EUR 115). The typical Latin event is more followed than the typical breaking event (p = 0.02). Reference: Hyrox, a fast-growing participation market where Red Bull is a partner, has about 45-60 European races a year (section 11).
 3. Attention (H3, **a tendency, not proven**): line-up artists have more followers than their events in both worlds (median ratio 13 in Latin, 8 in breaking); the samples are small and the resolved artists are the better known ones (sections 9-10).
 4. Entry (H2, **plausible, not proven**): Red Bull runs participation activations (dance zones, fitness zones, sampling), and no Red Bull presence at a Latin congress was found in 9 countries (all confidence L). Who else sponsors congresses is **pending** (V1). Best fit: product presence at the largest congresses, not a new competition.
 5. Where (H4): Paris, Barcelona, Madrid (5 of 6 criteria), then Milan; Paris is the most robust (top also without country-level data). Red Bull office locations were added in the review (confidence L).
@@ -209,3 +209,54 @@ Numbers from `python scripts/robustness.py` (seeded bootstrap, 10,000 resamples;
 **Remaining biases.** The two frames come from different platforms (a ticket marketplace for Latin, a battle registry for breaking): goandance lists mainly paid multi-day events, and8 also small jams. A fair reading is "the typical listed event" in each world. 12 of 29 Latin and 3 of 26 breaking sampled events have no Instagram account found; counting them as 0 does not change the direction. BIG Milan full pass: EUR 245 (round W) vs EUR 170 (round X re-read), both kept.
 
 **What this changes for Red Bull.** The Latin market has a broad, followed middle: many multi-day events where paying adults dance for 3 days and nights. Breaking's middle is thin: small one-day battles, with the audience concentrated on a few global brands, one of them Red Bull's own. That strengthens H2 as a format (product presence across many mid-size congresses) and weakens any idea of a single big Latin "show" event.
+
+## 11. Round Y: census of the European event market (latin, breaking, Hyrox as reference)
+
+Sources and method: research/logs/Y_round.md; lists in research/census/; merge and estimates `python scripts/census_merge.py`; tables `python scripts/census_stats.py` (Russia, Belarus, Turkey excluded). Window: 2024-11 to 2027-10. Hyrox is the reference: a participation market where Red Bull already plays.
+
+**Sources.** Latin: latindancecalendar.com (763 listings), salsavida.com (299), goandance.com (206). Breaking: and8.dance (480); no second public calendar of comparable size exists (web search found 11 events, 5 of them on and8; WDSF 1). Hyrox: hyrox.com (137), rundida.com (52), hybridfitnessmedia.com (22).
+
+| Distinct events (all sources merged) | Past 12-24 months | Past 0-12 months | Next 12 months |
+|---|---|---|---|
+| Latin | 304 | 305 | 450 |
+| Breaking | 210 | 212 | 60 |
+| Hyrox | 41 | 61 | 45 |
+
+Past Latin rows come from one source only (latindancecalendar.com via archived pages): the past columns undercount Latin. Breaking events are announced late, so its next-12-months column undercounts breaking.
+
+**How big is each market (events per year in Europe)?**
+- Latin: at least 450 events in the next 12 months across three sources. The overlaps give estimates of 330 to 760 (Chapman, pairwise); they disagree because the lists are not independent (the big events are on every list), which pushes the estimates down: read **about 450-750 Latin congresses and festivals a year**, of which goandance covers about 27-63% and latindancecalendar 27-44%.
+- Breaking: **about 210 events a year on and8.dance** (past 12 months). Its coverage cannot be estimated without a second calendar; the 11 events found by web search were 5 on and8 (weak hint of about half).
+- Hyrox: **about 45-60 races a year in Europe**, almost fully listed (rundida's 39 upcoming races are all on hyrox.com).
+
+**Trend (same source, past 12-24 vs 0-12 months; and archived snapshots).**
+
+| Source | Past 12-24 m | Past 0-12 m | Change | Archived snapshots of the listing page (Europe) |
+|---|---|---|---|---|
+| latindancecalendar.com (Latin) | 304 | 304 | 0% | 348 (Oct 2024), 391 (Nov 2025), 178 live (cause of the drop not tested) |
+| and8.dance (breaking) | 210 | 206 | -2% | 41 (Oct 2024), 63 (Jul 2025), 53 live |
+| hyrox.com (Hyrox) | 41 | 50 | +22% | 24 (Nov 2024), 47 (Sep 2025), 45 live |
+
+Reading: **Latin and breaking are stable; Hyrox is growing fast** (season target 107 race weekends and 2 million athletes in 2026/27, trade report, confidence L).
+
+**Where the events are (next 12 months).** Latin: Spain 21%, Germany 13%, Italy 10%, France 9%, Greece 5%, UK 4%. Cities named in the lists (all periods): Barcelona 50, Amsterdam 19, London 17, Paris 17, Athens 17, Berlin 16, Prague 15, Budapest 12, Hamburg 11. Breaking (and8): Germany 25%, France 17%, Switzerland 17% (and8 is strongest in German-speaking countries: platform bias). Hyrox: France 16%, UK 16%, Netherlands 11%; cities Paris 7, London 7, Rotterdam 5, Barcelona 4, Amsterdam 4.
+
+**Hyrox as the reference for Red Bull.**
+- Red Bull is named on all 15 Hyrox race pages read; as event or finish-zone partner on 9 (task Y5, relations `partner_of`); listed among Hyrox's global sponsors since 2020 (Wikipedia, L).
+- Price per athlete: EUR 60-89, median 75 (rundida, n = 10).
+- Size: 175,000 competitors in 65 races worldwide in 2023 (Wikipedia, L): about 2,700 per race (**computed**).
+
+| | Hyrox (Red Bull partner) | Latin congresses (Red Bull absent) |
+|---|---|---|
+| Events per year in Europe | about 45-60 | about 450-750 |
+| Size per event | about 2,700 athletes (2023 average, computed, L) | 1,000-5,000 dancers at flagships; typical size unknown |
+| Price per participant | EUR 60-89 per race | EUR 115 typical full pass, up to 245 (round X) |
+| Days | 1-3 (race weekend) | 3 typical |
+| Trend | growing fast | stable |
+| Organisers | one company (one partnership covers every race) | hundreds of independent organisers |
+
+**What this means.** Red Bull already backs a participation market of about 50 European races a year. The Latin congress circuit is about ten times as many events, its participants pay more per head and stay longer, and it is stable rather than growing. The real difference is **fragmentation**: Hyrox is one organiser, so one partnership reaches every race; Latin is hundreds of independent organisers. An entry therefore needs a way to reach many congresses at once (a circuit, a platform, or the 20-30 largest congresses) or must start with a few large ones.
+
+**Business case, light (only what is public).** No European Latin or breaking event publishes a sponsor pack with prices (7 searches, EN/FR/ES/DE); SalsaVida sells event promotion at about EUR 89 a month (L). Market volume (dancers per year) cannot be computed: typical congress sizes are not published. A scenario for later talks, **not a finding**: 450-750 events x 300-1,000 dancers each = about 135,000-750,000 congress participations a year in Europe (both ranges are assumptions to test with organisers).
+
+**Limits.** Breaking has one calendar; past Latin events come from one source; cities are missing for many rows (country only); Hyrox past races partly from archived pages; sizes almost never published.

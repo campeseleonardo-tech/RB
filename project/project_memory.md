@@ -69,6 +69,14 @@ Web deck "Two Dance Markets", 12 slides in English (problem, method, two markets
 - Dropped: city-level class/school counts; national championships kept as one slide only; deck graphics refined only after the new data.
 - Round Y prompt: project/prompts/prompt_round_y.md; merge and estimate: scripts/census_merge.py (writes research/census/merged_events.csv).
 
+## 7e. Round Y census results (2026-10-21, analysis section 11)
+- Latin: about 450-750 congresses/festivals a year in Europe (3 sources crossed), stable (0% over two years in the same source); Spain 21%, Germany 13%, Italy 10%, France 9%; Barcelona the largest Latin event city.
+- Breaking: about 210 events a year on and8.dance (no second calendar exists), stable.
+- Hyrox (reference): about 45-60 European races a year, growing (+22%), EUR 60-89 per athlete; Red Bull named on all 15 race pages read, partner or finish zone on 9.
+- Key difference Latin vs Hyrox: fragmentation (hundreds of organisers vs one). Entry must reach many congresses at once (largest 20-30, a circuit or a platform) or start small.
+- No public sponsor packs with prices; market volume in dancers not computable (sizes rarely published); only a scenario for talks.
+- Scripts: scripts/census_merge.py, scripts/census_stats.py.
+
 ## 8. Next steps (2026-10-21, after round X)
 0. Round Y executed (data + log); next: Claude analyses the census (merged_events.csv, overlaps, snapshots, Hyrox) and updates the deck.
 1. Leonardo, 1-2 hours (optional now that round Y crosses sources): **coverage check of the two platforms in Austria** (and Salzburg): list every Latin congress/festival and every breaking battle he knows in Austria for the next 12 months, then mark which are on goandance and on and8.dance. The share listed tells how representative the two platforms are (answer to the main critique). Also the Salzburg rows (SBG-S, SBG-X) in research/manual_input.ods.

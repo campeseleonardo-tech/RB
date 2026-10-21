@@ -20,7 +20,7 @@ Language of files and data: English. Chat with Leonardo: Italian. Commit message
 | research/frames/ | Sampling frames and random samples of round X |
 | research/logs/ | Logs of the collection rounds T to Y |
 | project/prompts/ | The prompt of the next round for the collection agent, when there is one (executed prompts move to archive/prompts/) |
-| scripts/ | validate_data.py (checks data/), build_data_summary.py (writes research/data_summary.md), analysis_v.py and robustness.py (numbers and tests of the analysis), draw_sample.py (random samples from research/frames/), census_merge.py (merges the census lists of research/census/ and estimates totals), count_competitors.py (+ input/ for saved results pages) |
+| scripts/ | validate_data.py (checks data/), build_data_summary.py (writes research/data_summary.md), analysis_v.py and robustness.py (numbers and tests of the analysis), draw_sample.py (random samples from research/frames/), census_merge.py (merges the census lists of research/census/ and estimates totals), census_stats.py (tables of the census), count_competitors.py (+ input/ for saved results pages) |
 | archive/ | Everything superseded, kept as history: see archive/README.md |
 | CLAUDE.md | Working rules for Claude (push to main, pull commands for Leonardo) |
 
