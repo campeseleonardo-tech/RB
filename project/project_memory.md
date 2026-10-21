@@ -51,9 +51,19 @@ Full tables: research/data_summary.md (re-run research/build_data_summary.py aft
 | RQ1 Participation | Vienna: at least 1 school, 2 weekly slots; Milan nf | Vienna: at least 3 schools, 30 salsa + 5 bachata weekly slots; Milan: at least 8 salsa + 3 bachata | Minimums, confidence L; points to H1 (participation side) |
 | RQ5 Brands | Red Bull dance events 2024-2026 in 9 of 15 cities (none in SBG, GRZ, MUC, MIL, ROM, WAW) | No Red Bull Latin event found in research; sponsors of congresses barely checked | H2 untested |
 
-Lead for H2 (to verify, not a fact): Red Bull runs experiential fitness activations, e.g. "Sweat the Deck" with F45 in Chicago (2025, athletechnews.com).
+Round U (2026-10-21), see research/data_summary.md sections 7-8:
 
-Social data are expected to be the most telling evidence (H3): round U collects the reach of 30 Latin and 30 breaking professional dancers, about 20 event accounts per world, hashtag volumes and top videos.
+| Block | Breaking | Latin | Reading |
+|---|---|---|---|
+| Dancers' reach (Instagram, top 30 each) | Total 4.1m followers, median 105k; Neguin 795k, Terra 340k, Lil Zoo 244k | Total 4.8m, median 81k; Ataca y La Alemana 900k, Daniel y Desiree 734k, Kike y Nahir 436k | **Equal.** Latin attention is as large as breaking's, but it sits with the dancers (mostly bachata couples/instructors) |
+| Event accounts (Instagram) | Red Bull Dance 3m, BC One 957k; non-Red Bull: Summer Dance Forever 283k, HHI 238k, BOTY 162k, Juste Debout 152k | Largest: Euroson 58k, Croatian Summer Salsa Festival 45k, BIG and BCN Dance Life 34k | **Breaking events are brands, Latin events are not** (3-5x smaller even without Red Bull) |
+| Hashtags (Instagram reels, global) | #breakdance 13m | #bachata 38m (includes music), #salsadance 3.1m, #bachatadance 875k | Latin larger, ambiguous tags |
+| Top videos outside Red Bull competitions | Battles: 100m, 91m, 51m | Performances/music videos with dancers: 291m (music video), 99m (TV talent show), 42m | Breaking's viral content is battles; Latin's is performance by couples |
+| Congresses listed next 12 months (goandance, partial) | (and8.dance: DE 19, CH 9, FR 9) | ES 61 salsa / 59 bachata, DE 16/38, IT 12/16, FR 4/12; AT 1/3 | Latin congress market concentrated in Spain, Germany, Italy |
+| Red Bull precedents (H2) | - | No Red Bull presence found at Latin congresses in the 9 countries | But Red Bull runs participation activations: DYS dance zone at Open'er, DYS Weekender workshops London, fitness zone at Rock for People, Hyrox, official energy drink of F45 (sampling), Sweat the Deck, Wings for Life Run |
+| Congress profile | - | Croatian Summer Salsa Festival: over 5,000 dancers, 90 countries, ages 20-60, 8 days of parties; Amsterdam 2,000; Paris 1,500+ | No public sponsor packs found |
+
+Reading after round U: H1 supported (participation and reach comparable or larger for Latin; competition and event brands much larger for breaking). H3 supported: Latin reach lives in dancers' profiles, not in event or competition brands. H2 plausible: Red Bull already does participation activations of the same kind; no Latin precedent yet. H4 to do (analysis).
 
 ## 7. Verified facts worth keeping (access date 2026-10-19/21)
 - Red Bull BC One 2026: 27 stops, World Final Toronto 29 Nov 2026. Dance Your Style 2026: 17 stops, World Final Zurich 24 Oct 2026; Austria: Salzburg qualifier 4 Jul, national final Vienna 28 Aug.
@@ -66,9 +76,10 @@ Social data are expected to be the most telling evidence (H3): round U collects 
 - 2026-10-19: broad Dance Scene Atlas started; data in data/*.csv (project/data_schema.md); viewer built; collection by external models (prompts in project/prompts/).
 - 2026-10-20: correction pass; analysis of the folder (project/analysis_and_plan.md); focus Latin vs breaking, 15 cities; research questions RQ1-RQ5; round R; data put in order (research/data_summary.md).
 - 2026-10-21: round T reviewed (pilot values are minimums only). Project redefined as the two-markets thesis with hypotheses H1-H4 (sections 2-3); national championship counts parked; social reach (congress accounts, 30 Latin and 30 breaking professional dancers' profiles, hashtags, top videos) made the main evidence for H3; H4 is an analysis of existing data; targeted round U written (project/prompts/prompt_round_u.md); manual items in research/manual_input.xlsx.
+- 2026-10-21 (later): round U reviewed; H1 and H3 supported, H2 plausible (participation activations exist, no Latin precedent); next step is the analysis (H4) and the write-up.
 
 ## 9. To-do list (in order)
-1. Round U (collection model): project/prompts/prompt_round_u.md.
+1. Done 2026-10-21: round U run and reviewed (8 duplicate athletes merged; summary sections 7-8 added).
 2. Leonardo, in research/manual_input.xlsx: Salzburg schools and estimates (SBG-S, SBG-X); Instagram follower counts where the model is blocked (IG rows); 2-3 conversations with Red Bull contacts (RB-Q rows).
 3. Claude: review round U; then the analysis: H1-H3 verdicts, H4 table of where a Latin activation would take root (existing data), congress economics for Leonardo's own event.
 4. Claude + Leonardo: write the one-page summary and the slides.

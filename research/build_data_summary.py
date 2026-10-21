@@ -214,12 +214,103 @@ def main():
             w(f"- {places[f['place_id']]['name']}, {DLABEL.get(f['disc_id'], 'all dance')}: {fmt_num(val(f))} {f['unit']} ({f['period']}, {f['fact_id']})")
     w("")
 
+    # Social reach and the other round U evidence (hypotheses H1-H3)
+    import re
+    import statistics
+    athletes = {a["athlete_id"]: a for a in load("athletes.csv")}
+
+    def family(d):
+        return "Latin" if d.startswith("CAR-") else ("Breaking" if d.startswith("URB-") else "All dance")
+
+    w("## 7. Social reach (round U)")
+    w("")
+    w("Instagram followers as shown on public profile pages (abbreviated counts such as 340K are rounded by the platform).")
+    w("")
+    dancers = defaultdict(list)
+    for f in real:
+        if f["unit"] == "Instagram followers (profile page)" and f["place_id"] == "GLOBAL":
+            m = re.search(r"A\d{5}", f["notes"])
+            if m and m.group(0) in athletes:
+                dancers[family(f["disc_id"])].append((float(val(f)), athletes[m.group(0)]["public_name"]))
+    if dancers:
+        w("**Professional dancers (top 30 per world found):**")
+        w("")
+        w("| World | Dancers | Total followers | Median | Largest |")
+        w("|---|---|---|---|---|")
+        for fam in ("Latin", "Breaking"):
+            rows = sorted(dancers.get(fam, []), reverse=True)
+            if rows:
+                vals = [r[0] for r in rows]
+                top = ", ".join(f"{n} {fmt_num(v)}" for v, n in rows[:3])
+                w(f"| {fam} | {len(rows)} | {fmt_num(sum(vals))} | {fmt_num(statistics.median(vals))} | {top} |")
+        w("")
+    accounts = defaultdict(list)
+    for f in real:
+        if f["unit"] == "Instagram followers (profile page)" and f["task_id"] == "U3.1":
+            m = re.search(r"event account: (.*?) \(id", f["notes"])
+            accounts[family(f["disc_id"])].append((float(val(f)), m.group(1) if m else f["fact_id"]))
+    if accounts:
+        w("**Event and competition accounts:**")
+        w("")
+        w("| World | Accounts | Largest (Instagram followers) |")
+        w("|---|---|---|")
+        for fam in ("Latin", "Breaking", "All dance"):
+            rows = sorted(accounts.get(fam, []), reverse=True)
+            if rows:
+                w(f"| {fam} | {len(rows)} | " + ", ".join(f"{n} {fmt_num(v)}" for v, n in rows[:6]) + " |")
+        w("")
+    tags = [f for f in real if f["unit"] == "Instagram hashtag posts"]
+    if tags:
+        def tag(f):
+            m = re.search(r"#\w+", f["notes"])
+            return m.group(0) if m else f["disc_id"]
+        w("**Hashtags (Instagram reels count shown on the public tag page):** " + "; ".join(
+            f"{tag(f)} {fmt_num(val(f))}" for f in tags))
+        w("")
+    vids = defaultdict(list)
+    for f in real:
+        if f["unit"] == "YouTube views, top dance video (non-competition)":
+            title = f["notes"].split("|")[0].replace("Title:", "").strip()
+            vids[family(f["disc_id"])].append((float(val(f)), title))
+    if vids:
+        w("**Most viewed videos outside Red Bull competitions (top 3 per world):**")
+        w("")
+        for fam in ("Latin", "Breaking"):
+            rows = sorted(vids.get(fam, []), reverse=True)[:3]
+            w(f"- {fam}: " + "; ".join(f"{t} ({fmt_num(v)})" for v, t in rows))
+        w("")
+
+    w("## 8. Congress market and Red Bull precedents (round U)")
+    w("")
+    gd = defaultdict(dict)
+    for f in real:
+        if f["unit"] in ("Latin events listed on goandance.com, next 12 months", "breaking events listed on and8.dance, next 12 months"):
+            gd[f["place_id"]][f["disc_id"]] = fmt_num(val(f))
+    if gd:
+        w("Events listed for the next 12 months (two different platforms: compare countries within a column, not the columns):")
+        w("")
+        w("| Country | Salsa (goandance) | Bachata (goandance) | Breaking (and8.dance) |")
+        w("|---|---|---|---|")
+        for c in COUNTRIES:
+            if c in gd:
+                d = gd[c]
+                w(f"| {places[c]['name']} | {d.get('CAR-SAL', 'nf')} | {d.get('CAR-BCH', 'nf')} | {d.get('URB-BRK', 'nf')} |")
+        w("")
+    prec = [e for e in events.values() if e["task_id"] == "U1"]
+    if prec:
+        w("Red Bull participation activations found (U1; no precedent at a Latin congress was found in the 9 countries):")
+        w("")
+        for e in prec:
+            w(f"- {e['name']} ({places.get(e['place_id'], {}).get('name', e['place_id'])}, {e['date_start']})")
+        w("")
+
     # What is left outside
-    in_scope = [f for f in real if (f["place_id"] in CITIES + COUNTRIES + ["GLOBAL"]) and f["disc_id"] in DISCS + ["ALL"]]
+    in_scope =[f for f in real if (f["place_id"] in CITIES + COUNTRIES + ["GLOBAL"]) and f["disc_id"] in DISCS + ["ALL"]]
     used_units = {i[4] for i in INDICATORS if i[4]} | {"rungs present", "YouTube subscribers (channel page)"}
     other = [f for f in in_scope if f["unit"] not in used_units and f["signal_id"] not in ("POP",)
+             and not f["task_id"].startswith("U")
              and not f["unit"].startswith("events listed on")]
-    w("## 7. Rows on file not used above")
+    w("## 9. Rows on file not used above")
     w("")
     w(f"{len(other)} usable rows in scope use other units (mostly older single-site listing counts, prices in mixed units, Wikipedia views, students and tourism). "
       "They stay in data/ but are not comparable across cities and are not part of the research questions.")

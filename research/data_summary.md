@@ -137,6 +137,59 @@ Qualification links (relations.csv `qualifies_for`):
 - Poland, all dance: 7,000 PTT members (since 1956) (2023, F000277)
 - Poland, all dance: 505 active competitive athletes (Polish DanceSport Federation) (2023, F000278)
 
-## 7. Rows on file not used above
+## 7. Social reach (round U)
 
-428 usable rows in scope use other units (mostly older single-site listing counts, prices in mixed units, Wikipedia views, students and tourism). They stay in data/ but are not comparable across cities and are not part of the research questions.
+Instagram followers as shown on public profile pages (abbreviated counts such as 340K are rounded by the platform).
+
+**Professional dancers (top 30 per world found):**
+
+| World | Dancers | Total followers | Median | Largest |
+|---|---|---|---|---|
+| Latin | 30 | 4,842,000 | 81,000 | Ataca y La Alemana 900,000, Daniel y Desiree 734,000, Kike y Nahir 436,000 |
+| Breaking | 30 | 4,087,700 | 105,000 | Neguin 795,000, Terra 340,000, Lil Zoo 244,000 |
+
+**Event and competition accounts:**
+
+| World | Accounts | Largest (Instagram followers) |
+|---|---|---|
+| Latin | 20 | Euroson Latino 58,000, Croatian Summer Salsa Festival 45,000, BIG Salsa Festival 34,000, BCN Dance Life 34,000, Bachata Sensual World Congress 25,000, Bachata Day 25,000 |
+| Breaking | 17 | Red Bull Dance (Dance Your Style) 3,000,000, Red Bull BC One 957,000, Summer Dance Forever 283,000, Hip Hop International 238,000, Battle of the Year 162,000, Juste Debout 152,000 |
+| All dance | 1 | WDSF DanceSport (breaking and Latin) 328,000 |
+
+**Hashtags (Instagram reels count shown on the public tag page):** #bachata 38,000,000; #salsadance 3,100,000; #bachatadance 875,000; #breakdance 13,000,000
+
+**Most viewed videos outside Red Bull competitions (top 3 per world):**
+
+- Latin: Grupo Extra - Me Emborrachare con Ataca, Alemana, Daniel y Desiree (291,000,000); Spectacular Salsa - Paddy & Nicko - Electric Ballroom - Britain's Got Talent 2014 (99,000,000); DANIEL Y DESIREE LOS ANGELES - Don't Let Me Down ft. Daya (Version Bachata Dj Khalid) (42,000,000)
+- Breaking: Massive Monkees vs Jinjo Crew (100,000,000); Criollo Style Battle Pro Final 1vs1 BABY Lil E VS Alexis 2018 (91,000,000); Electro Rock vs TKO (51,000,000)
+
+## 8. Congress market and Red Bull precedents (round U)
+
+Events listed for the next 12 months (two different platforms: compare countries within a column, not the columns):
+
+| Country | Salsa (goandance) | Bachata (goandance) | Breaking (and8.dance) |
+|---|---|---|---|
+| Austria | 1 | 3 | 1 |
+| Germany | 16 | 38 | 19 |
+| Switzerland | 0 | 1 | 9 |
+| Italy | 12 | 16 | 4 |
+| Spain | 61 | 59 | 0 |
+| France | 4 | 12 | 9 |
+| Netherlands | 2 | 4 | 4 |
+| United Kingdom | 1 | 2 | 3 |
+| Poland | 3 | 7 | 0 |
+
+Red Bull participation activations found (U1; no precedent at a Latin congress was found in the 9 countries):
+
+- Red Bull Dance Your Style Zone at Open'er Festival 2026 (Poland, 2026-07)
+- Red Bull Dance Your Style Weekender London 2026 (London, 2026-05-30)
+- Red Bull Fitness Zone at Rock for People 2026 (Czechia, 2026-06-10)
+- Red Bull Hyrox Vienna 2026 (Vienna, 2026-02-08)
+- Red Bull Road to HYROX Tokyo 2025 (Tokyo, 2025-12-07)
+- Red Bull Sweat the Deck Chicago 2025 (United States, 2025-08-23)
+- F45 Training x Red Bull global partnership (product sampling at studios and events) (World, 2025-03-13)
+- Wings for Life World Run 2025 (World, 2025-05-04)
+
+## 9. Rows on file not used above
+
+177 usable rows in scope use other units (mostly older single-site listing counts, prices in mixed units, Wikipedia views, students and tourism). They stay in data/ but are not comparable across cities and are not part of the research questions.
