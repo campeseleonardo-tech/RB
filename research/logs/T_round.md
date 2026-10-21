@@ -1,0 +1,117 @@
+# Round T log (2026-10-20)
+
+- T1.1 — done: deleted E000033 and E000034; rendered official Red Bull calendar S00251 lists Vienna on 28 Aug and Lagos on 28 Jun, not the disputed rows. Recount F001317 remains 1.
+- T1.2 — done: FEBD results PDF S00314 lists 49 category entries and 46 distinct competitors; updated E000132 and F001344. Exact event date/venue remain unavailable; manual list item 16.
+- T1.3 — done: AMS 873338 (CBS municipality GM0363, 2021, S00315); WAW 1863056 (Eurostat PL001C, 2021, S00316). Rejected Eurostat NL002C for AMS because API identifies it as Alkmaar (greater city).
+- T1.4 — done: added the required salsa/bachata circuit note to the 9 country-level CAR-SAL LAD rows.
+- T2.1 — ES URB-BRK done: 46 distinct competitors in FEBD results (49 category entries), source S00314; date/venue still unstated.
+- T2.1 — IT URB-BRK not_found: official results PDF blocked (service unavailable, corrected request HTTP 403), source S00317; manual list item 17.
+- T2.1 — IT CAR-SAL not_found: 54+ result segments not saved; count script had no inputs (0 segments), event source S00254, fact F001342.
+- T2.1 — IT CAR-BCH not_found: 54+ result segments not saved; count script had no inputs (0 segments), event source S00254, fact F001343.
+- T2.1 — DE CAR-SAL not_found: 21 result segments not saved; count script had no inputs (0 segments), event source S00284, fact F001339.
+- T2.1 — DE CAR-BCH not_found: 21 result segments not saved; count script had no inputs (0 segments), event source S00284, fact F001340.
+- T2.1 — AT CAR-SAL not_found: no national salsa championship found in documented federation/private searches, fact F001337.
+- T2.1 — AT CAR-BCH not_found: no national bachata championship found in documented federation/private searches, fact F001338.
+- T2.1 — CH URB-BRK not_found: championship identified but no 2025/2026 results or list located (F001354).
+- T2.1 — CH CAR-SAL not_found: no 2025/2026 results list located; SFBT/STSV searches documented in F001355.
+- T2.1 — CH CAR-BCH not_found: no 2025/2026 results list located; SFBT/STSV searches documented in F001356.
+- T2.1 — NL URB-BRK not_found: no 2025/2026 NK results list located; NADB searches documented in F001345.
+- T2.1 — NL CAR-SAL not_found: no national salsa results list located; searches documented in F001346.
+- T2.1 — NL CAR-BCH not_found: no national bachata results list located; searches documented in F001347.
+- T2.1 — UK URB-BRK not_found: no 2025/2026 Breaking GB championship/results list located (F001348).
+- T2.1 — UK CAR-SAL not_found: no UK national salsa results list located (F001349).
+- T2.1 — UK CAR-BCH not_found: no UK national bachata results list located (F001350).
+- T2.1 — PL URB-BRK not_found: PZST selection pathway exists, but no 2025/2026 results list located (F001351).
+- T2.1 — PL CAR-SAL not_found: no national salsa results list located; searches documented in F001352.
+- T2.1 — PL CAR-BCH not_found: no national bachata results list located; searches documented in F001353.
+- T2.2 — done with blocked inputs: added standard-library script research/scripts/count_competitors.py; its test output is 0 segments, 0 entries, 0 distinct names, 0 couples, 0 solos because no result files were saved. FIDS PDF block is S00317; see manual item 17.
+- T2.3 — AT URB-BRK confirmed 59, source S00307; no change.
+- T2.3 — DE URB-BRK confirmed 107, source S00282; no change.
+- T2.3 — FR URB-BRK confirmed 125, source S00277; no change.
+- T3.1 — AT URB-BRK done: E000136 (The Freshest Prince:ess of Austria 2025), 59 participants, source S00307; price not_found F001585.
+- T3.1 — DE URB-BRK done: E000126 (German Breaking Championships 2026), 107 participants, source S00282; price not_found F001586.
+- T3.1 — CH URB-BRK done: E000005 (Red Bull BC One Lausanne), 2026 stop source S00253; no size/price published, F001587.
+- T3.1 — IT URB-BRK done: E000010 (Red Bull BC One L'Aquila), 2026 stop source S00253; no size/price published, F001588.
+- T3.1 — ES URB-BRK done: E000132 FEBD 2026 results, 46 distinct competitors, source S00314; price not_found F001589.
+- T3.1 — FR URB-BRK done: E000128 (Championnat de France de Breaking 2026), 125 participants, source S00277; price not_found F001590.
+- T3.1 — NL URB-BRK done: E000110 (The Notorious IBE 2026), organizer says 10,000+ visitors and 40+ countries, source S00180; EVT lower bound F001603; price not_found F001591.
+- T3.1 — UK URB-BRK done: E000004 (Red Bull BC One London), 2026 stop source S00253; no size/price published, F001592.
+- T3.1 — PL URB-BRK not_found: search returned beatboxing, not breaking dance; no qualified event/size verified, source S00327; PRC not_found F001593. E000123 was not used because its source S00078 does not match the event title.
+- T3.1 — AT Latin done: E000086 Grazy Salsa & Bachata Festival; reopened source S00097 corrected dates to 3-4 Oct; Full Pass from EUR 120 (F001594).
+- T3.1 — DE Latin done: E000071 Berlin Salsa Congress 2026, source S00107; current organizer page provides 2027 program only, no 2026 price (F001595).
+- T3.1 — CH Latin done with limitation: E000143 Salsa Festival Biel/Bienne (17-18 Oct, search-result evidence only); sources S00324-S00326 blocked, no size/price; manual item 19, PRC F001596.
+- T3.1 — IT Latin done with limitation: E000139 BIG International Milan, source S00318; Full Pass USD 275, but ECB conversion failed (S00329); manual item 20, EUR PRC not_found F001597.
+- T3.1 — ES Latin done: E000075 BCN Dance Life Bachata Congress; official ticket platform S00024 lists EUR 160 full pass (F001598). Removed unsupported 1,000-attendee claim.
+- T3.1 — FR Latin done: E000140 PISC 2026, official venue source S00319; year-only date, no 2026 full-pass price on current 2027 ticket page S00320 (F001599).
+- T3.1 — NL Latin done: E000072 Amsterdam International Salsa Festival 2026; official organizer page S00181 confirms 2,000 dancers in 2026; price not_found F001600.
+- T3.1 — UK Latin done: E000141 Mambo City's 5Star Congress 2026, Eventbrite source S00322; sales ended, no price or attendance shown (F001601).
+- T3.1 — PL Latin done: E000142 El Sol Fall Festival 2026, source S00323; current Bachata full pass EUR 190, next tier EUR 210 from 31 Oct (F001602).
+- T3.1 — coverage status: all 18 country/world cells have an event row or not_found entry; the “top 3-5” selection was not exhausted, so this is minimum coverage, not a complete ranking.
+- T4.1 — E000081 Flavourama remains not_checked: official organizer page S00084 was previously blocked; manual item 4.
+- T4.1 — E000115 BCN Dance Life 2025 set not_found: rendered official collaborators section S00330 shows no named sponsor brand or Red Bull.
+- T4.1 — E000131 FEBD Caribbean championship set not_found: official FEBD section S00331 has no event sponsor/Red Bull listing.
+- T4.1 — E000132 FEBD Breaking championship set not_found: official FEBD section/results S00313/S00314 has no sponsor/Red Bull listing.
+- T4.1 — E000133 FFDanse SBK set not_found for Red Bull: official partner page S00257 names Make Up For Event; added relation R000062.
+- T4.1 — E000136 Freshest Prince:ess set not_found: official UDVÖ partner page S00332 has no Red Bull listing; general partners were not assigned to the event.
+- T4.1 — E000138 Ultimate Latin Dance Championship remains not_checked: source S00309 is unrelated to this event; no official sponsor page verified; manual item 21.
+- T4.1 — E000139 BIG International Milan set not_found: official event page S00318 has no sponsor/partner list or Red Bull.
+- T4.1 — E000140 PISC set not_found: official pages S00319/S00320 show no Red Bull sponsor/partner listing.
+- T4.1 — E000141 Mambo City 5Star Congress set not_found: official page and Eventbrite source S00321/S00322 show no Red Bull sponsor/partner listing.
+- T4.1 — E000142 El Sol Fall Festival set not_found: official event page S00323 has no Red Bull sponsor/partner listing.
+- T4.1 — E000143 Salsa Festival Biel/Bienne remains not_checked: official pages S00324-S00326 blocked; manual item 19.
+- T4.1 — E000134/E000135 Campionati Italiani Assoluti: official FIDS page S00254 names Freddy; added event sponsor relations R000063/R000064; Red Bull remains not_found.
+- T4.1 — E000129 DAT: official results index S00284 has no sponsor section; Red Bull remains not_found.
+- T4.1 — E000072 Amsterdam International Salsa Festival and E000075 BCN Dance Life: official organizer/ticket pages S00181/S00330 show no Red Bull listing; values remain not_found.
+- T4.2 — SBG CAR-SAL not_found, source S00333; localized page has no searchable salsa result; no zero asserted.
+- T4.2 — SBG CAR-BCH not_found, source S00333; localized page has no searchable bachata result; no zero asserted.
+- T4.2 — INN CAR-SAL not_found, source S00333; localized page has no searchable salsa result; no zero asserted.
+- T4.2 — INN CAR-BCH not_found, source S00333; localized page has no searchable bachata result; no zero asserted.
+- T4.2 — VIE CAR-SAL not_found, source S00333; localized page has no searchable salsa result; no zero asserted.
+- T4.2 — VIE CAR-BCH not_found, source S00333; localized page has no searchable bachata result; no zero asserted.
+- T4.2 — GRZ CAR-SAL not_found, source S00333; localized page has no searchable salsa result; no zero asserted.
+- T4.2 — GRZ CAR-BCH not_found, source S00333; localized page has no searchable bachata result; no zero asserted.
+- T4.2 — MUC CAR-SAL not_found, source S00334; event list did not render; no zero asserted.
+- T4.2 — MUC CAR-BCH not_found, source S00334; event list did not render; no zero asserted.
+- T4.2 — BER CAR-SAL not_found, source S00334; event list did not render; no zero asserted.
+- T4.2 — BER CAR-BCH not_found, source S00334; event list did not render; no zero asserted.
+- T4.2 — MIL CAR-SAL not_found, source S00335; page has no Salsa search; no zero asserted.
+- T4.2 — MIL CAR-BCH not_found, source S00335; page has no Bachata search; no zero asserted.
+- T4.2 — ROM CAR-SAL not_found, source S00335; page has no Salsa search; no zero asserted.
+- T4.2 — ROM CAR-BCH not_found, source S00335; page has no Bachata search; no zero asserted.
+- T4.2 — BCN CAR-SAL not_found, source S00336; page has no Salsa search; no zero asserted.
+- T4.2 — BCN CAR-BCH not_found, source S00336; page has no Bachata search; no zero asserted.
+- T4.2 — MAD CAR-SAL not_found, source S00336; page has no Salsa search; no zero asserted.
+- T4.2 — MAD CAR-BCH not_found, source S00336; page has no Bachata search; no zero asserted.
+- T4.2 — PAR CAR-SAL not_found, source S00337; page has no Salsa search; no zero asserted.
+- T4.2 — PAR CAR-BCH not_found, source S00337; page has no Bachata search; no zero asserted.
+- T4.2 — AMS CAR-SAL not_found, source S00338; page has no Salsa search; no zero asserted.
+- T4.2 — AMS CAR-BCH not_found, source S00338; page has no Bachata search; no zero asserted.
+- T4.2 — LON CAR-SAL not_found, source S00339; event list did not render; no zero asserted.
+- T4.2 — LON CAR-BCH not_found, source S00339; event list did not render; no zero asserted.
+- T4.2 — WAW CAR-SAL not_found, source S00340; page has no Salsa search; no zero asserted.
+- T4.2 — WAW CAR-BCH not_found, source S00340; page has no Bachata search; no zero asserted.
+- T4.2 — ZRH CAR-SAL not_found, source S00341; page has no Salsa search; no zero asserted.
+- T4.2 — ZRH CAR-BCH not_found, source S00341; page has no Bachata search; no zero asserted.
+- T5.1 — Red Bull BC One latest final: 980,053 views, title “Rewatch Red Bull BC One World Final Tokyo 2025”, upload 2025-11-09, source S00342.
+- T5.1 — Red Bull BC One most-viewed full replay candidate: 4,780,353 views, title “WATCH: Red Bull BC One World Final 2019”, upload 2019-11-09, source S00343; highest full-replay result within the 8-search limit, not a ranking of individual battle clips.
+- T5.1 — Red Bull Dance Your Style latest/most-viewed finals not_found: official channel shows 2026 livestream scheduled but no 2025 VOD; third-party results not used (F001636-F001637, S00311/S00351).
+- T5.1 — World Latin Dance Cup latest/most-viewed final not_found: official channel page shows old 2019 uploads; playlist has no video clearly labelled final (F001638-F001639, S00344-S00345).
+- T5.1 — World Salsa Summit latest/most-viewed final not_found: official channel has 2021/2022 competition videos; 2025 competitor clip not official (F001640-F001641, S00346).
+- T5.1 — Euroson Latino latest/most-viewed final not_found: official channel page shows a 2025 trailer but no final video (F001642-F001643, S00348).
+- T5.1 — WDSF Caribbean latest/most-viewed final not_found: official 2026 Alicante video is a Day 1 stream, not a final-specific video; candidate 7,751 views (F001644-F001645, S00349).
+- T5.1 — Largest bachata championship on file E000131: no official FEBD bachata-final video found (F001646-F001647, S00350).
+- T5.1 — Added channel subscribers: WLDC 7.45k, WSS 104k, Euroson 17.8k, The Summit Championship 6.74k (F001648-F001651); existing RB/WDSF channel rows remain F001580-F001582.
+- T6.1 VIE CAR-SAL: 3 verified schools as a minimum: Salsa Vienna, Vienna Salsa Studio, Tumbao (F001652). Fixed search result review incomplete.
+- T6.1 VIE CAR-BCH: 3 verified schools as a minimum, same providers (F001653). Fixed search result review incomplete.
+- T6.1 VIE URB-BRK: 1 verified school as a minimum, Arriola (F001654). Fixed search result review incomplete; undated/stale candidates excluded.
+- T6.1 MIL CAR-SAL: 1 verified school as a minimum, Baila con Migo Milano (F001655). Fixed search result review incomplete.
+- T6.1 MIL CAR-BCH: 1 verified school as a minimum, Baila con Migo Milano (F001656). Fixed search result review incomplete.
+- T6.1 MIL URB-BRK: no current readable weekly timetable verified; not_found F001657, not a zero.
+- T6.2 VIE CAR-SAL: 30 weekly slots across the three confirmed schools (9 + 11 + 10), F001658; minimum only.
+- T6.2 VIE CAR-BCH: 5 weekly slots across the three confirmed schools (2 + 2 + 1 upcoming from 5 Nov), F001659; minimum only.
+- T6.2 VIE URB-BRK: 2 Arriola Breaking slots per week in the current 2026 semester, F001660.
+- T6.2 MIL CAR-SAL: 8 Baila con Migo slots per week, F001661.
+- T6.2 MIL CAR-BCH: 3 Baila con Migo slots per week, F001662.
+- T6.2 MIL URB-BRK: no school verified, so no slot total; not_found F001663, not a zero.
+- T6.3 VIE/MIL x three disciplines: six limited not_found rows F001664-F001669. Dedicated social/jam searches deferred; these do not establish absence.
+- T6.4 Per-city/style time was not tracked during the interrupted pass; exact minutes cannot be recovered without inventing them. Main limits: first-20 search review incomplete, schedules embedded in images/booking widgets, and stale/undated pages. Do not scale the pilot from these minimums.

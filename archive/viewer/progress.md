@@ -1,6 +1,6 @@
 # Viewer progress (updated in place)
 
-Status (2026-10-19): V0 to V5 built and checked on sample data. V6 (real data) waits until the research team has finished `data/`. `data/` is still being filled and currently fails the validator (see `viewer/problems.md`), so `rebuild_viewer.bat` stops on purpose until the data is fixed.
+Status (2026-10-20): V0 to V6 done; atlas.html is built from data/. See V6 below for the two analysis views.
 
 ## V0. Foundations
 - **Built:** fake sample data in `viewer/sample_data/` (11 CSV, 61 rows, all marked SAMPLE DATA); validator `viewer/validate_data.py`; build `viewer/build_viewer.py`; double-click file `viewer/rebuild_viewer.bat`.
@@ -31,6 +31,11 @@ Status (2026-10-19): V0 to V5 built and checked on sample data. V6 (real data) w
 - **Built:** Sources: every source grouped by type, with status, date opened, the tables that use it (clickable), filters "never opened", "blocked", "opened or rendered", and a search. About: how to read the page, the legend, and the definitions of evidence type, confidence, access status and Red Bull involvement, read from `project/data_schema.md` at build time (so the text is the schema text), counts, and the line "No scores are shown".
 - **Tested:** the legend text is read from the schema file during the build (no copy typed by hand); no horizontal scroll at phone width (375 px) on any view.
 - **Note:** all views are real now (no stub). The `.bat` stops when `data/` has errors, which is the intended behaviour: it never builds a page from data that fails the checks.
+
+## V6. Real data and analysis views (2026-10-20)
+- **Built:** atlas.html now comes from data/ (validator OK, 0 errors). New file viewer/src/analysis.js with two views. City comparison: the 15 deep cities × breaking, salsa, bachata for one signal; population (city-proper figure preferred, area written next to it), students, Red Bull events 2024-2026; best row per cell (found before inferred, H before L), country values marked, flagged rows marked `!`; unit filter and a per-signal check "comparable / not comparable as is". Breaking vs Latin: Wikipedia views per language with computed Latin sum and Latin ÷ breaking ratio (only when both values exist), large events with stated size by family, national size figures (breaking-specific vs all dance), Red Bull footprint per discipline, what is still missing.
+- **Tested:** headless Chromium: no console errors on any view; no horizontal scroll at 375 px; light and dark; clicking a value opens its row; unit filter on SCH keeps 13 rows of one unit.
+- **Rule kept:** no scores or rankings; the only derived numbers are sums and ratios, labelled as computed.
 
 ## Open questions for Leonardo and the schema (not changed by me)
 1. ID formats for events, organisations, athletes, finance, relations and the log are not in `data_schema.md`; I used `EV`, `ORG`, `ATH`, `FIN`, `REL`, `LOG` + 6 digits. The validator checks only `F` + 6 digits and `S` + 5 digits. Please confirm, or the research model should keep one style.
