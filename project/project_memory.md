@@ -84,6 +84,11 @@ Web deck "Two Dance Markets", rebuilt 2026-10-21 as 10 slides in English (cover;
 - Hyrox 2025: 89 races, 779,073 finishers worldwide, about 8,750 per race (deck updated).
 - Curated table: research/sizes/large_events.csv.
 
+## 7g. Round AA1 results (2026-10-22)
+- 162 Latin events read (150 random + 12 large): research/prices/latin_events_detail.csv. 84 full pass prices, 149 date ranges, 90 venue names, 58 line-ups, 9 stated sizes; 13 out of scope, 0 blocked. Notes say what each page did not show.
+- research/artists/lineups.csv (684 artist rows, 416 distinct couples/solos), name_map.csv (184 merged spellings), artist_reach.csv (40 most booked; Instagram followers found for 11, 29 not linked with certainty).
+- Limits: official/ticket page read for 54 events (4 did not render); line-ups are mostly go&dance cards, so counts are biased to events on that platform. Log: research/logs/AA1_log.md. Nothing committed; data/ unchanged, validate_data.py still 0 errors.
+
 ## 8. Next steps (2026-10-21, after round X)
 0. Round Y executed (data + log); next: Claude analyses the census (merged_events.csv, overlaps, snapshots, Hyrox) and updates the deck.
 1. Leonardo, 1-2 hours (optional now that round Y crosses sources): **coverage check of the two platforms in Austria** (and Salzburg): list every Latin congress/festival and every breaking battle he knows in Austria for the next 12 months, then mark which are on goandance and on and8.dance. The share listed tells how representative the two platforms are (answer to the main critique). Also the Salzburg rows (SBG-S, SBG-X) in research/manual_input.ods.
