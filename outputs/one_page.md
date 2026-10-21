@@ -2,20 +2,20 @@
 
 **The problem.** Red Bull is strong in breaking, a spectator market. Salsa and bachata are the opposite: many people dance, pay and travel, and almost nobody watches the competitions. Red Bull has no visible presence there. Can it enter, how, and where?
 
-**Two markets.**
-- Two event markets of a different shape (20 independent events per world, Red Bull excluded): breaking events are fewer, more visible and cheap to watch (Instagram median 30,000 followers per event; IBE 10,000 visitors; spectator tickets EUR 35-40); Latin events are more numerous, less visible and paid by the dancers themselves (median 15,000 followers; 1,000-5,000 dancers per congress; full pass EUR 115-245) (1).
-- Per flagship event the money is of the same order (**computed**): 2,000 dancers x about EUR 150 = about EUR 300,000 in passes for a Latin congress; 10,000 visitors x EUR 35 = about EUR 350,000 in tickets for a breaking event (2).
-- Latin attention sits with dancers: the 30 most followed Latin dancers have 4,842,000 followers together, breaking's 30 have 4,087,700 (3).
-- Latin congresses are paid dance parties: 2,000 dancers in Amsterdam, 5,000+ in Croatia (4); full passes EUR 120-190 (5).
-- Competitions are small in both worlds: 65-123 Latin and 46-125 breaking competitors per national final (6).
-- Weakest part: participation is only measured as minimums in two cities.
+**Two event markets of a different shape** (20 independent European events per world; Red Bull events and accounts excluded).
+- Breaking events are fewer, more visible and cheap to watch: median 30,000 Instagram followers per event, IBE 10,000 visitors, spectator tickets EUR 35-40 (1).
+- Latin events are more numerous, less visible and paid by the dancers themselves: median 15,000 followers, 1,000-5,000 dancers per congress (Amsterdam 2,000, Croatia 5,000+), full passes EUR 115-245 (2).
+- Per flagship event the money is of the same order (**computed**): 2,000 dancers x about EUR 150 = about EUR 300,000 in passes; 10,000 visitors x EUR 35 = about EUR 350,000 in tickets (3).
+- Latin attention sits with dancers, not with events: the 30 most followed Latin dancers have 4.8 million Instagram followers together, breaking's 30 have 4.1 million (4).
+- Competitions are small in both worlds: 65-123 Latin and 46-125 breaking competitors per national final (5).
+- Weakest part: participation in classes is measured only as minimums in two cities (Vienna, Milan).
 
-**How Red Bull could enter.** Product presence at the largest congresses (night bar, energy for night-long dancing, sampling), as Red Bull already does at fitness and dance zones (7). Not a new competition, and not sponsored dancers: their reach shows where attention is, it is not a channel to buy. Who sponsors congresses today is still unchecked.
+**How Red Bull could enter.** Product presence at the largest congresses (night bar, energy for night-long dancing, sampling), as Red Bull already does at fitness and dance zones and with F45 studios (6). Not a new competition, and not sponsored dancers: their reach shows where attention is, it is not a channel to buy. Sponsors at congresses: partner pages are rarely published; the only drinks brand found is Freixenet (Croatia); Red Bull appears at none (7).
 
-**Where.** Paris, Barcelona, Madrid (top 3 of 15 cities): a Red Bull office or dance event to attach to, a strong Latin country, a congress or championship nearby (8). Paris stays first even without country-level data; Amsterdam and London rise on city facts alone.
+**Where.** Paris, Barcelona, Madrid (top 3 of 15 cities): a Red Bull office or dance event to attach to, a strong Latin country, a congress or championship nearby (8). Paris stays first even without country-level data; Amsterdam and London rise on city facts alone. A first, cheap pilot could run near Red Bull's headquarters (Austrian congresses).
 
 **Next step (Leonardo).** One pilot: one congress activation, agreed with an organiser, measured (cans, contacts, dancers' feedback), before any larger plan.
 
-**Method.** Public sources only, 15 cities, 9 countries, data in data/*.csv; every number is traced in outputs/analysis.md. Instagram counts are rounded; several figures are organiser statements.
+**Method.** Public sources only, 15 cities, 9 countries, data in data/*.csv; every number is traced in outputs/analysis.md. Instagram counts are rounded by the platform; several figures are organiser statements.
 
-*Footnotes (ids):* (1) the two sets in research/logs/W_round.md; Instagram: task W3 facts F001984-F002166 (Red Bull accounts excluded); sizes E000110, E000074, E000072; prices F001997, F002002, F002019, F002024, F002028, F002033, F002054, F002059, F002069, F002090, F002160; (2) E000072, E000110, F002090, formula as written; (3) **computed** sums of 30 facts each, e.g. F001759, F001847; (4) F001965, F001967 (lower bound); (5) F001594, F001598, F001602; (6) F001334, F001332, F001331, F001344; (7) E000144, E000145, E000150; (8) E000125, E000001, E000011, O00112, O00113, F001966, F001334, F001332.
+*Footnotes (ids):* (1) Instagram facts of task W3 (sets in research/logs/W_round.md), E000110, F002090, F002160; (2) E000072, E000074, F001965, F001967, prices F001598, F002002, F002019, F002024, F002028, F001594, F002054, F002059, F002069; (3) E000072, E000110, F002090, formula as written; (4) **computed** sums of 30 facts each, e.g. F001759, F001847; (5) F001334, F001332, F001331, F001344; (6) E000144, E000145, E000150; (7) relations of E000074, task W2 sponsor rows; (8) E000125, E000001, E000011, O00112, O00113, F001966, F001334, F001332.

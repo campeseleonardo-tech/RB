@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Count result entries in saved PDF/HTML pages under research/scripts/input/.
+"""Count result entries in saved PDF/HTML pages under scripts/input/.
 
 One file is treated as one result segment. The parser intentionally uses only
 saved files; it does not make network requests. PDF support uses pypdf when it

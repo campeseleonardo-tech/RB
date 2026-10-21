@@ -1,4 +1,4 @@
-"""Round V: numbers for outputs/analysis.md, computed from data/*.csv only. Run: python research/scripts/analysis_v.py"""
+"""Round V: numbers for outputs/analysis.md, computed from data/*.csv only. Run: python scripts/analysis_v.py"""
 import csv, re, statistics as st
 R = lambda n: list(csv.DictReader(open(f'data/{n}.csv', encoding='utf-8')))
 facts, ath, ev = R('facts'), R('athletes'), R('events')

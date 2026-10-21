@@ -1,90 +1,66 @@
-# Red Bull open application: Dance Scene Atlas (project memory)
+# Dance Scene Atlas: project memory
 
-Status as of 2026-10-21 (rewritten in full after round T). Language of the whole project: English. Single source of truth for goals, hypotheses and decisions; plans and prompts follow from this file.
+Status as of 2026-10-21, rewritten in full after the clean-up. Single source of truth for the goal, hypotheses, results, decisions and open items. Language: English (chat with Leonardo in Italian).
 
 ## 1. Context
-- Leonardo Campese plans an open application to Red Bull (target: Product/Project Manager, secondarily technical; Austria first, then Spain or Italy). The project shows product/project thinking: a problem, evidence, a decision, a proposal.
-- Leonardo dances and teaches salsa and bachata in Salzburg. Latin is his field and his advantage: congresses are long nights of dancing, drinking and moving, a natural context for Red Bull.
-- Second use of the same data: if Red Bull is not interested, Leonardo's own project (a congress, an event or another dance project).
-- Budget: up to EUR 1,000-2,000 only if the idea proves valid. No deadline.
-- Friends in many parts of Red Bull: they validate, they never source data.
+- Leonardo Campese prepares an open application to Red Bull (Product/Project Manager; Austria first, then Spain or Italy). The project shows product thinking: a problem, evidence, a decision, a proposal.
+- Leonardo dances and teaches salsa and bachata in Salzburg. Latin is his field: congresses are long nights of dancing, drinking and moving.
+- Second use of the same work: if Red Bull is not interested, Leonardo's own project (a congress or another dance event).
+- Budget up to EUR 1,000-2,000 only if the idea proves valid; no deadline. Friends at Red Bull validate, they never source data.
 
-## 2. The project, redefined (2026-10-21)
-From "a 15-city atlas" to **a thesis with evidence**:
+## 2. Goal and question
+> **Two dance markets.** Breaking is a *spectacle* market (few practise, many watch; Red Bull's model, Red Bull is in it). Latin (salsa, bachata) is a *participation* market (many dance, pay, travel, party until late; almost nobody watches its competitions; Red Bull is not in it). **Can Red Bull enter the Latin market, how, and where?**
 
-> **Two dance markets.** Breaking is a *spectacle* market: few practise, many watch; it is Red Bull's model and Red Bull is in it. Latin (salsa, bachata) is a *participation* market: many dance, pay classes and congresses, travel, party until late; almost nobody watches its competitions. Red Bull is not in it. **Can Red Bull enter the Latin market, how, and where?**
+Breaking is the reference (what Red Bull already knows); Latin is the case. Every comparison is made on equal terms: independent events with independent events, never Red Bull's own events or accounts as the comparator.
 
-Why the change: three collection rounds showed that city-by-city participation counts cannot be obtained from desk research (platforms cannot be counted, schools are too fragmented), while the national and international evidence already tells a clear story. Cities stay as examples and as the "where" of hypothesis H4, not as a grid to fill.
+## 3. Hypotheses and where they stand
 
-Deliverable (after the next round): a one-page summary plus about 6 slides (problem, two markets, evidence, how Red Bull could enter, where, Salzburg pilot), with research/data_summary.md as the data appendix. The viewer is optional.
+| # | Hypothesis | Status | Key evidence (details and ids: outputs/analysis.md) |
+|---|---|---|---|
+| H1 | Two markets: Latin larger in participation, breaking larger in audience | **Partly supported** | Independent events (20 + 20): breaking median 30k Instagram followers per event, spectators (IBE 10,000), tickets EUR 35-40; Latin median 15k, paying dancers 1,000-5,000 per congress, full pass EUR 115-245. Same order of money per flagship event (computed about EUR 300k vs 350k). Competitions equally small (46-125 breaking, 65-123 Latin per national final). Calendar: about 160-220 Latin listings vs 64 breaking in Europe for the next 12 months (different platforms). Participation in classes: minimums only (Vienna, Milan) |
+| H2 | Red Bull can enter Latin through product presence at congresses and socials, not a competition | **Plausible** | Red Bull runs participation activations (Dance Your Style zone at Open'er, DYS Weekender London workshops, fitness zone at Rock for People, Hyrox, F45 official energy drink with sampling, Wings for Life Run). No Red Bull presence found at Latin congresses in 9 countries. Sponsor pages of congresses rarely published; only drinks brand found: Freixenet (Croatian Summer Salsa Festival) |
+| H3 | Latin reach sits with dancers and congresses as gatherings, not with event or competition brands | **Supported** | Top 30 dancers: Latin 4.8m Instagram followers in total (median 81k), breaking 4.1m (median 105k). Median dancer / median event account: Latin 8.5x, breaking 1.25x (computed). Breaking's viral videos are battles, Latin's are couples' performances |
+| H4 | A Latin activation takes root where Latin is strong and Red Bull already operates | **Answered with data on file** | Paris, Barcelona, Madrid (5 of 6 criteria), Milan (4). Paris is the most robust (also first on city-only criteria). Salzburg 1 of 6 (Red Bull HQ in Fuschl am See): a home-region pilot, not a market choice |
 
-## 3. Hypotheses
-| # | Hypothesis | Evidence that would support or reject it |
-|---|---|---|
-| H1 | **Two markets.** Latin is larger in participation; breaking is larger in audience | RQ1 participation (classes, socials), RQ3 events (paying dancers vs spectators), RQ4 audience (channels, views, social reach) |
-| H2 | **Red Bull can enter Latin through product presence at congresses and socials** (sponsorship, sampling, bars, energy for night-long dancing), not by creating a competition | Precedents of Red Bull at participation events (Latin, fitness, social dance conventions); who sponsors congresses today (drinks brands?); congress profiles from sponsor packs (attendance, age, nights, reach) |
-| H3 | **The marketing reach of the Latin scene sits in congresses and in dancers' and instructors' social profiles, not in competitions.** Dancers themselves are not the vehicle (they dance, they are not influencers to sponsor), but the reach of profiles and congress accounts measures where attention is | Followers of the main Latin congress accounts and of the most followed Latin dance professionals vs breaking (battle accounts, Red Bull BC One athletes); hashtag volumes |
-| H4 | **If Red Bull did a Latin event, it would take root best where Latin is strong AND Red Bull already operates** (logistics, local team, existing events to join) | Derived from data already on file: Red Bull dance events per city, Latin congresses and schools per city/country, Latin competitive circuit per country, population. No new research: an analysis step |
-
-The research questions RQ1-RQ5 (participation, competitions, events, audience, brands) remain the evidence blocks behind the hypotheses; each is measured for breaking (reference) and Latin (case).
+Proposal that follows: **one pilot activation at one congress**, agreed with an organiser and measured (cans, contacts, dancers' feedback). Not a new competition; dancers are not proposed as sponsored influencers (their reach measures attention, it is not a channel to buy).
 
 ## 4. Scope
-- **Cities:** the 15 of before (SBG, INN, VIE, GRZ, MUC, BER, MIL, ROM, BCN, MAD, PAR, AMS, LON, WAW, ZRH), used for H4 and as examples. **Countries:** AT, DE, IT, ES, FR, NL, UK, PL, CH. National and European aggregates are welcome where city data does not exist.
-- **Disciplines:** breaking (reference), salsa and bachata (case). Kizomba, zouk, dancehall, other hip hop styles: out.
-- **Parked:** scan and benchmark cities, Wikipedia views, Red Bull finances, funding/regulation/income topics, city-level platform counts, further national championship counts (competitions turned out small in both worlds).
+- Cities: Salzburg (SBG), Innsbruck (INN), Vienna (VIE), Graz (GRZ), Munich (MUC), Berlin (BER), Milan (MIL), Rome (ROM), Barcelona (BCN), Madrid (MAD), Paris (PAR), Amsterdam (AMS), London (LON), Warsaw (WAW), Zurich (ZRH). Countries: AT, DE, IT, ES, FR, NL, UK, PL, CH. Plus the cities of the 40 comparison events.
+- Disciplines: breaking (URB-BRK; URB-MIX for all-styles events such as Dance Your Style and Juste Debout), salsa (CAR-SAL), bachata (CAR-BCH).
+- Out: kizomba, zouk, dancehall, other hip hop styles; other cities; Wikipedia views and online-interest indexes; Red Bull finances; funding, regulation and income topics; city-level platform counts (not measurable). Their rows are in archive/data_v1/.
 
 ## 5. Method rules
-0. Red Bull's own events and accounts are never the comparator for Latin: compare independent events with independent events.
-1. Compare like with like: a value is only compared with values measured the same way; say whether a number counts dancers or spectators.
-2. Every number with a source and a date; ranges and confidence for estimates; `not_found` is a valid answer when the search is documented.
-3. Public sources only. Organisations and **public professional figures** (professional dancers, instructors, athletes with public professional profiles): name, follower counts and public role only. No private individuals, no contact details, no personal data beyond that.
-4. Social platforms: only what a public page shows without bypassing a login or the terms. No automated scraping. Third-party statistics pages are allowed as `inferred`. Where a login is needed, Leonardo reads the number by hand (research/manual_input.xlsx).
+1. Compare like with like; say whether a number counts dancers, spectators, followers or listings. Red Bull's own events and accounts are never the comparator.
+2. Every number has a source and a date; estimates have ranges and confidence; `not_found` is a valid answer with the searches written.
+3. Public sources only; organisations and public professional figures only (name, follower counts, public role); no private individuals.
+4. Social platforms: only what a public page shows without login; no scraping; third-party statistics pages only as `inferred`, confidence L; numbers behind a login are read by Leonardo by hand.
 5. Never write "Red Bull absent": `not_found` with the pages checked.
+6. Units: the standard strings of project/data_schema.md section 5.
 
-## 6. Evidence so far (after rounds R and T, 2026-10-21)
-Full tables: research/data_summary.md (re-run research/build_data_summary.py after every round).
+## 6. What exists (files)
+- data/*.csv: the evidence (931 facts, 147 events, 125 organisations, 75 athletes, 77 relations, 411 sources, 114 places after the clean-up). research/data_summary.md: the evidence ordered by research question (generated).
+- outputs/analysis.md (full analysis, every number with its id) and outputs/one_page.md (the one-page summary for Red Bull).
+- research/manual_input.ods: the only file Leonardo fills by hand (Salzburg rows started: Salsa Studio, Latino Mio, Salsa Club Salzburg).
+- research/logs/: logs of rounds T, U, V, W (and the R-round ladder log).
+- Folder map and commands: README.md.
 
-| Block | Breaking (reference) | Latin (case) | Reading |
-|---|---|---|---|
-| RQ4 Audience | BC One channel 1.21m subscribers; latest World Final replay 980k views, 2019 replay 4.8m; Red Bull Dance 991k | Competition channels: World Salsa Summit 104k, Euroson 17.8k, World Latin Dance Cup 7.45k, The Summit 6.74k (10-170x smaller) | Supports H1 (audience side) |
-| RQ2 Competitions | National championships 46-125 competitors (ES, AT, DE, FR); full ladder in 9/9 countries | 65 (FR), 123 (ES); real circuit (FIDS, FEBD, FFDanse SBK, DAT, SFBT; WDSF Caribbean, WLDC, World Salsa Summit, Euroson) | Same small size in both: competitions are not where the Latin mass is |
-| RQ3 Events | Spectator events: IBE 10,000; Juste Debout 6,000-12,000 | Paying dancers: Amsterdam festival 2,000-2,500; full pass EUR 120 (Graz), 160 (BCN Dance Life), 190 (Warsaw El Sol); Berlin congress dancers from 60+ countries | Different markets. Computed: 2,000 dancers x EUR 120-190 = about EUR 240k-380k in passes for one congress |
-| RQ1 Participation | Vienna: at least 1 school, 2 weekly slots; Milan nf | Vienna: at least 3 schools, 30 salsa + 5 bachata weekly slots; Milan: at least 8 salsa + 3 bachata | Minimums, confidence L; points to H1 (participation side) |
-| RQ5 Brands | Red Bull dance events 2024-2026 in 9 of 15 cities (none in SBG, GRZ, MUC, MIL, ROM, WAW) | No Red Bull Latin event found in research; sponsors of congresses barely checked | H2 untested |
+## 7. Open items
+Leonardo (by hand):
+1. Salzburg ground truth in research/manual_input.ods (rows SBG-S and SBG-X are enough).
+2. Validation talks: 3-5 congress organisers (real attendance, share of full passes, current sponsors and bar, openness to a drinks partner) and 2-3 Red Bull contacts (sampling at participation events, who decides, how results are measured). Questions to be prepared by Claude.
 
-Round U (2026-10-21), see research/data_summary.md sections 7-8:
+Not public or blocked (only worth doing if a talk needs it):
+3. Sponsor/partner pages of 37 of the 40 comparison events (JavaScript ticket pages): ask organisers instead.
+4. YouTube channel subscribers (consent wall), Facebook followers of breaking events and dancers, TikTok and Instagram hashtag counts behind logins.
+5. Segmented national championship results (Italy FIDS Caribbean and breaking, Germany DAT Latin): pages must be saved by hand into scripts/input/ and counted with scripts/count_competitors.py. Parked: competitions are small in both worlds.
+6. Red Bull office rows for France and Switzerland stay confidence L (sources behind bot checks).
 
-| Block | Breaking | Latin | Reading |
-|---|---|---|---|
-| Dancers' reach (Instagram, top 30 each) | Total 4.1m followers, median 105k; Neguin 795k, Terra 340k, Lil Zoo 244k | Total 4.8m, median 81k; Ataca y La Alemana 900k, Daniel y Desiree 734k, Kike y Nahir 436k | **Equal.** Latin attention is as large as breaking's, but it sits with the dancers (mostly bachata couples/instructors) |
-| Event accounts (Instagram) | Red Bull Dance 3m, BC One 957k; non-Red Bull: Summer Dance Forever 283k, HHI 238k, BOTY 162k, Juste Debout 152k | Largest: Euroson 58k, Croatian Summer Salsa Festival 45k, BIG and BCN Dance Life 34k | **Breaking events are brands, Latin events are not** (3-5x smaller even without Red Bull) |
-| Hashtags (Instagram reels, global) | #breakdance 13m | #bachata 38m (includes music), #salsadance 3.1m, #bachatadance 875k | Latin larger, ambiguous tags |
-| Top videos outside Red Bull competitions | Battles: 100m, 91m, 51m | Performances/music videos with dancers: 291m (music video), 99m (TV talent show), 42m | Breaking's viral content is battles; Latin's is performance by couples |
-| Congresses listed next 12 months (goandance, partial) | (and8.dance: DE 19, CH 9, FR 9) | ES 61 salsa / 59 bachata, DE 16/38, IT 12/16, FR 4/12; AT 1/3 | Latin congress market concentrated in Spain, Germany, Italy |
-| Red Bull precedents (H2) | - | No Red Bull presence found at Latin congresses in the 9 countries | But Red Bull runs participation activations: DYS dance zone at Open'er, DYS Weekender workshops London, fitness zone at Rock for People, Hyrox, official energy drink of F45 (sampling), Sweat the Deck, Wings for Life Run |
-| Congress profile | - | Croatian Summer Salsa Festival: over 5,000 dancers, 90 countries, ages 20-60, 8 days of parties; Amsterdam 2,000; Paris 1,500+ | No public sponsor packs found |
+## 8. Next steps (proposed 2026-10-21)
+1. Claude prepares the questions for organisers and Red Bull contacts (as rows in research/manual_input.ods, or a short list in chat if the file is being edited).
+2. A concrete pilot proposal (one congress, objectives, measures, cost).
+3. Slides and the application text, built on outputs/one_page.md and the results of the talks.
 
-Reading after round U: H1 supported (participation and reach comparable or larger for Latin; competition and event brands much larger for breaking). H3 supported: Latin reach lives in dancers' profiles, not in event or competition brands. H2 plausible: Red Bull already does participation activations of the same kind; no Latin precedent yet. H4 to do (analysis).
-
-## 7. Verified facts worth keeping (access date 2026-10-19/21)
-- Red Bull BC One 2026: 27 stops, World Final Toronto 29 Nov 2026. Dance Your Style 2026: 17 stops, World Final Zurich 24 Oct 2026; Austria: Salzburg qualifier 4 Jul, national final Vienna 28 Aug.
-- BC One world final in Salzburg in 2020; DYS world finals 2019 Paris, 2022 Johannesburg, 2023 Frankfurt, 2024 Mumbai, 2025 Los Angeles.
-- Breaking is not in the LA 2028 programme (LA28's decision); WDSF pushes Brisbane 2032.
-- WDSF World Caribbean Dance Championships: Istanbul Dec 2025, Alicante Oct 2026 (with FEBD).
-- Red Bull Next Generation (athletes 15-25, Malaysia/Indonesia, no Europe); Red Bull Basement (student innovation); Athlete Performance Center (Salzburg, Los Angeles).
-
-## 8. Decisions log (short)
-- 2026-10-19: broad Dance Scene Atlas started; data in data/*.csv (project/data_schema.md); viewer built; collection by external models (prompts in project/prompts/).
-- 2026-10-20: correction pass; analysis of the folder (project/analysis_and_plan.md); focus Latin vs breaking, 15 cities; research questions RQ1-RQ5; round R; data put in order (research/data_summary.md).
-- 2026-10-21: round T reviewed (pilot values are minimums only). Project redefined as the two-markets thesis with hypotheses H1-H4 (sections 2-3); national championship counts parked; social reach (congress accounts, 30 Latin and 30 breaking professional dancers' profiles, hashtags, top videos) made the main evidence for H3; H4 is an analysis of existing data; targeted round U written (project/prompts/prompt_round_u.md); manual items in research/manual_input.xlsx.
-- 2026-10-21 (evening): round V reviewed; analysis and one page ready apart from V1/V3.
-- 2026-10-21 (later): round U reviewed; H1 and H3 supported, H2 plausible (participation activations exist, no Latin precedent); next step is the analysis (H4) and the write-up.
-
-## 9. To-do list (in order)
-1. Done 2026-10-21: round U run and reviewed (8 duplicate athletes merged; summary sections 7-8 added).
-2. Leonardo, in research/manual_input.xlsx: Salzburg schools and estimates (SBG-S, SBG-X); Instagram follower counts where the model is blocked (IG rows); 2-3 conversations with Red Bull contacts (RB-Q rows).
-3. Done 2026-10-21: round V run (analysis in outputs/analysis.md and outputs/one_page.md; V1 and V3 not run: no web access in that session). Review by Claude: all 123 cited ids checked; V2 Red Bull offices added from search snippets (O00109-O00117, L); H4 ranking updated: Paris, Barcelona, Madrid (5 of 6), Milan (4); Paris the most robust.
-3b. Leonardo's review of one_page.md (2026-10-21): comparing Red Bull Dance (a Red Bull media brand) with the largest Latin event account is not fair. The comparison must be between the independent EVENT MARKETS of the two worlds (participation, spectators, prices, social following), Red Bull's own events and accounts excluded. Round W (project/prompts/prompt_round_w.md, local agent with web access, low token budget): 20 + 20 largest independent European events, size and money, sponsors (replaces V1), social following, calendar size per world, confirmation of the office rows, Red Bull audience statements (replaces V3).
-3c. After round W: Claude reviews, updates outputs/analysis.md (H1 events block) and rewrites outputs/one_page.md with the event-market comparison.
-4. Claude reviews round V; then Claude + Leonardo: slides and the application text.
-5. Later: clean duplicated documents and data (one file per purpose); decide whether the viewer is still needed.
+## 9. Decisions log
+- 2026-10-19: broad Dance Scene Atlas (discipline x city map, sections A-E, 148 places, 30 disciplines); first research run (49 result files); CSV data model; local viewer.
+- 2026-10-20: correction pass; analysis of the folder: 73% of facts were `not_found`, city-level data not obtainable from desk research; focus Latin vs breaking in 15 cities; research questions RQ1-RQ5; round R.
+- 2026-10-21: round T (national championships, events, pilot schools); project redefined as the two-markets thesis with hypotheses H1-H4; round U (Red Bull precedents, congress market, social reach); round V (analysis and one page; V2 offices added in review); Leonardo's critique: compare independent event markets, not Red Bull Dance with a congress; round W (20 + 20 independent events); clean-up of data and documents (this file, README, data schema v2; archive/ for everything superseded; viewer archived).

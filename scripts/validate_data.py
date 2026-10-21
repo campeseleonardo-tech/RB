@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Check the CSV tables against the data contract (project/data_schema.md, section 4).
 
-Run:  python viewer/validate_data.py [folder]
-Without a folder it checks data/ when that folder holds CSV files, otherwise viewer/sample_data/.
+Run:  python scripts/validate_data.py [folder]
+Without a folder it checks data/ when that folder holds CSV files, otherwise archive/viewer/sample_data/ (the old test data).
 Exit code 0 only when there are no errors. Warnings do not stop the build.
 Standard library only.
 """
@@ -16,7 +16,7 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 DATA_DIR = os.path.join(ROOT, "data")
-SAMPLE_DIR = os.path.join(HERE, "sample_data")
+SAMPLE_DIR = os.path.join(ROOT, "archive", "viewer", "sample_data")
 
 EVIDENCE = ["found", "stated_by_organiser", "not_found", "inferred"]
 CONFIDENCE = ["H", "M", "L"]

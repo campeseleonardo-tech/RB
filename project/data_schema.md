@@ -1,6 +1,8 @@
 # Data schema (the shared contract)
 
-Status: v1, 2026-10-19. Both the data-collection plan (research/plan_data_collection.md) and the viewer plan (project/plan_viewer.md) depend on this file. If a column or allowed value changes, change it here first, then in the plans, in the same working session.
+Status: v2, 2026-10-21 (v1 of 2026-10-19 plus the clean-up of 2026-10-21). Every prompt and script depends on this file. If a column or allowed value changes, change it here first.
+
+**Scope of data/ since 2026-10-21:** only the current project (15 cities, their 9 countries, GLOBAL, places of events in the comparison sets; breaking, salsa, bachata, mixed street styles, ALL). Rows of earlier, wider rounds live in archive/data_v1/ with the same columns; they are history, not evidence for the current analysis.
 
 ## 1. General rules
 1. All data lives in `data/` as CSV files: UTF-8, comma separator, one header row, double quotes around any cell that contains a comma, no thousands separators, decimal point `.`, dates ISO (`2026-10-19`, or `2026-10` / `2026` when only that is known).
@@ -84,11 +86,31 @@ Only for links that cannot be derived from the other files (events, organisation
 `log_id, date, item, issue, action, task_id, notes`
 Every correction, deletion, move to the archive and re-verification result goes here, one line each.
 
-## 4. Quality checks (run by `viewer/validate_data.py`, built in viewer plan stage V0)
+## 4. Quality checks (run by `scripts/validate_data.py`)
 - Required columns present and in order; IDs unique; no empty required cell.
 - Every `source_id`, `place_id`, `disc_id`, `signal_id`, `org_id` used in a row exists in its table.
 - Controlled-list values only.
 - `not_found` rows have non-empty `notes`; `found`/`stated_by_organiser` rows have a `source_id`.
 - Dates ISO; numbers parse; `value_low <= value_high`.
 - A source with `access_status = opened` or `rendered` has an `access_date`.
-Until the validator exists, check these by hand at the end of each batch.
+Run `python scripts/validate_data.py` after every change; then `python scripts/build_data_summary.py` to refresh research/data_summary.md.
+
+## 5. Standard units in use (write them letter for letter)
+New rows reuse these strings so that values measured the same way can be compared. A new unit is added here first.
+
+| Signal | Unit | Counts |
+|---|---|---|
+| CMP | competitors in the national championship (results list) | dancers (people, or entries if names do not allow it) |
+| SCH | schools with a weekly class (fixed search); weekly class slots (schools of R1.1) | schools; classes per week |
+| COM | recurring socials or jams (named, active 2026) | recurring events |
+| EVT | participants stated (dancers); countries of participants stated, main event; editions held (stated) | dancers; countries; editions (a number, never a year) |
+| EVT | Latin events listed on goandance.com, next 12 months; ... , Europe, next 12 months; breaking events listed on and8.dance, next 12 months; breaking events listed, Europe, next 12 months | listings (platform counters, partial) |
+| MED | spectators stated | spectators |
+| MED | Instagram followers (profile page); Instagram posts (profile page); Facebook page followers; TikTok followers (profile page); TikTok likes (profile page); YouTube subscribers (channel page) | followers (accounts, not unique people) |
+| MED | YouTube views, latest final video; YouTube views, most viewed final video; YouTube views, top dance video (non-competition) | views |
+| MED | Instagram hashtag posts | reels shown on the public tag page |
+| MED | congress attendance stated (sponsor pack); congress age range stated (sponsor pack) | dancers; age range (organiser statement, page or pack) |
+| PRC | EUR full pass, main event; EUR full pass, largest event; EUR spectator ticket, main event | EUR per person |
+| ORG | Red Bull dance events 2024-2026; Red Bull at Latin participation events (precedents); drinks brands named as sponsors (event) | events; brands |
+| POP | persons | inhabitants, city proper unless notes say otherwise |
+| LAD | rungs present | 1-5 (class, social/jam, local battle, national, international) |
