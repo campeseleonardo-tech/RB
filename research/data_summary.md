@@ -202,4 +202,4 @@ Red Bull participation activations found (U1; no precedent at a Latin congress w
 
 ## 9. Rows on file not used above
 
-312 usable rows in scope use other units (older rounds: Vienna/Salzburg studio rental prices, city-level counts of earlier passes, sponsor and edition rows of round W). They stay in data/ because outputs/analysis.md cites them or they are national reference figures; they are not comparable across cities.
+313 usable rows in scope use other units (older rounds: Vienna/Salzburg studio rental prices, city-level counts of earlier passes, sponsor and edition rows of round W). They stay in data/ because outputs/analysis.md cites them or they are national reference figures; they are not comparable across cities.

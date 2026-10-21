@@ -7,3 +7,25 @@
 - Z1 Breaking batch 2: 9 searches (WBC, FSE, UKBBC, Battle Pro, IDO, FR champs, Breakin Conv, movement ARENA). Battle Pro 160 competitors / 4500 spectators planned; WDSF Paris Dec 2026 15000 expected (outside window)
 - Z1 Breaking STOP: after Battle Pro (last >=300), 10 in a row: IDO Euro, FR champs (120), Breakin Conv, movement ARENA, Check The Style, Snipes, Floor Wars (1100 but 2018), German champs, Funkin Stylez, BreaktheFloor, World Battle. 18 searches breaking batch2-3, ~45 total breaking incl. generic. Z1 total about 65 reads
 - Z2: tried bboyrankingz.com (domain hijacked by a slot-gambling spam page; /events 404), bboyevent.com (readable but stale, entries 2019-2020 only, 0 in window), udostreetdance.com/en/events (readable, street dance not breaking, 49 events 2026-10..2027-08 mostly UK/NL, no breaking tag: not used), ido-dance.com/en/events (404), worlddancesport.org Calendar (readable; upcoming month only: 2 weeks, 0 breaking), febd.es (calendar page not reachable by fetch), ffdanse HelloAsso (403), nadb.nl (403), DTV/Breaking GB/FIDS (no calendar found; 6 searches EN/DE/FR/ES/PL/NL/IT). No second calendar harvestable. Added breaking_officialpages.csv (11 events from organiser/venue/news pages read in Z1: existence check, not a calendar). ~26 reads
+- Z3: Instagram blocked: WebFetch 429 on 3 profiles (battleoftheyear, thenotoriousibe, amsterdamsalsafestival), curl 302 login. Switched to search snippets (WebSearch allowed_domains instagram.com): shows followers and posts, no likes/comments
+- Z3 large Latin: 9 snippet searches (IG) done
+- Z3 large breaking: 7 snippet searches (IG). Outbreak not found first try
+- Z3 random Latin first 8 (K01414.. see csv)
+- Z3 random Latin: 19 of 40 searched so far
+- Z3 random Latin: 30 of 40 searched
+- Z3 random Latin: 40 of 40 searched (19 profiles with follower counts; rest no profile found). Z3 reads so far ~63
+- Z3 random breaking: 12 searched so far (10 yielded new info; 4 profiles found: LBC Summertime, Beyond the Groove, Colour Jam, World of Dance Spain)
+- Z3 random breaking: 22 of 30 searched (5 profiles)
+- Z3 random breaking: 30 of 30 searched (7 profiles with counts). YouTube/TikTok for large events NOT done: read cap reached (about 95 reads)
+- Z5: 3 searches + 1 page read (hybridfitnessmedia scorecard). hyrox_finishers.csv: worldwide 2025 total and London only; Europe total and other races not_found. Facts F003203 (56 races, L) and F003204 (not_found), sources S00763-S00764
+- Z4: no site partners section read in full (Z1/Z3 used search results, not site pages): 0 sites with a partners section read; no ORG/BEV facts written
+
+## Summary (round Z, 2026-10-21)
+- Reads used: about 200 of 300 (Z1 ~70, Z2 ~26, Z3 ~96, Z5 4). Branch: round-z. manual_input.ods untouched.
+- Z1: candidates.csv 35 Latin + 35 breaking. event_sizes.csv 69 rows: Latin 32 (found/stated 11, not_found 21), breaking 37 (found/stated 12, not_found 25). Most stated sizes are organiser or listing claims (confidence L); two types never added together.
+- Z1 stop: Latin stopped after 12 candidates in a row with no stated size >= 300 (rank order, after BtoB Bucharest); breaking after 10 in a row (after Battle Pro).
+- Z1 events per size class (edition in window or latest 2024-2026, European, one row per event, as stated): Latin people (participants or attendees) >=300: 9, >=1000: 7, >=3000: 2 (Croatian 6,500 shared with Summer Bachata Festival; Amsterdam 3,000). Breaking participants >=300: 2 (Outbreak 2,000; IBE Undisputed 900), >=1000: 1, >=3000: 0; breaking spectators/attendees >=3000: 4 (IBE 10,000 attendees, Juste Debout 12,000 spectators 2025, Battle Pro 4,500 planned, Outbreak 3,200 attendees earlier edition). Latin spectators: none stated.
+- Z2: no usable second breaking calendar: bboyrankingz.com is a hijacked spam page, bboyevent.com stale (2019-2020), UDO is street dance not breaking, WDSF shows 2 weeks only, FFDanse/NADB 403, FEBD/DTV/Breaking GB/FIDS no calendar page reachable. Added breaking_officialpages.csv (11 events from organiser/venue/news pages read in Z1, not a calendar, selection biased to flagship events). census_merge: 490 distinct events; and8.dance x official_pages_Z 7 of 11 in both (Chapman about 720, and8 covers about 67%, biased sample); and8 x web_search_discovery 5 of 11 (about 961, 50%); and8 x WDSF 1 of 1.
+- Z3: Instagram blocked (HTTP 429 on 3 profiles, curl 302 login); used search snippets, followers and posts only, no likes/comments, no YouTube/TikTok (cap). event_social.csv 125 rows. Large events: 10 Latin and 8 breaking searched, 10 and 6 with a follower count. Random samples: 39 of 40 Latin (17 with count), 30 of 30 breaking (8 with count); the rest had no matching official profile found. Counts are snapshots of unknown date; some accounts are brand or organiser accounts (notes).
+- Z5: London Excel over 34,000 finishers (2025); worldwide 2025 total 89 races and 779,073 finishers; Europe total not stated.
+- Validator: 0 errors. No conclusions here.
