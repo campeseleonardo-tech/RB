@@ -121,14 +121,7 @@ New rows reuse these strings so that values measured the same way can be compare
 | PRC | sponsorship tier price stated | EUR per sponsorship tier (notes: tier and what it includes) |
 | ORG | Red Bull roles stated at Hyrox events (precedents) | roles or event pages (one fact per source; notes say which) |
 | EVT | races stated (season) | races (organiser announcement) |
-| EVT | venue capacity stated (main hall); passes sold stated; battle entries (participants list or bracket); finishers (results); share of participants from abroad stated | people; passes; breakers; athletes; percent |
-| EVT | races held (season, Europe); finishers (season, Europe) | races; athletes (Hyrox seasons, period = season start year) |
-| MED | audience age range stated; audience average age stated; share of women stated; congresses per dancer per year stated | years; years; percent; congresses (study or organiser) |
-| MED | Instagram CPM benchmark (EUR, Europe) | EUR per 1,000 impressions (public benchmark, notes: publisher and date) |
-| ONL | Wikipedia page views per year (article, language); Spotify playlist saves (playlist page) | views; saves (snapshot date in period) |
-| BEV | energy drink consumption (litres per person per year); energy drink market value (EUR million); energy drink volume (million litres) | litres; EUR million; million litres (country or Europe) |
-| BEV | brand share of energy drink market (percent) | percent (notes: brand) |
 | BEV | energy drink role at event stated | 1 per event and brand (notes: official drink, bar, sampling, title sponsor, other) |
-| BEV | cans or drinks sampled stated | cans (notes: event, brand) |
-| BEV | rule on energy drink sale or marketing | 1 = rule in force, 0 = none found (notes: age limit, labelling, venue rule, law name) |
-| PRC | EUR retail price, energy drink 250 ml can; EUR bar price, energy drink at event | EUR per can |
+| EVT | races held (season, Europe); finishers (season, Europe) | races; athletes (Hyrox seasons, period = season start year) |
+
+Round Z keeps event sizes and social metrics in their own CSVs (research/sizes/, research/social/), with the columns given in project/prompt_round_z.md.
