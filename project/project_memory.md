@@ -58,11 +58,11 @@ Not public or blocked (only worth doing if a talk needs it):
 ## 7b. Robustness review (plan A, 2026-10-21)
 External critique: missing research, small samples, follower-only metrics, possible confirmation bias. Done: scripts/robustness.py (seeded bootstrap and permutation tests); outputs/analysis.md section 9 (results, confidence per conclusion, named biases, tests written before new data); H1 and H3 claims softened in the analysis and the one page. Found during the review: the clean-up had merged 7 rows of different accounts with equal values; restored (review_log). Plan B = round X (project/prompts/prompt_round_x.md): random samples of 30 + 30 events from full frames, symmetric artist comparison, counter-evidence on the flagship events, engagement; optional 5 Latin cities for H4. Plan C = talks with organisers and Red Bull contacts (Leonardo).
 
-## 8. Next steps (proposed 2026-10-21)
-0. Done 2026-10-21: round X run and tested (analysis section 10; one page rewritten). Not done in round X: X5 (five more Latin cities), likes per post (login), partner sections of the 55 new events.
-1. Claude prepares the questions for organisers and Red Bull contacts (as rows in research/manual_input.ods, or a short list in chat if the file is being edited).
-2. A concrete pilot proposal (one congress, objectives, measures, cost).
-3. Slides and the application text, built on outputs/one_page.md and the results of the talks.
+## 8. Next steps (2026-10-21, after round X)
+1. Leonardo, 1-2 hours: **coverage check of the two platforms in Austria** (and Salzburg): list every Latin congress/festival and every breaking battle he knows in Austria for the next 12 months, then mark which are on goandance and on and8.dance. The share listed tells how representative the two platforms are (answer to the main critique). Also the Salzburg rows (SBG-S, SBG-X) in research/manual_input.ods.
+2. Leonardo, 2 weeks: talks in this order: 2-3 Latin congress organisers, 1 breaking organiser, 2-3 Red Bull contacts. Messages and questions: outputs/outreach_kit.md. Show outputs/one_page.md.
+3. Claude: after the talks, update H2 (sponsors, bar, openness), the analysis and the one page; then a short deck and a pilot proposal (one congress, objectives, measures, cost).
+4. No more desk-research rounds unless a talk raises a precise question.
 
 ## 9. Decisions log
 - 2026-10-19: broad Dance Scene Atlas (discipline x city map, sections A-E, 148 places, 30 disciplines); first research run (49 result files); CSV data model; local viewer.

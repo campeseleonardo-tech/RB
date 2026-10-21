@@ -12,6 +12,7 @@ Language of files and data: English. Chat with Leonardo: Italian. Commit message
 | data/*.csv | The evidence of the current project (11 tables). Edit only through a documented round; every change is logged in data/review_log.csv |
 | outputs/analysis.md | The full analysis of H1-H4, every number with its id in data/ |
 | outputs/one_page.md | The one-page summary for Red Bull |
+| outputs/outreach_kit.md | Messages and questions for the talks with organisers and Red Bull contacts |
 | research/data_summary.md | The evidence ordered by research question, with coverage per indicator (generated; do not edit) |
 | research/manual_input.ods | The only file Leonardo fills by hand (Salzburg ground truth; later the answers of the validation talks) |
 | research/logs/ | Logs of the collection rounds T, U, V, W |
