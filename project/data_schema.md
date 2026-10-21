@@ -117,3 +117,5 @@ New rows reuse these strings so that values measured the same way can be compare
 | MED | Instagram average likes, last 6 posts (profile page) | likes per post (only when visible without login) |
 | EVT | event days (stated); competition or battle section (yes/no); workshops offered (yes/no) | days; 1 = yes, 0 = no |
 | PRC | EUR competitor entry fee | EUR per competitor (battle or competition registration) |
+| EVT | events listed on <source>, snapshot | upcoming events shown by a listing page on the snapshot date (period) |
+| PRC | sponsorship tier price stated | EUR per sponsorship tier (notes: tier and what it includes) |

@@ -16,9 +16,11 @@ Language of files and data: English. Chat with Leonardo: Italian. Commit message
 | outputs/outreach_kit.md | Messages and questions for the talks with organisers and Red Bull contacts |
 | research/data_summary.md | The evidence ordered by research question, with coverage per indicator (generated; do not edit) |
 | research/manual_input.ods | The only file Leonardo fills by hand (Salzburg ground truth; later the answers of the validation talks) |
-| research/logs/ | Logs of the collection rounds T, U, V, W |
+| research/census/ | Event lists per source and world (round Y) and merged_events.csv |
+| research/frames/ | Sampling frames and random samples of round X |
+| research/logs/ | Logs of the collection rounds T to Y |
 | project/prompts/ | The prompt of the next round for the collection agent, when there is one (executed prompts move to archive/prompts/) |
-| scripts/ | validate_data.py (checks data/), build_data_summary.py (writes research/data_summary.md), analysis_v.py and robustness.py (numbers and tests of the analysis), draw_sample.py (random samples from research/frames/), count_competitors.py (+ input/ for saved results pages) |
+| scripts/ | validate_data.py (checks data/), build_data_summary.py (writes research/data_summary.md), analysis_v.py and robustness.py (numbers and tests of the analysis), draw_sample.py (random samples from research/frames/), census_merge.py (merges the census lists of research/census/ and estimates totals), count_competitors.py (+ input/ for saved results pages) |
 | archive/ | Everything superseded, kept as history: see archive/README.md |
 | CLAUDE.md | Working rules for Claude (push to main, pull commands for Leonardo) |
 

@@ -61,8 +61,17 @@ External critique: missing research, small samples, follower-only metrics, possi
 ## 7c. Presentation (2026-10-21)
 Web deck "Two Dance Markets", 12 slides in English (problem, method, two markets of a different shape, who pays, attention, competitions, Red Bull precedents, proposal, where, confidence, next steps): https://claude.ai/artifact/UgT8MtrC8TBA43GG2hdGhm (private until shared from its Share menu). Built from outputs/analysis.md sections 2-10; every number on it is in data/. Leonardo's decision: the deck comes before the talks; Google Trends and engagement only later, if needed to validate.
 
+## 7d. Decisions of 2026-10-21 (evening, after the first deck)
+- Priority: a census of the European event market before any further conclusion: several sources per world, crossed (capture-recapture estimate of the total), window past 24 months + next 12 months, trend from archived snapshots of the same listing pages.
+- Third world as reference: Hyrox (participation market where Red Bull already plays).
+- Follow the market: cities come from where events cluster in the census, not from the fixed 15.
+- Business case only as a light parenthesis (Red Bull's role in Hyrox and similar, public sponsorship tiers).
+- Dropped: city-level class/school counts; national championships kept as one slide only; deck graphics refined only after the new data.
+- Round Y prompt: project/prompts/prompt_round_y.md; merge and estimate: scripts/census_merge.py (writes research/census/merged_events.csv).
+
 ## 8. Next steps (2026-10-21, after round X)
-1. Leonardo, 1-2 hours: **coverage check of the two platforms in Austria** (and Salzburg): list every Latin congress/festival and every breaking battle he knows in Austria for the next 12 months, then mark which are on goandance and on and8.dance. The share listed tells how representative the two platforms are (answer to the main critique). Also the Salzburg rows (SBG-S, SBG-X) in research/manual_input.ods.
+0. Round Y (local agent): project/prompts/prompt_round_y.md; then Claude analyses the census and updates the deck.
+1. Leonardo, 1-2 hours (optional now that round Y crosses sources): **coverage check of the two platforms in Austria** (and Salzburg): list every Latin congress/festival and every breaking battle he knows in Austria for the next 12 months, then mark which are on goandance and on and8.dance. The share listed tells how representative the two platforms are (answer to the main critique). Also the Salzburg rows (SBG-S, SBG-X) in research/manual_input.ods.
 2. Leonardo, 2 weeks: talks in this order: 2-3 Latin congress organisers, 1 breaking organiser, 2-3 Red Bull contacts. Messages and questions: outputs/outreach_kit.md. Show outputs/one_page.md.
 3. Claude: after the talks, update H2 (sponsors, bar, openness), the analysis and the one page; then a short deck and a pilot proposal (one congress, objectives, measures, cost).
 4. No more desk-research rounds unless a talk raises a precise question.
