@@ -119,3 +119,5 @@ New rows reuse these strings so that values measured the same way can be compare
 | PRC | EUR competitor entry fee | EUR per competitor (battle or competition registration) |
 | EVT | events listed on <source>, snapshot | upcoming events shown by a listing page on the snapshot date (period) |
 | PRC | sponsorship tier price stated | EUR per sponsorship tier (notes: tier and what it includes) |
+| ORG | Red Bull roles stated at Hyrox events (precedents) | roles or event pages (one fact per source; notes say which) |
+| EVT | races stated (season) | races (organiser announcement) |

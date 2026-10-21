@@ -96,7 +96,8 @@ def main():
     clusters = []  # each: list of rows
     for r in rows:
         for c in clusters:
-            if any(same_event(r, x) for x in c):
+            # two rows of the same source are two listed editions, never one event
+            if all(x["source"] != r["source"] for x in c) and any(same_event(r, x) for x in c):
                 c.append(r)
                 break
         else:
@@ -121,9 +122,10 @@ def main():
         sources = Counter(s for c in cs for s in {x['source'] for x in c})
         for s, n in sources.most_common():
             print(f"- {s}: {n} events")
-        print("Pairwise overlap and Chapman estimate of the total (assumes the two lists are independent):")
-        for a, b in itertools.combinations(sorted(sources), 2):
-            sets = [{x["source"] for x in c} for c in cs]
+        for label, sub in (("all periods", cs), ("next 12 months only (both lists show upcoming events)", [c for c in cs if period(c[0]["_d"]) == "next 12 months"])):
+          print(f"Pairwise overlap and Chapman estimate of the total, {label} (assumes the two lists are independent):")
+          for a, b in itertools.combinations(sorted(sources), 2):
+            sets = [{x["source"] for x in c} for c in sub]
             n1 = sum(1 for s in sets if a in s)
             n2 = sum(1 for s in sets if b in s)
             m = sum(1 for s in sets if a in s and b in s)

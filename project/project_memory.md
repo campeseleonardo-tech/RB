@@ -41,7 +41,7 @@ Proposal that follows: **one pilot activation at one congress**, agreed with an 
 - data/*.csv: the evidence (931 facts, 147 events, 125 organisations, 75 athletes, 77 relations, 411 sources, 114 places after the clean-up). research/data_summary.md: the evidence ordered by research question (generated).
 - outputs/analysis.md (full analysis, every number with its id) and outputs/one_page.md (the one-page summary for Red Bull).
 - research/manual_input.ods: the only file Leonardo fills by hand (Salzburg rows started: Salsa Studio, Latino Mio, Salsa Club Salzburg).
-- research/logs/: logs of rounds T, U, V, W, X (and the R-round ladder log). research/frames/: round X sampling frames (goandance Latin 222 rows, and8 breaking 71 rows) and the two random samples of 30.
+- research/census/: round Y lists (one CSV per source and world) and merged_events.csv. research/logs/: logs of rounds T, U, V, W, X, Y (and the R-round ladder log). research/frames/: round X sampling frames (goandance Latin 222 rows, and8 breaking 71 rows) and the two random samples of 30.
 - Folder map and commands: README.md.
 
 ## 7. Open items
@@ -70,7 +70,7 @@ Web deck "Two Dance Markets", 12 slides in English (problem, method, two markets
 - Round Y prompt: project/prompts/prompt_round_y.md; merge and estimate: scripts/census_merge.py (writes research/census/merged_events.csv).
 
 ## 8. Next steps (2026-10-21, after round X)
-0. Round Y (local agent): project/prompts/prompt_round_y.md; then Claude analyses the census and updates the deck.
+0. Round Y executed (data + log); next: Claude analyses the census (merged_events.csv, overlaps, snapshots, Hyrox) and updates the deck.
 1. Leonardo, 1-2 hours (optional now that round Y crosses sources): **coverage check of the two platforms in Austria** (and Salzburg): list every Latin congress/festival and every breaking battle he knows in Austria for the next 12 months, then mark which are on goandance and on and8.dance. The share listed tells how representative the two platforms are (answer to the main critique). Also the Salzburg rows (SBG-S, SBG-X) in research/manual_input.ods.
 2. Leonardo, 2 weeks: talks in this order: 2-3 Latin congress organisers, 1 breaking organiser, 2-3 Red Bull contacts. Messages and questions: outputs/outreach_kit.md. Show outputs/one_page.md.
 3. Claude: after the talks, update H2 (sponsors, bar, openness), the analysis and the one page; then a short deck and a pilot proposal (one congress, objectives, measures, cost).
@@ -81,4 +81,5 @@ Web deck "Two Dance Markets", 12 slides in English (problem, method, two markets
 - 2026-10-20: correction pass; analysis of the folder: 73% of facts were `not_found`, city-level data not obtainable from desk research; focus Latin vs breaking in 15 cities; research questions RQ1-RQ5; round R.
 - 2026-10-21 (late): round X: random samples of 30 + 30 events from full calendars; typical Latin events are more followed, longer and paid by dancers; breaking's audience advantage only at the top; H1 revised, H2 still untested on sponsors.
 - 2026-10-21: round T (national championships, events, pilot schools); project redefined as the two-markets thesis with hypotheses H1-H4; round U (Red Bull precedents, congress market, social reach); round V (analysis and one page; V2 offices added in review); Leonardo's critique: compare independent event markets, not Red Bull Dance with a congress; round W (20 + 20 independent events); clean-up of data and documents (this file, README, data schema v2; archive/ for everything superseded; viewer archived).
+- 2026-10-21 (night): round Y executed (census lists in research/census/: Latin 3 sources, breaking and8 + 2 weak, Hyrox 3; merged_events.csv; snapshot counts; depth on 8 new Latin events + 15 Hyrox races + official-page reads; Red Bull on all 15 Hyrox pages read). Analysis of the census still to do by Claude. Log: research/logs/Y_round.md.
 - 2026-10-21: round X executed (frames, random samples of 30 + 30 events, symmetric line-up artists, counter-evidence on the 40 flagship events; data only, tests of outputs/analysis.md section 9 not yet run). Known limits: breaking frame = and8 registry only; line-up artists resolved mostly for the better known ones; no partner sections read for the 60 sampled events; X5 (five more Latin cities) not done.

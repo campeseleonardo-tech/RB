@@ -141,6 +141,11 @@ Qualification links (relations.csv `qualifies_for`):
 - Poland, all dance: 505 active competitive athletes (Polish DanceSport Federation) (2023, F000278)
 - Netherlands, Breaking: 0 drinks brands named as sponsors (event) (2026, F002085)
 - Netherlands, Breaking: 0 drinks brands named as sponsors (event) (2026, F002119)
+- United Kingdom, all dance: 0 drinks brands named as sponsors (event) (2027, F003145)
+- Germany, all dance: 1 drinks brands named as sponsors (event) (2026, F003153)
+- Germany, all dance: 1 drinks brands named as sponsors (event) (2026, F003163)
+- Netherlands, all dance: 1 drinks brands named as sponsors (event) (2026, F003177)
+- Germany, all dance: 1 drinks brands named as sponsors (event) (2027, F003190)
 
 ## 7. Social reach (round U)
 
@@ -197,4 +202,4 @@ Red Bull participation activations found (U1; no precedent at a Latin congress w
 
 ## 9. Rows on file not used above
 
-236 usable rows in scope use other units (older rounds: Vienna/Salzburg studio rental prices, city-level counts of earlier passes, sponsor and edition rows of round W). They stay in data/ because outputs/analysis.md cites them or they are national reference figures; they are not comparable across cities.
+312 usable rows in scope use other units (older rounds: Vienna/Salzburg studio rental prices, city-level counts of earlier passes, sponsor and edition rows of round W). They stay in data/ because outputs/analysis.md cites them or they are national reference figures; they are not comparable across cities.
