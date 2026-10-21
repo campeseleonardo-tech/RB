@@ -71,3 +71,13 @@ L00069,2026-10-20,events.csv E000072,"Official organizer page now states 2,000 d
 L00070,2026-10-20,events.csv E000110,"Official IBE Foundation page states over 10,000 annual visitors from 40+ countries","reverified 10,000 attendees as lower bound; added EVT 40 lower-bound fact F001603",T3.1,Source S00180; no value change to event scale.
 L00071,2026-10-21,athletes.csv 8 duplicates,U3.2 added BC One champions already on file as new rows,merged into the older rows (ids kept); U3.2 facts repointed; new ids retired: A00071 A00060 A00066 A00056 A00067 A00059 A00063 A00079,A3,
 L00072,2026-10-21,organisations.csv V2 offices,V2 not run in round V (no web access),"9 Red Bull national office rows added by Claude from web search snippets (confidence L, sources not_opened); place BAA added",V2,
+L00073,2026-10-21,organisations.csv O00109,confidence L from a search snippet,"W5 re-check: confidence M, source opened",W,W5 office check
+L00074,2026-10-21,organisations.csv O00110,confidence L from a search snippet,"W5 re-check: confidence H, source opened",W,W5 office check
+L00075,2026-10-21,organisations.csv O00111,confidence L from a search snippet,"W5 re-check: confidence H, source opened",W,W5 office check
+L00076,2026-10-21,organisations.csv O00112,confidence L from a search snippet,"W5 re-check: confidence H, source opened",W,W5 office check
+L00077,2026-10-21,organisations.csv O00113,confidence L from a search snippet,"W5 re-check: confidence L, source blocked",W,W5 office check
+L00078,2026-10-21,organisations.csv O00114,confidence L from a search snippet,"W5 re-check: confidence M, source opened",W,W5 office check
+L00079,2026-10-21,organisations.csv O00115,confidence L from a search snippet,"W5 re-check: confidence H, source opened",W,W5 office check
+L00080,2026-10-21,organisations.csv O00116,confidence L from a search snippet,"W5 re-check: confidence M, source opened",W,W5 office check
+L00081,2026-10-21,organisations.csv O00117,confidence L from a search snippet,"W5 re-check: confidence L, source blocked",W,W5 office check
+L00082,2026-10-21,events.csv W1 existing rows,Round W comparison sets,notes extended on existing events; scale filled only where empty; no values overwritten,W,W1

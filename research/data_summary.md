@@ -89,9 +89,11 @@ Qualification links (relations.csv `qualifies_for`):
 
 | Event | Place | Date | Discipline | Size | Evidence | Red Bull |
 |---|---|---|---|---|---|---|
+| SoulDance Bachata & Salsa Festival Vol.7 | Lloret de Mar | 2027-02-18 | CAR-BCH | 1,000 participants | stated_by_organiser | not_checked |
 | Campeonato de Espana de Bailes Caribenos 2026 | Spain | 2026-07-04 | CAR-BCH | 123 participants | found | not_found |
 | Amsterdam International Salsa Festival 2025 | Amsterdam | 2025-02-06 | CAR-SAL | 2,500 participants | stated_by_organiser | not_found |
 | Amsterdam International Salsa Festival 2026 | Amsterdam | 2026-02-19 | CAR-SAL | 2,000 participants | stated_by_organiser | not_found |
+| Paris International Salsa Congress 2026 (PISC) | Paris | 2026 | CAR-SAL | 1,500 participants | stated_by_organiser | not_found |
 | Championnat de France FFD SBK 2026 | France | 2026-05-09 | CAR-SAL | 65 participants | found | not_found |
 | The Notorious IBE 2025 | Heerlen | 2025-08-15 | URB-BRK | 10,000 attendees | stated_by_organiser | not_found |
 | The Notorious IBE 2026 (25th ed.) | Heerlen | 2026-08-07 | URB-BRK | 10,000 attendees | stated_by_organiser | not_found |
@@ -136,6 +138,8 @@ Qualification links (relations.csv `qualifies_for`):
 - Netherlands, all dance: 68 % practising amateur arts incl. dance (2024, F000276)
 - Poland, all dance: 7,000 PTT members (since 1956) (2023, F000277)
 - Poland, all dance: 505 active competitive athletes (Polish DanceSport Federation) (2023, F000278)
+- Netherlands, Breaking: 0 drinks brands named as sponsors (event) (2026, F002085)
+- Netherlands, Breaking: 0 drinks brands named as sponsors (event) (2026, F002119)
 
 ## 7. Social reach (round U)
 
@@ -192,4 +196,4 @@ Red Bull participation activations found (U1; no precedent at a Latin congress w
 
 ## 9. Rows on file not used above
 
-177 usable rows in scope use other units (mostly older single-site listing counts, prices in mixed units, Wikipedia views, students and tourism). They stay in data/ but are not comparable across cities and are not part of the research questions.
+246 usable rows in scope use other units (mostly older single-site listing counts, prices in mixed units, Wikipedia views, students and tourism). They stay in data/ but are not comparable across cities and are not part of the research questions.
