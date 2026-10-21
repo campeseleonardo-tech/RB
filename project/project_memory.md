@@ -81,6 +81,6 @@ Reading after round U: H1 supported (participation and reach comparable or large
 ## 9. To-do list (in order)
 1. Done 2026-10-21: round U run and reviewed (8 duplicate athletes merged; summary sections 7-8 added).
 2. Leonardo, in research/manual_input.xlsx: Salzburg schools and estimates (SBG-S, SBG-X); Instagram follower counts where the model is blocked (IG rows); 2-3 conversations with Red Bull contacts (RB-Q rows).
-3. Claude: review round U; then the analysis: H1-H3 verdicts, H4 table of where a Latin activation would take root (existing data), congress economics for Leonardo's own event.
-4. Claude + Leonardo: write the one-page summary and the slides.
+3. Round V (another model): project/prompts/prompt_round_v.md: three small research tasks (V1 sponsors of 15 congresses, V2 Red Bull national offices, V3 Red Bull audience statements), then the full analysis of H1-H4 and congress economics in outputs/analysis.md, and outputs/one_page.md.
+4. Claude reviews round V; then Claude + Leonardo: slides and the application text.
 5. Later: clean duplicated documents and data (one file per purpose); decide whether the viewer is still needed.
