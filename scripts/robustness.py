@@ -140,5 +140,67 @@ def main():
         print(f"- {world} {unit}: n = {len(s)} of 20, values {', '.join(fmt(x) for x in sorted(s.values()))}")
 
 
+def round_x():
+    """Tests written in outputs/analysis.md section 9, run on the random samples of round X."""
+    rng = random.Random(SEED + 1)
+    facts = load("facts.csv")
+    by_world = {"Latin": {}, "Breaking": {}}
+    for f in facts:
+        if not f["task_id"].startswith("X2"):
+            continue
+        m = re.search(r"frame ([LB])\d{3}", f["notes"])
+        if not m:
+            continue
+        world = "Latin" if m.group(1) == "L" else "Breaking"
+        by_world[world].setdefault(f["unit"], []).append(f)
+
+    def values(world, unit):
+        return [float(f["value"]) for f in by_world[world].get(unit, []) if f["evidence_type"] != "not_found" and f["value"]]
+
+    def found_share(world, unit):
+        rows = by_world[world].get(unit, [])
+        return sum(1 for f in rows if f["evidence_type"] != "not_found"), len(rows)
+
+    print("## Round X: random samples (30 + 30 events, research/frames/)")
+    la, br = values("Latin", IG), values("Breaking", IG)
+    print("| Measure | Latin | Breaking | Test |")
+    print("|---|---|---|---|")
+    l_lo, l_hi = boot_ci(rng, la)
+    b_lo, b_hi = boot_ci(rng, br)
+    print(f"| Instagram followers, median (90% CI) | {fmt(statistics.median(la))} ({fmt(l_lo)}-{fmt(b_hi if False else l_hi)}), n = {len(la)} of 30 | "
+          f"{fmt(statistics.median(br))} ({fmt(b_lo)}-{fmt(b_hi)}), n = {len(br)} of 30 | "
+          f"P(breaking > Latin) = {superiority(la, br):.2f}; p = {perm_p(rng, la, br):.3f} |")
+    for unit, label in (("EUR full pass, main event", "Full pass EUR"), ("EUR spectator ticket, main event", "Spectator or party ticket EUR"),
+                        ("EUR competitor entry fee", "Competitor entry fee EUR"), ("event days (stated)", "Event days")):
+        cells = []
+        for w in ("Latin", "Breaking"):
+            v = values(w, unit)
+            cells.append(f"median {fmt(statistics.median(v))}, range {fmt(min(v))}-{fmt(max(v))}, n = {len(v)}" if v else "none found")
+        print(f"| {label} | {cells[0]} | {cells[1]} | |")
+    for unit, label in (("competition or battle section (yes/no)", "Has a competition or battle section"),
+                        ("workshops offered (yes/no)", "Offers workshops")):
+        cells = []
+        for w in ("Latin", "Breaking"):
+            v = values(w, unit)
+            cells.append(f"{int(sum(v))} of {len(v)} read" if v else "none read")
+        print(f"| {label} | {cells[0]} | {cells[1]} | |")
+    for unit, label in ((IG, "Event has an Instagram account found"), ("participants stated (dancers)", "Participants stated"),
+                        ("spectators stated", "Spectators stated")):
+        cells = [f"{found_share(w, unit)[0]} of {found_share(w, unit)[1]}" for w in ("Latin", "Breaking")]
+        print(f"| {label} | {cells[0]} | {cells[1]} | |")
+    artists = {"Latin": [], "Breaking": []}
+    for f in facts:
+        if f["task_id"].startswith("X3") and f["unit"] == IG and f["evidence_type"] != "not_found" and f["value"]:
+            artists["Latin" if f["disc_id"].startswith("CAR-") else "Breaking"].append(float(f["value"]))
+    if artists["Latin"] and artists["Breaking"]:
+        a, b = artists["Latin"], artists["Breaking"]
+        print(f"| Line-up artists, Instagram followers, median | {fmt(statistics.median(a))}, n = {len(a)} | "
+              f"{fmt(statistics.median(b))}, n = {len(b)} | P(breaking > Latin) = {superiority(a, b):.2f}; p = {perm_p(rng, a, b):.3f} |")
+        print(f"| Line-up artist / event account, median ratio | {statistics.median(a) / statistics.median(la):.1f} | "
+              f"{statistics.median(b) / statistics.median(br):.1f} | |")
+
+
 if __name__ == "__main__":
     main()
+    print()
+    round_x()

@@ -6,8 +6,8 @@ Status: round V, 2026-10-21; reviewed by Claude the same day (all 123 cited ids 
 ## 1. The question and the answer in 5 lines
 
 1. Question: can Red Bull enter the Latin (salsa, bachata) dance market, with what format, and where?
-2. Two markets (H1, **partly supported, small samples**): breaking is clearly bigger in competition and Red Bull channel audiences; independent breaking events tend to have more followers than Latin events, but the difference is not statistically robust (section 9). Latin congresses publish paying dancers (1,000 to 5,000+ per event) at EUR 115-245 per pass; dancers' reach is equal in both worlds. Participation in classes rests on minimums of confidence L.
-3. Attention (H3, **a tendency, not proven**): the median top dancer has 5.4 times the followers of the median event account in Latin and 3.5 times in breaking; the intervals overlap and the comparison is biased by how dancers and events were selected (section 9).
+2. Two markets (H1, **supported in a revised form**, round X random samples, section 10): breaking is a few global spectacle brands (and Red Bull's media) on top of a long tail of small, one-day, cheap battles (median 1,641 Instagram followers, tickets about EUR 9, entry fees about EUR 10); Latin is a broad middle of multi-day congresses paid by the dancers (median 4,461 followers, 3 days, full pass median EUR 115). The typical Latin event is more followed than the typical breaking event (p = 0.02); only at the very top is breaking bigger.
+3. Attention (H3, **a tendency, not proven**): line-up artists have more followers than their events in both worlds (median ratio 13 in Latin, 8 in breaking); the samples are small and the resolved artists are the better known ones (sections 9-10).
 4. Entry (H2, **plausible, not proven**): Red Bull runs participation activations (dance zones, fitness zones, sampling), and no Red Bull presence at a Latin congress was found in 9 countries (all confidence L). Who else sponsors congresses is **pending** (V1). Best fit: product presence at the largest congresses, not a new competition.
 5. Where (H4): Paris, Barcelona, Madrid (5 of 6 criteria), then Milan; Paris is the most robust (top also without country-level data). Red Bull office locations were added in the review (confidence L).
 
@@ -165,7 +165,7 @@ Numbers from `python scripts/robustness.py` (seeded bootstrap, 10,000 resamples;
 | Red Bull's breaking media (BC One, Red Bull Dance) dwarf every Latin channel | High | 10-170x, many sources |
 | Competitions are small in both worlds | Medium | 6 national finals counted |
 | Latin congresses sell participation at EUR 115-245 per person | Medium | 8 prices, organiser pages |
-| Independent breaking events are more followed than Latin events | Low | p = 0.17, n = 15 vs 17 |
+| Independent breaking events are more followed than Latin events | Rejected for typical events (round X, p = 0.02 the other way); true only for flagships | random samples of 30 + 30 |
 | Latin attention sits with dancers more than in breaking | Low | overlapping intervals, selection bias |
 | Same order of money per flagship event | Low | two examples, computed |
 | Red Bull is absent from Latin congresses | Medium-low | not found in 9 countries; partner pages rarely published |
@@ -182,3 +182,30 @@ Numbers from `python scripts/robustness.py` (seeded bootstrap, 10,000 resamples;
 - H1 (audience) is confirmed only if the follower difference between random samples of 30 + 30 events is significant (two-sided p < 0.05).
 - H3 weakens if, with dancers drawn from the line-ups of randomly sampled events, the dancer / event ratio is the same in both worlds.
 - H2 weakens if drinks or energy brands already sponsor most large congresses, or if organisers say a drinks partner is not wanted.
+
+## 10. Round X: random samples and the tests of section 9 (review of 2026-10-21)
+
+**Sampling.** Frames of events in Europe from 2026-11-01 to 2027-10-31 (research/frames/): Latin from goandance.com, all salsa and bachata listings read page by page (222 events, 188 eligible); breaking from and8.dance (71, 51 eligible; and8 is a battle registry, not the full European calendar). 30 events drawn per world with scripts/draw_sample.py (seed 20261021); frames not edited after the draw. Numbers from `python scripts/robustness.py` (section "Round X").
+
+| Measure | Latin (30 random events) | Breaking (30 random events) | Test |
+|---|---|---|---|
+| Instagram followers per event, median (90% CI) | 4,461 (3,527-7,528), n = 17 | 1,641 (420-3,017), n = 23 | P(breaking > Latin) = 0.26; p = 0.02 |
+| Same, events without an account counted as 0 | 2,455 (n = 29) | 1,257 (n = 26) | direction unchanged |
+| Event days, median | 3 (range 1-7) | 1 (range 1-6) | |
+| Price per person | full pass: median EUR 115 (45-179), n = 23; party-only ticket EUR 59-89, n = 4 | no full pass found; spectator ticket median EUR 8.50 (0-14), n = 6; entry fee median EUR 10 (0-25), n = 5 | |
+| Competition or battle section | 14 of 21 read | 28 of 28 read (battles by definition of the frame) | |
+| Workshops | 22 of 23 read | 5 of 6 read | |
+| Stated participants / spectators | 1 / 0 | 0 / 0 | sizes are almost never published |
+| Line-up artists, Instagram followers, median | 59,000, n = 12 | 13,000, n = 8 | p = 0.20 |
+| Frame size (listings, next 12 months, Europe) | 188 eligible | 51 eligible | different platforms |
+
+**The tests written before the data (section 9)**
+- *H1, audience side ("confirmed only if random samples differ significantly")*: they differ significantly, **in the opposite direction**: the typical Latin event is more followed than the typical breaking event. Breaking's audience advantage exists only at the top (global touring brands, Red Bull media). **Rejected for typical events; holds for flagships.**
+- *H1, participation side ("weakens if breaking shows paid participation close to Latin")*: it does not: breaking events are mostly one day, with tickets around EUR 9 and entry fees around EUR 10; Latin events last 3 days and sell passes around EUR 115. But breaking events are participatory too (every sampled event is a battle where dancers compete, most with workshops). **Supported in a revised form: both worlds are participatory at the base; Latin monetises participation, breaking monetises attention at the top.**
+- *Counter-evidence for Latin*: 14 of 21 Latin events read have a competition section, and 5 of 20 flagship congresses sell show or party-only tickets (EUR 15-65, round X4). Latin is not purely social.
+- *H3 ("weakens if line-up artists show the same ratio in both worlds")*: ratios 13 (Latin) vs 8 (breaking): same direction as H3, but 12 + 8 artists and the better known ones resolved: **not proven**.
+- *H2 (sponsors)*: partners sections were not readable for the 55 new events (JavaScript pages): **untested**; only talks with organisers can settle it.
+
+**Remaining biases.** The two frames come from different platforms (a ticket marketplace for Latin, a battle registry for breaking): goandance lists mainly paid multi-day events, and8 also small jams. A fair reading is "the typical listed event" in each world. 12 of 29 Latin and 3 of 26 breaking sampled events have no Instagram account found; counting them as 0 does not change the direction. BIG Milan full pass: EUR 245 (round W) vs EUR 170 (round X re-read), both kept.
+
+**What this changes for Red Bull.** The Latin market has a broad, followed middle: many multi-day events where paying adults dance for 3 days and nights. Breaking's middle is thin: small one-day battles, with the audience concentrated on a few global brands, one of them Red Bull's own. That strengthens H2 as a format (product presence across many mid-size congresses) and weakens any idea of a single big Latin "show" event.
