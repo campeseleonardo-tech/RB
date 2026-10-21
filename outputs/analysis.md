@@ -283,3 +283,13 @@ Reading: Latin's large events are many and made of paying participants; breaking
 **Hyrox (Z5):** 2025, worldwide: 89 races, 779,073 finishers, about 8,750 per race; London ExCeL over 34,000. The deck's "about 2,700 per race" (2023) is replaced. European totals are not published.
 
 **Drinks brands (Z4):** none recorded (sites were not opened). Still a question for the organiser talks.
+
+**Point figures used in the deck (v16, 2026-10-21), so that each number on a slide can be traced:**
+- Latin events per year: about 600 = central value between the 450 counted (next 12 months, 3 calendars) and the overlap estimates (330-760, section 11).
+- Breaking events per year: about 330 = 210 counted on and8.dance / 0.64 (share of the 11 official-page events that and8 lists, section 12); a minimum, since that check covered mostly flagships.
+- Hyrox: 61 European races counted in the last 12 months (census, past 0-12 months).
+- Latin large events: 10 with 1,000+ dancers, about 25,000 dancers in total (central values of research/sizes/large_events.csv); average of the 10 largest about 2,400.
+- Ticket money per flagship (computed): Latin 2,000 x EUR 150 = 300,000; breaking 10,000 x EUR 35 = 350,000; Hyrox 8,750 x EUR 75 (rundida median) = 656,000.
+- Dancer-nights (computed): pilot 2,000 x 3 = 6,000; 10 largest 25,000 x 3 = 75,000; circuit 600 x 300 (assumed typical size) = 180,000 entries a year.
+- Revenue per can: Red Bull 2025, EUR 12.2bn / 13.97bn cans (press) = about EUR 0.87.
+- Country shares: census, Latin next 12 months; breaking and Hyrox past 0-12 months (scripts/census_stats.py and merged_events.csv).
