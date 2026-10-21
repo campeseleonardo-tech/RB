@@ -34,6 +34,7 @@ The research questions RQ1-RQ5 (participation, competitions, events, audience, b
 - **Parked:** scan and benchmark cities, Wikipedia views, Red Bull finances, funding/regulation/income topics, city-level platform counts, further national championship counts (competitions turned out small in both worlds).
 
 ## 5. Method rules
+0. Red Bull's own events and accounts are never the comparator for Latin: compare independent events with independent events.
 1. Compare like with like: a value is only compared with values measured the same way; say whether a number counts dancers or spectators.
 2. Every number with a source and a date; ranges and confidence for estimates; `not_found` is a valid answer when the search is documented.
 3. Public sources only. Organisations and **public professional figures** (professional dancers, instructors, athletes with public professional profiles): name, follower counts and public role only. No private individuals, no contact details, no personal data beyond that.
@@ -83,6 +84,7 @@ Reading after round U: H1 supported (participation and reach comparable or large
 1. Done 2026-10-21: round U run and reviewed (8 duplicate athletes merged; summary sections 7-8 added).
 2. Leonardo, in research/manual_input.xlsx: Salzburg schools and estimates (SBG-S, SBG-X); Instagram follower counts where the model is blocked (IG rows); 2-3 conversations with Red Bull contacts (RB-Q rows).
 3. Done 2026-10-21: round V run (analysis in outputs/analysis.md and outputs/one_page.md; V1 and V3 not run: no web access in that session). Review by Claude: all 123 cited ids checked; V2 Red Bull offices added from search snippets (O00109-O00117, L); H4 ranking updated: Paris, Barcelona, Madrid (5 of 6), Milan (4); Paris the most robust.
-3b. Open: V1 (sponsors of 15 congresses) and V3 (Red Bull audience statements) in a session with web access or by hand; confirm the office rows on official pages.
+3b. Leonardo's review of one_page.md (2026-10-21): comparing Red Bull Dance (a Red Bull media brand) with the largest Latin event account is not fair. The comparison must be between the independent EVENT MARKETS of the two worlds (participation, spectators, prices, social following), Red Bull's own events and accounts excluded. Round W (project/prompts/prompt_round_w.md, local agent with web access, low token budget): 20 + 20 largest independent European events, size and money, sponsors (replaces V1), social following, calendar size per world, confirmation of the office rows, Red Bull audience statements (replaces V3).
+3c. After round W: Claude reviews, updates outputs/analysis.md (H1 events block) and rewrites outputs/one_page.md with the event-market comparison.
 4. Claude reviews round V; then Claude + Leonardo: slides and the application text.
 5. Later: clean duplicated documents and data (one file per purpose); decide whether the viewer is still needed.
