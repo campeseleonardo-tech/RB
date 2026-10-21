@@ -41,7 +41,7 @@ Proposal that follows: **one pilot activation at one congress**, agreed with an 
 - data/*.csv: the evidence (931 facts, 147 events, 125 organisations, 75 athletes, 77 relations, 411 sources, 114 places after the clean-up). research/data_summary.md: the evidence ordered by research question (generated).
 - outputs/analysis.md (full analysis, every number with its id) and outputs/one_page.md (the one-page summary for Red Bull).
 - research/manual_input.ods: the only file Leonardo fills by hand (Salzburg rows started: Salsa Studio, Latino Mio, Salsa Club Salzburg).
-- research/logs/: logs of rounds T, U, V, W (and the R-round ladder log).
+- research/logs/: logs of rounds T, U, V, W, X (and the R-round ladder log). research/frames/: round X sampling frames (goandance Latin 222 rows, and8 breaking 71 rows) and the two random samples of 30.
 - Folder map and commands: README.md.
 
 ## 7. Open items
@@ -68,3 +68,4 @@ External critique: missing research, small samples, follower-only metrics, possi
 - 2026-10-19: broad Dance Scene Atlas (discipline x city map, sections A-E, 148 places, 30 disciplines); first research run (49 result files); CSV data model; local viewer.
 - 2026-10-20: correction pass; analysis of the folder: 73% of facts were `not_found`, city-level data not obtainable from desk research; focus Latin vs breaking in 15 cities; research questions RQ1-RQ5; round R.
 - 2026-10-21: round T (national championships, events, pilot schools); project redefined as the two-markets thesis with hypotheses H1-H4; round U (Red Bull precedents, congress market, social reach); round V (analysis and one page; V2 offices added in review); Leonardo's critique: compare independent event markets, not Red Bull Dance with a congress; round W (20 + 20 independent events); clean-up of data and documents (this file, README, data schema v2; archive/ for everything superseded; viewer archived).
+- 2026-10-21: round X executed (frames, random samples of 30 + 30 events, symmetric line-up artists, counter-evidence on the 40 flagship events; data only, tests of outputs/analysis.md section 9 not yet run). Known limits: breaking frame = and8 registry only; line-up artists resolved mostly for the better known ones; no partner sections read for the 60 sampled events; X5 (five more Latin cities) not done.

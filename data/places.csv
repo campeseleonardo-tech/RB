@@ -113,3 +113,9 @@ CEQ,city,Cannes,FR,europe,scan,city,,,Host city of an event in the W1 comparison
 MAN,city,Manchester,UK,europe,scan,city,,,Host city of an event in the W1 comparison sets (task W1),Coordinates not sourced.
 EIN,city,Eindhoven,NL,europe,scan,city,,,Host city of an event in the W1 comparison sets (task W1),Coordinates not sourced.
 LU,country,Luxembourg,LU,europe,country,country,,,Host country of a Latin festival in the W1 set (task W1),
+SE,country,Sweden,SE,europe,country,,,,country of a round X sampled event,added in round X
+EE,country,Estonia,EE,europe,country,,,,country of a round X sampled event,added in round X
+GR,country,Greece,GR,europe,country,,,,country of a round X sampled event,added in round X
+RU,country,Russia,RU,europe,country,,,,country of a round X sampled event,added in round X
+LV,country,Latvia,LV,europe,country,,,,country of a round X sampled event,added in round X
+SI,country,Slovenia,SI,europe,country,,,,country of a round X sampled event,added in round X

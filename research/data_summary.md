@@ -16,7 +16,7 @@ Legend: a value = a non-not_found record (found, stated_by_organiser, or inferre
 | RQ3 | Largest event identified | city | 8/15 (nf 7) | 3/15 (nf 12) | 0/15 (nf 15) |
 | RQ3 | Full pass price, largest event | city | 0/15 (nf 9) | 0/15 (nf 15) | 0/15 (nf 15) |
 | RQ3 | Countries of participants, largest event | city | 0/15 (nf 9) | 1/15 (nf 14) | 0/15 (nf 15) |
-| RQ4 | Spectators stated | city | 1/15 | 0/15 | 0/15 |
+| RQ4 | Spectators stated | city | 1/15 (nf 1) | 0/15 (nf 6) | 0/15 (nf 1) |
 | RQ5 | Red Bull dance events 2024-2026 | city | 15/15 | 0/15 (nf 15) | 0/15 (nf 15) |
 
 Dropped as not measurable (rows kept as not_found): competitions held in the city (12 months) and events listed on a platform per city (12 months).
@@ -89,6 +89,7 @@ Qualification links (relations.csv `qualifies_for`):
 
 | Event | Place | Date | Discipline | Size | Evidence | Red Bull |
 |---|---|---|---|---|---|---|
+| BCN Sensual Family - The Weekend 2027 | Lloret de Mar | 2027-03-09 | CAR-BCH | 2,000 participants | stated_by_organiser | not_checked |
 | SoulDance Bachata & Salsa Festival Vol.7 | Lloret de Mar | 2027-02-18 | CAR-BCH | 1,000 participants | stated_by_organiser | not_checked |
 | Campeonato de Espana de Bailes Caribenos 2026 | Spain | 2026-07-04 | CAR-BCH | 123 participants | found | not_found |
 | Amsterdam International Salsa Festival 2025 | Amsterdam | 2025-02-06 | CAR-SAL | 2,500 participants | stated_by_organiser | not_found |
@@ -149,8 +150,8 @@ Instagram followers as shown on public profile pages (abbreviated counts such as
 
 | World | Dancers | Total followers | Median | Largest |
 |---|---|---|---|---|
-| Latin | 30 | 4,842,000 | 81,000 | Ataca y La Alemana 900,000, Daniel y Desiree 734,000, Kike y Nahir 436,000 |
-| Breaking | 30 | 4,087,700 | 105,000 | Neguin 795,000, Terra 340,000, Lil Zoo 244,000 |
+| Latin | 42 | 6,700,281 | 77,000 | Janis & Zoe 1,000,000, Ataca y La Alemana 900,000, Daniel y Desiree 734,000 |
+| Breaking | 38 | 4,423,125 | 87,000 | Neguin 795,000, Terra 340,000, Lil Zoo 244,000 |
 
 **Event and competition accounts:**
 
@@ -196,4 +197,4 @@ Red Bull participation activations found (U1; no precedent at a Latin congress w
 
 ## 9. Rows on file not used above
 
-69 usable rows in scope use other units (older rounds: Vienna/Salzburg studio rental prices, city-level counts of earlier passes, sponsor and edition rows of round W). They stay in data/ because outputs/analysis.md cites them or they are national reference figures; they are not comparable across cities.
+236 usable rows in scope use other units (older rounds: Vienna/Salzburg studio rental prices, city-level counts of earlier passes, sponsor and edition rows of round W). They stay in data/ because outputs/analysis.md cites them or they are national reference figures; they are not comparable across cities.
