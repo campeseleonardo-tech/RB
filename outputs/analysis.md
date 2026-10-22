@@ -309,3 +309,21 @@ Data: research/prices/latin_events_detail.csv, research/artists/ (lineups.csv, n
 **Cities, fixes (AB part A).** Brussels-Capital Region added (1,255,834; use it instead of the municipality); Prague population added from the Czech Statistical Office (age share missing); London air passengers (177.6M, UK CAA 2024) and nights (153.7M, ONS + VisitBritain) added as documented exceptions; Red Bull offices: Prague, Athens (Marousi), Budapest, Bucharest yes, Brussels no (market served from Menen); Red Bull dance events 2024-2026 for all 24 cities (London 3; most cities 0-1).
 
 **Cost benchmarks (AA3, research/economics/cost_benchmarks.csv, 76 rows).** Usable as model inputs: ticketing fees (Eventbrite, 9 countries), card payment fees (Stripe, PayPal, Mollie, SumUp), music rights (GEMA EUR 152 per night for about 500 m2 and 500-1,500 people; AKM minimum EUR 54), sound and light (Germany: EUR 545 per day up to 400 people, EUR 985 up to 1,000), parquet dance floor (EUR 540 per day for 36 m2, about EUR 15 per m2), insurance (UK table, about EUR 80-1,000 per event by attendance), photographer (EUR 620-1,450 per day), wristbands (about EUR 50 per 1,000), flights (Ryanair average fare EUR 51, without extras), hotel room-block commission (Kempinski 12%). Weak or wrong: VAT (only standard rates; reduced rates for cultural events exist in several countries, e.g. AT 13%, DE 7%, IT 10%, FR 5.5%, NL 9%, and must be checked per case); venues (only two small halls in Graz, about 240 people); artist fees (private lesson rates, not congress fees: not usable); first aid (none); the Seattle hotel row (US, dropped from the model).
+
+## 15. Congress model and city rankings (2026-10-22)
+**Congress model: outputs/congress_model.xlsx** (built by `python scripts/build_congress_model.py`, formulas checked against the same model in Python after recalculation in LibreOffice). Sheets: README, Inputs (colour-coded: public source, market data, assumption, to fill), Results, Model, Sensitivity, Country, Market, Sources. No Red Bull sheet (Leonardo's decision: not relevant until Red Bull's role at an event is known). With the default inputs (Austria, standard VAT, listed full pass EUR 110 with 10% average discount, party pass EUR 65, placeholders for artist fees EUR 800, hall rent and hotel price):
+
+| | 300 dancers | 800 dancers | 2,000 dancers |
+|---|---|---|---|
+| Revenue | EUR 24,163 | EUR 66,434 | EUR 169,085 |
+| Costs | EUR 35,325 | EUR 70,774 | EUR 140,645 |
+| Result | EUR -11,162 | EUR -4,340 | EUR 28,440 |
+| Break-even dancers (same set-up) | 462 | 863 | 1,588 |
+| Break-even full pass (listed) | EUR 186 | EUR 121 | EUR 81 |
+
+Reading: with these inputs a congress pays off only from roughly 900-1,000 dancers, or with a higher pass in a smaller format. The result moves most with the number of dancers and the pass price (20% swing: about EUR 22,000 and 17,000 in the medium scenario); among costs, artist fees, hall rent and sound come first. All three are placeholders or single benchmarks: the model is as good as the offers that replace them.
+
+**City rankings: outputs/city_ranking.md** (`python scripts/city_ranking.py`; data research/cities/). 24 cities, 12 indicators, two views, 2,000 random block weightings.
+- *Red Bull entry* (Latin scene, Red Bull on the ground, reach): Paris 1st (top 3 under 100% of weightings), London 2nd (88%), Amsterdam 3rd (79%), then Barcelona (strongest Latin scene, 50 events, but no Red Bull office in the city), Berlin, Madrid, Vienna. Salzburg 21st. Robust: the top 3 stay the same when any one indicator is removed.
+- *New congress* (demand, access, room in the market, cost): no clear winner; Prague, Madrid, London, Paris, Budapest and Warsaw are within 0.02 points and each is in the top 3 under only 33-49% of weightings. Cheaper, less crowded capitals (Prague, Budapest, Warsaw) rank high because of low price levels and few large congresses nearby. Salzburg is last. Read as a short list, not a ranking.
+- Limits: price level is national; tourism nights are regional (London: UK sources); OpenStreetMap counts all dance schools; Prague's age share is missing (counted as the median).
