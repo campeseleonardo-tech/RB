@@ -94,6 +94,13 @@ Web deck "Two Dance Markets", rebuilt 2026-10-21 as 10 slides in English (cover;
 - Dropped after the 5 candidate sources: C4 hotel price (no free current 18-city table), C6 Latin schools (go&dance city pages exist for 12/24 only), C9 Red Bull dance events (events.csv covers 16 cities).
 - Limits: C1/C2 definitions differ for London (Greater London), Brussels/Athens (municipality), Paris (commune); C5 and C8 are region/country values, written in notes. Log: research/logs/AA2_log.md.
 
+## 7i. Round AB results (2026-10-22)
+- Part A: Brussels-Capital Region added as the row to use (1,255,834; 31.96%); Prague population 1,409,528 (CSU), age share not found; London C3 177,626,648 (CAA) and C5 153,726,000 (ONS + VisitBritain); C10 offices for Prague, Athens, Budapest, Bucharest = 1, Brussels = 0; C9 for all 24 cities (max London 3, 1 for 11 cities, 0 for 8).
+- Part B1: 104 events revisited (86 read, 18 blocked). Prices 91/149 in scope (was 84), known tiers 21, line-ups 61 events (was 58), 49 events still have neither. New line-ups: K00766, K00714, K00745, K00683, K01479 (750 artist rows, 536 distinct).
+- Part B2: top 60 artists; 26 have a public Instagram follower count; base_country filled for 51 of 60. 34 remain unverified (private, not found, or login wall).
+- Part C: research/economics/cost_benchmarks.csv, 76 rows, K1-K14 all present; K4/K5/K9/K10/K14 are thin (one or two countries), venue/insurance/artist fees remain the weakest items.
+- Limits: part B1 official sites rarely publish prices; several subagent CSV patches were malformed and were not merged, only values verified in the logs were applied. Logs: research/logs/AB_log.md, AA3_log.md.
+
 ## 8. Next steps (2026-10-21, after round X)
 0. Round Y executed (data + log); next: Claude analyses the census (merged_events.csv, overlaps, snapshots, Hyrox) and updates the deck.
 1. Leonardo, 1-2 hours (optional now that round Y crosses sources): **coverage check of the two platforms in Austria** (and Salzburg): list every Latin congress/festival and every breaking battle he knows in Austria for the next 12 months, then mark which are on goandance and on and8.dance. The share listed tells how representative the two platforms are (answer to the main critique). Also the Salzburg rows (SBG-S, SBG-X) in research/manual_input.ods.
